@@ -1,0 +1,1625 @@
+{
+  "pages": [
+      {
+          "title": "Vítejte ve druhém modulu",
+          "icon": "video",
+          "contentSections": [
+            {
+              "type": "video",
+              "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M2_1_8e100a0f68.mp4"
+            },
+            {
+              "type": "collapse",
+              "content": "Vítáme vás v dalším modulu. Tentokrát se budeme věnovat tomu, jak naše **myšlení ovlivňuje OCD.** \n \n Možná to znáte. Odejdete z bytu… A pak vás přepadne **pochybnost**. Zavřel jsem opravdu dveře? Vypnul jsem sporák? A najednou jste zpátky v bytě. A začíná to znovu. \n \n Vaše mysl je **zahlcená**. Hledá **jistotu**. Jenže každá kontrola a každé ujištění obavy dále posilují. Začínáte si totiž méně a méně věřit. \n \n V tomto modulu budeme zkoumat, jak přemýšlíte. Ukážeme vám, jak **myšlenky ovlivňují prožívání** a jaký to má dopad na OCD. \n \n Seznámíte se také s **expozicemi**. To je metoda, kde se cíleně vystavíme nepříjemným situacím. Expozice jsou základním stavebním kamenem terapie OCD a budou vás doprovázet po zbytek programu. \n \n Nebudete v tom ale sami. V příbězích, které už znáte z prvního modulu, vám jejich hrdinové ukážou, jak na to. \n \n Je bezvadné, že se do toho pouštíte. Hodně štěstí.",
+              "title": "Radši si přečtu"
+            },
+            {
+              "type": "list",
+              "title": "**V tomto modulu se dozvíte:**",
+              "color": "#27637C",
+              "items": [
+                "Jakou roli hraje myšlení u OCD.",
+                "Co jsou expozice a k čemu slouží.",
+                "Jak vypadá hierarchie expozic a jak si ji sestavit."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Dotazník o příznacích OCD",
+          "icon": "check",
+          "isEvaluable": true,
+          "finalScreen": {
+            "buttonLabel": "Upravit odpovědi",
+            "contentSections": [
+              {
+                "type": "image",
+                "isExpandable": true,
+                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Mountain_dc166aa05f.svg",
+                "width": "195px",
+                "alt": "Obrázek hory s vlajkou na vrcholu",
+                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Mountain_dc166aa05f.svg",
+                "widthMobile": "195px",
+                "align": "center"
+              },
+              {
+                "type": "markdown",
+                "content": ":::text--center \n #### Váš terapeut to ocení! \n \n Pro vašeho terapeuta je důležité vědět, jak na tom aktuálně jste. \n :::"
+              }
+            ]
+          },
+          "contentSections": [
+            {
+              "type": "oci12Survey"
+            }
+          ]
+        },
+        {
+          "title": "Dotazník o příznacích deprese",
+          "icon": "check",
+          "isEvaluable": true,
+          "finalScreen": {
+            "buttonLabel": "Upravit odpovědi",
+            "contentSections": [
+              {
+                "type": "image",
+                "isExpandable": true,
+                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Hands_1de1a67dae.svg",
+                "width": "220px",
+                "alt": "Dvě ruce natažené k sobě, symbolizující podporu, propojení a lidský kontakt",
+                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Hands_1de1a67dae.svg",
+                "widthMobile": "220px",
+                "align": "center"
+              },
+              {
+                "type": "markdown",
+                "content": ":::text--center \n #### Děkujeme za otevřenost. \n \n Vaše psychická pohoda je důležitá. Budeme ji průběžně sledovat. \n :::"
+              }
+            ]
+          },
+          "contentSections": [
+            {
+              "type": "phq9Survey"
+            }
+          ]
+        },
+        {
+          "title": "Zpráva pro terapeuta",
+          "icon": "exercise",
+          "isEvaluable": true,
+          "contentSections": [
+            {
+              "type": "image",
+              "isExpandable": true,
+              "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Zprava_pro_terapeuta_22d2000e96.svg",
+              "width": "100%",
+              "alt": "Ruka držící dopis v obálce",
+              "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Zprava_pro_terapeuta_mobile_e785e38a53.svg",
+              "widthMobile": "100%",
+              "align": "center"
+            },
+            { 
+              "type": "slider", 
+              "title": "**Jak vám mezi moduly šlo vyplňovat bludné kruhy?**", 
+              "min": 0, 
+              "max": 10,
+              "step": 1, 
+              "defaultValue": 0, 
+              "labelStart": "Moc mi to nešlo",
+              "labelEnd": "Šlo mi to výborně",
+              "description": "Zamyslete se, jak se vám dařilo v týdenní výzvě. Všímali jste si svých obsesí a kompulzí?",
+              "variant": "gradient",
+              "required": false
+            },
+            {
+              "type": "note",
+              "placeholder": "Co máte na srdci?",
+              "title": "**Terapeutovi můžete napsat o čemkoli. Jak jste se od posledně měli? Co vám udělalo radost?**",
+              "rows": 3,
+              "maxLength": 2000,
+              "lengthValidationMessage": "Maximální délka odpovědi je 2000 znaků.",
+              "required": false
+            }
+          ]
+        },
+        {
+          "title": "Jak myšlení ovlivňuje OCD",
+          "icon": "text",
+          "contentSections": [
+            {
+              "type": "image",
+              "isExpandable": true,
+              "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jak_mysleni_ovlivnuje_OCD_1efb3a5101.svg",
+              "width": "100%",
+              "alt": "Postava s rouškou přes obličej kolem které létají myšlenky o nákaze",
+              "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jak_mysleni_ovlivnuje_OCD_mobile_f55c5667e6.svg",
+              "widthMobile": "100%",
+              "align": "center"
+            },
+            {
+              "type": "markdown",
+              "content": "Naše myšlení má velký podíl na tom, jak se cítíme. To jsme si ukázali už minule na bludném kruhu OCD. **Obsedantní myšlenky** v něm hrají zásadní roli. Vyvolávají úzkost, napětí, znechucení nebo pocit viny, které se pak snažíme zmírnit kompulzemi. \n \n V tomto modulu se budeme věnovat myšlení trochu více do hloubky. Ukážeme si, jak s ním začít pracovat, abychom snížili jeho vliv na příznaky OCD."
+            }
+          ]
+        },
+        {
+          "title": "Bludný kruh OCD",
+          "icon": "video",
+          "contentSections": [
+            {
+              "type": "markdown",
+              "content": "Ve videu níže si připomeneme, co je to **bludný kruh OCD.**"
+            },
+            {
+              "type": "video",
+              "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M2_2_2a867e84b5.mp4"
+            },
+            {
+              "type": "collapse",
+              "content": "Pojďme si krátce připomenout, jak vypadá **bludný kruh OCD**. Hlavou se nám neustále prohání myšlenky. Mohou být pozitivní, neutrální a nebo negativní, třeba, že jste něco udělali špatně. \n \n **Negativní myšlenky** pak vyvolávají i **negativní emoce**. S nimi přichází **nutkání**. Kontrolovat, ujišťovat se, opakovat. Když nutkání poslechnete, možná se vám na chvíli udělá lépe. Ale **úleva rychle mizí**. A bludný kruh se znovu roztáčí. \n \n Můžeme si to ukázat na příkladu Petra, kterého znáte z příběhů. Když ráno odcházel do práce, ve výtahu ho napadlo: „Co když jsem nezamkl?“ Začal cítit úzkost a napětí. Radši se ke dveřím vrátil a zámek zkontroloval. Ulevilo se mu. V klidu došel až k autu, když v tom mu hlavou proběhlo: “Zkontroloval jsem to pořádně? Co když je zámek rozbitý? Měl bych na to radši ještě kouknout, aby nás nevykradli.” Napětí se vrátilo. A ještě silnější. \n \n Z minula už víme, že v bludném kruhu OCD hrají myšlenky velkou roli. Často bývají **automatické** a napadají nás, i když je třeba ani nechceme. Obzvlášť **vtíravým** a **nepříjemným** myšlenkám říkáme **obsese.** \n \n Když zmírňujeme nepříjemné pocity **kompulzemi**, většinou se nám na chvíli uleví. Je to však jen **přechodné**. Dříve nebo později nás obsese napadnou znovu. A jsme tam, kde jsme byli na začátku. Kruh se uzavírá a celé kolečko se opakuje.",
+              "title": "Radši si přečtu"
+            }
+          ]
+        },
+        {
+          "title": "Kognitivní omyly",
+          "icon": "audio",
+          "contentSections": [
+            {
+              "type": "markdown",
+              "content": "Myšlenky, které vedou k nepříjemnému prožívání, často obsahují tzv. **kognitivní omyly**. Co to je a jak ovlivňují OCD? To se dozvíte v audiostopě."
+            },
+            {
+              "type": "audio",
+              "audioSrc": "xx",
+              "title": "Kognitivní omyly",
+              "imageSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Kognitivni_omyly_c163329e2a.svg"
+            },
+            {
+              "type": "collapse",
+              "content": "**Kognitivní omyly** \n \n Naše mysl často vytváří **zkreslené představy o realitě**. Můžeme některé situace vidět moc černě, nebo si domýšlet věci, které nevíme s jistotou. Je to **běžná součást myšlení**, kterou děláme všichni. Třeba když uděláme malou chybu, ale nám to připadá jako obrovské selhání. \n \n U obsedantně-kompulzivní poruchy mohou být tato zkreslení **výrazná**. Mohou přehánět nebezpečí a nebo nám vnucovat pocit, že musíme mít všechno pod kontrolou. Ale realita bývá méně hrozivá. Jen je to pro nás přes zkreslující brýle těžké vidět. \n \n Petr to dobře zná. Nedávno jeho sousedům vyhořel byt. Začaly se mu v hlavě točit obsese: „Co když to byla moje vina? Nevytáhl jsem konvici ze zásuvky. Měl bych po odchodu z bytu shazovat pojistky.“ I když věděl, že je to **přehnané**, opakovaně ho napadala různá „Co když...“ Celé odpoledne ho svazovala úzkost a kontroloval, zda jsou doma všechny spotřebiče vypnuté. \n \n Zkreslené představy mají často základ v **kognitivních omylech**, neboli omylech v myšlení. Za tyto omyly nemůžeme. Napadají nás bez toho, abychom to chtěli. Nemůžeme si vybrat, jestli nás napadnou. \n \n Když si je ale **uvědomíme**, můžeme se rozhodnout, co s nimi dál **uděláme.**",
+              "title": "Radši si přečtu"
+            },
+            {
+              "type": "markdown",
+              "content": "**Časté druhy kognitivních omylů:**"
+            },
+            {
+              "type": "tool",
+              "tool": "interactiveCardModal",
+              "cardsPictureWidth": 75,
+              "cardsPictureHeight": 75,
+              "disabled": false,
+              "isSingleColumn": false,
+              "icon": "ArrowRight",
+              "buttonLabel": "Uložit",
+              "cards": [
+                {
+                  "id": "Catastrophization",
+                  "title": "Katastrofizace",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Katastrofizace_icon_268314b54c.svg",
+                  "contentCard": [
+                    {
+                      "type": "image",
+                      "isExpandable": true,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Katastrofizace_235fbbb12d.svg",
+                      "width": "100%",
+                      "alt": "Postava, která si myje ruce s nešťastným výrazem",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Katastrofizace_mobile_7d5ddf308d.svg",
+                      "widthMobile": "100%",
+                      "align": "center"
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "Představujeme si nejhorší možný scénář a věříme, že se určitě stane. Místo reálného posouzení situace automaticky očekáváme katastrofu."
+                    },
+                    {
+                      "type": "list",
+                      "title": "**Příklady katastrofizace:**",
+                      "color": "#27637C",
+                      "items": [
+                        "„Určitě se stane to nejhorší.“",
+                        "„Když nezkontroluju sporák, dům shoří a bude to moje vina.“",
+                        "„Co když jsem někoho srazil a ani jsem si toho nevšiml?“",
+                        "„Když si neumyju ruce dokonale, určitě onemocním a zemřu.“"
+                      ]
+                    },
+                    {
+                      "type": "decider",
+                      "items": [
+                        {
+                          "title": "Poznávám se v tom"
+                        },
+                        {
+                          "title": "Nepoznávám se v tom"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "Excessive Responsibility",
+                  "title": "Přehnaná odpovědnost",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Prehnana_odpovednost_icon_24e0ecf327.svg",
+                  "contentCard": [
+                    {
+                      "type": "image",
+                      "isExpandable": true,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Prehnana_odpovednost_db699ee672.svg",
+                      "width": "100%",
+                      "alt": "Postava řídící auto",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Prehnana_odpovednost_mboile_f759355ffa.svg",
+                      "widthMobile": "100%",
+                      "align": "center"
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "Připisujeme si nepřiměřeně velkou odpovědnost za předcházení škodám nebo negativním následkům. Ty ve skutečnosti bývají velmi nepravděpodobné nebo mimo naši kontrolu."
+                    },
+                    {
+                      "type": "list",
+                      "title": "**Příklady přehnané odpovědnosti:**",
+                      "color": "#27637C",
+                      "items": [
+                        "„Pokud si teď neumyji ruce, babička se nakazí koronavirem a kvůli mně zemře.“",
+                        "„Když to neudělám správně, někomu tím ublížím.“",
+                        "„Musím zkontrolovat zamčené dveře ještě jednou, jinak se do domu vloupají zloději a bude to moje vina.“ ",
+                        "„Nesmím myslet na autonehodu, protože moje myšlenka by mohla způsobit, že se manželovi na cestě domů něco stane.“ "
+                      ]
+                    },
+                    {
+                      "type": "decider",
+                      "items": [
+                        {
+                          "title": "Poznávám se v tom"
+                        },
+                        {
+                          "title": "Nepoznávám se v tom"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "Perfectionism",
+                  "title": "Perfekcionismus",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Perfekcionismus_icon_6fa5d38a62.svg",
+                  "contentCard": [
+                    {
+                      "type": "image",
+                      "isExpandable": true,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Perfekcionismus_c6e44e8be6.svg",
+                      "width": "100%",
+                      "alt": "Postava, která narovnává obrazy na stěně",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Perfekcionismus_mobile_04e1ce7d42.svg",
+                      "widthMobile": "100%",
+                      "align": "center"
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "Stanovujeme si nerealisticky vysokou laťku a očekáváme bezchybné výsledky ve všech oblastech života. Jakákoliv nedokonalost nebo chyba je vnímána jako úplné selhání a důkaz neschopnosti."
+                    },
+                    {
+                      "type": "list",
+                      "title": "**Příklady perfekcionismu:**",
+                      "color": "#27637C",
+                      "items": [
+                        "„Musím si být jistý na sto procent, jinak se od toho nehnu!“",
+                        "„Pokud neudržuji svůj pokoj dokonale čistý, znamená to, že jsem líný a nezodpovědný.“",
+                        "„Musím si umýt ruce přesně správným způsobem. Pokud udělám jedinou chybu v postupu, celé mytí je zbytečné a musím začít znovu.“",
+                        "„Když se mi nepodaří seřadit knihy na polici do perfektní rovné linie, ukáže se, že nemám kontrolu a selhávám.“"
+                      ]
+                    },
+                    {
+                      "type": "decider",
+                      "items": [
+                        {
+                          "title": "Poznávám se v tom"
+                        },
+                        {
+                          "title": "Nepoznávám se v tom"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "Magical Thinking",
+                  "title": "Magické myšlení",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Magicke_mysleni_icon_b11a422156.svg",
+                  "contentCard": [
+                    {
+                      "type": "image",
+                      "isExpandable": true,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Magicke_mysleni_106f357e5a.svg",
+                      "width": "100%",
+                      "alt": "Postava, otevírající dveře a u toho počítající čísla",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Magicke_mysleni_mobile_c4cb02df8b.svg",
+                      "widthMobile": "100%",
+                      "align": "center"
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "Věříme, že naše myšlenky, slova nebo rituály mají magickou moc ovlivňovat události v reálném světě. Předpokládáme, že mezi našimi vnitřními zážitky a vnějšími událostmi existuje souvislost, i když logicky žádná není."
+                    },
+                    {
+                      "type": "list",
+                      "title": "**Příklady magického myšlení:**",
+                      "color": "#27637C",
+                      "items": [
+                        "„Když teď nezaklepu na dřevo, někdo z rodiny umře.“",
+                        "„Musím se dotknout kliky přesně třikrát, jinak se dceři stane něco hrozného ve škole.“",
+                        "„Když si teď neodplivnu, babička dostane infarkt a bude to kvůli mně.“",
+                        "„Musím projít po chodník jen přes liché dlaždice, protože pokud šlápnu na sudé, ségra neudělá zkoušku.“"
+                      ]
+                    },
+                    {
+                      "type": "decider",
+                      "items": [
+                        {
+                          "title": "Poznávám se v tom"
+                        },
+                        {
+                          "title": "Nepoznávám se v tom"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "Tunel Vision",
+                  "title": "Tunelové vidění",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Tunelove_videni_icon_54adef9a65.svg",
+                  "contentCard": [
+                    {
+                      "type": "image",
+                      "isExpandable": true,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Tunelove_videni_a862ce4a4b.svg",
+                      "width": "100%",
+                      "alt": "Postava, jdoucí do práce s myšlenkou o nezamčeném zámku",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Tunelove_videni_mobile_7461b9dd9d.svg",
+                      "widthMobile": "100%",
+                      "align": "center"
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "Zaměřujeme se jenom na negativní aspekty situace a nevšímáme si pozitivních stránek nebo je zlehčujeme. Naše pozornost je jako tunel, který propouští pouze informace potvrzující naše obavy a úzkosti."
+                    },
+                    {
+                      "type": "list",
+                      "title": "**Příklady tunelového vidění:**",
+                      "color": "#27637C",
+                      "items": [
+                        "„Všímám si jen toho špatného.“",
+                        "„Soustředím se pouze na to, že jsem možná nezamkl dveře správně, ale nevšímám si, že jsem je kontroloval už desetkrát.“",
+                        "„Vidím skvrnu na košili a připadám si úplně zašpiněný, přestože zbytek oblečení je čistý.“",
+                        "„Všímám si na sobě a na druhých jen toho, co je chybné, nebo co se nedaří. Co je v pořádku, to je samozřejmé a nestojí za povšimnutí.“"
+                      ]
+                    },
+                    {
+                      "type": "decider",
+                      "items": [
+                        {
+                          "title": "Poznávám se v tom"
+                        },
+                        {
+                          "title": "Nepoznávám se v tom"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "Taking Things Personally",
+                  "title": "Braní si věcí osobně",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Icon_Agresivni_temata_20bff9e624.svg",
+                  "contentCard": [
+                    {
+                      "type": "image",
+                      "isExpandable": true,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Brani_si_veci_osobne_7ad5494dbf.svg",
+                      "width": "100%",
+                      "alt": "Postava s rukou přes obličej a kapkou potu, od které odchází jiná postava",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Brani_si_veci_osobne_mobile_ed71a8b5d4.svg",
+                      "widthMobile": "100%",
+                      "align": "center"
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "Vidíme neutrální nebo náhodné události jako osobní útoky nebo důkazy našich nedostatků. Automaticky si myslíme, že negativní situace nebo myšlenky jsou přímým odrazem naší hodnoty nebo povahy."
+                    },
+                    {
+                      "type": "list",
+                      "title": "**Příklady braní si věcí osobně:**",
+                      "color": "#27637C",
+                      "items": [
+                        "„Jitka mě nepozdravila. Nemá mě ráda.“",
+                        "„Kolegům z vedlejšího oddělení se pokazila tiskárna. Určitě za to můžu..“",
+                        "„Kolemjdoucí paní přešla na druhou stranu chodníku. Udělala to kvůli tomu, že jsem odpudivý.“",
+                        "„Číšník se mi nedíval do očí, určitě se mě bojí.“"
+                      ]
+                    },
+                    {
+                      "type": "decider",
+                      "items": [
+                        {
+                          "title": "Poznávám se v tom"
+                        },
+                        {
+                          "title": "Nepoznávám se v tom"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "První část máte za hotovou!",
+          "icon": "text",
+          "contentSections": [
+            {
+              "type": "image",
+              "isExpandable": false,
+              "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Prvni_cast_mate_za_hotovou_c7a701be63.svg",
+              "width": "100%",
+              "alt": "Postava na začátku cesty s vlajkou s nápisem start",
+              "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Prvni_cast_mate_za_hotovou_mobile_c4eb2b9c28.svg",
+              "widthMobile": "100%",
+              "align": "center",
+              "unoptimized": true
+            },
+            {
+              "type": "list",
+              "title": "**Co jste dokázali:**",
+              "color": "#27637C",
+              "items": [
+                "Zhodnotili jste, jak vám šla týdenní výzva a napsali jste vzkaz terapeutovi.",
+                "Zopakovali jste si, jak vypadá bludný kruh OCD.",
+                "Dozvěděli jste se, co jsou to kognitivní omyly a jaké jsou jejich nejčastější druhy."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Metakognice",
+          "icon": "video",
+          "contentSections": [
+            {
+              "type": "markdown",
+              "content": "Někdy v nás mohou úzkost vyvolávat nejen myšlenky jako takové, ale také to, jak své myšlení hodnotíme. Říkáme tomu **metakognice**. Ve videu si blíže vysvětlíme, co to znamená."
+            },
+            {
+              "type": "video",
+              "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M2_3_f11b690f3d.mp4"
+            },
+            {
+              "type": "collapse",
+              "content": "Všechny nás někdy napadnou nepříjemné nebo strašidelné myšlenky. Co nás ale často děsí víc, je samotná **existence takových myšlenek**. „Jak mě to mohlo vůbec nepadnout?“ Říkáme si, že to o nás musí vypovídat něco hrozného. \n \n Ukážeme si to na příkladu. Petrovy obsese se často týkají strachu, že udělá chybu a způsobí vážné následky. „Co když jsem nevypnul sporák a vyhoří celý dům?“ Tím to ale nekončí. Začne si říkat: „Proč mě to vůbec napadá? To asi znamená, že chci, abychom vyhořeli. Jsem nebezpečný.“ Petr začne **hodnotit**, co o něm takové myšlenky **vypovídají**. Říká si: „Tohle by sis neměl myslet! Jsi hrozný člověk!“ \n \n Říkáme tomu **metakognice**, nebo také **myšlenky o myšlenkách**. Jsou to vlastně názory na to, co znamená naše přemýšlení. A právě ty často spouští největší úzkost. \n \n Metakognice hlavně **hodnotí**, jaké naše myšlenky jsou. Jsou dobré nebo špatné? Co o nás vypovídají? Jsou důležité? Nejsou náhodou nebezpečné? \n \n Někdy nám našeptávají, že když nás něco napadne, **musí to být pravda**. Nebo že se to kvůli tomu určitě stane. \n \n Na následující stránce se seznámíte se základními druhy metakognic.",
+              "title": "Radši si přečtu"
+            }
+          ]
+        },
+        {
+          "title": "Druhy metakognic",
+          "icon": "text",
+          "contentSections": [
+            {
+              "type": "markdown",
+              "content": "Metakogice můžeme rozdělit na **pozitivní** a **negativní**. Níže si přečtěte, jak se tyto druhy liší."
+            },
+            {
+              "type": "tool",
+              "tool": "interactiveCardModal",
+              "cardsPictureWidth": 75,
+              "cardsPictureHeight": 75,
+              "disabled": false,
+              "buttonLabel": "Uložit",
+              "isSingleColumn": true,
+              "icon": "ArrowRight",
+              "cards": [
+                {
+                  "id": "Negative metacognitions",
+                  "title": "Negativní metakognice",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Negativni_metakognice_icon_55f13bfed5.svg",
+                  "contentCard": [
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Negativni_metakognice_fd27a5c6d0.svg",
+                      "width": "100%",
+                      "alt": "Postava na pohovce s myšlenkou o automobilové nehodě",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Negativni_metakognice_mobile_74f0f87248.svg",
+                      "widthMobile": "100%",
+                      "align": "center",
+                      "unoptimized": true
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "Tyto myšlenky vedou k úzkosti, pochybnostem o sobě, pocitům viny nebo nutnosti se neustále kontrolovat. Často si kvůli nim myslíme, že jsme nebezpeční, špatní nebo že naše myšlenky mají moc nad realitou."
+                    },
+                    {
+                      "type": "list",
+                      "title": "**Příklady negativních metakognic:**",
+                      "color": "#27637C",
+                      "items": [
+                        "„Když mě napadne něco špatného, znamená to, že jsem nebezpečná.“",
+                        "„Pokud si nejsem jistý, znamená to, že selhávám a jsem k ničemu.“",
+                        "„Když si myslím, že jsem něco udělal, tak jsem to asi opravdu udělal.“",
+                        "„Když nemyslím na svou čistotu, tak to znamená, že jsem odporný.“"
+                      ]
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "**Ve skutečnosti ale platí:** \n \n - Myšlenky nejsou činy. \n \n - Mozek vytváří různé nápady, ale to neznamená, že jsou pravdivé. \n \n - To, co nás napadne, nevypovídá o naší povaze."
+                    }
+                  ]
+                },
+                {
+                  "id": "Positive metacognitions",
+                  "title": "Pozitivní metakognice",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Pozitivni_metakognice_icon_92e5c16251.svg",
+                  "contentCard": [
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Pozitivni_metakognice_342e14d5bf.svg",
+                      "width": "100%",
+                      "alt": "Postava čistící nábytek s myšlenkami o bakteriích a virech",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Pozitivni_metakognice_mobile_eeefd76411.svg",
+                      "widthMobile": "100%",
+                      "align": "center",
+                      "unoptimized": true
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "Tyto myšlenky se tváří jako užitečné. Přesvědčují nás, že si musíme určitých věcí všímat nebo je kontrolovat, abychom zabránili katastrofě. Ale ve skutečnosti nás drží v napětí a strachu. \n \n Kvůli těmto myšlenkám se soustředíme hlavně na hrozby. Pak si nevšímáme klidných a bezpečných částí života – i když jich je kolem nás spousta."
+                    },
+                    {
+                      "type": "list",
+                      "title": "**Příklady pozitivních metakognic:**",
+                      "color": "#27637C",
+                      "items": [
+                        "„Musím si říkat, že věci jsou znečištěné, jinak bych na to nedbal a nakazil bych sebe i druhé.“",
+                        "„Musím si v duchu přehrávat, co jsem udělala, jinak bych mohla zapomenout na něco důležitého.“"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Nejistota a potřeba kontroly",
+          "icon": "audio",
+          "contentSections": [
+            {
+              "type": "markdown",
+              "content": "Myšlení lidi s OCD ovlivňuje **nejistota** a z toho vyplývající **potřeba kontroly**. Poslechněte si rozhovor, který se věnuje tomu, jak to vypadá."
+            },
+            {
+              "type": "audio",
+              "audioSrc": "xx",
+              "title": "Nejistota a potřeba kontroly",
+              "imageSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Nejistota_a_potreba_kontroly_1ffccc8bdb.svg"
+            },
+            {
+              "type": "collapse",
+              "content": "**Moderátorka:** Dnes se budeme bavit o tom, jaký vliv mají nejistota a potřeba kontroly na myšlení člověka s obsedantně-kompulzivní poruchou. Je touha po jistotě něco specifického pro OCD? \n \n **Terapeut:** Není, ba naopak. Každý člověk chce mít pocit bezpečí a možnost řídit vlastní život. Když to ale přeroste v nutkání mít naprostou kontrolu, začne nás to svazovat. \n \n **Moderátorka:** A jakou to má souvislost s obsedantně-kompulzivní poruchou? \n \n **Terapeut:** OCD často pramení ze snahy zbavit se nejistoty. Mysl hledá záruky, že se nestane nic hrozného, že jsme neudělali nic špatně a že máme vše pod kontrolou. To vede k neustálému ověřování, přemýšlení a kontrolování. \n \n **Moderátorka:** A co se děje, když se tak urputně snažíme zbavit nejistoty? \n \n **Terapeut:** Čím více se snažíme nejistotu odstranit, tím více ji cítíme. V tom je právě ten problém. Ustavičné kontroly a analýzy nás vtahují do kola pochybností. V hlavě si říkáme, že musíme vědět, že se nic nestane, nebo že se musíme zbavit pochybností. Ale absolutní jistotu mít v životě prostě nemůžeme. \n \n **Moderátorka:** Napadá vás příklad toho, jak nás nejistota a potřeba kontroly mohou ovlivňovat v praxi? \n \n **Terapeut:** Určitě. Představte si, že odjíždíte na dovolenou. Chcete se vyvarovat tomu, že se stane něco špatného nebo že na něco zapomenete. Tak si sepíšete dlouhý seznam úkolů. Vypnout spotřebiče, zavřít okna, zamknout sklep, vypnout vodu... Celý seznam si odškrtáte. Ale někde v hloubi stále cítíte nejistotu. Co když jste na něco zapomněli? Nebo co když jste něco nezkontrolovali pořádně? \n \n **Moderátorka:** A co tedy můžeme dělat, aby jsme se cítili lépe? \n \n **Terapeut:** Skutečná úleva přichází, když se naučíme nejistotu přijmout. Postupně se proto učíme s nejistotou žít, bez potřeby věci stále kontrolovat. Zkontrolujeme jen nezbytné věci, například zda máme dost benzínu v autě, když se chystáme na chatu. Stoprocentní kontrolu mít nebudeme nikdy. A to je v pořádku.",
+              "title": "Radši si přečtu"
+            }
+          ]
+        },
+        {
+          "title": "Petr a jeho filtry myšlení",
+          "icon": "video",
+          "contentSections": [
+            {
+              "type": "markdown",
+              "content": "Ve videu se podívejte, jak filtry myšlení ovlivňují Petra z příběhů."
+            },
+            {
+              "type": "video",
+              "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/petr_a_jeho_filtry_mysleni_1_ed8cee7c24.mp4"
+            },
+            {
+              "type": "collapse",
+              "content": "**VYPRAVĚČ:** Petr se bojí, že by mohl udělat chybu, která bude mít katastrofické následky. Jeho nejistota ho nutí přehnaně kontrolovat. Když ráno odchází z bytu, často ho přepadají vtíravé myšlenky. \n \n **PETR:** Zamknul jsem byt? Myslím, že jo… ale co když si to pletu se včerejškem? \n \n **VYPRAVĚČ:** Pochybnosti mohou být běžné a přitom silné. Mnoho lidí s OCD zažívá podobné chvíle prakticky každý den. Ne klid, ale neustálé nutkání se ujišťovat. Petr se ujistil, že je zamknuto. Ale jen co vyšel z domu, obavy se vrátily. \n \n **PETR:** Zamknuté to je. Ale co když jsem nevypnul sporák? Co když se něco stane? Bude to moje vina... \n \n **VYPRAVĚČ:** Petr často cítí nadměrnou odpovědnost. Je přesvědčený, že když se něco stane, bude to jeho vina. I když pravděpodobnost, že se něco opravdu stane, je mizivá. Jeho myšlenky často zabarvují katastrofické scénáře. \n \n **PETR:** Měl jsem zkontrolovat i zásuvky. Pro jistotu... Co když vyhoříme? Bude to moje chyba… \n \n **VYPRAVĚČ:** Petrovi se hlavou prohání metakognice. To je to, co si myslí o vlastních myšlenkách. Někdy ho samotné myšlenky vystraší natolik, že jim přisuzuje příliš velkou moc. \n \n **PETR:** Proč mě to vůbec napadá? Co když jsou ty myšlenky nebezpečné? Teď se to určitě stane, protože jsem si to představoval. \n \n **ALENA:** Zase jsi se ráno vracel domů? \n \n **PETR:** Jo. Nedalo mi to. Bez toho bych na to pořád myslel. \n \n **VYPRAVĚČ:** Kontrola přináší úlevu. Ale jen krátkodobou. A pak začne vše nanovo. \n \n **PETR:** Zkusím to jinak. Nechci, aby mě dál ovládala nejistota. \n \n **VYPRAVĚČ:** První krok ke změně začíná pochopením toho, co se s námi děje. A do tohoto kroku jste se právě pustili.",
+              "title": "Radši si přečtu"
+            }
+          ]
+        },
+        {
+          "title": "Příběhy",
+          "icon": "Story",
+          "contentSections": [
+            {
+              "type": "markdown",
+              "content": "Podíváme se na **příklady našich hrdinů**, abychom si ukázali, jak myšlenkové pochody ovlivňují obsedantně kompulzivní příznaky."
+            },
+            {
+              "type": "noteBox",
+              "desktopImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lightbulb_Icon_5bba92e832.svg",
+              "mobileImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lightbulb_Icon_5bba92e832.svg",
+              "backgroundColor": "#EDF4F6",
+              "textColor": "#27637C",
+              "text": "**Nemusíte číst všechny příběhy.** Zkuste najít ten, ve kterém se nejvíce najdete. Můžete se na něj zaměřit i v dalších modulech a ostatní číst spíše pro zajímavost. Ale můžete je také vynechat.",
+              "desktopImageWidth": "84px",
+              "mobileImageWidth": "84px",
+              "isWrapping": true
+            },
+            {
+              "type": "cardStories",
+              "cards": [
+                {
+                  "title": "JANA",
+                  "subtitle": "administrativní pracovnice, 34 let",
+                  "description": "Janu trápí obavy ze znečištění. Má silný pocit zodpovědnosti, který ji stresuje.",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jana_karta_7c69375325.svg",
+                  "pictureMobileBackground": "#E5EBE3",
+                  "pictureMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jana_karta_mobile_7063c7503a.svg",
+                  "modalContentSections": [
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jana_modal_21111b8b39.svg",
+                      "width": "100%",
+                      "alt": "Obrázek Jany: Žena s dlouhými světle hnědými vlasy v culíku, v bílém triku a modrém svetru",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jana_modal_21111b8b39.svg",
+                      "widthMobile": "100%",
+                      "align": "center",
+                      "unoptimized": true
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "**Jana** \n \n Jana je administrativní pracovnice a maminka malého Toníka. Pokaždé, když přijde z venku, dezinfikuje sebe i věci kolem sebe, převléká se a umývá ruce. \n \n Její strach se zaměřuje na možnost, že by mohla ublížit svému dítěti. Často ji napadá: \n \n - **Katastrofizace:** „Na každé klice mohou být smrtelné bakterie.“ \n \n - **Přehnaná odpovědnost:** „Musím udělat všechno, abych ochránila své dítě. I kdyby mě to mělo zničit.“ \n \n - **Myšlenky o myšlenkách:** „Když mám úzkost, znamená to, že jsme opravdu v nebezpečí.“"
+                    }
+                  ]
+                },
+                {
+                  "title": "PETR",
+                  "subtitle": "technik, 45 let",
+                  "description": "Petr se bojí, že udělá chybu, která bude mít fatální následky. Vše raději pečlivě kontroluje.",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Petr_karta_cb6c382476.svg",
+                  "pictureMobileBackground": "#FFF3EF",
+                  "pictureMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Petr_karta_mobile_607dc58e33.svg",
+                  "modalContentSections": [
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Petr_modal_ccd80f55c5.svg",
+                      "width": "100%",
+                      "alt": "Obrázek Petra: Muž ve středním věku s kudrnatými šedými vlasy a plnovousem",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Petr_modal_ccd80f55c5.svg",
+                      "widthMobile": "100%",
+                      "align": "center",
+                      "unoptimized": true
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "**Petr** \n \n Petr pracuje jako technik. Každý den několikrát kontroluje dveře, sporák, zásuvky. Z práce často chodí pozdě, protože si není jistý, jestli něco nezapomněl. V jeho mysli se objevují obrazy požárů, zničených domovů a výčitek svědomí. Napadají ho tyto omyly v myšlení a myšlenky o myšlenkách: \n \n - **Katastrofizace:** „Když něco přehlédnu, může se stát katastrofa.“ \n \n - **Přehnaná odpovědnost:** „Když to nezkontroluju, bude to moje vina.“ \n \n - **Splývání myšlení a skutečnosti:** „Když mě napadne, že jsem něco nechal zapnuté, možná to tak skutečně je.“ "
+                    }
+                  ]
+                },
+                {
+                  "title": "EVA",
+                  "subtitle": "studentka VŠ, 22 let",
+                  "description": "Eva má vtíravé představy, že by mohla někomu ublížit. Za tyto myšlenky se velmi stydí.",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Eva_karta_1d42669807.svg",
+                  "pictureMobileBackground": "#EFE9EC",
+                  "pictureMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Eva_karta_mobile_ff5c9a65ad.svg",
+                  "modalContentSections": [
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Eva_modal_8adc9d2543.svg",
+                      "width": "100%",
+                      "alt": "Obrázek Evy: mladá žena s kratšími kudrnatými zrzavými vlasy se žlutým baretem",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Eva_modal_8adc9d2543.svg",
+                      "widthMobile": "100%",
+                      "align": "center",
+                      "unoptimized": true
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "**Eva** \n \n Eva studuje sociální práci. Trápí ji představy, že by mohla někomu ublížit – třeba nožem. Vyhýbá se kvůli tomu vaření i blízkosti ostatních. Přestože nikdy nikoho nezranila, paralyzují ji stud a strach. Její myšlení ovlivňují: \n \n - **Myšlenky ovlivňující pohled na sebe:** „Když mě napadne, že bych mohla někomu ublížit, znamená to, že jsem nebezpečná.“ \n \n - **Přehnaná odpovědnost:** „Normální lidé by takové myšlenky neměli mít.“ \n \n - **Splynutí myšlení a skutečnosti:** „Když mě napadne hrozivá myšlenka, je to stejné, jako bych opravdu něco udělala.“"
+                    }
+                  ]
+                },
+                {
+                  "title": "DAVID",
+                  "subtitle": "knihovník, 36 let",
+                  "description": "David potřebuje, aby bylo vše kolem zarovnané a symetrické. Obává se magických důsledků.",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/David_karta_739e7ef7df.svg",
+                  "pictureMobileBackground": "#DFE8EB",
+                  "pictureMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/David_karta_mobile_662bfbf554.svg",
+                  "modalContentSections": [
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/David_modal_c2247c95c4.svg",
+                      "width": "100%",
+                      "alt": "Obrázek Davida: Muž s krátkými černými vlasy v bílé košili a hnědé pletené vestě",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/David_modal_c2247c95c4.svg",
+                      "widthMobile": "100%",
+                      "align": "center",
+                      "unoptimized": true
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "**David** \n \n David pracuje v knihovně a doma i v práci musí mít vše naprosto rovné, symetrické a čisté. Jinak má vtíravé obavy, že přivolá neštěstí. Usilovně organizuje věci podle velikosti, tvaru a barvy. Často se mu hlavou honí: \n \n - **Magické myšlení:** „Když knihy nejsou rovně, může se stát něco zlého.“ \n \n - **Perfekcionismus:** „Když je něco nesymetrické, je to nebezpečné.“ \n \n - **Splývání myšlenek se skutečností:** „Když mě napadne, že se něco stane, když věci nebudou srovnané, tak se to stane.“"
+                    }
+                  ]
+                },
+                {
+                  "title": "KLÁRA",
+                  "subtitle": "zdravotní sestra, 28 let",
+                  "description": "Kláru trápí myšlenky se sexuálními tématy. Stydí se a vyhýbá se intimitě.",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Klara_karta_fb018941e5.svg",
+                  "pictureMobileBackground": "#EFE9EC",
+                  "pictureMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Klara_karta_mobile_75a2027257.svg",
+                  "modalContentSections": [
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Klara_modal_a2e0d015d3.svg",
+                      "width": "100%",
+                      "alt": "Obrázek Kláry: Žena s dlouhými blond vlasy v růžovém svetru",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Klara_modal_a2e0d015d3.svg",
+                      "widthMobile": "100%",
+                      "align": "center",
+                      "unoptimized": true
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "**Klára** \n \n Klára je zdravotní sestra. Děsí ji vtíravé myšlenky o dětech, které se jí objevují ve stresu. Vyhýbá se dětem i blízkosti s partnerem, protože se bojí, že je špatný člověk. Její OCD posilují myšlenkové omyly a myšlenky o myšlenkách jako: \n \n - **Braní věcí osobně:** „Když mě napadne něco nepřijatelného, znamená to, že jsem zvrácená.“ \n \n - **Splynutí myšlení a skutečnosti:** „Když mě něco napadá, stane se to.“ \n \n - **Katastrofizace:** „Pokud se těch myšlenek nezbavím, vymknou se mi z kontroly a udělám něco strašného.“"
+                    }
+                  ]
+                },
+                {
+                  "title": "LUKÁŠ",
+                  "subtitle": "elektrikář, 30 let",
+                  "description": "Lukáš se bojí hřešit a neustále se modlí kvůli rouhavým myšlenkám. Cítí vnitřní rozpor.",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lukas_karta_40be25b691.svg",
+                  "pictureMobileBackground": "#FFF3EF",
+                  "pictureMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lukas_karta_mobile_543f887105.svg",
+                  "modalContentSections": [
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lukas_modal_19fee9701c.svg",
+                      "width": "100%",
+                      "alt": "Obrázek Lukáše: muž s plnovousem, pracovní kšilovkou v oranžové košili",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lukas_modal_19fee9701c.svg",
+                      "widthMobile": "100%",
+                      "align": "center",
+                      "unoptimized": true
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "**Lukáš** \n \n Lukáš je hluboce věřící. Každá rouhavá myšlenka v něm spouští silnou úzkost a pocit viny. Bojí se, že je hříšný a nebude spasen. Hodiny tráví v modlitbách a prosbách o odpuštění. Často se mu hlavou honí: \n \n - **Přehnaná odpovědnost:** „Když mě napadnou rouhavé myšlenky, je to moje vina.“ \n \n - **Katastrofizace:** „Když mě napadne rouhavá myšlenka, Bůh mě zavrhne.“ \n \n - **Zdánlivě pozitivní myšlenky zvyšující úzkost:** „Musím se modlit absolutně dokonale, jinak moje modlitba nebude přijata.“"
+                    }
+                  ]
+                },
+                {
+                  "title": "VERONIKA",
+                  "subtitle": "manažerka, 35 let",
+                  "description": "Veronika se bojí o své zdraví. Nechává se vyšetřovat, i když lékaři nic nenašli.",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Veronika_karta_bb390f8d7d.svg",
+                  "pictureMobileBackground": "#EFE9EC",
+                  "pictureMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Veronika_karta_mobile_ff4d1e518c.svg",
+                  "modalContentSections": [
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Veronika_modal_0eeca499fc.svg",
+                      "width": "100%",
+                      "alt": "Obrázek Veroniky: žena s dlouhými černými vlasy ve vysokém culíku v zeleném topu s perlovým náhrdelníkem",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Veronika_modal_0eeca499fc.svg",
+                      "widthMobile": "100%",
+                      "align": "center",
+                      "unoptimized": true
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "**Veronika** \n \n Veronika se velmi často obává, že má vážnou nemoc. Studuje své příznaky na internetu, často navštěvuje lékaře. Po každém vyšetření přichází úleva – ale jen na chvíli. Brzy se objeví nová pochybnost. Mezi její kognitivní omyly a meta-kognice patří: \n \n - **Perfekcionismus:** „Když si nejsem jistá, že jsem zdravá, je velké riziko, že něco přehlížím.“ \n \n - **Přehnaná odpovědnost:** „Co když ten detail, který jsem přehlédla, byl důležitý?“ \n \n - **Zdánlivě pozitivní myšlenky zvyšující úzkost:** „Když mám obavy, musím se okamžitě ujistit, že je vše v pořádku – jinak riskuji život.“"
+                    }
+                  ]
+                },
+                {
+                  "title": "MICHAL",
+                  "subtitle": "učitel, 27 let",
+                  "description": "Michala trápí nutkavé pochybnosti o svém vztahu. Vyžaduje neustále ujišťování.",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Michal_karta_41e0daacdc.svg",
+                  "pictureMobileBackground": "#dfe8eb",
+                  "pictureMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Michal_karta_mobile_8530388119.svg",
+                  "modalContentSections": [
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Michal_modal_9a4f39a394.svg",
+                      "width": "100%",
+                      "alt": "Obrázek Michala: mladý muž s kudrnatými hnědými vlasy a brýlemi v modrém roláku",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Michal_modal_9a4f39a394.svg",
+                      "widthMobile": "100%",
+                      "align": "center",
+                      "unoptimized": true
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "**Michal** \n \n Michal je přemýšlivý a citlivý. Neustále se ujišťuje, že ho partnerka miluje a že je jejich vztah ten pravý. Když ho ujistí, uklidní se, ale jen na chvíli. Jeho nejistota se brzy vrací. Jeho myšlenkové omyly a myšlenky o myšlenkách, se kterými se potýká, jsou: \n \n - **Katastrofizace:** „Když váhá, určitě mě nemiluje.“ \n \n - **Perfekcionismus:** „Musím vědět stoprocentně, že je to pravý vztah.“ \n \n - **Zdánlivě pozitivní myšlenky zvyšující úzkost:** „Musím neustále analyzovat náš vztah, jinak bych mohl udělat obrovskou chybu.“"
+                    }
+                  ]
+                },
+                {
+                  "title": "JIRKA",
+                  "subtitle": "lékař, 58 let",
+                  "description": "Jirku trápí obavy, že pokud nespočítá určitá čísla, stane se neštěstí v práci nebo v rodině.",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jirka_karta_01d80f6712.svg",
+                  "pictureMobileBackground": "#E5EBE3",
+                  "pictureMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jirka_karta_mobile_4fe638f329.svg",
+                  "modalContentSections": [
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jirka_modal_bdecd1b4aa.svg",
+                      "width": "100%",
+                      "alt": "Obrázek Jirky: starší muž se šedými vlasy a plnovousem, s brýlemi",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jirka_modal_bdecd1b4aa.svg",
+                      "widthMobile": "100%",
+                      "align": "center",
+                      "unoptimized": true
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "**Jirka** \n \n Jirku trápí obavy, že pokud nespočítá určité číselné kombinace, stane se neštěstí. Proto počítá čísla na automobilových značkách a vytváří z nich součty. Některá čísla jsou pro něj negativní (prvočísla) a některá pozitivní (dělitelná čtyřmi). \n \n Jirka si plně uvědomuje, že jsou to nesmysly. Sám pro sebe si říká, že to jsou jeho „magořiny“. Nedokáže si ale pomoci, protože by jinak cítil velkou vinu.  Jirku napadají: \n \n - **Myšlenky ovlivňující pohled na sebe:** „Jsem blázen, když sčítám čísla na SPZkách.“ \n \n - **Zdánlivě pozitivní myšlenky zvyšující úzkost:** „Je dobře, že to dělám, protože tím bráním nestěstí.“ \n \n - **Splynutí myšlení a skutečnosti:** „Když si něco představím, tak se to stane.“"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Kvíz o myšlení a OCD",
+          "icon": "Star",
+          "contentSections": [
+            {
+              "type": "survey",
+              "variant": "quiz",
+              "questions": [
+                {
+                  "name": "Question1",
+                  "question": ":::text--center \n Klára uviděla na pískovišti malého chlapečka a napadla vtíravá myšlenka, že by ho mohla zneužít. Potom jí proběhlou hlavou, že to znamená, že se to kdykoliv může stát. \n \n Co to bylo za myšlenku?  \n :::",
+                  "options": [
+                    {
+                      "label": "A) Perfekcionismus",
+                      "value": 0
+                    },
+                    {
+                      "label": "B) Magické myšlení",
+                      "value": 1
+                    },
+                    {
+                      "label": "C) Splynutí myšlení a skutečnosti ",
+                      "value": 2
+                    }
+                  ],
+                  "correctAnswer": 2,
+                  "correctAnswerReason": "Správná odpověď je C) Splynutí myšlení a skutečnosti. Jana o své obsesí přemýšlí a splývá jí to, co ji napadá, se skutečností. To, že ji něco napadne, ale neznamená, že to opravdu udělá. Je to jen myšlenka."
+                },
+                {
+                  "name": "Question2",
+                  "question": ":::text--center \n Eva krájí zeleninu, když vtom ji napadne myšlenka: „Co kdybych někoho pořezala?“ Lekne se a nůž odloží. V hlavě ji běží: „Když mě napadla taková věc, asi jsem špatný člověk.“ \n \n Co jí říká tato myšlenka?   \n :::",
+                  "options": [
+                    {
+                      "label": "A) Myšlenky jsou jen myšlenky, nemusím je brát moc vážně.",
+                      "value": 0
+                    },
+                    {
+                      "label": "B) Když mám takovou myšlenku, znamená to, že jsem nebezpečná.",
+                      "value": 1
+                    },
+                    {
+                      "label": "C) Měla bych se soustředit na krájení, jinak se říznu.",
+                      "value": 2
+                    }
+                  ],
+                  "correctAnswer": 1,
+                  "correctAnswerReason": "Správná odpověď je B). Eva si myslí, že nepříjemná myšlenka říká něco o její morálce či povaze. Ve skutečnosti jsou vtíravé myšlenky běžné a jejich význam není tak závažný."
+                },
+                {
+                  "name": "Question3",
+                  "question": ":::text--center \n David se při odchodu z domu dívá na knihy na polici. Nejsou úplně rovné.  Napadne ho: „Když to tak nechám, může se stát něco špatného.“ Proto se vrací a upravuje je, dokud nejsou přesné. \n \n Jaký myšlenkový omyl ho nejspíš napadl? \n :::",
+                  "options": [
+                    {
+                      "label": "A) Magické myšlení",
+                      "value": 0
+                    },
+                    {
+                      "label": "B) Perfekcionismus",
+                      "value": 1
+                    },
+                    {
+                      "label": "C) Braní věcí osobně",
+                      "value": 2
+                    }
+                  ],
+                  "correctAnswer": 0,
+                  "correctAnswerReason": "Správná odpověď je A) Magické myšlení. David spojuje nesouvisející události – uspořádání knih a něco „zlého“. Toto propojení je typické pro magické myšlení."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Cvičení: Poznejte své filtry myšlení",
+          "icon": "exercise",
+          "isEvaluable": true,
+          "finalScreen": {
+            "buttonLabel": "Upravit odpovědi",
+            "contentSections": [
+              {
+                "type": "image",
+                "isExpandable": true,
+                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Relax_e24051df56.svg",
+                "width": "280px",
+                "alt": "Obrázek začátku cesty do hor",
+                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Relax_e24051df56.svg",
+                "widthMobile": "280px",
+                "align": "center"
+              },
+              {
+                "type": "markdown",
+                "content": ":::text--center \n #### Jděte na to postupně! \n \n Než začnete své myšlení měnit, je důležité si ho začít uvědomovat. \n :::"
+              }
+            ]
+          },
+          "contentSections": [
+            {
+              "type": "markdown",
+              "content": "Každý z nás vnímá svět skrze **„filtry“** - způsoby, jak přemýšlíme o sobě, o světě a o tom, co se může stát. V tomto cvičení se pokusíme své filtry zachytit, pojmenovat a pochopit."
+            },
+            {
+              "type": "stepByStep",
+              "required": true,
+              "steps": [
+                {
+                  "title": "",
+                  "contentSections": [
+                    {
+                      "type": "note",
+                      "title": "**Popište situaci, kdy jste se necítili dobře, protože vás trápilo OCD.**",
+                      "required": true,
+                      "rows": 2,
+                      "placeholder": "Stručný popis situace"
+                    }
+                  ]
+                },
+                {
+                  "title": "",
+                  "contentSections": [
+                    {
+                      "type": "note",
+                      "title": "**Vypište si myšlenku, která se vám v té chvíli proběhla hlavou.**",
+                      "required": true,
+                      "rows": 1,
+                      "placeholder": "Moje myšlenka"
+                    }
+                  ]
+                },
+                {
+                  "title": "",
+                  "contentSections": [
+                    {
+                      "type": "checkBoxList",
+                      "title": "**Poznáváte v myšlence některý filtr myšlení?**",
+                      "required": true,
+                      "isSingleColumn": true,
+                      "options": [
+                        {
+                          "name": "Katastrofizace",
+                          "value": "Catastrophisation"
+                        },
+                        {
+                          "name": "Přehnaná zodpovědnost",
+                          "value": "Excessive Reponsibility"
+                        },
+                        {
+                          "name": "Perfekcionismus",
+                          "value": "Perfectionism"
+                        },
+                        {
+                          "name": "Magické myšlení",
+                          "value": "Magical Thinking"
+                        },
+                        {
+                          "name": "Tunelové vidění",
+                          "value": "Tunnel Vision"
+                        },
+                        {
+                          "name": "Braní si věcí osobně",
+                          "value": "Taking things personally"
+                        },                        
+                        {
+                          "name": "Negativní metakognice",
+                          "value": "Negative metacognitions"
+                        },                        
+                        {
+                          "name": "Pozitivní metakognice",
+                          "value": "Positive metacognitions"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "title": "",
+                  "contentSections": [
+                    {
+                      "type": "note",
+                      "title": "**Popište, jak jste se v situaci zachoval/a:**",
+                      "required": true,
+                      "rows": 1,
+                      "placeholder": "Moje reakce"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Druhou část máte hotovou!",
+          "icon": "text",
+          "contentSections": [
+            {
+              "type": "image",
+              "isExpandable": false,
+              "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Druhou_cast_mate_za_ssebou_97a32abad9.svg",
+              "width": "100%",
+              "alt": "Postava sedící v křesle s počítačem",
+              "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Druhou_cast_mate_za_ssebou_mobile_4e9b88698f.svg",
+              "widthMobile": "100%",
+              "align": "center",
+              "unoptimized": true
+            },
+            {
+              "type": "list",
+              "title": "**Co jste se dozvěděli:**",
+              "color": "#27637C",
+              "items": [
+                "**Metakognice** se zabývají tím, co pro nás znamená naše přemýšlení. Často spouští úzkost.",
+                "**Negativní metakognice** vedou k pocitům viny, bezmoci nebo úzkosti.",
+                "**Pozitivní metakognice** nás přesvědčují, že musíme myslet určitým způsobem nebo si něčeho všímat, abychom zabránili katastrofě.",
+                "Příznaky OCD často pramení ze snahy **zbavit se nejistoty**. Ustavičné kontroly nás ale vtahují do spirály pochybností."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Co jsou expozice",
+          "icon": "video",
+          "contentSections": [
+            {
+              "type": "markdown",
+              "content": "V této části modulu se zaměříme na **expozice**, tedy na **vystavování se situacím**, které vyvolávají obsese a kompulze. Nebudeme s myšlenkami bojovat. Místo toho se naučíme, jak jednat navzdory nim, a díky tomu žít svobodněji."
+            },
+            {
+              "type": "video",
+              "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M2_4_021f044500.mp4"
+            },
+            {
+              "type": "collapse",
+              "content": "Když v nás nějaké situace vyvolávají **strach**, instinktivně se jim snažíme **vyhnout**. Takové vyhýbání nám sice krátkodobě uleví, ale dlouhodobě náš strach udržuje a posiluje. \n \n Vyhýbání se spouštěčům nám brání naučit se důležitou věc: i když cítíme nejistotu, úzkost nebo strach, **jde to zvládnout.** \n \n Když se tomu raději **vyhneme** nebo se před tím nějak **ubezpečíme**, je pro nás pak těžké věřit, že bychom to příště zvládli. Úzkost tak přetrvává a je připravená se v podobných situacích vrátit. \n \n **Expozice** jsou **vědomé a plánované** vystavení se situacím, které vyvolávají **nepříjemné pocity**. Co je ale důležité, neprovádíme při nich kompulze. Je to vlastně bezpečné setkání s tím, čeho se bojíme. \n \n Zásadní je **odolat nutkání k úlevě**. Pozorujeme při tom, že se naše nepříjemné pocity **postupně snižují**. Učíme se důležitou věc: nepohoda se dá vydržet a postupně sama odeznívá. Mozek si při tom vytváří novou, pozitivní zkušenost: „Nic hrozného se nestalo a já jsem to zvládl.“ \n \n Při expozicích se zároveň učíme **rozpoznat myšlenky**, které jsou ovlivněné filtry. Tomu jsme se věnovali v tomto modulu. Takovým myšlenkám pak můžeme jemně, ale rozhodně čelit. Výsledkem není jen úleva, ale také rostoucí **důvěra ve vlastní schopnosti.** \n \n Další výhodou expozic je příležitost **otestovat si své myšlenky**, třeba: „Když to nezkontroluju, stane se něco zlého,“ nebo „Musím se cítit jistý, jinak na to nemůžu přestat myslet.“ Zkušenost většinou ukáže něco jiného. Úzkost klesne i bez ujištění a svět se nezhroutí. \n \n Expozice je důležité **opakovat**. S časem jsou snazší a klesá i počáteční míra nepříjemných pocitů. Aby expozice účinkovaly, potřebujeme je plánovat. K tomu nám pomůže hierarchie expozic, o které se dozvíte víc na další stránce.",
+              "title": "Radši si přečtu"
+            }
+          ]
+        },
+        {
+          "title": "Hierarchie expozic",
+          "icon": "text",
+          "contentSections": [
+            {
+              "type": "image",
+              "isExpandable": false,
+              "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Hierarchie_expozic_899ac019b1.svg",
+              "width": "100%",
+              "alt": "Ilustrace tří hor, seřazené od nejnižší po nejvyšší s proporky na vrcholech",
+              "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Hierarchie_expozic_mobile_ac4900c8a9.svg",
+              "widthMobile": "100%",
+              "align": "center"
+            },
+            {
+              "type": "markdown",
+              "content": "**Hierarchie expozic** je seznam situací seřazený podle toho, jak moc v nás vyvolávají úzkost. Je to pro nás vlastně mapa, po které se vydáváme. **Začínáme u lehčích situací**, protože postupně získáme jistotu a náročnější kroky jsou snazší. Je důležité nepřeskakovat a nenaložit si toho pro začátek moc. \n \n **Jak na hierarchii expozic:** \n \n 1. Zamyslíme se nad různými situacemi, které v nás vyvolávají úzkost, nutkavé myšlenky a chování. \n \n 2. Seřadíme je podle míry napětí či úzkosti, kterou v nás vzbuzují. Začínáme od té nejnižší. \n \n 3. Naplánujeme si, kdy se vystavíme nejsnazší situaci, a uděláme to. \n \n 4. Neodkládáme to, protože čím déle váháme, tím těžší je odhodlat se."
+            }
+          ]
+        },
+        {
+          "title": "Příklady hierarchie expozic",
+          "icon": "Story",
+          "contentSections": [
+            {
+              "type": "markdown",
+              "content": "Podívejme se na **příklady hierarchie expozic** našich hrdinů."
+            },
+            {
+              "type": "noteBox",
+              "desktopImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lightbulb_Icon_5bba92e832.svg",
+              "mobileImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lightbulb_Icon_5bba92e832.svg",
+              "backgroundColor": "#EDF4F6",
+              "textColor": "#27637C",
+              "text": "**Nemusíte číst všechny příběhy.** Zkuste najít ten, ve kterém se nejvíce najdete. Můžete se na něj zaměřit i v dalších modulech a ostatní číst spíše pro zajímavost. Ale můžete je také vynechat.",
+              "desktopImageWidth": "84px",
+              "mobileImageWidth": "84px",
+              "isWrapping": true
+            },
+            {
+              "type": "cardStories",
+              "cards": [
+                {
+                  "title": "JANA",
+                  "subtitle": "administrativní pracovnice, 34 let",
+                  "description": "Janu trápí obavy ze znečištění. Má silný pocit zodpovědnosti, který ji stresuje.",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jana_karta_7c69375325.svg",
+                  "pictureMobileBackground": "#E5EBE3",
+                  "pictureMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jana_karta_mobile_7063c7503a.svg",
+                  "modalContentSections": [
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jana_modal_21111b8b39.svg",
+                      "width": "100%",
+                      "alt": "Obrázek Jany: Žena s dlouhými světle hnědými vlasy v culíku, v bílém triku a modrém svetru",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jana_modal_21111b8b39.svg",
+                      "widthMobile": "100%",
+                      "align": "center",
+                      "unoptimized": true
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "**Jana** \n \n Janu trápí obavy ze znečištění a přenesení nemoci na své blízké. Má vtíravé myšlenky (např. „Co když něco přenesu na Toníka?“), na které reaguje častým mytím, dezinfekcí, převlékáním a vyhýbáním se blízkosti. \n \n **Janina hierarchie expozic** \n \n 1. Dotknout se kliky v domácnosti a neumýt si hned ruce. (úzkost 2/10) \n \n 2. Dotknout se veřejného madla a chvíli si nesahat na obličej. (úzkost 3/10) \n \n 3. Neumýt si ruce ihned po příchodu domů z MHD. (úzkost 4/10) \n \n 4. Před jídlem si umýt ruce pouze jednou, bez dezinfekce. (úzkost 5/10) \n \n 5. Použít veřejné WC bez dezinfikování sedátka. (úzkost 6/10) \n \n 6. Po příchodu z práce obejmout Toníka ještě předtím, než se převléknu. (úzkost 7/10) \n \n 7. Nedezinfikovat mobil a klíče po návratu z města. (úzkost 8/10) \n \n 8. Dotknout se veřejného předmětu, a potom pít z vlastní lahve. (úzkost 9/10) \n \n 9. Večer jít spát, aniž bych se osprchovala po kontaktu s „rizikovým“ objektem. (úzkost 9/10) \n \n 10. V MHD se držet madla a po návratu domů obejmout Toníka bez mytí rukou. (úzkost 10/10)"
+                    }
+                  ]
+                },
+                {
+                  "title": "PETR",
+                  "subtitle": "technik, 45 let",
+                  "description": "Petr se bojí, že udělá chybu, která bude mít fatální následky. Vše raději pečlivě kontroluje.",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Petr_karta_cb6c382476.svg",
+                  "pictureMobileBackground": "#FFF3EF",
+                  "pictureMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Petr_karta_mobile_607dc58e33.svg",
+                  "modalContentSections": [
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Petr_modal_ccd80f55c5.svg",
+                      "width": "100%",
+                      "alt": "Obrázek Petra: Muž ve středním věku s kudrnatými šedými vlasy a plnovousem",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Petr_modal_ccd80f55c5.svg",
+                      "widthMobile": "100%",
+                      "align": "center",
+                      "unoptimized": true
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "**Petr** \n \n Petr kontroluje spotřebiče. Má obavy, aby nezačalo hořet a nebyla to jeho chyba. Sepsal si situace, které v něm vyvolávají nepříjemné pocity a poté si je uspořádal podle toho, jak odhaduje, že budou obtížné. \n \n **Petrova hierarchie expozic** \n \n 1. Odejít z bytu bez slovního ujištění nahlas (např. „vypnuto, zamčeno“). (úzkost 2/10) \n \n 2. Zkontrolovat zámek při odchodu jen jednou. (úzkost 3/10) \n \n 3. Zkontrolovat sporák pouze pohledem bez doteku. (úzkost 4/10) \n \n 4. Nevracet se z parkoviště zpátky do bytu kvůli pocitu nejistoty. (úzkost 5/10) \n \n 5. Odejít do práce bez jakékoli kontroly zásuvek. (úzkost 6/10) \n \n 6. Nechat nabíječku v zásuvce a odejít. (úzkost 6/10) \n \n 7. Odejít z bytu a nezkontrolovat, zda jsou zavřená okna. (úzkost 7/10) \n \n 8. Odejít do práce a vůbec nic nezkontrolovat. (úzkost 8/10) \n \n 9. Jít na víkend mimo domov bez předchozí kontroly spotřebičů, zámků, okna. (úzkost 9/10) \n \n 10. Odjet na dovolenou a nic nezkontrolovat. (úzkost 10/10)"
+                    }
+                  ]
+                },
+                {
+                  "title": "EVA",
+                  "subtitle": "studentka VŠ, 22 let",
+                  "description": "Eva má vtíravé představy, že by mohla někomu ublížit. Za tyto myšlenky se velmi stydí.",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Eva_karta_1d42669807.svg",
+                  "pictureMobileBackground": "#EFE9EC",
+                  "pictureMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Eva_karta_mobile_ff5c9a65ad.svg",
+                  "modalContentSections": [
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Eva_modal_8adc9d2543.svg",
+                      "width": "100%",
+                      "alt": "Obrázek Evy: mladá žena s kratšími kudrnatými zrzavými vlasy se žlutým baretem",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Eva_modal_8adc9d2543.svg",
+                      "widthMobile": "100%",
+                      "align": "center",
+                      "unoptimized": true
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "**Eva** \n \n Eva trpí agresivními vtíravými myšlenkami. Bojí se, že by mohla někomu ublížit, i když nikdy neprojevila násilné sklony. Proto se vyhýbá ostrým předmětům, dětem a stresujícím situacím, které její myšlenky spouští. \n \n **Evina hierarchie expozic** \n \n 1. Mít na kuchyňské lince během vaření položený nůž. (úzkost 2/10) \n \n 2. Držet při vaření nůž a vědomě pozorovat své vtíravé myšlenky. (úzkost 3/10) \n \n 3. Mluvit s Vaškem v kuchyni při krájení zeleniny. (úzkost 4/10) \n \n 4. Krájet zeleninu a představit si, že situaci zvládám bez obav. (úzkost 5/10) \n \n 5. Zůstat v jedné místnosti se synovcem a ostrým předmětem poblíž. (úzkost 6/10) \n \n 6. Podat Petříkovi (synovec) předmět (např. lžíci) a být v těsném kontaktu. (úzkost 7/10) \n \n 7. Hladit psa s vědomím, že mám v druhé ruce nůž nebo jiný ostrý předmět. (úzkost 8/10) \n \n 8. Hrát si s Petříkem bez vnitřního opakování „Jsem neškodná“. (úzkost 9/10) \n \n 9. Mluvit s Vaškem o svých vtíravých myšlenkách. (úzkost 9/10) \n \n 10. Držet nůž, být v blízkosti druhého člověka a uvědomovat si své myšlenky bez toho, abych udělala kompulzi. (úzkost 10/10)"
+                    }
+                  ]
+                },
+                {
+                  "title": "DAVID",
+                  "subtitle": "knihovník, 36 let",
+                  "description": "David potřebuje, aby bylo vše kolem zarovnané a symetrické. Obává se magických důsledků.",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/David_karta_739e7ef7df.svg",
+                  "pictureMobileBackground": "#DFE8EB",
+                  "pictureMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/David_karta_mobile_662bfbf554.svg",
+                  "modalContentSections": [
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/David_modal_c2247c95c4.svg",
+                      "width": "100%",
+                      "alt": "Obrázek Davida: Muž s krátkými černými vlasy v bílé košili a hnědé pletené vestě",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/David_modal_c2247c95c4.svg",
+                      "widthMobile": "100%",
+                      "align": "center",
+                      "unoptimized": true
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "**David** \n \n V Davidově životě hraje velkou roli pocit řádu a kontroly. Pokud se něco vychýlí z jeho představ o „správném“ uspořádání, cítí napětí a úzkost. V hloubi duše má strach, že narušený řád by mohl „přitáhnout“ něco špatného. Jeho expozice se zaměřují na posilování schopnosti snášet nepřesnost a nejistotu. \n \n **Davidova hierarchie expozic** \n \n 1. Nechat jednu knihu na stole mírně nakřivo. (úzkost 2/10) \n \n 2. Neopravit peřinu, i když není přehozená na obou stranách rovnoměrně. (úzkost 3/10) \n \n 3. Neuspořádat myš a klávesnici přesně na střed podložky. (úzkost 4/10) \n \n 4. Nezarovnat tužky v zásobníku na stole podle velikosti. (úzkost 5/10) \n \n 5. V práci nechat na stole hrnek mimo obvyklé místo a nevšímat si ho. (úzkost 6/10) \n \n 6. Nechat dokumenty a papíry na stole celý den v mírném nepořádku. (úzkost 7/10) \n \n 7. Jít spát, aniž by zarovnal knihy na nočním stolku. (úzkost 8/10) \n \n 8. Neupravit věci při odchodu z bytu (boty, věci na stole). (úzkost 9/10) \n \n 9. Nevrátit se domů kvůli myšlence, že jsem něco nechal nepřesně zarovnané. (úzkost 9/10) \n \n 10. Nechat schválně věci neorganizované během dne, kdy čekám návštěvu. (úzkost 10/10)"
+                    }
+                  ]
+                },
+                {
+                  "title": "KLÁRA",
+                  "subtitle": "zdravotní sestra, 28 let",
+                  "description": "Kláru trápí myšlenky se sexuálními tématy. Stydí se a vyhýbá se intimitě.",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Klara_karta_fb018941e5.svg",
+                  "pictureMobileBackground": "#EFE9EC",
+                  "pictureMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Klara_karta_mobile_75a2027257.svg",
+                  "modalContentSections": [
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Klara_modal_a2e0d015d3.svg",
+                      "width": "100%",
+                      "alt": "Obrázek Kláry: Žena s dlouhými blond vlasy v růžovém svetru",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Klara_modal_a2e0d015d3.svg",
+                      "widthMobile": "100%",
+                      "align": "center",
+                      "unoptimized": true
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "**Klára** \n \n Kláru trápí sexuální vtíravé myšlenky, které se často týkají dětí. Její největší obava je, že by mohla být nebezpečná nebo zkažená. Proto se dětem raději vyhýbá. Expozice se zaměřují na snášení nepříjemných myšlenek bez nutnosti s nimi bojovat a odsuzovat se za ně. \n \n **Klářina hierarchie expozic** \n \n 1. Dívat se na obrázek dítěte v časopise. (úzkost 2/10) \n \n 2. Sledovat krátké video s dětmi (např. rodinné video, reklamu). (úzkost 3/10) \n \n 3. Jít ven, kde jsou cizí děti, a nezměnit trasu. (úzkost 4/10) \n \n 4. Pozorovat děti na hřišti a uvědomovat si své myšlenky. (úzkost 5/10) \n \n 5. Být blízko dítěte v rodinném kruhu (např. neteř, synovec). (úzkost 6/10) \n \n 6. Navázat krátký kontakt (např. podat dítěti hračku). (úzkost 7/10) \n \n 7. Přečíst si článek o sexuálních obsesích u OCD. (úzkost 7/10) \n \n 8. Sdílet svůj problém s kamarádkou Janou. (úzkost 8/10) \n \n 9. Strávit čas s dítětem v přítomnosti dalšího člověka bez vyhýbání se myšlenkám. (úzkost 9/10) \n \n 10. Hrát si s dítětem (např. deskovky, kreslení) s plnou pozorností na to, co cítím a co si myslím, bez hodnocení. (úzkost 10/10)"
+                    }
+                  ]
+                },
+                {
+                  "title": "LUKÁŠ",
+                  "subtitle": "elektrikář, 30 let",
+                  "description": "Lukáš se bojí hřešit a neustále se modlí kvůli rouhavým myšlenkám. Cítí vnitřní rozpor.",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lukas_karta_40be25b691.svg",
+                  "pictureMobileBackground": "#FFF3EF",
+                  "pictureMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lukas_karta_mobile_543f887105.svg",
+                  "modalContentSections": [
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lukas_modal_19fee9701c.svg",
+                      "width": "100%",
+                      "alt": "Obrázek Lukáše: muž s plnovousem, pracovní kšilovkou v oranžové košili",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lukas_modal_19fee9701c.svg",
+                      "widthMobile": "100%",
+                      "align": "center",
+                      "unoptimized": true
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "**Lukáš** \n \n Lukáš má náboženské obsese, zejména rouhavé myšlenky, a cítí intenzivní vinu a potřebu opakovaného „očišťování“ skrze modlitby. Cílem jeho expozic je postupně snáze snášet „neslušné“ nebo „rouhavé“ myšlenky a snižovat nutkání reagovat rituálem (např. opakováním modliteb, žádostí o odpuštění). \n \n **Lukášova hierarchie expozic** \n \n 1. Číst článek, ve kterém je slovo „Bůh“, bez přeříkávání modlitby. (úzkost 2/10) \n \n 2. Podívat se na vtip, který si trochu dělá srandu z náboženství. (úzkost 3/10) \n \n 3. Podívat se na kříž a nereagovat modlitbou. (úzkost 4/10) \n \n 4. Záměrně zadržet nutkání říci „Otčenáš“ po neuctivé obsesi týkající se víry. (úzkost 5/10) \n \n 5. Poslechnout si podcast nebo rozhovor, kde se zpochybňuje náboženství. (úzkost 6/10) \n \n 6. Zapsat si obavu: „Bojím se, že jsem zhřešil tím, co jsem si pomyslel,“ a neprovádět žádné kompulze (např. nevyhledávat ujištění). (úzkost 7/10) \n \n 7. Vystavit se prostředí, kde se mluví necírkevně, bez snahy to „vyvážit“. (úzkost 8/10) \n \n 8. V modlitbě vynechat některé části. (úzkost 9/10) \n \n 9. Říct si větu typu: „Možná jsem zhřešil,“ a pak neudělat žádnou kompulzi. (úzkost 9/10) \n \n 10. Vystavit se záměrně rouhavé větě bez modlitby, zůstat s pocitem viny, aniž bych hledal úlevu v kompulzi. (úzkost 10/10)"
+                    }
+                  ]
+                },
+                {
+                  "title": "VERONIKA",
+                  "subtitle": "manažerka, 35 let",
+                  "description": "Veronika se bojí o své zdraví. Nechává se vyšetřovat, i když lékaři nic nenašli.",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Veronika_karta_bb390f8d7d.svg",
+                  "pictureMobileBackground": "#EFE9EC",
+                  "pictureMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Veronika_karta_mobile_ff4d1e518c.svg",
+                  "modalContentSections": [
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Veronika_modal_0eeca499fc.svg",
+                      "width": "100%",
+                      "alt": "Obrázek Veroniky: žena s dlouhými černými vlasy ve vysokém culíku v zeleném topu s perlovým náhrdelníkem",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Veronika_modal_0eeca499fc.svg",
+                      "widthMobile": "100%",
+                      "align": "center",
+                      "unoptimized": true
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "**Veronika** \n \n Veroniku trápí obsese o tom, že ona nebo někdo blízký onemocní. Má strach z vážných nemocí, vyhledává příznaky, často kontaktuje lékaře a těžko snáší nejistotu ohledně svého zdraví. Cílem jejích expozic je zvyšovat toleranci k nejistotě a tělesným pocitům bez nutkání vyhledávat ujištění. \n \n **Veroničina hierarchie expozic** \n \n 1. Cítit mírné škrábání v krku a nevyhledávat příznaky online. (úzkost 3/10) \n \n 2. Vydržet celý den bez otevření lékařských webů. (úzkost 4/10) \n \n 3. Pozorovat tělesný pocit (třeba tlak v břiše) a říct si: „Nevím, co to je, a je to v pořádku“. (úzkost 5/10) \n \n 4. Nezavolat lékaři při lehkém příznaku, vydržet alespoň 24 hodin. (úzkost 6/10) \n \n 5. Podívat se na vlastní lékařskou zprávu a nevyhledávat další vysvětlení. (úzkost 6/10) \n \n 6. Nečíst si žádné články o konkrétní nemoci, které se zrovna bojím. (úzkost 7/10) \n \n 7. Zapsat si obavu typu: „Možná mám vážnou nemoc“, a pak to neověřovat. (úzkost 8/10) \n \n 8. Vydržet 48 hodin bez jakéhokoliv ujištění (internet, blízcí, lékaři). (úzkost 9/10) \n \n 9. Pustit si dokument o závažných onemocněních a pozorně se na něj dívat. (úzkost 9/10) \n \n 10. Dovolit si představit větu: „Možná jsem nemocná“, bez hledání ujištění, že mi nic není. (úzkost 10/10)"
+                    }
+                  ]
+                },
+                {
+                  "title": "MICHAL",
+                  "subtitle": "učitel, 27 let",
+                  "description": "Michala trápí nutkavé pochybnosti o svém vztahu. Vyžaduje neustále ujišťování.",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Michal_karta_41e0daacdc.svg",
+                  "pictureMobileBackground": "#dfe8eb",
+                  "pictureMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Michal_karta_mobile_8530388119.svg",
+                  "modalContentSections": [
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Michal_modal_9a4f39a394.svg",
+                      "width": "100%",
+                      "alt": "Obrázek Michala: mladý muž s kudrnatými hnědými vlasy a brýlemi v modrém roláku",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Michal_modal_9a4f39a394.svg",
+                      "widthMobile": "100%",
+                      "align": "center",
+                      "unoptimized": true
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "**Michal** \n \n Michal trpí OCD zaměřeným na vztahy. Neustále se ujišťuje o lásce partnerky Mirky, přemýšlí, jestli je jejich vztah správný, a těžko snáší pochybnosti. Cílem jeho expozic je snášet nejistotu ve vztahu a naučit se žít s pochybnostmi bez kompulzivního ujišťování.\n \n **Michalova hierarchie expozic** \n \n 1. Všimnout si pochybnosti („Miluje mě?“) a neujišťobvat se u Mirky. (úzkost 4/10) \n \n 2. Pozorovat Mirku, když působí odtažitě, a neujistit se, že mě miluje. (úzkost 5/10) \n \n 3. Vydržet celý den bez otázky „Máš mě ráda?“ (úzkost 5/10) \n \n 4. Představit si, že Mirka váhá s odpovědí, a nedoptávat se jí na to. (úzkost 6/10) \n \n 5. Přečíst si článek o vztahových problémech bez vyhledávání ujištění. (úzkost 6/10) \n \n 6. Zapsat si myšlenku: „Možná náš vztah není perfektní,“ a neujišťovat se u Mirky. (úzkost 7/10) \n \n 7. Vydržet 24 hodin bez jakékoli hledání potvrzení nebo analyzování vztahu. (úzkost 8/10) \n \n 8. Nevracet se k předchozím diskuzím (např. v chatu), abych kontroloval jejich tón a obsah. (úzkost 8/10) \n \n 9. Záměrně si představit scénář, že vztah není dokonalý, a neudělat kompulzi. (úzkost 9/10) \n \n 10. Vydržet týden bez žádosti o ujištění a psát si deník myšlenek a emocí. (úzkost 10/10)"
+                    }
+                  ]
+                },
+                {
+                  "title": "JIRKA",
+                  "subtitle": "lékař, 58 let",
+                  "description": "Jirku trápí obavy, že pokud nespočítá určitá čísla, stane se neštěstí v práci nebo v rodině.",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jirka_karta_01d80f6712.svg",
+                  "pictureMobileBackground": "#E5EBE3",
+                  "pictureMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jirka_karta_mobile_4fe638f329.svg",
+                  "modalContentSections": [
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jirka_modal_bdecd1b4aa.svg",
+                      "width": "100%",
+                      "alt": "Obrázek Jirky: starší muž se šedými vlasy a plnovousem, s brýlemi",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jirka_modal_bdecd1b4aa.svg",
+                      "widthMobile": "100%",
+                      "align": "center",
+                      "unoptimized": true
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "**Jirka** \n \n Jirka počítá čísla, zejména sčítá čísla na značkách aut. Má pocit, že pokud to neudělá, stane se neštěstí v práci nebo v rodině. Cílem jeho expozic je přijmout obavy a vydržet bez počítání. \n \n **Jirkova hierarchie expozic** \n \n 1. Vynechám počítání čísel u jednoho auta. (úzkost 2/10) \n \n 2. Vynechám pět aut za sebou. (úzkost 3/10) \n \n 3. Když dojdu k prvočíslu, nebudu pak počítat předměty. (úzkost 4/10) \n \n 4. Přestanu sečítat čísla na dokumentaci. (úzkost 5/10) \n \n 5. Budu chodit půlhodiny po ulici, dívat se na značky aut a nespočtu ani jedno číslo auta. (úzkost 6/10).  \n \n 6. Budu chodit po ulici 2 hodiny a nespočtu ani jedno číslo. (úzkost 7/10) \n \n 7. Na výletě s rodinou za půl dne nespočtu ani jedno číslo. (úzkost 8/10) \n \n 8. Celý den v práci nespočtu čísla ani na počítači, na dokumentaci. (úzkosti 8/10) \n \n 9. Na celodenním výletě zaparkuji na placeném parkoviště a nespočtu ani jednu značku - na začátku, na konci výletu, ani přes den na výletě. (úzkost 9/10) \n \n 10. Nebudu počítat čísla aut ani spisů celý týden, přesto, že se na ně budou koukat. (úzkost 10/10)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Kvíz o expozicích",
+          "icon": "Star",
+          "contentSections": [
+            {
+              "type": "survey",
+              "variant": "quiz",
+              "questions": [
+                {
+                  "name": "Question1",
+                  "question": ":::text--center \n Lukáš trpí náboženskými obsesemi a intenzivní vinou. Má nutkání opakovaně se modlit, aby se očistil od „hříšných“ myšlenek. \n \n Jaká expozice by pro něj byla vhodným prvním krokem?  \n :::",
+                  "options": [
+                    {
+                      "label": "A) Přečíst si článek o víře bez přeříkávání modlitby",
+                      "value": 0
+                    },
+                    {
+                      "label": "B) Záměrně si říct v mysli pochybující větu o víře a neudělat žádnou kompulzi",
+                      "value": 1
+                    },
+                    {
+                      "label": "C) Vynechat část modlitby a přijmout nejistotu, že není „dokonalá“",
+                      "value": 2
+                    }
+                  ],
+                  "correctAnswer": 0,
+                  "correctAnswerReason": "Správná odpověď je A). Tato expozice je méně náročná než ostatní možnosti a umožňuje Lukášovi postupně se učit snášet nejistotu bez okamžité kompulze."
+                },
+                {
+                  "name": "Question2",
+                  "question": ":::text--center \n Michal trpí vztahovým OCD. Neustále se ujišťuje, že ho partnerka miluje a že je jejich vztah „ten pravý.“ \n \n Která z následujících expozic není vhodná pro jeho postupné vystavování se nejistotě?  \n :::",
+                  "options": [
+                    {
+                      "label": "A) Všimnout si pochybnosti („Miluje mě?“) a nezeptat se partnerky",
+                      "value": 0
+                    },
+                    {
+                      "label": "B) Záměrně si představit scénář, že vztah není dokonalý, a neudělat kompulzi",
+                      "value": 1
+                    },
+                    {
+                      "label": "C) Přestat se zajímat o vztah a chovat se, jako by na něm nezáleželo",
+                      "value": 2
+                    }
+                  ],
+                  "correctAnswer": 2,
+                  "correctAnswerReason": "Správná odpověď je C). Vyhýbání se vztahu není expozice, ale chování, které dlouhodobě udržuje úzkost. Expozice by měla postupně pomáhat Michalovi snášet nejistotu bez nutnosti provádět kompulze. "
+                },
+                {
+                  "name": "Question3",
+                  "question": ":::text--center \n Veronika se rozhodla, že si bude každý večer zapisovat všechny tělesné pocity, které během dne zaznamenala. Když si všimne možných příznaků, hned si vyhledá možné diagnózy na internetu. \n \n Jaký dopad bude mít tento plán na její úzkost?  \n :::",
+                  "options": [
+                    {
+                      "label": "A) Pomůže jí to lépe sledovat své zdraví a uklidní se",
+                      "value": 0
+                    },
+                    {
+                      "label": "B) Posílí její soustředění na tělesné pocity a zesílí se úzkost",
+                      "value": 1
+                    },
+                    {
+                      "label": "C) Naučí ji ignorovat nepříjemné pocity a přestat se jimi zabývat",
+                      "value": 2
+                    }
+                  ],
+                  "correctAnswer": 1,
+                  "correctAnswerReason": "Správná odpověď je B). Tento krok není expozice, ale plán, jak úzkost zesílit. Neustálé sledování tělesných pocitů a vyhledávání informací zvyšuje pozornost k obavám. To vede k větší nejistotě a nutkání hledat další ujištění."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Hierarchie expozic v programu Mindwell",
+          "icon": "video",
+          "contentSections": [
+            {
+              "type": "markdown",
+              "content": "Na své hierarchii expozic budete pracovat mezi moduly. Cvičení najdete v sekci Expozice, ve které si můžete dělat záznamy kdykoli. Více informací o tom, jak cvičení funguje se dozvíte ve videu."
+            },
+            {
+              "type": "video",
+              "url": "xx"
+            },
+            {
+              "type": "collapse",
+              "content": "Zkuste se na chvilku jen zastavit. Nemusíte nic měnit. Nemusíte nic řešit. Nemusíte být jiní, než jste právě teď.“ \n \n „Možná právě sedíte. Možná ležíte. Možná vás něco tlačí. Možná cítíte úzkost… a možná klid. Ať je to jakkoli – jste tady. A to stačí.“ \n \n „Zkuste vnímat, jak se vaše tělo dotýká podložky. Kde se opíráte? Které místo cítíte jako těžší?  \n \n Které je uvolněné? Nemusíte to hodnotit. Jen pozorujte.“  \n \n „Možná si všimnete svého dechu. Vchází dovnitř… a ven. Nemusíte ho měnit. Jen sledujte, jak vás dech spojuje s přítomným okamžikem.“  \n \n „Když přijde myšlenka… můžete si jí všimnout. A pak ji nechat jít. Stejně jako list, který proud odnese dál po vodě.“  \n \n „Ať se dnes cítíte jakkoli – není to navždy. Vaše emoce, vaše myšlenky, vaše tělo… jsou živé. Mění se.  \n \n A právě teď se učíte být s tím vším – trochu jemněji.“  \n \n „Možná vám to přijde zvláštní. Možná hezké. Možná nudné. Všechno je v pořádku. Tohle je prostor, ve kterém nemusíte o nic usilovat.“  \n \n „Zůstaňte ještě chvíli… nebo se pomalu vraťte. Do dnešního dne. K sobě. S dechem. S vědomím, že i chvíle ticha je krok na cestě ke klidu a pohodě.“ ",
+              "title": "Radši si přečtu"
+            }
+          ]
+        },
+        {
+          "title": "Cvičení mindfulness",
+          "icon": "video",
+          "contentSections": [
+            {
+              "type": "markdown",
+              "content": "Na obsese, které nás nutí ke kompulzím, můžeme jít i jinak. Toto cvičení vám pomůže vnímat myšlenky jako dočasné události, které nemusíte hned brát jako pravdivé, ani jim věřit. Je zvláště užitečná při práci s myšlenkovými omyly a myšlenkami o myšlenkách."
+            },
+            {
+              "type": "video",
+              "url": "xx"
+            },
+            {
+              "type": "collapse",
+              "content": "Najděte si klidné místo. Můžete sedět nebo ležet. A jen se na chvíli zastavte. Dovolte si být tady. Nepotřebujete nic řešit. Nemusíte dělat nic správně. Jen pozorujte, co se děje uvnitř vás. \n \n Zaměřte se na dech. Nádech... výdech. Nádech... výdech. Pokud vám myšlenky utečou jinam, je to v pořádku. Všimněte si jich. A pak se vraťte zpět. \n \n Představte si, že každá vaše myšlenka je jako list na hladině vody. Objeví se... a proud ji pomalu nese dál. Možná připlave myšlenka: Co když se něco stane? – Můžete si jí všimnout... a nechat ji odplout. \n \n Další list: Musím to udělat správně. – Jen ho pozorujte... a sledujte, jak mizí. \n \n Když přijde nepříjemná nebo úzkostná myšlenka, nemusíte ji potlačovat. Nemusíte s ní bojovat. Můžete si říct: To je jen myšlenka. A nechat ji být. \n \n Věty jako Co když udělám chybu, Možná to znamená, že jsem špatný člověk, Musím mít jistotu... všechny mohou být myšlenky. Ale vy nemusíte hned věřit každé z nich. \n \n Každá myšlenka je list. A proud ji odnese. Vy se mezitím můžete zhluboka nadechnout... a cítit, že i teď, v tomto okamžiku, je všechno tak, jak má být.",
+              "title": "Radši si přečtu"
+            }
+          ]
+        },
+        {
+          "title": "Bonusový příběh",
+          "icon": "audio",
+          "contentSections": [
+            {
+              "type": "markdown",
+              "content": "V následujícím audio příběhu si můžete poslechnout, jak se Petr postavil ke svým obsesím."
+            },
+            {
+              "type": "audio",
+              "audioSrc": "xx",
+              "title": "Bonusový příběh",
+              "imageSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Bonusovy_pribeh_ac9eacd4c8.svg"
+            },
+            {
+              "type": "collapse",
+              "content": "**VYPRAVĚČ:** Bylo pondělní ráno. Petr už popáté zkontroloval sporák. Zkontroloval ho předtím, než vypnul světlo. Znovu, když si obul boty. Ještě jednou, když se vrátil z chodby. A pak znovu, těsně předtím, než skutečně odešel.  \n \n **PETR:** „Zavřeno. Je to zavřeno? Zkontroloval jsem to. Ale... jak přesně to kliklo? Neslyšel jsem to úplně stejně jako včera.“ \n \n **VYPRAVĚČ:** Otočil se. Vrátil se. Přítelkyně stála mezi dveřmi, s hrnkem čaje. \n \n **ALENA:** „Zase jdeš zkontrolovat zámek?“ \n \n **PETR:** „Pro jistotu. Vím, že jsem ho zamkl. Ale něco mi říká, že ne úplně.“  \n \n **VYPRAVĚČ:** Začalo to před pár lety. Nejprve jen občas. Pak skoro každý den. Pak každý den. Sporák. Dveře. Kávovar. Vypínače. Obrazy na zdi. Jestli jsou rovně. Jestli jsou bezpečné. \n \n **PETR:** „Když to nezkontroluju, může se něco stát. Když se něco stane, bude to moje vina. A já to neunesu.“  \n \n **VYPRAVĚČ:** Jednoho večera přišla jeho přítelkyně z práce. Sedli si. Mlčeli. Pak mu řekla:  \n \n **ALENA:** „Nechci být tvá pojistka. Nechci ti pořád říkat, že je všechno v pořádku. Vím, že se bojíš. Ale já tě nechci pořád ujišťovat.“ \n \n **VYPRAVĚČ:** Zamrazilo ho. Ale chápal ji. A právě v ten večer... když nemohl usnout, otevřel notebook. Našel program, který mu doporučil terapeut. \n \n **HLAS V PROGRAMU:** „Někdy si myslíme, že kontrolou chráníme svět. Ale často se jen snažíme utéct vlastní nejistotě.“ \n \n **VYPRAVĚČ:** Začal si psát deník. Situace: odchod z bytu. Obsese: „Co když jsem nezamkl?“ Úzkost: 8. Kompulze: kontrola. Úleva: jen na chvíli. \n \n **PETR:** „Dneska jsem odešel bez kontroly. Úzkost: 7. Ale vydržel jsem to. Po dvaceti minutách klesla na 5. Nevrátil jsem se. Zůstal jsem v práci. První malé vítězství.“  \n \n **VYPRAVĚČ:** Jednou ráno – možná poprvé – odešel bez kontroly. Hodně to s ním cloumalo. Ale zůstal v tramvaji. Celý den si připomínal:  \n \n **PETR:** „Dveře jsou zavřené. Úzkost je jen pocit. Nemusím jí věřit. Můžu ji pozorovat. A nechat být.“  \n \n **VYPRAVĚČ:** Večer doma mu přítelkyně podala hrnek čaje. Usmála se. \n \n **ALENA:** „Dnes jsi to zvládl. Díky, že to zkoušíš.“ \n \n **PETR:** „Díky, že jsi tady. Už nepotřebuju pojistku. Stačí, že víš, jaký to je.“ \n \n **VYPRAVĚČ:** Petr ví, že změna nepřijde ze dne na den. Ale už chápe, že každý den je součástí jeho cesty. A že někdy je největší síla právě v tom, zůstat s nejistotou a dovolit si ji prožít.",
+              "title": "Radši si přečtu"
+            }
+          ]
+        },
+        {
+          "title": "Dokončili jste druhý modul!",
+          "icon": "Exercise",
+          "contentSections": [
+            {
+              "type": "image",
+              "isExpandable": false,
+              "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Modul_dokoncen_1785f55c82.svg",
+              "width": "100%",
+              "alt": "Postava pouštějící papírovou vlaštovku",
+              "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Modul_dokoncen_mobile_00b1a7904d.svg",
+              "widthMobile": "100%",
+              "align": "center",
+              "unoptimized": true
+            },
+            {
+              "type": "list",
+              "title": "**V tomto modulu jste se dozvěděli:**",
+              "color": "#27637C",
+              "items": [
+                "Ukázali jsme si, že ne každé myšlence musíme věřit a že myšlenky nejsou fakta.",
+                "Seznámili jste se s myšlenkovými omyly – častými zkresleními, která nás vedou k úzkosti a kompulzím.",
+                "Zaměřili jsme se i na myšlenky o myšlenkách, které často OCD udržují.",
+                "Zjistili jsme, co jsou to expozice a naučili jsme se vytvořit jejich hierarchii – seznam kroků, jak se postupně vystavovat nepříjemným situacím a získávat větší svobodu. "
+              ]
+            },
+            {
+              "type": "note",
+              "placeholder": "Co vás zaujalo?",
+              "title": "**Co pro vás bylo nejpřínosnější nebo nejzajímavější?**",
+              "rows": 2,
+              "maxLength": 500,
+              "lengthValidationMessage": "Maximální délka odpovědi je 500 znaků.",
+              "required": false
+            }
+          ]
+        },
+        {
+          "title": "Týdenní výzva",
+          "icon": "video",
+          "contentSections": [
+            {
+              "type": "markdown",
+              "content": "Blahopřejeme, že jste dospěli až sem. Připravili jsme pro vás další týdenní výzvu."
+            },
+            {
+              "type": "video",
+              "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M2_5_05726e38b7.mp4"
+            },
+            {
+              "type": "collapse",
+              "content": "Dobrá práce! Právě jste **dokončili druhý modul** programu. Do sedmi dnů po odeslání vám přijde **zpráva** od vašeho terapeuta. \n \n Připravili jsme pro vás další **týdenní výzvu**. Tento týden zkuste **pozorovat a zapisovat filtry myšlení**, o kterých jste se dozvěděli v tomto modulu. Když si během týdne všimnete, že vaše myšlenky mohou být zkreslené, poznamenejte si to. \n \n Zkuste rozpoznat, který filtr myšlení jste zachytili. Bylo to tunelové vidění, katastrofizace, myšlenky o myšlenkách nebo jiný filtr? Zaznamenejte si také situaci, která to vyvolala. \n \n Nesnažte se své myšlení hned měnit. Cílem je si nejdříve **uvědomit**, jak často a v jakých situacích se to u vás děje. \n \n Každý záznam vám pomůže na cestě k vyváženějšímu myšlení. Čím více si těchto filtrů všimnete, tím lépe je pak dokážete **rozpoznat** a **postupně měnit.** \n \n Možná si říkáte, že se rovnou pustíte do své **hierarchie expozic**. Takové odhodlání je skvělé a budeme rádi, když si ho udržíte. Zatím vám ale doporučujeme s expozicemi počkat. V příštím modulu si totiž ukážeme, jak nám se začátky mohou pomoct **expozice v představě.** \n \n A pamatujte, týdenní výzva není o tom se za myšlenkové filtry kárat nebo trestat. Jde o to být **k sobě více pozorní.** \n \n Budeme se na vás těšit v dalším modulu!",
+              "title": "Radši si přečtu"
+            }
+          ]
+        },
+        {
+          "title": "Co vás čeká příště?",
+          "icon": "text",
+          "contentSections": [
+            {
+              "type": "image",
+              "isExpandable": false,
+              "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Co_vas_ceka_priste_1229fc51ec.svg",
+              "width": "100%",
+              "alt": "Postavička s velkou tužkou, kterou si kreslí schody",
+              "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Co_vas_ceka_priste_mobile_158d3c08a9.svg",
+              "widthMobile": "100%",
+              "align": "center",
+              "unoptimized": true
+            },
+            {
+              "type": "list",
+              "title": "**V příštím modulu se dozvíte:**",
+              "color": "#27637C",
+              "items": [
+                "Co jsou expozice v představě a jak je používat.",
+                "Jak si sestavit scénář expozice v představě.",
+                "Jak u dělání expozic vytrvat a překonat možné překážky."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Jak se vám modul líbil?",
+          "icon": "Exercise",
+          "contentSections": [
+            {
+              "type": "satisfactionQuestionnaire",
+              "omitTherapistHelpsQuestion": false
+            },
+            {
+              "type": "note",
+              "placeholder": "Co máte na srdci?",
+              "title": "**Napadá vás, jak bychom mohli program vylepšit?**",
+              "rows": 2,
+              "required": false
+            }
+          ]
+        }
+  ]
+}

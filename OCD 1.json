@@ -1,0 +1,2345 @@
+{
+  "pages": [
+      {
+          "title": "Vítejte v prvním modulu",
+          "icon": "video",
+          "contentSections": [
+            {
+              "type": "video",
+              "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M1_1_b38bc085f4.mp4"
+            },
+            {
+              "type": "collapse",
+              "content": "Vítejte v našem programu pro lidi s **obsedantně-kompulzivní poruchou**. Mé jméno je Kateřina. \n \n A mé jméno je Adam. \n \n A společně vás budeme doprovázet celým programem. \n \n Možná jste **unavení**. Z nejistoty. Z myšlenek, které nechtějí odejít. Možná vás vyčerpává neustálé přemýšlení, kontrolování a hledání jistoty. \n \n Nejste v tom ale sami. Tento program je tu pro vás. Krok za krokem vám pomůže **porozumět, co se s vámi děje**. A ukáže vám **konkrétní cesty, jak z toho ven.** \n \n Najdete v něm **příběhy** lidí, kteří zažívají podobné potíže jako vy. A možná v nich objevíte i kousek sebe sama. \n \n Poznáte, jak vypadá **bludný kruh obsesí a kompulzí**. Naučíte se rozpoznávat, co ho spouští a co vás udržuje v napětí. \n \n Také si vyzkoušíte **cvičení**, která posílí vaše porozumění a přinesou úlevu. Zjistíte, že na **změnu není nikdy pozdě.** \n \n Nebudete na to sami. Po každém modulu dostanete **zprávu od svého osobního terapeuta.** Ale vy můžete pracovat vlastním tempem. Bez tlaku. \n \n Držíme vám palce, a přejeme vám, ať to jde od ruky.",
+              "title": "Radši si přečtu"
+            },
+            {
+              "type": "list",
+              "title": "**V tomto modulu se dozvíte:**",
+              "color": "#27637C",
+              "items": [
+                "Jak se projevuje obsedantně-kompulzivní porucha.",
+                "Jaké jsou příčiny vzniku OCD a co OCD udržuje.",
+                "Jaká jsou nejčastější témata obsesí a jaké jsou s nimi spojené kompulze.",
+                "Co je to bludný kruh OCD."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Dotazník o příznacích OCD",
+          "icon": "check",
+          "isEvaluable": true,
+          "finalScreen": {
+            "buttonLabel": "Upravit odpovědi",
+            "contentSections": [
+              {
+                "type": "image",
+                "isExpandable": true,
+                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Mountain_dc166aa05f.svg",
+                "width": "195px",
+                "alt": "Obrázek hory s vlajkou na vrcholu",
+                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Mountain_dc166aa05f.svg",
+                "widthMobile": "195px",
+                "align": "center"
+              },
+              {
+                "type": "markdown",
+                "content": ":::text--center \n #### Těšíme se na společnou cestu! \n \n Tento dotazník budete vyplňovat na začátku každého modulu. Pomůže vám sledovat, jak na tom jste. \n :::"
+              }
+            ]
+          },
+          "contentSections": [
+            {
+              "type": "oci12Survey"
+            }
+          ]
+        },
+        {
+          "title": "Dotazník o příznacích deprese",
+          "icon": "check",
+          "isEvaluable": true,
+          "finalScreen": {
+            "buttonLabel": "Upravit odpovědi",
+            "contentSections": [
+              {
+                "type": "image",
+                "isExpandable": true,
+                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Hands_1de1a67dae.svg",
+                "width": "220px",
+                "alt": "Dvě ruce natažené k sobě, symbolizující podporu, propojení a lidský kontakt",
+                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Hands_1de1a67dae.svg",
+                "widthMobile": "220px",
+                "align": "center"
+              },
+              {
+                "type": "markdown",
+                "content": ":::text--center \n #### Děkujeme, že to sdílíte. \n \n Vaše psychická pohoda je pro nás důležitá. Budeme ji spolu průběžně sledovat. \n :::"
+              }
+            ]
+          },
+          "contentSections": [
+            {
+              "type": "phq9Survey"
+            }
+          ]
+        },
+        {
+          "title": "Co jsou obsese a kompulze?",
+          "icon": "video",
+          "contentSections": [
+            {
+              "type": "video",
+              "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Obsese_A_Kompulze_1_c64e9e4031.mp4"
+            },
+            {
+              "type": "collapse",
+              "content": "**Co jsou obsese a kompulze?** \n \n Lidé s **obsedantně-kompulzivní poruchou** (jinak také OCD) se trápí nutkavými myšlenkami, impulzy nebo představami. Těm se říká **obsese**. Objevují se automaticky, mimovolně, aniž by si je přáli. Navozují **nepohody**, nejčastěji úzkosti. Objevují se však i pocity znechucení, studu, viny nebo neklidu.   \n \n Aby se těchto pocitů člověk zbavil, nebo je zmírnil, provádí **kompulze**. Ty se mohou projevovat v **chování**, např. při opakovaném mytí rukou, nebo kontrolování, zda jsme vypnuli sporák. Mohou se také objevit v **myšlenkách**, např. opakováním určitých vět v hlavě, modlitbou, vyvoláváním představ snižujících napětí nebo počítáním v duchu. \n \n Obsese vždy něco spouští. Lidé s OCD se proto obvykle **vyhýbají situacím**, ve kterých je zažívají. Mohou se třeba vyhýbat jízdě hromadnou dopravou, kterou vnímá jako líheň nemocí. \n \n Jindy se **zabezpečují**, tedy snaží se předejít tomu, aby se obsese naplnila. Někdo u sebe u sebe třeba nosí rukavice, které si nasazuje pokaždé, když se má něčeho dotknout. A pak je doma vypere, nebo rovnou vyhodí. \n \n Dalším způsob, jak snížit nepříjemné pocity, je **ujišťování u druhých lidí**, že katastrofa, kterou ho straší jeho obsese, nenastane. \n \n V tomto modulu se podíváme na nejčastější témata, která lidi s OCD trápí. Projdeme si různé typy vtíravých myšlenek a kompulzí, které s nimi souvisí. Poznáte, že **nejste sami**. Mnoho lidí se potýká s podobnými problémy.",
+              "title": "Radši si přečtu"
+            }
+          ]
+        },
+        {
+          "title": "Témata obsesí a kompulzí",
+          "icon": "text",
+          "contentSections": [
+            {
+              "type": "markdown",
+              "content": "Nyní si ukážeme základní **témata obsesí a kompulzí**. Můžete u sebe pozorovat jeden, nebo více typů. Je běžné, že se člověk nachází v několika z nich. Možná si taky uvědomíte, že jste se dříve potýkali s jedním typem a teď vás trápí zase něco jiného. I to je běžné a nemusí vám to dělat těžkou hlavu. \n \n **Témata obsesí a kompulzí**"
+            },
+            {
+              "type": "tool",
+              "tool": "interactiveCardModal",
+              "cardsPictureWidth": 75,
+              "cardsPictureHeight": 75,
+              "disabled": false,
+              "isSingleColumn": false,
+              "icon": "ArrowRight",
+              "buttonLabel": "Uložit",
+              "cards": [
+                {
+                  "id": "Infection and dirt",
+                  "title": "Nákaza, špína, škodliviny",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Icon_Nakaza_spina_skodliviny_8aa6a23a1b.svg",
+                  "contentCard": [
+                    {
+                      "type": "markdown",
+                      "content": "Obsahem těchto obsesí je nadměrný **strach ze znečištěn**. Někdy se lidé bojí nějaké určité látky, jindy se obávají obecně špíny nebo zdraví škodlivých věcí."
+                    },
+                    {
+                      "type": "noteBox",
+                      "desktopImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Obsese_Nakaza_spina_skodliviny_7e18ab03bf.svg",
+                      "mobileImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Obsese_Nakaza_spina_skodliviny_mobile_14b239d958.svg",
+                      "backgroundColor": "#DFE8EB",
+                      "textColor": "#27637C",
+                      "text": "**Obvyklé nutkavé myšlenky (obsese)** \n \n - Nadměrný nutkavý strach z nakažlivé nemoci \n \n - Nadměrná štítivost vůči některým, nejčastěji tělesným tekutinám (moč, krev, hleny, stolice)  \n \n - Nadměrný strach z jedů, kyselin, louhů a jiných chemických látek ",
+                      "desktopImageWidth": "110px",
+                      "mobileImageWidth": "110px",
+                      "isWrapping": true
+                    },
+                    {
+                      "type": "noteBox",
+                      "desktopImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Kompulze_Nakaza_spina_skodliviny_a93987211e.svg",
+                      "mobileImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Kompulze_Nakaza_spina_skodliviny_mobile_8a303f3557.svg",
+                      "backgroundColor": "#EFE9EC",
+                      "textColor": "#3F1024",
+                      "text": "**Obvyklé nutkavé chování (kompulze)** \n \n - Nadměrné mytí sebe nebo okolí (např. domácnost, potraviny apod.) \n \n - Používání dezinfekce nebo užívání léků kvůli obsesím \n \n - Vyhýbání se místům, ve kterých by se člověk mohl nakazit, onemocnět nebo se ušpinit ",
+                      "desktopImageWidth": "110px",
+                      "mobileImageWidth": "110px",
+                      "isWrapping": true
+                    },
+                    {
+                      "type": "decider",
+                      "items": [
+                        {
+                          "title": "Poznávám se v tom"
+                        },
+                        {
+                          "title": "Nepoznávám se v tom"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "Magical Thinking",
+                  "title": "Magický obsah",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Icon_Magicky_obsah_bc2e16dcfd.svg",
+                  "contentCard": [
+                    {
+                      "type": "markdown",
+                      "content": "Obsese s tzv. **magických obsahem** připomínají staré **pověry**, které známe z běžného života, např. černá kočka přes ulici nebo kominík. Na rozdíl od nich však přinášejí opravdové utrpení a jejich porušení přináší pocit silného napětí a zlověstného očekávání. Často se objevují jako představy a obrazy."
+                    },
+                    {
+                      "type": "noteBox",
+                      "desktopImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Obsese_Magicky_obsah_3715306bde.svg",
+                      "mobileImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Obsese_Magicky_obsah_mobile_bfcedeff4d.svg",
+                      "backgroundColor": "#DFE8EB",
+                      "textColor": "#27637C",
+                      "text": "**Obvyklé nutkavé myšlenky (obsese)** \n \n - Když se něco neudělá podle určité představy, nebo v konkrétním pořadí, stane se něco hrozného \n \n - Když zahlédnu nějaké číslo nebo kombinaci čísel, stane se něco špatného",
+                      "desktopImageWidth": "110px",
+                      "mobileImageWidth": "110px",
+                      "isWrapping": true
+                    },
+                    {
+                      "type": "noteBox",
+                      "desktopImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Kompulze_Magicky_obsah_fe500a172f.svg",
+                      "mobileImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Kompulze_Magicky_obsah_mobile_50eb0c7791.svg",
+                      "backgroundColor": "#EFE9EC",
+                      "textColor": "#3F1024",
+                      "text": "**Obvyklé nutkavé chování (kompulze)** \n \n - Opakování běžných činností (např. oblékání, stolování, zapínání rádia) \n \n - Pověrčivé chování (např. chození jen po bílých kostkách kachliček, nepřekračování čar, počítání čísel, modlení se)",
+                      "desktopImageWidth": "110px",
+                      "mobileImageWidth": "110px",
+                      "isWrapping": true
+                    },
+                    {
+                      "type": "decider",
+                      "items": [
+                        {
+                          "title": "Poznávám se v tom"
+                        },
+                        {
+                          "title": "Nepoznávám se v tom"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "Hoarding",
+                  "title": "Hromadění věcí",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Icon_Hromadeni_veci_ca424272aa.svg",
+                  "contentCard": [
+                    {
+                      "type": "markdown",
+                      "content": "Základem těchto obsesí je obava, že věc, kterou navždy ztratím, či vyhodím, budu někdy **nutně potřebovat**. Někdy však může být hodně těžké uvědomit si **důvod k hromadění.**"
+                    },
+                    {
+                      "type": "noteBox",
+                      "desktopImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Obsese_Hromadeni_veci_mobile_4075ae2f6c.svg",
+                      "mobileImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Obsese_Hromadeni_veci_197eb860f5.svg",
+                      "backgroundColor": "#DFE8EB",
+                      "textColor": "#27637C",
+                      "text": "**Obvyklé nutkavé myšlenky (obsese)** \n \n - Strach ze ztráty \n \n - Strach z opomenutí něčeho důležitého \n \n - Strach, že něco budu potřebovat a už to nebudu mít \n \n - Strach, že budu litovat, že jsem přišel/a o něco důležitého",
+                      "desktopImageWidth": "110px",
+                      "mobileImageWidth": "110px",
+                      "isWrapping": true
+                    },
+                    {
+                      "type": "noteBox",
+                      "desktopImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Kompulze_Hromadeni_veci_04a24896fc.svg",
+                      "mobileImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Kompulze_Hromadeni_veci_mobile_418bbee204.svg",
+                      "backgroundColor": "#EFE9EC",
+                      "textColor": "#3F1024",
+                      "text": "**Obvyklé nutkavé chování (kompulze)** \n \n - Nadměrné hromadění informací, účtů, novin, časopisů... \n \n - Nadměrné hromadění zásob: čistících prostředků, trvanlivých potravin... \n \n - Nadměrné hromadění náhradních dílů, nářadí, věcí denní potřeby: tužky, nitě, látky, dráty...",
+                      "desktopImageWidth": "110px",
+                      "mobileImageWidth": "110px",
+                      "isWrapping": true
+                    },
+                    {
+                      "type": "decider",
+                      "items": [
+                        {
+                          "title": "Poznávám se v tom"
+                        },
+                        {
+                          "title": "Nepoznávám se v tom"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "Control",
+                  "title": "Kontrolování",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Icon_Kontrolovani_3938245696.svg",
+                  "contentCard": [
+                    {
+                      "type": "markdown",
+                      "content": "Tyto obsese patří k nejčastějším. V jejich jádru je **nedůvěra ve vlastní smysly**, paměť či schopnost kontroly, ze které plyne velký strach ze způsobení neštěstí."
+                    },
+                    {
+                      "type": "noteBox",
+                      "desktopImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Obsese_Kontrolovani_786963e071.svg",
+                      "mobileImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Obsese_Kontrolovani_mobile_d78526ab6a.svg",
+                      "backgroundColor": "#DFE8EB",
+                      "textColor": "#27637C",
+                      "text": "**Obvyklé nutkavé myšlenky (obsese)** \n \n - Strach z vykradení \n \n - Strach z požáru nebo výbuchu plynu \n \n - Strach z ublížení sobě i jiným kvůli své (domnělé) nedbalosti \n \n - Strach ze způsobení nepříjemnosti ztrátou, opomenutím apod.",
+                      "desktopImageWidth": "110px",
+                      "mobileImageWidth": "110px",
+                      "isWrapping": true
+                    },
+                    {
+                      "type": "noteBox",
+                      "desktopImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Kompulze_Kontrolovani_b194f85980.svg",
+                      "mobileImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Kompulze_Kontrolovani_mobile_f74c35dbdc.svg",
+                      "backgroundColor": "#EFE9EC",
+                      "textColor": "#3F1024",
+                      "text": "**Obvyklé nutkavé chování (kompulze)** \n \n - Opakované kontroly vypínačů, zástrček, elektrického vedení \n \n - Opakované kontroly uzamčení dveří, oken, aut \n \n - Opakované kontroly popelníků, ohniště, zapalovače apod. \n \n - Opakované kontroly peněženky, dokladů apod.",
+                      "desktopImageWidth": "110px",
+                      "mobileImageWidth": "110px",
+                      "isWrapping": true
+                    },
+                    {
+                      "type": "decider",
+                      "items": [
+                        {
+                          "title": "Poznávám se v tom"
+                        },
+                        {
+                          "title": "Nepoznávám se v tom"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "Rumination",
+                  "title": "Ruminace",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Icon_Ruminace_ae24f788c8.svg",
+                  "contentCard": [
+                    {
+                      "type": "markdown",
+                      "content": "Podstatou těchto obsesí je nadměrný **důraz na zapamatování** všech domněle důležitých informací. Někdy zahrnuje i obavu, že neznalost těchto informací přinese nějakou újmu."
+                    },
+                    {
+                      "type": "noteBox",
+                      "desktopImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Obsese_Ruminace_34ab1645b5.svg",
+                      "mobileImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Obsese_Ruminace_mobile_9c4aae8f20.svg",
+                      "backgroundColor": "#DFE8EB",
+                      "textColor": "#27637C",
+                      "text": "**Obvyklé nutkavé myšlenky (obsese)** \n \n - Nutkavá potřeba sbírat, pamatovat si a vybavovat informace \n \n - Nutkavé zabývání se určitým tématem stále znovu a znovu",
+                      "desktopImageWidth": "110px",
+                      "mobileImageWidth": "110px",
+                      "isWrapping": true
+                    },
+                    {
+                      "type": "noteBox",
+                      "desktopImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Kompulze_Ruminace_a61080efd4.svg",
+                      "mobileImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Kompulze_Ruminace_mobile_697320a990.svg",
+                      "backgroundColor": "#EFE9EC",
+                      "textColor": "#3F1024",
+                      "text": "**Obvyklé nutkavé chování (kompulze)** \n \n - Opakované přeříkání si něčeho naučeného \n \n - Zjišťování zapomenutých informací u druhých \n \n - Podrobné vedení záznamů \n \n - Nutkavé vyhledávání informací \n \n - Psaní si lístečků s tématy a jejich hromadění",
+                      "desktopImageWidth": "110px",
+                      "mobileImageWidth": "110px",
+                      "isWrapping": true
+                    },
+                    {
+                      "type": "decider",
+                      "items": [
+                        {
+                          "title": "Poznávám se v tom"
+                        },
+                        {
+                          "title": "Nepoznávám se v tom"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "Agressive themes",
+                  "title": "Agresivní témata",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Icon_Agresivni_temata_20bff9e624.svg",
+                  "contentCard": [
+                    {
+                      "type": "markdown",
+                      "content": "Tyto obsese mají původ v docela **nevinných myšlenkách**, které se objevují u všech lidí. Jedná se o náhlé nápady, které zcela popírají naše **mravní zásady**. Může to být třeba nápad vykřikovat oplzlosti na veřejnosti nebo myšlenky o tom, že bychom někoho uhodili, bodli, udusili apod. \n \n Pokud se tyto myšlenky spojí se silným **strachem** a **výčitkami svědomí**, může se rozvinout až do mučivých obsesí."
+                    },
+                    {
+                      "type": "noteBox",
+                      "desktopImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Obsese_Agresivni_temata_bfc842f57e.svg",
+                      "mobileImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Obsese_Agresivni_temata_mobile_d104f2ea63.svg",
+                      "backgroundColor": "#DFE8EB",
+                      "textColor": "#27637C",
+                      "text": "**Obvyklé nutkavé myšlenky (obsese)** \n \n - Nutkavý nápad, že někomu úmyslně fyzicky ublížím \n \n - Nutkavý nápad, že něco úmyslně poškodím, podpálím, zničím",
+                      "desktopImageWidth": "110px",
+                      "mobileImageWidth": "110px",
+                      "isWrapping": true
+                    },
+                    {
+                      "type": "noteBox",
+                      "desktopImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Kompulze_Agresivni_temata_6a51c0f950.svg",
+                      "mobileImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Kompulze_Agresivni_temata_mobile_2505fb6870.svg",
+                      "backgroundColor": "#EFE9EC",
+                      "textColor": "#3F1024",
+                      "text": "**Obvyklé nutkavé chování (kompulze)** \n \n - Odříkávání (často jen v myšlenkách) uklidňujících myšlenek, vět, slov nebo „zaklínadel“ \n \n - Vybavování si ochranných představ",
+                      "desktopImageWidth": "110px",
+                      "mobileImageWidth": "110px",
+                      "isWrapping": true
+                    },
+                    {
+                      "type": "decider",
+                      "items": [
+                        {
+                          "title": "Poznávám se v tom"
+                        },
+                        {
+                          "title": "Nepoznávám se v tom"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "Order and symetry",
+                  "title": "Pořádek a symetrie",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Icon_Poradek_a_symetrie_48b3329284.svg",
+                  "contentCard": [
+                    {
+                      "type": "markdown",
+                      "content": "Při tomto druhu obsesí má člověk neustálou potřebu udržovat ve všem **dokonalý pořádek** a **řád**. Jedná se neměnné a velmi pevně zakořeněné představy o tom, jak provádět běžné denní úkony. Vybočení z těchto představ je zdrojem velkého napětí a úzkosti. "
+                    },
+                    {
+                      "type": "noteBox",
+                      "desktopImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Obsese_Poradek_a_symetrie_7e90360c48.svg",
+                      "mobileImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Obsese_Poradek_a_symetrie_mobile_a8dbf2b87d.svg",
+                      "backgroundColor": "#DFE8EB",
+                      "textColor": "#27637C",
+                      "text": "**Obvyklé nutkavé myšlenky (obsese)** \n \n - Nutkavá představa přesně dané úpravy vlastního zevnějšku \n \n - Nutkavá představa přesně dané úpravy bytu, obsahu skříní, zásuvek, kapes, pracovního plochy... \n \n - Nutkání upravovat věci kolem sebe do geometricky symetrických tvarů",
+                      "desktopImageWidth": "110px",
+                      "mobileImageWidth": "110px",
+                      "isWrapping": true
+                    },
+                    {
+                      "type": "noteBox",
+                      "desktopImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Kompulze_Poradek_a_symetrie_aea43be985.svg",
+                      "mobileImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Kompulze_Poradek_a_symetrie_mobile_aa6d04b7f4.svg",
+                      "backgroundColor": "#EFE9EC",
+                      "textColor": "#3F1024",
+                      "text": "**Obvyklé nutkavé chování (kompulze)** \n \n - Přehnaná pečlivá úprava zevnějšku \n \n - Několikahodinové vyčerpávající uklízení, přerovnávání, zarovnávaní \n \n - Ukládání věcí do graficky přitažlivých obrazců, symetrických, často kolmých na sebe",
+                      "desktopImageWidth": "110px",
+                      "mobileImageWidth": "110px",
+                      "isWrapping": true
+                    },
+                    {
+                      "type": "decider",
+                      "items": [
+                        {
+                          "title": "Poznávám se v tom"
+                        },
+                        {
+                          "title": "Nepoznávám se v tom"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "Religious themes",
+                  "title": "Náboženská témata",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Icon_Nabozenska_temata_1f1f8ee4eb.svg",
+                  "contentCard": [
+                    {
+                      "type": "markdown",
+                      "content": "Tento typ příznaků se týká strachu z **morálního** nebo **duchovního selhání**. Člověk se bojí, že udělal něco špatného nebo že není dostatečně „čistý“ podle svých hodnot."
+                    },
+                    {
+                      "type": "noteBox",
+                      "desktopImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Obsese_Nabozenska_temata_417014cebb.svg",
+                      "mobileImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Obsese_Nabozenska_temata_mobile_58d79793f7.svg",
+                      "backgroundColor": "#DFE8EB",
+                      "textColor": "#27637C",
+                      "text": "**Obvyklé nutkavé myšlenky (obsese)** \n \n - Strach ze spáchání hříchu nebo morální chyby \n \n - Obava z toho, že člověk urazí Boha nebo vyšší moc, bude se rouhat \n \n - Strach z nečistých nebo nemorálních myšlenek",
+                      "desktopImageWidth": "110px",
+                      "mobileImageWidth": "110px",
+                      "isWrapping": true
+                    },
+                    {
+                      "type": "noteBox",
+                      "desktopImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Kompulze_Nabozenska_temata_df391f3bf5.svg",
+                      "mobileImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Kompulze_Nabozenska_temata_mobile_281d65934e.svg",
+                      "backgroundColor": "#EFE9EC",
+                      "textColor": "#3F1024",
+                      "text": "**Obvyklé nutkavé chování (kompulze)** \n \n - Opakované modlitby nebo rituály k „očištění“ \n \n - Opakované ujišťování u duchovních autorit \n \n - Neustálé zpytování svědomí a vzpomínání na minulé činy",
+                      "desktopImageWidth": "110px",
+                      "mobileImageWidth": "110px",
+                      "isWrapping": true
+                    },
+                    {
+                      "type": "decider",
+                      "items": [
+                        {
+                          "title": "Poznávám se v tom"
+                        },
+                        {
+                          "title": "Nepoznávám se v tom"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "Sexual themes",
+                  "title": "Sexuální témata",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Icon_Sexualni_temata_93fd02fd0f.svg",
+                  "contentCard": [
+                    {
+                      "type": "markdown",
+                      "content": "Tento typ příznaků OCD zahrnuje nechtěné a znepokojivé myšlenky o **sexualitě**, které vyvolávají silnou úzkost. Člověk se snaží najít jistotu, že jeho myšlenky „nic neznamenají.“"
+                    },
+                    {
+                      "type": "noteBox",
+                      "desktopImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Obsese_Sexualni_temata_0616b8328f.svg",
+                      "mobileImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Obsese_Sexualni_temata_mobile_9bcaefd59d.svg",
+                      "backgroundColor": "#DFE8EB",
+                      "textColor": "#27637C",
+                      "text": "**Obvyklé nutkavé myšlenky (obsese)** \n \n - Strach z nevhodných nebo nepřijatelných sexuálních myšlenek a představ \n \n - Obava, že člověka přitahuje někdo, kdo by ho neměl přitahovat \n \n - Vtíravé otázky o své sexuální orientaci",
+                      "desktopImageWidth": "110px",
+                      "mobileImageWidth": "110px",
+                      "isWrapping": true
+                    },
+                    {
+                      "type": "noteBox",
+                      "desktopImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Kompulze_Sexualni_temata_d7913ca5a9.svg",
+                      "mobileImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Kompulze_Sexualni_temata_mobile_549ee7dd34.svg",
+                      "backgroundColor": "#EFE9EC",
+                      "textColor": "#3F1024",
+                      "text": "**Obvyklé nutkavé chování (kompulze)** \n \n - Testování pocitů při pohledu na různé lidi nebo situace \n \n - Přehnaná kontrola svého chování, vyhýbání se blízkosti druhých lidí \n \n - Nutkavé čtení informací o sexualitě, aby se člověk dopátral pravdy \n \n - Nutkavé přemýšlení o své sexuální orientaci",
+                      "desktopImageWidth": "110px",
+                      "mobileImageWidth": "110px",
+                      "isWrapping": true
+                    },
+                    {
+                      "type": "decider",
+                      "items": [
+                        {
+                          "title": "Poznávám se v tom"
+                        },
+                        {
+                          "title": "Nepoznávám se v tom"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "Relationship Themes",
+                  "title": "Vztahová témata",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Icon_Vztahova_temata_2b9ea7e2c9.svg",
+                  "contentCard": [
+                    {
+                      "type": "markdown",
+                      "content": "Tento typ příznaků se zaměřuje na pochybnosti o **vztahu**, o **partnerovi** nebo o vlastních **citech**. Člověk se neustále snaží získat jistotu, což naopak vede k větší nejistotě."
+                    },
+                    {
+                      "type": "noteBox",
+                      "desktopImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Obsese_Vztahova_temata_233259a9d2.svg",
+                      "mobileImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Obsese_Vztahova_temata_mobile_476d8d8219.svg",
+                      "backgroundColor": "#DFE8EB",
+                      "textColor": "#27637C",
+                      "text": "**Obvyklé nutkavé myšlenky (obsese)** \n \n - Strach, že partner není „ten pravý“ \n \n - Obava, že vztah není dost dobrý \n \n - Nutkavý strach, že partner podvádí nebo že člověk sám podvádí nebo podvedl",
+                      "desktopImageWidth": "110px",
+                      "mobileImageWidth": "110px",
+                      "isWrapping": true
+                    },
+                    {
+                      "type": "noteBox",
+                      "desktopImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Kompulze_Vztahova_temata_1590bf44b3.svg",
+                      "mobileImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Kompulze_Vztahova_temata_mobile_07c8fe228f.svg",
+                      "backgroundColor": "#EFE9EC",
+                      "textColor": "#3F1024",
+                      "text": "**Obvyklé nutkavé chování (kompulze)** \n \n - Neustálé probírání vlastních pocitů k partnerovi \n \n - Opakované ujišťování u partnera nebo u jiných lidí \n \n - Opakované rozebírání vlastností a chování partnera \n \n - Porovnávání vztahu s jinými páry",
+                      "desktopImageWidth": "110px",
+                      "mobileImageWidth": "110px",
+                      "isWrapping": true
+                    },
+                    {
+                      "type": "decider",
+                      "items": [
+                        {
+                          "title": "Poznávám se v tom"
+                        },
+                        {
+                          "title": "Nepoznávám se v tom"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Inventář obsesí",
+          "icon": "check",
+          "isEvaluable": true,
+          "contentSections": [
+            {
+              "required": true,
+              "type": "tool",
+              "tool": "OCDInventory",
+              "toolSection": "page1",
+              "toolSectionData": {
+                "description": "Následující dotazník vám pomůže lépe pochopit vaše potíže a zaměřit se na to, co je pro vás nejdůležitější. V první části označte, které z obsesí se u vás objevily **během posledního měsíce.**",
+                "options": [
+                  {
+                    "name": "Obavy z nákazy, špíny, bakterií a virů nebo tělesných tekutin",
+                    "value": "Fear of infection, bacteria, viruses or bodily fluids"
+                  },
+                  {
+                    "name": "Strach, že jsem něco zapomněl/a vypnout či zamknout",
+                    "value": "Fear of forgetting to turn off something or lock the doors"
+                  },
+                  {
+                    "name": "Obavy, že jsem udělal/a chybu, např. v práci, ve smlouvě, v komunikaci",
+                    "value": "Fear of making a mistake"
+                  },
+                  {
+                    "name": "Strach, že jsem někomu ublížil/a a nepamatuji si to",
+                    "value": "Fear of hurting someone without remembering it"
+                  },
+                  {
+                    "name": "Vtíravé agresivní nebo sexuální myšlenky a představy",
+                    "value": "Intrusive agressive or sexual thoughts or images"
+                  },
+                  {
+                    "name": "Náboženské nebo morální pochybnosti (např. strach z hříchu nebo že nejsem dost dobrý/á)",
+                    "value": "religious or moral doubts"
+                  },
+                  {
+                    "name": "Potřeba symetrie, přesného zarovnání předmětů",
+                    "value": "Need for symmetry, exact order of things"
+                  },
+                  {
+                    "name": "Nutkání opakovat věci, aby „byly správně“",
+                    "value": "Need to repeat things to do it correctly"
+                  },
+                  {
+                    "name": "Představy o „správných“ číslech, barvách nebo slovech",
+                    "value": "Ideas of correct numbers, colors or words"
+                  },
+                  {
+                    "name": "Strach, že moje myšlenky můžou ovlivnit realitu („když si to pomyslím, stane se to“)",
+                    "value": "Fear that my thought could affect reality"
+                  },
+                  {
+                    "name": "Pochybnosti o vztahu, partnerovi nebo věrnosti",
+                    "value": "Doubts about my relationship, partner or faithfulness"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "note",
+              "placeholder": "Moje obsese",
+              "instruction": "Níže můžete vypsat jiné obsese:",
+              "rows": 1,
+              "required": false
+            }
+          ]
+        },
+        {
+          "title": "Inventář kompulzí",
+          "icon": "check",
+          "isEvaluable": true,
+          "contentSections": [
+            {
+              "required": true,
+              "type": "tool",
+              "tool": "OCDInventory",
+              "toolSection": "page2",
+              "toolSectionData": {
+                "description": "Označte, které z kompulzí se u vás objevily **během posledního měsíce.**",
+                "options": [
+                  {
+                    "name": "Opakované mytí rukou, nadměrná hygiena nebo čištění věcí",
+                    "value": "Repeated hand washing, excessive hygiene or cleaning"
+                  },
+                  {
+                    "name": "Kontrolování spotřebičů, dveří, zámků, zásuvek, plynu apod.",
+                    "value": "Checking appliances, doors, locks, outlets, gas etc."
+                  },
+                  {
+                    "name": "Ujišťování se u ostatních a vyhledávání informací na internetu",
+                    "value": "Looking for assurance with others or by looking up data online"
+                  },
+                  {
+                    "name": "Počítání, opakování vět nebo nutkavé modlení",
+                    "value": "Counting, repeating sentences or compulsive prayers"
+                  },
+                  {
+                    "name": "Opakování pohybů nebo doteků, aby se „něco nestalo“",
+                    "value": "Repeating movements or touches to prevent something"
+                  },
+                  {
+                    "name": "Zarovnávání a seřazování předmětů",
+                    "value": "Sorting and arranging objects"
+                  },
+                  {
+                    "name": "Psaní seznamů, kontrolních soupisů, záznamů",
+                    "value": "Writing lists, checklists, or records"
+                  },
+                  {
+                    "name": "Hromadění předmětů",
+                    "value": "Hoarding objects"
+                  },
+                  {
+                    "name": "Opakované omlouvání za domnělé chyby",
+                    "value": "Repeating apologies for presumed mistakes"
+                  },
+                  {
+                    "name": "Opakování činností, dokud to není „správně“",
+                    "value": "Repeating actions until right"
+                  },
+                  {
+                    "name": "Rituály pro zbavení špatných myšlenek nebo snaha kontrolovat vlastní myšlenky a emoce",
+                    "value": "Rituals to get rid of or control bad thoughts"
+                  },
+                  {
+                    "name": "Vyhýbání se číslům, slovům nebo barvám, které „nosí smůlu“",
+                    "value": "Avoiding numbers, words or colors"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "note",
+              "placeholder": "Moje kompulze",
+              "instruction": "Níže můžete vypsat jiné kompulze:",
+              "rows": 1,
+              "required": false
+            }
+          ]
+        },
+        {
+          "title": "Dotazník o inventáři obsesí a kompulzí",
+          "icon": "check",
+          "isEvaluable": true,
+          "finalScreen": {
+            "buttonLabel": "Upravit odpovědi",
+            "contentSections": [
+              {
+                "type": "image",
+                "isExpandable": true,
+                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Flowers_0e031c2a29.svg",
+                "width": "138px",
+                "alt": "Kopretina v růžovém květináči",
+                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Flowers_0e031c2a29.svg",
+                "widthMobile": "138px",
+                "align": "center"
+              },
+              {
+                "type": "markdown",
+                "content": ":::text--center #### Jsme rádi, že do toho jdete! \n \n Teď znáte svůj výchozí bod. Sledujte, jak se posouváte dál! ::::"
+              }
+            ]
+          },
+          "contentSections": [
+            {
+              "required": true,
+              "type": "tool",
+              "tool": "OCDInventory",
+              "toolSection": "page3",
+              "toolSectionData": {
+                "description": "Zamyslete nad všemi obsesemi a kompulzemi, kterých jste si u sebe všimli **během posledního měsíce**, a odpovězte na otázky.",
+                "questions": [
+                  {
+                    "name": "timeAday",
+                    "question": "Kolik času denně vám zabíraly všechny příznaky?",
+                    "options": [
+                      {
+                        "label": "Méně než 1 hodinu",
+                        "value": 0
+                      },
+                      {
+                        "label": "1-3 hodiny",
+                        "value": 1
+                      },
+                      {
+                        "label": "3-8 hodin",
+                        "value": 2
+                      },
+                      {
+                        "label": "Více než 8 hodin",
+                        "value": 3
+                      }
+                    ]
+                  },
+                  {
+                    "name": "difficulty",
+                    "question": "Jak náročné pro vás bylo nevšímat si obsesí?",
+                    "options": [
+                      {
+                        "label": "Snadné",
+                        "value": 0
+                      },
+                      {
+                        "label": "Spíše snadné",
+                        "value": 1
+                      },
+                      {
+                        "label": "Někdy snadné, někdy obtížné",
+                        "value": 2
+                      },
+                      {
+                        "label": "Spíše obtížné",
+                        "value": 3
+                      },
+                      {
+                        "label": "Obtížné",
+                        "value": 4
+                      }
+                    ]
+                  },
+                  {
+                    "name": "excessiveConcernsAboutVariousThings",
+                    "question": "Nadměrné obavy týkající se různých věcí",
+                    "options": [
+                      {
+                        "label": "Snadné",
+                        "value": 0
+                      },
+                      {
+                        "label": "Spíše snadné",
+                        "value": 1
+                      },
+                      {
+                        "label": "Někdy snadné, někdy obtížné",
+                        "value": 2
+                      },
+                      {
+                        "label": "Spíše obtížné",
+                        "value": 3
+                      },
+                      {
+                        "label": "Obtížné",
+                        "value": 4
+                      }
+                    ]
+                  },
+                  {
+                    "name": "howOften",
+                    "question": "Jak často jste se vyhýbal/a situacím, které spouští vaše obsese a kompulze?",
+                    "options": [
+                      {
+                        "label": "Nikdy",
+                        "value": 0
+                      },
+                      {
+                        "label": "Zřídka",
+                        "value": 1
+                      },
+                      {
+                        "label": "Občas",
+                        "value": 2
+                      },
+                      {
+                        "label": "Často",
+                        "value": 3
+                      },
+                      {
+                        "label": "Velmi často",
+                        "value": 4
+                      }
+                    ]
+                  },
+                  {
+                    "name": "howMuch",
+                    "question": "Jak moc vaše příznaky ovlivňovaly vaši náladu a emoční pohodu?",
+                    "options": [
+                      {
+                        "label": "Vůbec",
+                        "value": 0
+                      },
+                      {
+                        "label": "Trochu",
+                        "value": 1
+                      },
+                      {
+                        "label": "Středně",
+                        "value": 2
+                      },
+                      {
+                        "label": "Hodně",
+                        "value": 3
+                      },
+                      {
+                        "label": "Extrémně",
+                        "value": 4
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "title": "První část máte za hotovou!",
+          "icon": "text",
+          "contentSections": [
+            {
+              "type": "image",
+              "isExpandable": false,
+              "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Prvni_cast_mate_za_hotovou_c7a701be63.svg",
+              "width": "100%",
+              "alt": "Postava na začátku cesty s vlajkou s nápisem start",
+              "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Prvni_cast_mate_za_hotovou_mobile_c4eb2b9c28.svg",
+              "widthMobile": "100%",
+              "align": "center",
+              "unoptimized": true
+            },
+            {
+              "type": "list",
+              "title": "**Co jste dokázali:**",
+              "color": "#27637C",
+              "items": [
+                "Sestavili jste si inventář svých obsesí a kompulzí.",
+                "Zhodnotili jste míru svých příznaků OCD v poslední době.",
+                "Zhodnotili jste míru svých depresivních příznaků v posledním týdnu."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Jak OCD vzniká a jak se udržuje ",
+          "icon": "audio",
+          "contentSections": [
+            {
+              "type": "markdown",
+              "content": "V programu najdete rozhovory s terapeutem, ve kterých se dozvíte důležité informace o OCD. V prvním rozhovoru níže se dozvíte, co může zapříčin vznik poruchy a co ji udržuje."
+            },
+            {
+              "type": "audio",
+              "audioSrc": "xx",
+              "title": "Jak OCD vzniká a jak se udržuje ",
+              "imageSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jak_OCD_vznika_a_jak_se_udrzuje_1e047b7a05.svg"
+            },
+            {
+              "type": "collapse",
+              "content": "**Moderátorka:** Vítám vás u prvního rozhovoru s terapeutem Ondřejem, který vás bude provázet celým naším programem. Jmenuji se Aneta a společně budeme probírat různá témata spojená s obsedantně-kompulzivní poruchou. \n \n **Terapeut:** Děkuji za uvedení, Aneto. Také vás srdečně vítám v našem programu. Dnes si společně povíme o tom, co vlastně OCD způsobuje a proč se tato porucha u některých lidí rozvíjí. \n \n **Moderátorka:** Ondřeji, mnoho lidí si v této situaci klade otázku: „Proč zrovna já? Proč se mi to děje?“ Je na to vůbec nějak odpovědět? \n \n **Terapeut:** To je častá otázka a rozumím jí. OCD vzniká kombinací biologických, psychologických a společenských vlivů. Některé z těchto faktorů zvyšují riziko rozvoje poruchy. Jiné způsobují, že se problém udržuje a postupně zhoršuje. Často se OCD rozvíjí po náročném životním období, které zvyšuje pocit nejistoty a ohrožení. \n \n **Moderátorka:** Takže to není o tom, že by někdo byl „slabý“ nebo si to způsobil sám? \n \n **Terapeut:** Rozhodně ne! Hlavní roli zde hrají vrozené a biologické faktory. Rozvoj OCD může být způsoben genetickou zranitelností, změnami ve fungování mozku nebo nerovnováhou nervových přenašečů - zejména serotoninu. Tyto faktory člověk nemůže ovlivnit svou vůlí. \n \n **Moderátorka:** A jakou roli hraje prostředí, ve kterém člověk vyrostl? \n \n **Terapeut:** Vlivy prostředí jsou také velmi důležité. Lidé s OCD často vyrůstali v prostředí, kde necítili dostatek bezpečí a podpory. Výchova byla zaměřená na výkon, pořádek nebo morálku. Za chyby byli trestáni. Aby se vyhnuli trestu a pocitu viny, začali kontrolovat vše kolem sebe - včetně vlastních myšlenek. \n \n **Moderátorka:** To zní, jako by si už jako děti začínali budovat nějaké ochranné mechanismy... \n \n **Terapeut:** Přesně tak. Jako děti věřili, že jejich myšlenky se mohou stát skutečností. I když z toho vyrostli, v pozadí mysli zůstaly obavy, že se špatné myšlenky vyplní. Proto se snaží řídit nejen své chování, ale i myšlení. \n \n **Moderátorka:** Může se OCD rozvinout i později v životě? \n \n **Terapeut:** Ano, hlavně během zranitelných období. Dospívání, odchod z domova nebo rodičovství přinášejí novou nejistotu a úzkost. Člověk pátrá po tom, kdo je, a co je pro něj důležité. Rozhoduje se o důležitých otázkách, na které neexistuje jedna správná odpověď. U lidí se sklonem k OCD se mohou objevit obsese a kompulze jako způsob, jak získat pocit kontroly a bezpečí. \n \n **Moderátorka:** A co způsobuje, že OCD přetrvává nebo se zhoršuje? \n \n **Terapeut:** OCD se udržuje chováním, které sice krátkodobě snižuje úzkost, ale dlouhodobě problém zhoršuje. Jde třeba o kompulze, vyhýbání se situacím spojenými s vtíravými myšlenkami a různé způsoby ubezpečování. Svou roli hraje i reakce okolí. Ať už je to kritika, nebo naopak přizpůsobování se potřebám člověka s OCD. \n \n **Moderátorka:** Takže to všechno může hrát roli při rozvoji a vývoji OCD? \n \n **Terapeut:** Ano, přesně tak. Poruchu také udržují biologické faktory, jako je už zmíněná nerovnováha v mozku. Je důležité si uvědomit, že OCD není něčí vina. Je to komplexní porucha, která má své příčiny a kterou lze léčit. \n \n **Moderátorka:** Děkuji, Ondřeji. Na další stránce si ukážeme, jak se tyto různé vlivy konkrétně projevují u Jany, která bojuje s obsesemi spojenými s obavami z nákazy.",
+              "title": "Radši si přečtu"
+            }
+          ]
+        },
+        {
+          "title": "Vznik a udržování OCD u Jany",
+          "icon": "text",
+          "contentSections": [
+            {
+              "type": "image",
+              "isExpandable": false,
+              "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Vznik_a_udrzovani_OCD_u_Jany_93263ae64b.svg",
+              "width": "100%",
+              "alt": "Jana s rouškou na obličeji, vedle ní bakterie",
+              "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Vznik_a_udrzovani_OCD_u_Jany_mobile_954be63809.svg",
+              "widthMobile": "100%",
+              "align": "center",
+              "unoptimized": true
+            },
+            {
+              "type": "markdown",
+              "content": "Jana se **bojí nákazy**, a proto se často umývá a ujišťuje se, že je všechno v pořádku. V rozvoji jejího OCD hrálo roli několik vlivů, o kterých si můžete přečíst víc níže."
+            },
+            {
+              "type": "tool",
+              "tool": "interactiveCardModal",
+              "cardsPictureWidth": 75,
+              "cardsPictureHeight": 75,
+              "disabled": false,
+              "buttonLabel": "Zavřít",
+              "icon": "ArrowRight",
+              "description": "**Přečtěte si, jak se u Jany OCD rozvinulo a dále udržuje:**",
+              "cards": [
+                {
+                  "id": "Genetic and biological influence",
+                  "title": "Vrozené a biologické vlivy",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Icon_Vrozene_a_biologicke_jevy_19008b56e8.svg",
+                  "contentCard": [
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Vrozene_a_biologicke_vlivy_c14f3ed03c.svg",
+                      "width": "100%",
+                      "alt": "Dva lékaři držící v rukou kus sekvenci dna",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Vrozene_a_biologicke_vlivy_mobile_6c4509de6f.svg",
+                      "widthMobile": "100%",
+                      "align": "center",
+                      "unoptimized": true
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "**Genetická zranitelnost** \n \n Janina maminka trpěla úzkostmi a další příbuzní měli problémy se stresem a depresí. Jana tak zdědila sklon k úzkostným poruchám, který se v rodině vyskytoval. \n \n **Zvýšená citlivost nervové soustavy** \n \n Jana byla od dětství velmi vnímavá na bolest a nepříjemné tělesné pocity. Tato citlivost znamenala, že její nervový systém reagoval silněji na vnitřní signály z těla i z okolí. \n \n **Nerovnováha v mozku** \n \n Genetické faktory pravděpodobně ovlivnily fungování Janiných mozkových okruhů odpovědných za zpracování strachu a kontrolu impulzů. Také mohly způsobit nerovnováhu nervových přenašečů, zejména serotoninu, který ovlivňuje náladu a úzkost."
+                    }
+                  ]
+                },
+                {
+                  "id": "Enviromental influence",
+                  "title": "Vlivy prostředí",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Icon_Vlivy_prostredi_bb60100742.svg",
+                  "contentCard": [
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Group_25553_eb3f27b776.svg",
+                      "width": "100%",
+                      "alt": "Ruce umývající se mýdlem nad umyvadlem",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Vlivy_prostredi_mobile_34eda1f07e.svg",
+                      "widthMobile": "100%",
+                      "align": "center",
+                      "unoptimized": true
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "**Přísná výchova zaměřená na hygienu** \n \n Janina matka neustále zdůrazňovala nebezpečí nemocí a říkala: „Všude jsou bacily, buď opatrná.“ Tím u Jany vytvořila nadměrný strach z nakažení a choroboplodných zárodků. \n \n **Naučené spojení čistoty a bezpečí** \n \n Jana si od mala spojila čistotu s pocitem bezpečí. Naučila se, že když je dostatečně čistá a opatrná, vyhne se nemoci a nebezpečí. Tato představa se stala pro ni způsobem, jak kontrolovat strach. \n \n Neustálé varování před bacily a nemocemi vytvořilo u Jany pocit, že svět je plný hrozeb. Žije tak v neustále ostražitosti. \n \n **Předávání úzkostí** \n \n Matčiny obavy o zdraví a časté připomínky nebezpečí přenesly na Janu úzkostný způsob vnímání světa. Jana si tak osvojila podobný vzorec myšlení založený na vyhledávání možných hrozeb."
+                    }
+                  ]
+                },
+                {
+                  "id": "Vulnerable periods",
+                  "title": "Zranitelná období",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Icon_Zranitelna_obdobi_c0e4ecd5ed.svg",
+                  "contentCard": [
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Group_25554_9e8db98aca.svg",
+                      "width": "100%",
+                      "alt": "Matka s miminkem, která se mračí",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Zranitelna_obdobi_mobile_25a4db46cf.svg",
+                      "widthMobile": "100%",
+                      "align": "center",
+                      "unoptimized": true
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "**Nová životní role** \n \n Když se Jana stala matkou, ocitla se v úplně nové situaci plné nejistot. Neměla zkušenosti s péčí o novorozeně a nevěděla, zda vše dělá správně. \n \n Uvědomila si, že je nyní plně odpovědná za život a zdraví svého dítěte. Tíha této odpovědnosti byla pro ni velmi stresující. Každé její rozhodnutí nebo chyba mohly mít vážné následky. \n \n **Strach z ublížení** \n \n U Jany se rozvinul intenzivní strach, že by svému dítěti mohla neúmyslně ublížit. Tento strach byl umocněn její vrozenou citlivostí a zkušenostmi z dětství, kdy ji maminka často upozorňovala na možné nebezpečí. \n \n **Spouštěč OCD** \n \n Kombinace biologické zranitelnosti, naučených vzorců z dětství a aktuálního stresu z mateřství vytvořila ideální podmínky pro rozvoj OCD. Strach z kontaminace a ublížení dítěti se stal ústředním tématem jejích vtíravých myšlenek. \n \n V situacích, kdy se cítila nejistá, se Jana snažila získat pocit kontroly a bezpečí pomocí nadměrného mytí a kontrolování. To se postupně rozvinulo v plnohodnotné OCD."
+                    }
+                  ]
+                },
+                {
+                  "id": "Maintaining OCD",
+                  "title": "Co udržuje OCD",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Icon_Co_udrzuje_OCD_e547218b76.svg",
+                  "contentCard": [
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Group_25552_5247547829.svg",
+                      "width": "100%",
+                      "alt": "Hádající se muž a žena u stolu",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Co_udrzuje_OCD_mobile_cee8c518a4.svg",
+                      "widthMobile": "100%",
+                      "align": "center",
+                      "unoptimized": true
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "**Zhoršení kvůli vnějším okolnostem** \n \n Během pandemie koronaviru se Janin strach ze znečištění výrazně zhoršil. Všudypřítomné informace o nebezpečí nákazy potvrdily její obavy a ospravedlňovaly její chování. Začala si mýt ruce i třicetkrát denně, protože to vnímala jako nutnou ochranu. \n \n **Kompulze jako dočasná úleva** \n \n Časté mytí rukou Janě přinášelo krátkodobý pocit úlevy a bezpečí. Pokaždé když si umyla ruce, úzkost na chvíli opadla. Tím se však posiloval bludný kruh. Mytí se stalo jejím způsobem, jak zvládat strach. \n \n **Nepochopení a kritika okolí** \n \n Janin partner Šimon na její chování reagoval kritikou: „Už to neřeš, nic se ti určitě nestane. Kdo to má pořád poslouchat!“ Místo podpory její obsese zlehčuje a stěžuje si na její chování. \n \n **Zhoršování kvůli reakci blízkých** \n \n Šimonova kritika a nepochopení zvyšují její celkové napětí a stres. Cítí se osamělá a má pocit, že ji nikdo nechápe. Toto dodatečné napětí paradoxně posiluje bludný kruh OCD. Když se cítí více ve stresu, má ještě větší potřebu kontrolovat a provádět rituály.\n \n Kvůli nepochopení se Jana někdy uzavírá a skrývá své příznaky. To vede k větší izolaci a cítí se pak ještě hůř."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Jana a její OCD",
+          "icon": "video",
+          "contentSections": [
+            {
+              "type": "markdown",
+              "content": "Podívejte se na video o tom, jak příznaky obsedantně-kompulzivní poruchy **ovlivňují Janu v běžných situacích.**"
+            },
+            {
+              "type": "video",
+              "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jana_A_OCD_c_1_81a6308c15.mp4"
+            },
+            {
+              "type": "collapse",
+              "content": "VYPRAVĚČ: Jana se obává, že by se mohla nakazit. Vyhýbá se proto špíně a často si myje nebo dezinfikuje ruce. Jízda autobusem je pro ni každodenní výzvou. \n \n JANA (v mysli): „Co když se toho před chvílí někdo dotkl? Co když měl chřipku? Nebo i něco horšího?“  \n \n VYPRAVĚČ: Janě to nedá a vytahuje z tašky dezinfekci. Důkladně si přes minutu čistí ruce. Všímá si, že po ní pár lidí udiveně kouká. \n \n VYPRAVĚČ: Jana se doma ve shonu zouvá a hází oblečení do koše na prádlo. V koupelně si pak drhne ruce do ruda. Bojí se, že jinak to nestačí. Vzpomíná si, jak ji máma jako malou hubovala. \n \n MATKA (hlas v paměti): „Musíš to vzít pořádně! A nezapomeň i mezi prsty.“  \n \n VYPRAVĚČ: Janin partner Šimon je na její přehnanou čistotnost zvyklý. Občas ho to ale unavuje. \n \n JANA: „Myslíš, že jsem si v tramvaji něco chytila?“  \n \n ŠIMON: (tiše, unaveně): „Ne. Uklidni se. Umyla sis doma ruce, ne?“  \n \n JANA: „Jo. Ale… stejně se bojím.“  \n \n ŠIMON (konejšivě): „Jani, všechno je v pořádku.“  \n \n VYPRAVĚČ: Janu to zklidnilo jen na chvíli. Večer se jí hlavou opět honí vtíravé myšlenky o nákaze. \n \n JANA: „Myslíš, že jsem se něčím mohla nakazit? Že to přenesu na malého?“  \n \n ŠIMON (rozzlobeně): „Jani! Pořád to samé. Umyla ses desetkrát. Podívej se na svoje ruce! Jsou odřené do běla! Nech to být. Nevím, co ti na to mám pořád odpovídat.“ \n \n VYPRAVĚČ: Jana se rozhodla pro změnu. Pustila se do online terapeutického programu. \n \n HLAS Z OBRAZOVKY: „OCD je jako vnitřní hlas, který vám říká, že jste v nebezpečí. Existuje však cesta ven.“  \n \n VYPRAVĚČ: Postupně se začala cítit jistěji. Program ji ukázal, že když vydrží a neudělá kompulzi, její napětí po čase klesne. Zkouší si to každé ráno v autobuse. \n \n JANA: Vydrž Jani. To dáš. Dýchej a drž se. Už si to zvládla předtím, zvládneš to i teď.",
+              "title": "Radši si přečtu"
+            }
+          ]
+        },
+        {
+          "title": "Příběhy",
+          "icon": "Story",
+          "contentSections": [
+            {
+              "type": "markdown",
+              "content": "V následujících příbězích se seznámíte s lidmi, kteří se potýkají s **různými typy OCD**. Možná se v některých najdete a některé pro vás budou zase neznámé. V určitých směrech jsou však podobné a jejich porozumění vám může pomoci lépe **pochopit i svoje prožívání a chování.**"
+            },
+            {
+              "type": "noteBox",
+              "desktopImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lightbulb_Icon_5bba92e832.svg",
+              "mobileImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lightbulb_Icon_5bba92e832.svg",
+              "backgroundColor": "#EDF4F6",
+              "textColor": "#27637C",
+              "text": "**Nemusíte číst všechny příběhy.** Zkuste najít ten, ve kterém se nejvíce najdete. Můžete se na něj zaměřit i v dalších modulech a ostatní číst spíše pro zajímavost. Ale můžete je také vynechat.",
+              "desktopImageWidth": "84px",
+              "mobileImageWidth": "84px",
+              "isWrapping": true
+            },
+            {
+              "type": "cardStories",
+              "cards": [
+                {
+                  "title": "JANA",
+                  "subtitle": "administrativní pracovnice, 34 let",
+                  "description": "Janu trápí obavy ze znečištění. Má silný pocit zodpovědnosti, který ji stresuje.",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jana_karta_7c69375325.svg",
+                  "pictureMobileBackground": "#E5EBE3",
+                  "pictureMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jana_karta_mobile_7063c7503a.svg",
+                  "modalContentSections": [
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jana_modal_21111b8b39.svg",
+                      "width": "100%",
+                      "alt": "Obrázek Jany: Žena s dlouhými světle hnědými vlasy v culíku, v bílém triku a modrém svetru",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jana_modal_21111b8b39.svg",
+                      "widthMobile": "100%",
+                      "align": "center",
+                      "unoptimized": true
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "**Jana** \n \n Jana je maminka, která pracuje v administrativě. Každý den je pro ni soubojem s neviditelnými hrozbami: bakteriemi, viry a dotýkání se cizích předmětů. \n \n Po každé cestě hromadnou dopravou se musí převléct, vydezinfikovat mobil, kabelku, klíče a několikrát si umýt ruce. V práci si tajně čistí ruce dezinfekcí pod stolem. Doma otevírá dveře loktem, a než se přiblíží ke svému synovi Toníkovi, musí si být jistá, že je čistá. \n \n Její partner Šimon ji nejdřív uklidňoval, ale po letech opakování je z toho unavený. „Už nevím, co ti na to říct,“ opakuje s povzdechem. \n \n Jana se stydí a připadá si v tom osamělá. Po příchodu z práce by chtěla Touží hned obejmout a sednout si s ním na gauč, ale místo toho běží rovnou do sprchy. V hloubi duše ví, že to není dobré. A že tím přichází o chvíle, které už se nevrátí."
+                    }
+                  ]
+                },
+                {
+                  "title": "PETR",
+                  "subtitle": "technik, 45 let",
+                  "description": "Petr se bojí, že udělá chybu, která bude mít fatální následky. Vše raději pečlivě kontroluje.",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Petr_karta_cb6c382476.svg",
+                  "pictureMobileBackground": "#FFF3EF",
+                  "pictureMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Petr_karta_mobile_607dc58e33.svg",
+                  "modalContentSections": [
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Petr_modal_ccd80f55c5.svg",
+                      "width": "100%",
+                      "alt": "Obrázek Petra: Muž ve středním věku s kudrnatými šedými vlasy a plnovousem",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Petr_modal_ccd80f55c5.svg",
+                      "widthMobile": "100%",
+                      "align": "center",
+                      "unoptimized": true
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "**Petr** \n \n Petr pracuje jako technik. Žije s přítelkyní Alenou už tři roky. Každé ráno musí z bytu odejít třikrát. Kontroluje dveře, sporák a zásuvky. Bojí se požáru. \n \n Když už je na ulici, často si není jistý. Nepamatuje si přesně, jestli opravdu vypnul sporák. Vrací se zpět nebo volá Aleně. Ta to chápe, ale už je unavená. \n \n Petr kvůli tomu někdy přijde do práce pozdě. Kolegové si dělají legraci. „Zase jsi zapomněl klíče?“ ptají se. Petr jen přikývne. Neví, jak by jim vysvětlil pravdu. \n \n Alena to zpočátku brala. Myslela si, že je jen pečlivý. Postupně začala být ale frustrovaná. Cítí se přehlížená. Jednou mu řekla: „Nechci být tvá pojistka. Takhle to nejde.“ \n \n Petrovi se sevřelo srdce. Chápal ji. Sám sobě ale říká: „Kdyby se něco stalo, byla by to moje vina. Nikdy bych si to neodpustil.“ \n \n Petr touží po svobodě. Rád by odešel z domu bez starostí, ale vítězí strach."
+                    }
+                  ]
+                },
+                {
+                  "title": "EVA",
+                  "subtitle": "studentka VŠ, 22 let",
+                  "description": "Eva má vtíravé představy, že by mohla někomu ublížit. Za tyto myšlenky se velmi stydí.",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Eva_karta_1d42669807.svg",
+                  "pictureMobileBackground": "#EFE9EC",
+                  "pictureMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Eva_karta_mobile_ff5c9a65ad.svg",
+                  "modalContentSections": [
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Eva_modal_8adc9d2543.svg",
+                      "width": "100%",
+                      "alt": "Obrázek Evy: mladá žena s kratšími kudrnatými zrzavými vlasy se žlutým baretem",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Eva_modal_8adc9d2543.svg",
+                      "widthMobile": "100%",
+                      "align": "center",
+                      "unoptimized": true
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "**Eva** \n \n Eva studuje sociální práci. Je tichá a citlivá. Trápí ji vtíravé představy, že by mohla někomu ublížit. Když vaří a drží nůž, napadá ji, co kdyby někoho bodla. Když jde kolem dítěte, bojí se, že by mu mohla ublížit. \n \n Eva nikdy nikomu nic neudělala. Ani by to nechtěla. Ale její myšlenky jsou neodbytné. Proto se vaření vyhýbá. S dětmi si hraje jen „na dálku“. Nože schovává, aby je nemusela vidět. \n \n Navenek působí uzavřeně. Ve skutečnosti se bojí, že někdo její myšlenky odhalil. „Měli by mě za zrůdu,“ říká si v duchu. Bojí se o tom mluvit i se svým partnerem Vaškem. Ten netuší, co se v její hlavě děje. Někdy Eva potají pláče v koupelně. \n \n Nejvíc ji bolí, že se kvůli strachu začala bát blízkosti. Vzdaluje se od těch, které má nejraději."
+                    }
+                  ]
+                },
+                {
+                  "title": "DAVID",
+                  "subtitle": "knihovník, 36 let",
+                  "description": "David potřebuje, aby bylo vše kolem zarovnané a symetrické. Obává se magických důsledků.",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/David_karta_739e7ef7df.svg",
+                  "pictureMobileBackground": "#DFE8EB",
+                  "pictureMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/David_karta_mobile_662bfbf554.svg",
+                  "modalContentSections": [
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/David_modal_c2247c95c4.svg",
+                      "width": "100%",
+                      "alt": "Obrázek Davida: Muž s krátkými černými vlasy v bílé košili a hnědé pletené vestě",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/David_modal_c2247c95c4.svg",
+                      "widthMobile": "100%",
+                      "align": "center",
+                      "unoptimized": true
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "**David** \n \n David je knihovník. Je klidný a tichý. Jeho problém se skrývá v každodenním chaosu: ve věcech, které nejsou zarovnané. Když něco není symetrické, má pocit, že se stane něco zlého. \n \n V noci se budí, aby srovnal knihy podle výšky. V práci tráví desítky minut organizací předmětů na stole. Jeho kolegové ho mají za precizního. Nikdo ale neví, jak ho to vyčerpává. \n \n David se stydí. Ví, že by mohl být víc spontánní, víc s lidmi. Ale místo toho věnuje čas kompulzím. „Když to neudělám, budu nervózní. A co když to bude mít špatné důsledky?“ \n \n Jaké, to úplně neví. Třeba někdo zbytečně umře. David si uvědomuje, že to není realistické, ale raději dá věci do pořádku. \n \n David nemá děti ani partnerku. Nikdy neměl dlouhodobý vztah. Toužil by po blízkosti, ale OCD mu bere klid i volnost."
+                    }
+                  ]
+                },
+                {
+                  "title": "KLÁRA",
+                  "subtitle": "zdravotní sestra, 28 let",
+                  "description": "Kláru trápí myšlenky se sexuálními tématy. Stydí se a vyhýbá se intimitě.",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Klara_karta_fb018941e5.svg",
+                  "pictureMobileBackground": "#EFE9EC",
+                  "pictureMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Klara_karta_mobile_75a2027257.svg",
+                  "modalContentSections": [
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Klara_modal_a2e0d015d3.svg",
+                      "width": "100%",
+                      "alt": "Obrázek Kláry: Žena s dlouhými blond vlasy v růžovém svetru",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Klara_modal_a2e0d015d3.svg",
+                      "widthMobile": "100%",
+                      "align": "center",
+                      "unoptimized": true
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "**Klára** \n \n Klára pracuje jako zdravotní sestra. Když vidí děti, napadnou ji myšlenky, které ji děsí. „Co když jsem úchylná? Co když jim ublížím? Co když je sexuálně zneužiju?“ \n \n Ve skutečnosti by nikdy nic takového neudělala, protože z toho má strach. Ale ten strach je silný. Myšlenky zesilují hlavně, když je více ve stresu. \n \n Od té doby, co je má, se vyhýbá se malým dětem. Nechodí na místa, kde jsou školky, hřiště nebo pískoviště. Vyhýbá se i dětem blízkých příbuzných. Přestala proto chodit na rodinné oslavy. \n \n Ve vztahu s Honzou je opatrná, v sexu zdrženlivá. Když se Honza snaží o blízkost, raději uhýbá. Myslí si, že kdyby věděl, co ji napadá, opustil by ji. Aby se s ním mohla milovat, musí se opít. V noci si často opakuje: „Nejsem špatný člověk.“ Ale moc tomu nevěří."
+                    }
+                  ]
+                },
+                {
+                  "title": "LUKÁŠ",
+                  "subtitle": "elektrikář, 30 let",
+                  "description": "Lukáš se bojí hřešit a neustále se modlí kvůli rouhavým myšlenkám. Cítí vnitřní rozpor.",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lukas_karta_40be25b691.svg",
+                  "pictureMobileBackground": "#FFF3EF",
+                  "pictureMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lukas_karta_mobile_543f887105.svg",
+                  "modalContentSections": [
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lukas_modal_19fee9701c.svg",
+                      "width": "100%",
+                      "alt": "Obrázek Lukáše: muž s plnovousem, pracovní kšilovkou v oranžové košili",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lukas_modal_19fee9701c.svg",
+                      "widthMobile": "100%",
+                      "align": "center",
+                      "unoptimized": true
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "**Lukáš** \n \n Lukáš v pubertě po rozvodu rodičů konvertoval ke křesťanství. Víra mu tehdy pomohla najít řád a útočiště. Časem se však proměnila v trápení. \n \n Každá rouhavá myšlenka, každý nevhodný obraz v hlavě v něm vyvolává pocit, že hřeší. Modlí se opakovaně, někdy i hodiny. Má strach, že zklame Boha, že nebude spasen. Naopak za rouhání přijde trest. \n \n Rouhavé myšlenky se objevují samy. Třeba když vidí kříž, kostel, čte něco o církvi nebo potká kněze či jeptišku. Musí se vždy zastavit a pomodlit. \n \n Lukáš je laskavý a citlivý člověk. Ale když přátelé vtipkují, raději odchází. Má dojem, že jsou jejich řeči povrchní a nábožensky nevhodné. Špatně snáší zejména černý humor. Svým smíchem se mohou rouhat. \n \n Lukáš má potíže i s intimitou. Bojí se hříchu, znečištění mysli a pokušení. Někdy si přeje být jako ostatní, ale zároveň nechce zradit svou víru. Tento vnitřní rozpor ho ničí."
+                    }
+                  ]
+                },
+                {
+                  "title": "VERONIKA",
+                  "subtitle": "manažerka, 35 let",
+                  "description": "Veronika se bojí o své zdraví. Nechává se vyšetřovat, i když lékaři nic nenašli.",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Veronika_karta_bb390f8d7d.svg",
+                  "pictureMobileBackground": "#EFE9EC",
+                  "pictureMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Veronika_karta_mobile_ff4d1e518c.svg",
+                  "modalContentSections": [
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Veronika_modal_0eeca499fc.svg",
+                      "width": "100%",
+                      "alt": "Obrázek Veroniky: žena s dlouhými černými vlasy ve vysokém culíku v zeleném topu s perlovým náhrdelníkem",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Veronika_modal_0eeca499fc.svg",
+                      "widthMobile": "100%",
+                      "align": "center",
+                      "unoptimized": true
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "**Veronika** \n \n Veroniku často něco bolí. Někdy v zádech, jindy v trupu, v krku nebo v hlavě. Vždy má pocit, že by to mohlo být něco vážného. Rakovina. Roztroušená skleróza. Smrtelná choroba. \n \n Vyhledává si příznaky na internetu, srovnává obrázky a volá lékařům. Vyšetření nikdy nic nenašla. Ale pocit, že „tentokrát to bude ono“, je silnější než fakta. \n \n Veroničin partner Filip je zvyklý. Nejprve ji uklidňoval, ale časem se stáhl. Kamarádi ji přestali zvát na výlety, protože stále mluvila jen o nemocech. \n \n Veronika se stydí. Ví, že přichází o vztahy, příležitosti a normální život. Bojí se ale vzdát se kontroly. „Co když se lékaři spletli? Co když to fakt mám? Znám řadu případů ze světa, kdy se lékaři spletli. Třeba je to vzácná nemoc.” napadá ji. Tyto obsese nepomáhají. \n \n Chtěla by stoprocentní jistotu. Proto se nechává vyšetřovat znovu a znovu, čte si o nemocech na internetu, ptá se lékařů a opakovaně jim volá. Většina je už z toho otrávena a dává jí to najevo."
+                    }
+                  ]
+                },
+                {
+                  "title": "MICHAL",
+                  "subtitle": "učitel, 27 let",
+                  "description": "Michala trápí nutkavé pochybnosti o svém vztahu. Vyžaduje neustále ujišťování.",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Michal_karta_41e0daacdc.svg",
+                  "pictureMobileBackground": "#dfe8eb",
+                  "pictureMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Michal_karta_mobile_8530388119.svg",
+                  "modalContentSections": [
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Michal_modal_9a4f39a394.svg",
+                      "width": "100%",
+                      "alt": "Obrázek Michala: mladý muž s kudrnatými hnědými vlasy a brýlemi v modrém roláku",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Michal_modal_9a4f39a394.svg",
+                      "widthMobile": "100%",
+                      "align": "center",
+                      "unoptimized": true
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "**Michal** \n \n Michal je inteligentní a přemýšlivý. V práci má velkou odpovědnost a jedná s přirozeným odstupem a respektem. Ale v blízkých vztazích je to pro něj těžší. \n \n Neustále se ptá partnerky Mirky, jestli ho miluje. Jestli si je jistá. Jestli je „dost dobrý“. Když mu odpoví ano, nevěří jí. Když s odpovědí váhá, Michal propadá panice. \n \n Ale otázky ho napadají i opačně. Co když on nemiluje jí? Je ona pro něj ta pravá? Vybral si opravdu dobře? V hlavě mu běží různé obsedantní otázky: „Milujeme se dost? Neexistuje někdo lepší? Zasloužím si být šťastný?“ \n \n Už se mu to stalo i v předešlých vztazích. Raději je ukončil, ale pak toho litoval. Mirka ho miluje. Cítí se však pod tlakem jeho otázek a ujišťování. \n \n Michal se stydí. Má ale strach, že „kdybych to nedělal, všechno by se rozpadlo.“ Jakoby otázkami a ujišťováním bděl nad vztahem. Ale zároveň ví, že právě tím vztah ohrožuje."
+                    }
+                  ]
+                },
+                {
+                  "title": "JIRKA",
+                  "subtitle": "lékař, 58 let",
+                  "description": "Jirku trápí obavy, že pokud nespočítá určitá čísla, stane se neštěstí v práci nebo v rodině.",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jirka_karta_01d80f6712.svg",
+                  "pictureMobileBackground": "#E5EBE3",
+                  "pictureMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jirka_karta_mobile_4fe638f329.svg",
+                  "modalContentSections": [
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jirka_modal_bdecd1b4aa.svg",
+                      "width": "100%",
+                      "alt": "Obrázek Jirky: starší muž se šedými vlasy a plnovousem, s brýlemi",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jirka_modal_bdecd1b4aa.svg",
+                      "widthMobile": "100%",
+                      "align": "center",
+                      "unoptimized": true
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "**Jirka** \n \n Jirkovi je 58 let. Je uznávaný gynekolog, pracuje na klinice, a zároveň školí mladší kolegy. Žije s manželkou Lucií a má dvě dospělé dcery - Magdu a Ivanu. Ivana má dceru Vanesu, jeho první vnouče. Magda se s manželem neúspěšně snaží o dítě. \n \n Jirka jako lékař vždy cítil velkou zodpovědnost za zdraví svých blízkých. Magdininy potíže s otěhotněním u něj spustily kompulzivní chování. \n \n Když jde po ulici nebo vychází z práce, musí se podívat na každé auto a spočítat čísla na poznávacích značkách. V duchu si je sčítá, dělí, někdy hledá známky „příznivých kombinací“. Když součet dá dohromady prvočíslo, musí hledat v okolí předměty, které počítá, dokud nenajde počet dělitelný čtyřmi. \n \n Podobně, jako to má s počítáním čísel na poznávacích značkách, počítá čísla na fakturách nebo jednácí čísla na úředních dokumentech. Pokud rituál neudělá včas, obává se, že se stane něco hrozného jeho rodině. \n \n Jirka ví, že to nedává smysl. Jako lékař by to u pacienta zřejmě označil za „magické myšlení“. Ale pocit neklidu a odpovědnosti je silnější než jeho rozum. Když čísla nepočítá, cítí intenzivní napětí, které ustoupí až po splnění rituálu. Tento cyklus se opakuje několikrát denně. \n \n Začal se vyhýbat řízení auta, žádá svojí ženu Lucii, aby řídila, a on se kouká do země, aby se vyhnul pohledu na poznávací značky. Manželce to už začíná vadit. Jirka začíná pociťovat stud a izolaci. Nechce, aby si toho ostatní všimli. \n \n Vtíravé myšlenky ho vyčerpávají. Rozhodl se zapojit do programu, protože doufá, že najde způsob, jak získat odstup od své úzkosti, pochopit její příčiny a postupně se vymanit z nutnosti rituálů."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Druhou část máte hotovou!",
+          "icon": "text",
+          "contentSections": [
+            {
+              "type": "image",
+              "isExpandable": false,
+              "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Druhou_cast_mate_za_ssebou_97a32abad9.svg",
+              "width": "100%",
+              "alt": "Postava sedící v křesle s počítačem",
+              "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Druhou_cast_mate_za_ssebou_mobile_4e9b88698f.svg",
+              "widthMobile": "100%",
+              "align": "center",
+              "unoptimized": true
+            },
+            {
+              "type": "list",
+              "title": "**Co jste se dozvěděli:**",
+              "color": "#27637C",
+              "items": [
+                "Lidé s OCD se trápí nutkavými myšlenkami, impulzy nebo představami, kterým říkáme **obsese.**",
+                "Lidé s OCD provádí **kompulze**, aby se těchto pocitů zbavili, nebo je zmírnili. Ty se mohou objevovat v chování, např. jako opakované důkladné mytí rukou, nebo v myšlenkách, např. jako počítání v duchu. ",
+                "OCD vzniká kombinací **genetické zranitelnosti**, změn ve **fungování mozku** a vlivem **raných zážitků.**",
+                "OCD se často rozvíjí v **nejistých životních obdobích** a udržuje **kompulzí a vyhýbavého chování.**"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Bludný kruh OCD",
+          "icon": "audio",
+          "contentSections": [
+            {
+              "type": "audio",
+              "audioSrc": "xx",
+              "title": "Bludný kruh OCD",
+              "imageSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Bludny_kruh_OCD_812b17f073.svg"
+            },
+            {
+              "type": "collapse",
+              "content": "**Bludný kruh OCD** \n \n Představte si situaci, kdy se vám v mysli náhle objeví vtíravá, zneklidňující myšlenka. Říkáme jí **obsese**. Může vás třeba napadnout: „Sáhla jsem na kliku a mohla jsem se nakazit.“ \n \n Taková myšlenka spustí **úzkost** nebo **strach**. Začnete se bát, že jste se opravdu mohli nakazit. Vaše tělo zareaguje napětím, srdce vám začne bít rychleji, sevře se vám hrdlo. Abyste se uklidnili a ujistili se, že se nenakazíte, uděláte něco, co úzkost **na chvíli zmírní**, například si jdete umýt ruce. \n \n Takovému chování říkáme **kompulze**. Uleví se vám, ale to trvá jen do doby, než se zase dotknete něčeho, čím jste se možná mohli ušpinit. Myšlenka o nákaze se totiž zase vynoří. Vy už víte, že po umytí rukou se vám ulevilo, a tak to jdete udělat znovu. Jenže úleva zase trvá jen chvíli. Znovu se tedy umyjete. \n \n Časem zjistíte, že vás tyto myšlenky napadají čím dál častěji. Ruce si myjete častěji a déle a začíná to narušovat váš běžný život. Tento opakující se vzorec tvoří **bludný kruh OCD** – spojení obsese, nepříjemné emoce, tělesného prožívání, kompulze a přechodné úlevy, které se zacykluje a postupně posiluje.",
+              "title": "Radši si přečtu"
+            },
+            {
+              "type": "noteBox",
+              "desktopImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Bludny_kruh_OCD_icon_7584042b56.svg",
+              "mobileImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Bludny_kruh_OCD_icon_7584042b56.svg",
+              "backgroundColor": "#EDF4F6",
+              "textColor": "#27637C",
+              "text": "**Bludný kruh OCD** ukazuje, jak se propojují a navzájem posilují vtíravé myšlenky (obsese), nepříjemné emoce, tělesné prožívání a chování (kompulze). Tento kruh bývá obtížné přerušit, protože krátká úleva po vykonání kompulze posiluje celý bludný kruh.",
+              "desktopImageWidth": "97px",
+              "mobileImageWidth": "97px",
+              "isWrapping": true
+            }
+          ]
+        },
+        {
+          "title": "Části bludného kruhu OCD",
+          "icon": "text",
+          "contentSections": [
+            {
+              "type": "markdown",
+              "content": "Níže si můžete projít jednotlivé **části bludného kruhu OCD.** V detailním pohledu najdete konkrétní příklady."
+            },  
+            {
+              "type": "tool",
+              "tool": "interactiveCardModal",
+              "cardsPictureWidth": 75,
+              "cardsPictureHeight": 75,
+              "disabled": false,
+              "isSingleColumn": true,
+              "buttonLabel": "Zavřít",
+              "icon": "ArrowRight",
+              "cards": [
+                {
+                  "id": "Trigger",
+                  "title": "Spouštěč",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Icon_Spoustec_978f962f42.svg",
+                  "contentCard": [
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Spoustec_a90f1b255e.svg",
+                      "width": "100%",
+                      "alt": "Muž odcházející ode dveři",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Spoustec_mobile_8392636ee8.svg",
+                      "widthMobile": "100%",
+                      "align": "center",
+                      "unoptimized": true
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "**Spouštěč** je situace, která předchází objevení se obsesí. Někdy je obtížné si uvědomit, co bylo spouštěčem. Může vám k tomu pomoci znát ty nejběžnější. Jejich seznam najdete níže."
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "**Vnější spouštěče** - něco, k čemu dojde ve vašem okolí nebo co uděláte vy sami."
+                    },
+                    {
+                      "type": "collapse",
+                      "content": "**Strach z nákazy** \n \n - dotknutí se kliky, jízda hromadnou dopravou, na ulici kolem projde špinavý pes \n \n **Strach z vážné nemoci** \n \n - přečtení článku o onemocnění, zjištění, že někdo blízký či známý zemřel \n \n **Obavy o možném nebezpečí** \n \n - vaření na plynovém sporáku, průjezd autem pod dráty vysokého napětí \n \n **Obavy o vážných důsledcích běžných pochybení** \n \n - odchod z domu, odjezd na dovolenou \n \n **Myšlenky o nedostatku symetrie a chaosu** \n \n - nepořádek v pokoji, špatně roztříděné prádlo \n \n **Hledání znamení o vážném nebezpečí** \n \n - černá kočka jdoucí přes ulici, šlápnutí na kanál nebo na spáru mezi dlaždicemi \n \n **Obavy o vlastní nebezpečnosti** \n \n - pohled na trám, přes který by se dalo přehodit lano, číšník položil na stůl steakový nůž \n \n **Obavy s náboženskými tématy** \n \n - pohled na kostel, sledování filmu, ve kterém vystupují démoni \n \n **Obavy se sexuálními tématy** \n \n - lechtivá scéna ve filmu, situace, kdy někdo vyhledá vaši blízkost \n \n **Obavy o partnerském vztahu** \n \n - pohled na šťastný pár, sledování filmu, v němž se řeší problémy v partnerském vztahu",
+                      "title": "Příklady vnějších spouštěčů"
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "**Vnitřní spouštěče** - může to být vzpomínka nebo něco, co cítíte na svém těle."
+                    },
+                    {
+                      "type": "collapse",
+                      "content": "**Strach z nákazy** \n \n - vzpomínka na epidemii svrabu v okolí, svědění kůže \n \n **Strach z vážné nemoci** \n \n - vzpomínka na pandemii, škrábání v krku \n \n **Obavy o možném nebezpečí** \n \n - vzpomínka na zprávu o výbuchu plynu nebo o požáru, vzpomínka na něco, co jste kdysi četli nebo slyšeli o nějaké tragédii \n \n **Obavy o vážných důsledcích běžných pochybení** \n \n - vzpomínka na situaci, kdy si někdo zabouchl doma dveře, pocit, že v kapse nemáte klíče \n \n **Myšlenky o nedostatku symetrie a chaosu** \n \n - vzpomínka na nepřehlednou a stresující událost, vzpomínka na situaci spojenou s pocity bezmoci \n \n **Hledání znamení o vážném nebezpečí** \n \n - vzpomínka na situaci, kdy se objevilo znamení a došlo k nepříjemné události \n \n **Obavy o vlastní nebezpečnosti** \n \n - tělesné napětí, problém vzpomenout si, co jste zrovna dělali  \n \n **Obavy s náboženskými tématy** \n \n - vzpomínka na bohoslužbu, během které se mluvilo o konci světa nebo o Posledním soudu \n \n **Obavy se sexuálními tématy** \n \n - vzpomínka na odmítání sexuality v rodině, vzpomínka na sexuální selhání s partnerem, pocity tlaku nebo napětí v pánvi \n \n **Obavy o partnerském vztahu** \n \n - vzpomínka na předchozí vztah, vzpomínka na poslední hádku s partnerem, rozhovor o partnerovi",
+                      "title": "Příklady vnitřních spouštěčů"
+                    }
+                  ]
+                },
+                {
+                  "id": "Compulsions",
+                  "title": "Kompulze",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Icon_Kompulze_c481a42760.svg",
+                  "contentCard": [
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Kompulze_74e69bf568.svg",
+                      "width": "100%",
+                      "alt": "Postava vracející zpět se ke dveřím",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Kompulze_mobile_fd94f75741.svg",
+                      "widthMobile": "100%",
+                      "align": "center",
+                      "unoptimized": true
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "Kompulze jsou způsob chování nebo mentální činnosti, které mají za cíl zmírnit naše negativní prožívání."
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "**Opakované chování** - něco, co děláme nebo čemu se vyhýbáme."
+                    },
+                    {
+                      "type": "collapse",
+                      "content": "**Strach z nákazy** \n \n - opakované dezinfikování rukou; opakované mytí \n \n **Strach z vážné nemoci** \n \n - vyhledávání informací o nemoci na internetu; opakované absolvování lékařských vyšetření \n \n **Obavy o možném nebezpečí** \n \n - opakované kontrolování, zda jste vypnuli plyn nebo zhasli světlo \n \n **Obavy o vážných důsledcích běžných pochybení** \n \n - opakované kontrolování, jestli jste zamkli dveře nebo jestli jste něco nezapomněli \n \n **Myšlenky o nedostatku symetrie a chaosu** \n \n - rovnání knížek v poličce, namáhavé uklízení bytu \n \n **Hledání znamení o vážném nebezpečí** \n \n - klepání na dřevo, opakované vykládání tarotových karet \n \n **Obavy o vlastní nebezpečnosti** \n \n - opakované ujišťování se, že se nic nestalo, kontrolování, že jste nepohnuli s nebezpečným předmětem \n \n **Obavy s náboženskými tématy** \n \n - velmi časté návštěvy bohoslužeb, úporná snaha o vykonání dokonalých náboženských rituálů \n \n **Obavy se sexuálními tématy** \n \n - opakované ujišťování se, že jste neudělali nic špatného \n \n **Obavy o partnerském vztahu** \n \n - úporné hledání informací, které by pomohly v rozhodnutí, zda je partner ten pravý, ujišťování se u partnera nebo u ostatních, že se k sobě opravdu hodíte",
+                      "title": "Příklady opakovaného chování"
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "**Opakované mentální** - něco, co si opakujeme v hlavě - třeba myšlenky nebo představy."
+                    },
+                    {
+                      "type": "collapse",
+                      "content": "**Strach z nákazy** \n \n - představování mytí rukou \n \n **Strach z vážné nemoci** \n \n - pečlivé skenování toho, jak se člověk cítí ve svém těle - třeba, jestli ho něco nesvědí nebo nebolí \n \n **Obavy o možném nebezpečí** \n \n - usilovné vzpomínání na jízdu autem, aby se ujistil, že jste nikoho nesrazil/a \n \n **Obavy o vážných důsledcích běžných pochybení** \n \n - opakované vzpomínání na to, že jste opouštěli byt a všechno bylo v pořádku \n \n **Myšlenky o nedostatku symetrie a chaosu** \n \n - opakování série čísel nebo vět ve své mysli; zvažování, jestli jste cítili jako stejně „správné“, když jste něco rovnali levou i pravou rukou \n \n **Hledání znamení o vážném nebezpečí** \n \n - opakování ochranné mantry v mysli \n \n **Obavy o vlastní nebezpečnosti** \n \n - přemítání, jestli jste udělali něco špatného; opakování ujišťujících vět v mysli \n \n **Obavy s náboženskými tématy** \n \n - provádění dlouhých modliteb v mysli \n \n **Obavy se sexuálními tématy** \n \n - úporné zkoumání svých myšlenek a toho, jestli obsahují „zakázané“ obsahy a jestli vyvolávají vzrušení \n \n **Obavy o partnerském vztahu** \n \n - vyjmenovávání seznamu pro a proti vztahu v mysli",
+                      "title": "Příklady mentálních činností"
+                    }
+                  ]
+                },
+                {
+                  "id": "Obsessions",
+                  "title": "Obsese",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Icon_Obsese_feb8df3d30.svg",
+                  "contentCard": [
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Obsese_7be7ffc373.svg",
+                      "width": "100%",
+                      "alt": "Postava s myšlenkouvou bublinou: Zamknul jsem ty dveře?",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Obsese_mobile_9a482edac6.svg",
+                      "widthMobile": "100%",
+                      "align": "center",
+                      "unoptimized": true
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "Obsese jsou **nechtěné** a **vtíravé** myšlenky, představy nebo nutkání, které zneklidňují."
+                    },
+                    {
+                      "type": "collapse",
+                      "content": "**Strach z nákazy** \n \n - představa toho, jak po vás lezou bakterie; myšlenka na to, že jste se nakazili \n \n **Strach z vážné nemoci** \n \n - představa nemoci u vás nebo u vašich blízkých; myšlenka na to, že jste nemocní \n \n **Obavy o možném nebezpečí** \n \n - představa toho, jak na vás padá drát probíjející elektřinu; myšlenka na to, že u vás doma vybuchne plyn \n \n **Obavy o vážných důsledcích běžných pochybení** \n \n - představa toho, že v kapse opravdu nemáte klíče; myšlenka na to, že jste si je zabouchli \n \n **Myšlenky o nedostatku symetrie a chaosu** \n \n - myšlenka na to, že je věc neuklizení nebo špatně uspořádaná; nutkání to okamžitě uklidit a srovnat \n \n **Hledání znamení o vážném nebezpečí** \n \n - myšlenka na to, že se stane neštěstí; představa toho, jak k neštěstí dochází \n \n **Obavy o vlastní nebezpečnosti** \n \n - myšlenka na to, že někomu ublížíte; představa, jak to děláte \n \n **Obavy s náboženskými tématy** \n \n - rouhavá myšlenka nebo představa \n \n **Obavy se sexuálními tématy** \n \n - sexuální představa zahrnující člověka, který vás nepřitahuje; myšlenka na to, že by vás mohl přitahovat \n \n **Obavy o partnerském vztahu** \n \n - myšlenka na to, že se k sobě s partnerem nehodíte nebo že si rozhodnutím zůstat s ním pokazíte život",
+                      "title": "Příklady obsesí"
+                    }
+                  ]
+                },
+                {
+                  "id": "Short term relief",
+                  "title": "Krátkodobá úleva",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Icon_Kratkodoba_uleva_8e6eb5af78.svg",
+                  "contentCard": [
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Kratkodoba_uleva_279118b912.svg",
+                      "width": "100%",
+                      "alt": "Veselý a smutný obličej ve smyčce",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Kratkodoba_uleva_mobile_8f725ec793.svg",
+                      "widthMobile": "100%",
+                      "align": "center",
+                      "unoptimized": true
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "Po provedení kompulze obvykle **dočasně poklesnou negativní emoce**. Zpravidla klesne i tělesné napětí. Zároveň se tím ale upevňuje bludný kruh. Můžeme si říct: „Zabralo to, udělám to znovu.“ \n \n Jenže vtíravé myšlenky se začnou **vracet častěji**, nutkání narůstá a kompulze zabírají více času. A s tím vším **vyčerpání.**"
+                    }
+                  ]
+                },
+                {
+                  "id": "Emotions and bodily feelings",
+                  "title": "Emoce a tělesné pocity",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Icon_Emoce_a_telesne_pocity_ee1188484b.svg",
+                  "contentCard": [
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Emoce_a_telesne_pocity_45a6fa0f8a.svg",
+                      "width": "100%",
+                      "alt": "Muž se zamračeným výrazem, držící se za hlavu",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Emoce_a_telesne_pocity_mobile_c39cee549c.svg",
+                      "widthMobile": "100%",
+                      "align": "center",
+                      "unoptimized": true
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "Emoce jsou **vnitřní stavy**, které zabarvuji naše prožívání. Někdy příjemně a někdy nepříjemně. Většinou je lze vyjádřit jedním slovem."
+                    },
+                    {
+                      "type": "collapse",
+                      "content": "- úzkost \n - strach \n - znechucení \n - hněv na sebe \n - bezmoc",
+                      "title": "Příklady emocí"
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "Naše tělo často reaguje na negativní emoce. **Tělesných reakcí** je celá řada. Můžeme si je uvědomovat nebo také ne."
+                    },
+                    {
+                      "type": "collapse",
+                      "content": "- bušení srdce \n - napětí v těle \n - neklid \n - knedlík v krku \n - pocit slabosti",
+                      "title": "Příklady tělesných reakcí"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Janin bludný kruh",
+          "icon": "Story",
+          "contentSections": [
+            {
+              "type": "markdown",
+              "content": "Aby bylo jasnější, jak OCD působí, podíváme se na nejdříve na **příklad Jany**, kterou už znáte. Její příběh ukazuje vzorec spouštěčů, vtíravých myšlenek, úzkosti, nutkavého chování a krátkodobé úlevy, která problém udržuje."
+            },
+            {
+              "type": "stories",
+              "stories": [
+                {
+                  "name": "Jana",
+                  "toggleImageUrl": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Ikonka_Jana_2a6477d8a2.svg",
+                  "contentSections": [
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Komiks_Bludny_kruh_OCD_v_praxi_df0390977a.svg",
+                      "width": "100%",
+                      "alt": "Komiks o tom, jak u Jany jízda tramvají spustila bludný kruh OCD",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Komiks_Bludny_kruh_OCD_v_praxi_mobile_9060bb41f5.svg",
+                      "widthMobile": "100%",
+                      "align": "center"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Příklady bludných kruhů našich hrdinů",
+          "icon": "Story",
+          "contentSections": [
+            {
+              "type": "markdown",
+              "content": "Jana se nad situací zpětně zamýšlela. Uvědomila si, že se dostala do **bludného kruhu OCD**. Jednotlivé části kruhu si rozepsala, aby lépe porozuměla svému prožívání."
+            },
+            {
+              "type": "stories",
+              "stories": [
+                {
+                  "name": "Jana",
+                  "toggleImageUrl": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Ikonka_Jana_2a6477d8a2.svg",
+                  "contentSections": [
+                    {
+                      "type": "markdown",
+                      "content": ":::text--center \n **Bludný kruh v situaci, kdy se Jana dotkla tyče v autobuse** \n :::"
+                    },
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Janin_bludny_kruh_1_724de0f098.svg",
+                      "width": "80%",
+                      "alt": "Bludný kruh v situaci, kdy se Jana dotkla tyče v autobuse",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Janin_bludny_kruh_1_724de0f098.svg",
+                      "widthMobile": "100%",
+                      "align": "center"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "markdown",
+              "content": "**Další příklady bludných kruhů OCD:**"
+            },
+            {
+              "type": "noteBox",
+              "desktopImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lightbulb_Icon_5bba92e832.svg",
+              "mobileImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lightbulb_Icon_5bba92e832.svg",
+              "backgroundColor": "#EDF4F6",
+              "textColor": "#27637C",
+              "text": "Pro inspiraci se můžete podívat i na příklady ostatních. Zkuste najít příklad, který se **nejvíce podobá vašemu prožívání** - podle typu myšlenek, emocí nebo chování. ",
+              "desktopImageWidth": "84px",
+              "mobileImageWidth": "84px",
+              "isWrapping": true
+            },
+            {
+              "type": "tool",
+              "tool": "interactiveCardModal",
+              "cardsPictureWidth": 75,
+              "cardsPictureHeight": 75,
+              "disabled": false,
+              "isSingleColumn": true,
+              "icon": "ArrowRight",
+              "buttonLabel": "Zavřít",
+              "cards": [
+                {
+                  "id": "Jane",
+                  "title": "Jana (obavy z nákazy)",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Icon_Jana_ef7282cfbe.svg",
+                  "contentCard": [
+                    {
+                      "type": "markdown",
+                      "content": "Níže si můžete prohlédnout další příklady Janiných bludných kruhů OCD."
+                    },
+                    {
+                      "type": "markdown",
+                      "content": ":::text--center \n **Bludný kruh v situaci, kdy Jana otevřela dveře holou rukou.** \n :::"
+                    },
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Janin_bludny_kruh_2_0680539310.svg",
+                      "width": "80%",
+                      "alt": "Bludný kruh v situaci, kdy Jana otevřela dveře holou rukou.",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Janin_bludny_kruh_2_0680539310.svg",
+                      "widthMobile": "100%",
+                      "align": "center"
+                    },
+                    {
+                      "type": "markdown",
+                      "content": ":::text--center \n **Bludný kruh v situaci, kdy si Jana hrála s Toníkem po příchodu z práce.** \n :::"
+                    },
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Janin_bludny_kruh_3_8386c16837.svg",
+                      "width": "80%",
+                      "alt": "Bludný kruh v situaci, kdy si Jana hrála s Toníkem po příchodu z práce.",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Janin_bludny_kruh_3_8386c16837.svg",
+                      "widthMobile": "100%",
+                      "align": "center"
+                    }
+                  ]
+                },
+                {
+                  "id": "Luke",
+                  "title": "Lukáš (náboženské obsese)",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Icon_Lukas_129ae29acf.svg",
+                  "contentCard": [
+                    {
+                      "type": "markdown",
+                      "content": "Níže si můžete prohlédnout příklady Lukášových bludných kruhů OCD."
+                    },
+                    {
+                      "type": "markdown",
+                      "content": ":::text--center \n **Bludný kruh v situaci, kdy Lukáš uviděl v televizi kříž.** \n :::"
+                    },
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lukasuv_bludny_kruh_1_3df30e53df.svg",
+                      "width": "80%",
+                      "alt": "Bludný kruh v situaci, kdy Lukáš uviděl v televizi kříž.",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lukasuv_bludny_kruh_1_3df30e53df.svg",
+                      "widthMobile": "100%",
+                      "align": "center"
+                    },
+                    {
+                      "type": "markdown",
+                      "content": ":::text--center \n **Bludný kruh v situaci, kdy kolem Lukáše začali vtipkovat kamarádi.** \n :::"
+                    },
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lukasuv_bludny_kruh_2_94eb2106e9.svg",
+                      "width": "80%",
+                      "alt": "Bludný kruh v situaci, kdy kolem Lukáše začali vtipkovat kamarádi.",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lukasuv_bludny_kruh_2_94eb2106e9.svg",
+                      "widthMobile": "100%",
+                      "align": "center"
+                    }
+                  ]
+                },
+                {
+                  "id": "Peter",
+                  "title": "Petr (obavy z pochybení)",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Icon_Petr_b107e0f4e9.svg",
+                  "contentCard": [
+                    {
+                      "type": "markdown",
+                      "content": "Níže si můžete prohlédnout příklady Petrových bludných kruhů OCD."
+                    },
+                    {
+                      "type": "markdown",
+                      "content": ":::text--center \n **Bludný kruh v situaci, kdy Petr jel ráno autem do práce.** \n :::"
+                    },
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Petruv_bludny_kruh_1_16aae98f5a.svg",
+                      "width": "80%",
+                      "alt": "Bludný kruh v situaci, kdy Petr jel ráno autem do práce.",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Petruv_bludny_kruh_1_16aae98f5a.svg",
+                      "widthMobile": "100%",
+                      "align": "center"
+                    },
+                    {
+                      "type": "markdown",
+                      "content": ":::text--center \n **Bludný kruh v situaci, kdy Petr odcházel ráno z bytu.** \n :::"
+                    },
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Petruv_bludny_kruh_2_80d82ece4e.svg",
+                      "width": "80%",
+                      "alt": "Bludný kruh v situaci, kdy Petr odcházel ráno z bytu.",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Petruv_bludny_kruh_2_80d82ece4e.svg",
+                      "widthMobile": "100%",
+                      "align": "center"
+                    }
+                  ]
+                },
+                {
+                  "id": "Veronica",
+                  "title": "Veronika (obavy o zdraví)",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Icon_Veronika_3dd934ee45.svg",
+                  "contentCard": [
+                    {
+                      "type": "markdown",
+                      "content": "Níže si můžete prohlédnout příklady Veroničiných bludných kruhů OCD."
+                    },
+                    {
+                      "type": "markdown",
+                      "content": ":::text--center \n **Bludný kruh v situaci, kdy Veroniku začalo bolet v krku.** \n :::"
+                    },
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Veronicin_bludny_kruh_1_223a7bb621.svg",
+                      "width": "80%",
+                      "alt": "Bludný kruh v situaci, kdy Veroniku začalo bolet v krku.",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Veronicin_bludny_kruh_1_223a7bb621.svg",
+                      "widthMobile": "100%",
+                      "align": "center"
+                    },
+                    {
+                      "type": "markdown",
+                      "content": ":::text--center \n **Bludný kruh v situaci, kdy Veronice lékař řekl, že jí nic není.** \n :::"
+                    },
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Veronicin_bludny_kruh_2_2adbe5b83f.svg",
+                      "width": "80%",
+                      "alt": "Bludný kruh v situaci, kdy Veronice lékař řekl, že jí nic není.",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Veronicin_bludny_kruh_2_2adbe5b83f.svg",
+                      "widthMobile": "100%",
+                      "align": "center"
+                    }
+                  ]
+                },
+                {
+                  "id": "Eve",
+                  "title": "Eva (agresivní obsese)",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Icon_Eva_d5ddbd6eda.svg",
+                  "contentCard": [
+                    {
+                      "type": "markdown",
+                      "content": "Níže si můžete prohlédnout příklady Eviných bludných kruhů OCD."
+                    },
+                    {
+                      "type": "markdown",
+                      "content": ":::text--center \n **Bludný kruh v situaci, kdy Eva při vaření krájela cibuli.** \n :::"
+                    },
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Evin_bludny_kruh_1_6761ea2b8c.svg",
+                      "width": "80%",
+                      "alt": "Bludný kruh v situaci, kdy Eva při vaření krájela cibuli.",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Evin_bludny_kruh_1_6761ea2b8c.svg",
+                      "widthMobile": "100%",
+                      "align": "center"
+                    },
+                    {
+                      "type": "markdown",
+                      "content": ":::text--center \n **Bludný kruh v situaci, kdy Eva šla s Vaškem na večeři.** \n :::"
+                    },
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Evin_bludny_kruh_2_9730294ed0.svg",
+                      "width": "80%",
+                      "alt": "Bludný kruh v situaci, kdy Eva šla s Vaškem na večeři.",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Evin_bludny_kruh_2_9730294ed0.svg",
+                      "widthMobile": "100%",
+                      "align": "center"
+                    }
+                  ]
+                },
+                {
+                  "id": "Michael",
+                  "title": "Michal (pochybnosti o vztahu)",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Icon_Michal_0e075b5dc3.svg",
+                  "contentCard": [
+                    {
+                      "type": "markdown",
+                      "content": "Níže si můžete prohlédnout příklady Michalových bludných kruhů OCD."
+                    },
+                    {
+                      "type": "markdown",
+                      "content": ":::text--center \n **Bludný kruh v situaci, kdy si Michal všimnul, že je Lenka déle na mobilu a projíždí sociální sítě.** \n :::"
+                    },
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Michaluv_bludny_kruh_1_66ef787376.svg",
+                      "width": "80%",
+                      "alt": "Bludný kruh v situaci, kdy si Michal všimnul, že je Lenka déle na mobilu a projíždí sociální sítě.",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Michaluv_bludny_kruh_1_66ef787376.svg",
+                      "widthMobile": "100%",
+                      "align": "center"
+                    },
+                    {
+                      "type": "markdown",
+                      "content": ":::text--center \n **Bludný kruh v situaci, kdy se Lukáš s Lenkou pohádali.** \n :::"
+                    },
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Michaluv_bludny_kruh_2_aec495723b.svg",
+                      "width": "80%",
+                      "alt": "Bludný kruh v situaci, kdy se Lukáš s Lenkou pohádali.",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Michaluv_bludny_kruh_2_aec495723b.svg",
+                      "widthMobile": "100%",
+                      "align": "center"
+                    }
+                  ]
+                },
+                {
+                  "id": "David",
+                  "title": "David (potřeba symetrie)",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Icon_David_8fccefb11a.svg",
+                  "contentCard": [
+                    {
+                      "type": "markdown",
+                      "content": "Níže si můžete prohlédnout příklady Davidových bludných kruhů OCD."
+                    },
+                    {
+                      "type": "markdown",
+                      "content": ":::text--center \n **Bludný kruh v situaci, kdy si David na stole všimnul neurovnaných knih.** \n :::"
+                    },
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Daviduv_bludny_kruh_1_264dc52b3e.svg",
+                      "width": "80%",
+                      "alt": "Bludný kruh v situaci, kdy si David na stole všimnul neurovnaných knih.",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Daviduv_bludny_kruh_1_264dc52b3e.svg",
+                      "widthMobile": "100%",
+                      "align": "center"
+                    },
+                    {
+                      "type": "markdown",
+                      "content": ":::text--center \n **Bludný kruh v situaci, kdy si David doma všimnul, že věci nejsou tam, kde mají být.** \n :::"
+                    },
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Daviduv_bludny_kruh_3_623be10ec3.svg",
+                      "width": "80%",
+                      "alt": "Bludný kruh v situaci, kdy si David doma všimnul, že věci nejsou tam, kde mají být.",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Daviduv_bludny_kruh_3_623be10ec3.svg",
+                      "widthMobile": "100%",
+                      "align": "center"
+                    }
+                  ]
+                },
+                {
+                  "id": "Johny",
+                  "title": "Jirka (počítání čísel)",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Icon_Jirka_012e852323.svg",
+                  "contentCard": [
+                    {
+                      "type": "markdown",
+                      "content": "Níže si můžete prohlédnout příklady Jirkových bludných kruhů OCD."
+                    },
+                    {
+                      "type": "markdown",
+                      "content": ":::text--center \n **Bludný kruh v situaci, kdy si Jirka vzpomněl si na dceru Magdu.** \n :::"
+                    },
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jirkuv_bludny_kruh_1_798141f999.svg",
+                      "width": "80%",
+                      "alt": "Bludný kruh v situaci, kdy si Jirka vzpomněl si na dceru Magdu.",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jirkuv_bludny_kruh_1_798141f999.svg",
+                      "widthMobile": "100%",
+                      "align": "center"
+                    },
+                    {
+                      "type": "markdown",
+                      "content": ":::text--center \n **Bludný kruh v situaci, kdy Jirkovi manželka řekla, že má zmeškaný hovor od vnučky.** \n :::"
+                    },
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jirkuv_bludny_kruh_2_f83e7d8565.svg",
+                      "width": "80%",
+                      "alt": "Bludný kruh v situaci, kdy Jirkovi manželka řekla, že má zmeškaný hovor od vnučky.",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jirkuv_bludny_kruh_2_f83e7d8565.svg",
+                      "widthMobile": "100%",
+                      "align": "center"
+                    }
+                  ]
+                },
+                {
+                  "id": "Clare",
+                  "title": "Klára (sexuální obsese)",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Icon_Klara_977992aa59.svg",
+                  "contentCard": [
+                    {
+                      "type": "markdown",
+                      "content": "Níže si můžete prohlédnout příklady Klářiných bludných kruhů OCD."
+                    },
+                    {
+                      "type": "markdown",
+                      "content": ":::text--center \n **Bludný kruh v situaci, kdy si Klára v kavárně všimnula maminky s malým dítětem.** \n :::"
+                    },
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Klarin_bludny_kruh_1_aac26e521a.svg",
+                      "width": "80%",
+                      "alt": "Bludný kruh v situaci, kdy si Klára v kavárně všimnula maminky s malým dítětem.",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Klarin_bludny_kruh_1_aac26e521a.svg",
+                      "widthMobile": "100%",
+                      "align": "center"
+                    },
+                    {
+                      "type": "markdown",
+                      "content": ":::text--center \n **Bludný kruh v situaci, kdy měla Klára intimní chvíli s Honzou.** \n :::"
+                    },
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Klarin_bludny_kruh_2_6945da8474.svg",
+                      "width": "80%",
+                      "alt": "Bludný kruh v situaci, kdy měla Klára intimní chvíli s Honzou.",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Klarin_bludny_kruh_2_6945da8474.svg",
+                      "widthMobile": "100%",
+                      "align": "center"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "O cvičení bludného kruhu",
+          "icon": "video",
+          "contentSections": [
+            {
+              "type": "markdown",
+              "content": "Ve videu vám blíže vysvětlíme, v čem je užitečné zachycovat vlastní bludné kruhy."
+            },
+            {
+              "type": "video",
+              "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M1_2_22fd35d636.mp4"
+            },
+            {
+              "type": "collapse",
+              "content": "Ve **cvičení bludného kruhu** si zapíšete, jak se vzájemně ovlivňují vaše obsese, negativní prožívání a kompulze. Tím, že si to vypíšete na papír, nebo na obrazovku, si v hlavě lépe **utřídíte**, co se s vámi vlastně děje. \n \n Mnoho lidí s OCD má dojem, že jsou **„pořád ve stresu“** nebo že se to **„nedá zachytit“**. Ale když si popíší konkrétní situace, začnou si všímat, že se v jejich chování a prožívání opakují určité **vzorce.** \n \n Díky vedení **pravidelných záznamů** si můžete uvědomit, co u vás spouští nepříjemné pocity a jak na to obvykle reagujete. Možná vám dojde, co **pomáhá** a co to naopak **zhoršuje.** \n \n Na následující stránce si vyplníte vlastní bludný kruh. Vyberte si k tomu **nedávnou situaci**, kdy jste si všimli příznaků OCD. Co se dělo, když se objevily? Co vás při tom napadalo? \n \n Je důležité sledovat, jak **intenzivní** byly nepříjemné emoce. **Nula** znamená, že jste nepohodu vůbec necítili. **Desítka** naopak ukazuje, že v té chvíli byla nesnesitelně silná. \n \n Potom zapište, co jste udělali, abyste **nepříjemné pocity zmírnili**. A nakonec se zamyslete, jestli vám kompulze **ulevily**. Pokud ano, tak na jak dlouho? Prožívali jste kromě úlevy i něco jiného? Třeba **stud** nebo **hněv na sebe?**",
+              "title": "Radši si přečtu"
+            }
+          ]
+        },
+        {
+          "title": "Kvíz o OCD",
+          "icon": "Star",
+          "contentSections": [
+            {
+              "type": "survey",
+              "variant": "quiz",
+              "questions": [
+                {
+                  "name": "Question1",
+                  "question": ":::text--center \n Petr opustil byt a po pár krocích si vzpomněl, že si není jistý, jestli vypnul sporák. Vrátil se domů a všechno zkontroloval. \n \n Co Petr udělal? \n :::",
+                  "options": [
+                    {
+                      "label": "A) Užitečné preventivní opatření",
+                      "value": 0
+                    },
+                    {
+                      "label": "B) Kompulzi, která krátkodobě snižuje úzkost",
+                      "value": 1
+                    },
+                    {
+                      "label": "C) Oprávněně se ujistil, protože má poruchu paměti",
+                      "value": 2
+                    },
+                    {
+                      "label": "D) Snažil se udržet v kondici a splnit potřebný počet kroků",
+                      "value": 3
+                    }
+                  ],
+                  "correctAnswer": 1,
+                  "correctAnswerReason": "Správná odpověď je B). Petr vykonal kompulzi, aby se zbavil nejistoty a úzkosti. Taková vede u OCD k úlevě, která je však jen krátkodobá. Kompulze se tak brzy opakují."
+                },
+                {
+                  "name": "Question2",
+                  "question": ":::text--center \n Co se stane, když se člověk s OCD opakovaně věnuje kompulzím? Např. když se opakovaně myje nebo si něco opakuje? \n :::",
+                  "options": [
+                    {
+                      "label": "A) Dlouhodobě se snižuje úzkost a porucha časem odezní",
+                      "value": 0
+                    },
+                    {
+                      "label": "B) Člověk díky nim lépe snáší úzkost a obsese mizí",
+                      "value": 1
+                    },
+                    {
+                      "label": "C) Krátkodobě se může ulevit, ale dlouhodobě se OCD posiluje",
+                      "value": 2
+                    },
+                    {
+                      "label": "D) Nemá to žádné příjemné, ani nepříjemné důsledky",
+                      "value": 3
+                    }
+                  ],
+                  "correctAnswer": 2,
+                  "correctAnswerReason": "Správná odpověď je C). Kompulze přináší dočasnou úlevu, ale mozek si „zvyká“, že úzkost je nutné rychle řešit kompulzí. Tím se OCD udržuje a může se i zhoršovat. Dlouhodobě se tak OCD posiluje."
+                },
+                {
+                  "name": "Question3",
+                  "question": ":::text--center \n Michal se znovu a znovu ptá Mirky, jestli ho miluje. Když odpoví „ano,“ nedokáže jí uvěřit. Pokud Mirka neodpoví okamžitě, Michal začne mít velký strach. \n \n Co to ukazuje? \n :::",
+                  "options": [
+                    {
+                      "label": "A) Přirozenou nejistotu, která se objevuje v každém vztahu",
+                      "value": 0
+                    },
+                    {
+                      "label": "B) Potřebu budovat větší otevřenost v páru, která pomáhá lépe si porozumět",
+                      "value": 1
+                    },
+                    {
+                      "label": "C) Nutkavé hledání jistoty, které na chvíli uklidní, ale dlouhodobě zvyšuje nejistotu",
+                      "value": 2
+                    },
+                    {
+                      "label": "D) Lenka neumí upřímně vyjádřit své city",
+                      "value": 3
+                    }
+                  ],
+                  "correctAnswer": 2,
+                  "correctAnswerReason": "Správná odpověď je C). Michala trápí vztahové OCD. Ujišťuje se, aby se cítil jistý. Úleva je však jen krátkodobá a brzy přichází další pochybnosti."
+                }
+              ]
+            }
+          ]
+        }, 
+        {
+          "title": "Můj bludný kruh OCD",
+          "icon": "Exercise",
+          "isEvaluable": true,
+          "finalScreen": {
+            "buttonLabel": "Upravit odpovědi",
+            "contentSections": [
+              {
+                "type": "image",
+                "isExpandable": true,
+                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Journey_d3385bc787.svg",
+                "width": "280px",
+                "alt": "Obrázek začátku cesty do hor",
+                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Journey_d3385bc787.svg",
+                "widthMobile": "280px",
+                "align": "center"
+              },
+              {
+                "type": "markdown",
+                "content": ":::text--center #### Každá cesta začíná prvním krokem! \n \n Pochopení bludného kruhu OCD je důležitý krok k tomu, abyste se z něj postupně osvobodili. ::::"
+              }
+            ]
+          },
+          "contentSections": [
+            {
+              "type": "tool",
+              "tool": "viciousCircles",
+              "showDescription": false,
+              "showTitle": false,
+              "showFillOutAgainButton": false,
+              "showDownloadButton": false,
+              "required": true,
+              "sectionsData": {
+                "triggers": {
+                  "question": "Popiště jednu situaci, která ve Vás vyvolala negativní prožívání",
+                  "canYouThinkOfAnything": "Jedná se o situaci, která ovlivňuje Vaši náladu. Rozpoznáte ji tak, že si rozpomenete na to, co se stalo předtím, než jste si všimli změny nálady. Spouštěčem může být například neúspěch v práci či hádka s kamarádem nebo partnerem."
+                },
+                "thoughts": {
+                  "question": "Jaké myšlenky to ve Vás vyvolává?",
+                  "canYouThinkOfAnything": "Narozdíl od emocí, které se většinou dají popsat jedním slovem, jsou myšlenky spíše souvislými větami. Příklady mohou být následující: „Co když to nezvládnu?“ - „Všichni uvidí, že jsem k ničemu“ - „Co když přijdu o peníze?“."
+                },
+                "emotions": {
+                  "question": "Jaké emoce to ve Vás vyvolává?",
+                  "canYouThinkOfAnything": "Emoce jsou vnitřní pocity, které reagují na vnější události nebo myšlenky. Ovlivňují jak se cítíme a mají vliv na naše myšlení, chování a fyzický stav.",
+                  "tags": [
+                    { "type": "upset", "title": "Rozčílení" },
+                    { "type": "grief", "title": "Smutek" },
+                    { "type": "nervousness", "title": "Nervozita" },
+                    { "type": "fear", "title": "Strach" },
+                    { "type": "anxiety", "title": "Úzkost" },
+                    { "type": "irritability", "title": "Podrážděnost" },
+                    { "type": "disgust", "title": "Znechucení" },
+                    { "type": "shame", "title": "Stud" },
+                    { "type": "jealousy", "title": "Žárlivost" },
+                    { "type": "regret", "title": "Lítost" },
+                    { "type": "loneliness", "title": "Osamělost" },
+                    { "type": "resentment", "title": "Ukřivděnost" },
+                    { "type": "disappointment", "title": "Zklamání" },
+                    { "type": "hopelessness", "title": "Beznaděj" },
+                    { "type": "discontent", "title": "Nespokojenost" },
+                    { "type": "powerlessness", "title": "Bezmoc" }
+                  ]
+                },
+                "bodilySensations": {
+                  "question": "Jaké tělesné pocity to ve Vás vyvolává?",
+                  "canYouThinkOfAnything": "Fyzické pocity jsou vjemy, které pociťujete na svém těle. Typicky se jedná o - tělesné napětí - ztížené dýchání - bušení srdce - vyčerpanost - bolest hlavy - stažený žaludek Jak se na základě úzkostné epizody zachováte? - Chování nápověda - úzkost ovlivňuje to, co děláme a nebo naopak neděláme. Jako příklad můžeme uvést: vyhýbání se - neurotické připravování se - izolace - pláč",
+                  "tags": [
+                    { "type": "tremor", "title": "třes" },
+                    { "type": "rapidHeartbeat", "title": "zrychlený tep" },
+                    { "type": "constipation", "title": "zácpa" },
+                    { "type": "fatigue", "title": "únava" },
+                    {
+                      "type": "unexplainedPains",
+                      "title": "nevysvětlitelné bolesti"
+                    },
+                    {
+                      "type": "lossOfInterestInSex",
+                      "title": "ztráta zájmu o sex"
+                    },
+                    { "type": "sleepProblems", "title": "problémy se spánkem" },
+                    { "type": "muscleTension", "title": "svalové napětí" },
+                    {
+                      "type": "difficultyBreathing",
+                      "title": "ztížené dýchání"
+                    },
+                    { "type": "sweating", "title": "pocení se" }
+                  ]
+                },
+                "behavior": {
+                  "question": "Jak se na základě této situace zachováte?",
+                  "canYouThinkOfAnything": "Jako příklad můžeme uvést: vyhýbání se - neurotické připravování se - izolace - pláč"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "title": "Cvičení mindfulness",
+          "icon": "video",
+          "contentSections": [
+            {
+              "type": "markdown",
+              "content": "Níže jsme pro vás připravili **cvičení rozvíjející mindfulness**. Nemusíte v něm nic řešit, hodnotit, ani měnit. Nemusíte „umět meditovat“. Stačí být tady. Tak, jak právě jste. \n \n Možná cítíte napětí. Možná nejistotu. A možná i kousek klidu. Všechno, co cítíte, je v tuto chvíli v pořádku. Zkuste jen **naslouchat hlasu**, který vás bude provázet. Můžete mít zavřené oči, nebo klidně sledovat video. \n \n Postupujte svým tempem. Tato chvíle je vaše. Pro vaše tělo. Pro dech. Pro laskavé naladění na přítomnost."
+            },
+            {
+              "type": "video",
+              "url": "xx"
+            },
+            {
+              "type": "collapse",
+              "content": "Zkuste se na chvilku jen zastavit. Nemusíte nic měnit. Nemusíte nic řešit. Nemusíte být jiní, než jste právě teď.“ \n \n „Možná právě sedíte. Možná ležíte. Možná vás něco tlačí. Možná cítíte úzkost… a možná klid. Ať je to jakkoli – jste tady. A to stačí.“ \n \n „Zkuste vnímat, jak se vaše tělo dotýká podložky. Kde se opíráte? Které místo cítíte jako těžší?  \n \n Které je uvolněné? Nemusíte to hodnotit. Jen pozorujte.“  \n \n „Možná si všimnete svého dechu. Vchází dovnitř… a ven. Nemusíte ho měnit. Jen sledujte, jak vás dech spojuje s přítomným okamžikem.“  \n \n „Když přijde myšlenka… můžete si jí všimnout. A pak ji nechat jít. Stejně jako list, který proud odnese dál po vodě.“  \n \n „Ať se dnes cítíte jakkoli – není to navždy. Vaše emoce, vaše myšlenky, vaše tělo… jsou živé. Mění se.  \n \n A právě teď se učíte být s tím vším – trochu jemněji.“  \n \n „Možná vám to přijde zvláštní. Možná hezké. Možná nudné. Všechno je v pořádku. Tohle je prostor, ve kterém nemusíte o nic usilovat.“  \n \n „Zůstaňte ještě chvíli… nebo se pomalu vraťte. Do dnešního dne. K sobě. S dechem. S vědomím, že i chvíle ticha je krok na cestě ke klidu a pohodě.“ ",
+              "title": "Radši si přečtu"
+            }
+          ]
+        },
+        {
+          "title": "Bonusový příběh",
+          "icon": "audio",
+          "contentSections": [
+            {
+              "type": "markdown",
+              "content": "Níže si můžete přehrát audio příběh o tom, jak se Jana potýká s OCD. Zvukové příběhy na vás budou čekat na konci každého modulu."
+            },
+            {
+              "type": "audio",
+              "audioSrc": "xx",
+              "title": "Bonusový příběh",
+              "imageSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Bonusovy_pribeh_9f1662b516.svg"
+            },
+            {
+              "type": "collapse",
+              "content": "**VYPRAVĚČ:** Bylo brzy ráno. Tramvaj kvílela do zatáčky a Jana pevně svírala madlo, přestože se jí štítila dotknout. Očima těkala po ostatních cestujících. \n \n **JANA:** „Dotýkám se toho... Určitě jsem se něčeho chytila. Co když to bylo infikované? Co když to přenesu domů?“  \n \n **VYPRAVĚČ:** Jana zavřela oči. V hlavě jí probleskl obraz: leží v posteli s horečkou. Vedle ní kašle syn Toník. Dotkne se ho. A on se přestane hýbat. Jana otevřela oči. Rychle pustila madlo a sáhla do kabelky pro dezinfekci.  \n \n **MATKA:** „Umyla sis ruce, Jani?“  \n \n **VYPRAVĚČ:** Maminka stála u dveří, ruce v bok, pohled přísný. Jana jen kývla.  \n \n **MATKA:** „Tak mi je ukaž.“  \n \n **VYPRAVĚČ:** Ukázala je. Byly mokré.  \n \n **MATKA:** „Příště nezapomeň i mezi prsty.“  \n \n **VYPRAVĚČ:** Takové věty se v jejich domě opakovaly jako ohrané deska. Pořádek byl bezpečí. Ticho bylo klid. A čistota byla ctnost. Tatínek doma moc nebýval. Když přišel, bylo lepší být neviditelná.  \n \n **VYPRAVĚČ:** Jednoho zimního večera se už popáté osprchovala. Potom se posadila na gauč. V ruce držela hrnek čaje, který má obvykle ráda, ale tentokrát jí nevoněl. Necítila nic. Jen únavu.  \n \n **JANA:** „Šimone, myslíš, že jsem mohla něco chytit v tramvaji?“  \n \n **ŠIMON:** „Jani… já už nevím. Co ti mám říkat? Pořád mi říkáš, že jsi nemocná. Mám tě moc rád. Ale mám dojem, že se v tom vyžíváš. Nic ti není.“  \n \n **VYPRAVĚČ:** Zůstalo ticho. Jana chtěla utěšit a ujistit. Uvědomovala si, že to tak je každý den, ale i tak to potřebovala. Aspoň trochu by jí to ulevilo. Šimonova kritika ji zabolela. Taky se na něj zlobila. Mohl ji ujistit. Věděla, že ho pořád otravuje, a že i na něho je to moc. V tom tichu cosi prasklo. Ne mezi nimi. Ale v ní.  \n \n **VYPRAVĚČ:** Dva dny poté přišel email od kamarádky: „Zkouším on-line program proti OCD. Možná by pomohl i tobě.“ Klikla. A zaregistrovala se.  \n \n **HLAS V PROGRAMU:á* „OCD je jako vnitřní režisér, který vám vkládá do hlavy katastrofické scénáře.“  \n \n **VYPRAVĚČ:** Jana si začala vypisovat svůj bludný kruh: „Dnes: dotek madla v tramvaji → úzkost → mytí rukou → chvilková úleva.“ Uviděla souvislosti, které jí předtím unikaly. S každým dalším zápisem rozuměla svému problému lépe a lépe. Už to nebyl neuchopitelný a všeprostupující strašák. V dalších modulech si vytvořila seznam úkolů: dotknout se kliky, nevyměnit oblečení, sednout si v tramvaji…  \n \n **JANA:** „Jedu v tramvaji. Dotýkám se madla. Pak si sednu na gauč. Neumývám se. Toník se mě dotkne. Nic se nestane.“  \n \n **VYPRAVĚČ:** Obrázek dítěte, jak se směje, ji překvapil. Poprvé nepřišla jen hrůza. Ale i malá jiskřička něčeho jiného. Nadechla se.  \n \n **VYPRAVĚČ:** Jedno ráno zaspala. Nestihla se převléct. V práci se cítila špinavá. V kuchyňce si potají umyla ruce. Čtyřikrát. Večer to říká Šimonovi.  \n \n **JANA:** „Selhala jsem.“  \n \n **ŠIMON:** „Ne. Zastavila ses dřív než obvykle. To je pokrok.“  \n \n **VYPRAVĚČ:** V dalším modulu psala svému vnitřnímu kritikovi:  \n \n **JANA:** „Chceš, abych byla dokonalá. Ale já jsem jen člověk. Dneska jsem to skoro zvládla. A zítra to zkusím znovu.“  \n \n **VYPRAVĚČ:** Jednou večer napsala partnerovi zprávu:  \n \n **JANA:** „Nepotřebuji, abys mě ujišťoval. Jen abys byl se mnou, když se bojím.“  \n \n **ŠIMON:**  „Rozumím. Zkusím ti víc naslouchat.“  \n \n **VYPRAVĚČ:** Začali spolu mluvit jinak. Věcněji. Upřímněji. A i když úzkost někdy zůstala, nebyla už sama.  \n \n **VYPRAVĚČ:** Bylo pondělí. Mrzlo. Jana stála v tramvaji, opět držela madlo. Tentokrát ho nepustila.  \n \n **JANA:** „Dotýkám se. Ale nemusím se bát. Můj život nezačíná dezinfekcí. Ale volbou.“  \n \n **VYPRAVĚČ:** Doma si udělala čaj. A usmála se.  \n \n **JANA:** „Dotkla jsem se madla. A taky svobody.“  \n \n **VYPRAVĚČ:** Příběh Jany není o tom, že strach zmizel. Je o tom, že získala odvahu žít i přes něj. A že svoboda nezačíná čistýma rukama, ale odvahou otevřít se životu. ",
+              "title": "Radši si přečtu"
+            }
+          ]
+        },
+        {
+          "title": "Dokončili jste první modul!",
+          "icon": "Exercise",
+          "contentSections": [
+            {
+              "type": "image",
+              "isExpandable": false,
+              "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Modul_dokoncen_1785f55c82.svg",
+              "width": "100%",
+              "alt": "Postava pouštějící papírovou vlaštovku",
+              "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Modul_dokoncen_mobile_00b1a7904d.svg",
+              "widthMobile": "100%",
+              "align": "center",
+              "unoptimized": true
+            },
+            {
+              "type": "list",
+              "title": "**V tomto modulu jste se dozvěděli:**",
+              "color": "#27637C",
+              "items": [
+                "Podívali jste se na to, co je OCD a jak funguje.",
+                "Seznámili jste se s příběhy lidí s různými typy OCD - a možná jste v nich našli i kousek sebe.",
+                "Prozkoumali jste bludný kruh OCD, kterým se porucha udržuje.",
+                "Začali jste si všímat vztahu mezi svými myšlenkami, emocemi a chováním."
+              ]
+            },
+            {
+              "type": "note",
+              "placeholder": "Co vás zaujalo?",
+              "title": "**Co pro vás bylo nejpřínosnější nebo nejzajímavější?**",
+              "rows": 2,
+              "maxLength": 500,
+              "lengthValidationMessage": "Maximální délka odpovědi je 500 znaků.",
+              "required": false
+            },
+            {
+              "type": "note",
+              "placeholder": "Moje hodnocení příběhů",
+              "title": "**Zaujaly vás příběhy lidí s OCD? Ve kterém z nich jste se nejvíce poznal/a?**",
+              "rows": 2,
+              "maxLength": 500,
+              "lengthValidationMessage": "Maximální délka odpovědi je 500 znaků.",
+              "required": false
+            }
+          ]
+        },
+        {
+          "title": "Týdenní výzva",
+          "icon": "video",
+          "contentSections": [
+            {
+              "type": "markdown",
+              "content": "Na závěr se seznámíme s našimi **týdenními výzvami.**"
+            },
+            {
+              "type": "video",
+              "url": "xx"
+            },
+            {
+              "type": "collapse",
+              "content": "Gratulujeme! Právě jste dokončili první modul našeho programu. Do sedmi dnů po odeslání vám přijde **zpráva od vašeho terapeuta.** \n \n Co můžete dělat při čekání? Mysleli jsme na vás! Připravili jsme pro vás **týdenní výzvy.** \n \n Výzvy jsou **praktické aktivity**, které vám pomohou využít to, co jste se naučili. Jsou dobrovolné, ale velmi vám je **doporučujeme.** \n \n Lidé, kteří mezi moduly aktivně procvičují, dosahují výrazně **lepších výsledků.** Je to jako, když se učíme řídit. Teorie je základ, ale za volant se musíte posadit sami. \n \n Vaše výzva na tento týden je **pozorovat a zaznamenávat své prožívání.** Když si během týdne všimnete obsedantních myšlenek, úzkosti nebo kompulzí, zaznamenejte si je do bludného kruhu. Zkuste udělat třeba **jeden zápis denně.** \n \n Nesnažte se své chování měnit. Cílem je nejdříve lépe **porozumět**, co u vás vyvolává obsese a jak se cítíte, když uděláte kompulzi. \n \n A pamatujte: každý záznam je krok správnou cestou. **Pozorovat** své OCD znamená získávat nad ním **kontrolu.** Těšíme se, až se s vámi setkáme v dalším modulu! \n \n Držíme vám palce!",
+              "title": "Radši si přečtu"
+            }
+          ]
+        },
+        {
+          "title": "Co vás čeká příště?",
+          "icon": "text",
+          "contentSections": [
+            {
+              "type": "image",
+              "isExpandable": false,
+              "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Co_vas_ceka_priste_1229fc51ec.svg",
+              "width": "100%",
+              "alt": "Postavička s velkou tužkou, kterou si kreslí schody",
+              "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Co_vas_ceka_priste_mobile_158d3c08a9.svg",
+              "widthMobile": "100%",
+              "align": "center",
+              "unoptimized": true
+            },
+            {
+              "type": "list",
+              "title": "**V příštím modulu se dozvíte:**",
+              "color": "#27637C",
+              "items": [
+                "Jakou roli hraje myšlení u OCD.",
+                "Co jsou expozice a k čemu slouží.",
+                "Jak vypadá hierarchie expozic a jak si ji sestavit.",
+                "Jak můžete rozvíjet nadhled nad obsesemi pomocí všímavosti."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Jak se vám modul líbil?",
+          "icon": "Exercise",
+          "contentSections": [
+            {
+              "type": "satisfactionQuestionnaire",
+              "omitTherapistHelpsQuestion": true
+            },
+            {
+              "type": "note",
+              "placeholder": "Co máte na srdci?",
+              "title": "**Napadá vás, jak bychom mohli program vylepšit?**",
+              "rows": 2,
+              "required": false
+            }
+          ]
+        }
+  ]
+}

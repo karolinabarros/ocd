@@ -576,57 +576,50 @@
                 "options": [
                   {
                     "name": "Obavy z nákazy, špíny, bakterií a virů nebo tělesných tekutin",
-                    "value": "Fear of infection, bacteria, viruses or bodily fluids"
+                    "value": "FearOfInfection"
                   },
                   {
                     "name": "Strach, že jsem něco zapomněl/a vypnout či zamknout",
-                    "value": "Fear of forgetting to turn off something or lock the doors"
+                    "value": "FearOfForgetting"
                   },
                   {
                     "name": "Obavy, že jsem udělal/a chybu, např. v práci, ve smlouvě, v komunikaci",
-                    "value": "Fear of making a mistake"
+                    "value": "FearOfMistake"
                   },
                   {
                     "name": "Strach, že jsem někomu ublížil/a a nepamatuji si to",
-                    "value": "Fear of hurting someone without remembering it"
+                    "value": "FearOfHurtingSomeone"
                   },
                   {
                     "name": "Vtíravé agresivní nebo sexuální myšlenky a představy",
-                    "value": "Intrusive agressive or sexual thoughts or images"
+                    "value": "IntrusiveAgressiveThoughts"
                   },
                   {
                     "name": "Náboženské nebo morální pochybnosti (např. strach z hříchu nebo že nejsem dost dobrý/á)",
-                    "value": "religious or moral doubts"
+                    "value": "ReligiousDoubts"
                   },
                   {
                     "name": "Potřeba symetrie, přesného zarovnání předmětů",
-                    "value": "Need for symmetry, exact order of things"
+                    "value": "NeedForSymmetry"
                   },
                   {
                     "name": "Nutkání opakovat věci, aby „byly správně“",
-                    "value": "Need to repeat things to do it correctly"
+                    "value": "NeedToRepeatThings"
                   },
                   {
                     "name": "Představy o „správných“ číslech, barvách nebo slovech",
-                    "value": "Ideas of correct numbers, colors or words"
+                    "value": "IdeasOfCorrectNumbers"
                   },
                   {
                     "name": "Strach, že moje myšlenky můžou ovlivnit realitu („když si to pomyslím, stane se to“)",
-                    "value": "Fear that my thought could affect reality"
+                    "value": "FearMyThoughtCouldAffectReality"
                   },
                   {
                     "name": "Pochybnosti o vztahu, partnerovi nebo věrnosti",
-                    "value": "Doubts about my relationship, partner or faithfulness"
+                    "value": "DoubtsAboutRelationship"
                   }
                 ]
               }
-            },
-            {
-              "type": "note",
-              "placeholder": "Moje obsese",
-              "instruction": "Níže můžete vypsat jiné obsese:",
-              "rows": 1,
-              "required": false
             }
           ]
         },
@@ -645,61 +638,54 @@
                 "options": [
                   {
                     "name": "Opakované mytí rukou, nadměrná hygiena nebo čištění věcí",
-                    "value": "Repeated hand washing, excessive hygiene or cleaning"
+                    "value": "RepeatedHandWashing"
                   },
                   {
                     "name": "Kontrolování spotřebičů, dveří, zámků, zásuvek, plynu apod.",
-                    "value": "Checking appliances, doors, locks, outlets, gas etc."
+                    "value": "CheckingAppliances"
                   },
                   {
                     "name": "Ujišťování se u ostatních a vyhledávání informací na internetu",
-                    "value": "Looking for assurance with others or by looking up data online"
+                    "value": "LookingForAssurance"
                   },
                   {
                     "name": "Počítání, opakování vět nebo nutkavé modlení",
-                    "value": "Counting, repeating sentences or compulsive prayers"
+                    "value": "Counting"
                   },
                   {
                     "name": "Opakování pohybů nebo doteků, aby se „něco nestalo“",
-                    "value": "Repeating movements or touches to prevent something"
+                    "value": "RepeatingMovementsg"
                   },
                   {
                     "name": "Zarovnávání a seřazování předmětů",
-                    "value": "Sorting and arranging objects"
+                    "value": "SortingObjects"
                   },
                   {
                     "name": "Psaní seznamů, kontrolních soupisů, záznamů",
-                    "value": "Writing lists, checklists, or records"
+                    "value": "WritingLists"
                   },
                   {
                     "name": "Hromadění předmětů",
-                    "value": "Hoarding objects"
+                    "value": "HoardingObjects"
                   },
                   {
                     "name": "Opakované omlouvání za domnělé chyby",
-                    "value": "Repeating apologies for presumed mistakes"
+                    "value": "RepeatingApologies"
                   },
                   {
                     "name": "Opakování činností, dokud to není „správně“",
-                    "value": "Repeating actions until right"
+                    "value": "RepeatingActions"
                   },
                   {
                     "name": "Rituály pro zbavení špatných myšlenek nebo snaha kontrolovat vlastní myšlenky a emoce",
-                    "value": "Rituals to get rid of or control bad thoughts"
+                    "value": "RitualsToControlThoughts"
                   },
                   {
                     "name": "Vyhýbání se číslům, slovům nebo barvám, které „nosí smůlu“",
-                    "value": "Avoiding numbers, words or colors"
+                    "value": "AvoidingNumbers"
                   }
                 ]
               }
-            },
-            {
-              "type": "note",
-              "placeholder": "Moje kompulze",
-              "instruction": "Níže můžete vypsat jiné kompulze:",
-              "rows": 1,
-              "required": false
             }
           ]
         },
@@ -722,7 +708,7 @@
               },
               {
                 "type": "markdown",
-                "content": ":::text--center #### Jsme rádi, že do toho jdete! \n \n Teď znáte svůj výchozí bod. Sledujte, jak se posouváte dál! ::::"
+                "content": ":::text--center \n #### Jsme rádi, že do toho jdete! \n \n Teď znáte svůj výchozí bod. Sledujte, jak se posouváte dál! \n :::"
               }
             ]
           },
@@ -734,6 +720,15 @@
               "toolSection": "page3",
               "toolSectionData": {
                 "description": "Zamyslete nad všemi obsesemi a kompulzemi, kterých jste si u sebe všimli **během posledního měsíce**, a odpovězte na otázky.",
+                "image": {
+                  "isExpandable": true,
+                  "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Hierarchie_expozic_899ac019b1.svg",
+                  "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Hierarchie_expozic_mobile_ac4900c8a9.svg",
+                  "alt": "Cool image",
+                  "width": "100%",
+                  "widthMobile": "100%",
+                  "align": "center"
+                },
                 "questions": [
                   {
                     "name": "timeAday",
@@ -1358,17 +1353,11 @@
               "desktopImageWidth": "97px",
               "mobileImageWidth": "97px",
               "isWrapping": true
-            }
-          ]
-        },
-        {
-          "title": "Části bludného kruhu OCD",
-          "icon": "text",
-          "contentSections": [
+            },
             {
               "type": "markdown",
-              "content": "Níže si můžete projít jednotlivé **části bludného kruhu OCD.** V detailním pohledu najdete konkrétní příklady."
-            },  
+              "content": "**Části bludného kruhu OCD**"
+            },
             {
               "type": "tool",
               "tool": "interactiveCardModal",

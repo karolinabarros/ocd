@@ -110,8 +110,8 @@
             {
               "type": "tool",
               "tool": "interactiveCardModal",
-              "cardsPictureWidth": 75,
-              "cardsPictureHeight": 75,
+              "cardsPictureWidth": 80,
+              "cardsPictureHeight": 80,
               "disabled": false,
               "isSingleColumn": false,
               "icon": "ArrowRight",
@@ -516,7 +516,7 @@
                 {
                   "id": "Relationship Themes",
                   "title": "Vztahová témata",
-                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Icon_Vztahova_temata_2b9ea7e2c9.svg",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Icon_Vztahova_temata_ca15597949.svg",
                   "contentCard": [
                     {
                       "type": "markdown",
@@ -708,7 +708,7 @@
               },
               {
                 "type": "markdown",
-                "content": ":::text--center \n #### Jsme rádi, že do toho jdete! \n \n Teď znáte svůj výchozí bod. Sledujte, jak se posouváte dál! \n :::"
+                "content": ":::text--center \n #### Teď znáte svůj výchozí bod. \n \n Sledujte, jak se posouváte dál! \n :::"
               }
             ]
           },
@@ -722,9 +722,9 @@
                 "description": "Zamyslete nad všemi obsesemi a kompulzemi, kterých jste si u sebe všimli **během posledního měsíce**, a odpovězte na otázky.",
                 "image": {
                   "isExpandable": true,
-                  "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Hierarchie_expozic_899ac019b1.svg",
-                  "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Hierarchie_expozic_mobile_ac4900c8a9.svg",
-                  "alt": "Cool image",
+                  "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Dotaznik_o_inventari_obsesi_a_kompulzi_1a1862e3f3.svg",
+                  "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Dotaznik_o_inventari_obsesi_a_kompulzi_mobile_523e13d7ee.svg",
+                  "alt": "Postavička s počítačem sedící na knihách a vybírající jednu ze tří možností",
                   "width": "100%",
                   "widthMobile": "100%",
                   "align": "center"
@@ -898,13 +898,13 @@
             },
             {
               "type": "audio",
-              "audioSrc": "xx",
+              "audioSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/OCD_M1_podcast_5ffcda1393.wav",
               "title": "Jak OCD vzniká a jak se udržuje ",
               "imageSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jak_OCD_vznika_a_jak_se_udrzuje_1e047b7a05.svg"
             },
             {
               "type": "collapse",
-              "content": "**Moderátorka:** Vítám vás u prvního rozhovoru s terapeutem Ondřejem, který vás bude provázet celým naším programem. Jmenuji se Aneta a společně budeme probírat různá témata spojená s obsedantně-kompulzivní poruchou. \n \n **Terapeut:** Děkuji za uvedení, Aneto. Také vás srdečně vítám v našem programu. Dnes si společně povíme o tom, co vlastně OCD způsobuje a proč se tato porucha u některých lidí rozvíjí. \n \n **Moderátorka:** Ondřeji, mnoho lidí si v této situaci klade otázku: „Proč zrovna já? Proč se mi to děje?“ Je na to vůbec nějak odpovědět? \n \n **Terapeut:** To je častá otázka a rozumím jí. OCD vzniká kombinací biologických, psychologických a společenských vlivů. Některé z těchto faktorů zvyšují riziko rozvoje poruchy. Jiné způsobují, že se problém udržuje a postupně zhoršuje. Často se OCD rozvíjí po náročném životním období, které zvyšuje pocit nejistoty a ohrožení. \n \n **Moderátorka:** Takže to není o tom, že by někdo byl „slabý“ nebo si to způsobil sám? \n \n **Terapeut:** Rozhodně ne! Hlavní roli zde hrají vrozené a biologické faktory. Rozvoj OCD může být způsoben genetickou zranitelností, změnami ve fungování mozku nebo nerovnováhou nervových přenašečů - zejména serotoninu. Tyto faktory člověk nemůže ovlivnit svou vůlí. \n \n **Moderátorka:** A jakou roli hraje prostředí, ve kterém člověk vyrostl? \n \n **Terapeut:** Vlivy prostředí jsou také velmi důležité. Lidé s OCD často vyrůstali v prostředí, kde necítili dostatek bezpečí a podpory. Výchova byla zaměřená na výkon, pořádek nebo morálku. Za chyby byli trestáni. Aby se vyhnuli trestu a pocitu viny, začali kontrolovat vše kolem sebe - včetně vlastních myšlenek. \n \n **Moderátorka:** To zní, jako by si už jako děti začínali budovat nějaké ochranné mechanismy... \n \n **Terapeut:** Přesně tak. Jako děti věřili, že jejich myšlenky se mohou stát skutečností. I když z toho vyrostli, v pozadí mysli zůstaly obavy, že se špatné myšlenky vyplní. Proto se snaží řídit nejen své chování, ale i myšlení. \n \n **Moderátorka:** Může se OCD rozvinout i později v životě? \n \n **Terapeut:** Ano, hlavně během zranitelných období. Dospívání, odchod z domova nebo rodičovství přinášejí novou nejistotu a úzkost. Člověk pátrá po tom, kdo je, a co je pro něj důležité. Rozhoduje se o důležitých otázkách, na které neexistuje jedna správná odpověď. U lidí se sklonem k OCD se mohou objevit obsese a kompulze jako způsob, jak získat pocit kontroly a bezpečí. \n \n **Moderátorka:** A co způsobuje, že OCD přetrvává nebo se zhoršuje? \n \n **Terapeut:** OCD se udržuje chováním, které sice krátkodobě snižuje úzkost, ale dlouhodobě problém zhoršuje. Jde třeba o kompulze, vyhýbání se situacím spojenými s vtíravými myšlenkami a různé způsoby ubezpečování. Svou roli hraje i reakce okolí. Ať už je to kritika, nebo naopak přizpůsobování se potřebám člověka s OCD. \n \n **Moderátorka:** Takže to všechno může hrát roli při rozvoji a vývoji OCD? \n \n **Terapeut:** Ano, přesně tak. Poruchu také udržují biologické faktory, jako je už zmíněná nerovnováha v mozku. Je důležité si uvědomit, že OCD není něčí vina. Je to komplexní porucha, která má své příčiny a kterou lze léčit. \n \n **Moderátorka:** Děkuji, Ondřeji. Na další stránce si ukážeme, jak se tyto různé vlivy konkrétně projevují u Jany, která bojuje s obsesemi spojenými s obavami z nákazy.",
+              "content": "**Moderátorka:** Dobrý den a vítám vás. Mé jméno je Lenka a společně s terapeutem Ondřejem vás budeme provázet programem v krátkých rozhovorech na různá témata spojená s OCD. \n \n **Terapeut:** Dnes si povíme o tom, co vlastně OCD způsobuje a proč se u někoho rozvine. \n \n **Moderátorka:** Ondřeji, mnoho lidí si v této situaci klade otázku: „Proč zrovna já? Proč se mi to děje?“ Jde na to vůbec nějak odpovědět? \n \n **Terapeut:** To je skutečně častá otázka. OCD vzniká kombinací různých vlivů a často se rozvíjí po náročném životním období, kdy cítíme nejistotu a ohrožení. \n \n **Moderátorka:** Aha, a o jaké vlivy se tedy jedná? \n \n **Terapeut:** Hlavní roli zde hrají vrozené a biologické faktory, například genetická zranitelnost, změny ve fungování mozku nebo nerovnováha nervových přenašečů - zejména serotoninu. Tyto faktory člověk nemůže ovlivnit svou vůlí. \n \n **Moderátorka:** Takže je to vlastně čistě biologická záležitost. \n \n **Terapeut:** Vlivy prostředí jsou také velmi důležité. Lidé s OCD často v dětství necítili dostatek bezpečí a podpory. Výchova byla zaměřená na výkon, pořádek nebo morálku. Za chyby byli trestáni. Aby se vyhnuli trestu a pocitu viny, začali kontrolovat vše kolem sebe - včetně vlastních myšlenek. \n \n **Moderátorka:** Takže OCD se může objevit už v dětství? \n \n **Terapeut:** Přesně tak. Děti můžou věřit, že jejich myšlenky se stanou skutečností. I když z toho vyrostou, v pozadí mysli zůstávají obavy, že se špatné myšlenky vyplní. Proto se v dospělosti snaží řídit nejen své chování, ale i myšlení. \n \n **Moderátorka:** Aha, takže u někoho se sklony k obsesím a kompulzím začaly budovat už v dětství. Jsou i jiná životní období, kdy jsme více náchylní k rozvoji OCD? \n \n **Terapeut:** Ano, hlavně během zranitelných období. Dospívání, odchod z domova nebo rodičovství přinášejí novou nejistotu a úzkost. Člověk pátrá po tom, kdo je, a co je pro něj důležité. Rozhoduje se o důležitých otázkách, na které neexistuje jedna správná odpověď. U lidí se sklonem k OCD se mohou objevit obsese a kompulze jako způsob, jak získat pocit kontroly a bezpečí. \n \n **Moderátorka:** Takže už víme, jak a proč OCD vzniká. Také by mě ale zajímalo, co ho udržuje. Proč jen tak nezmizí? \n \n **Terapeut:** OCD se udržuje chováním, které sice krátkodobě snižuje úzkost, ale dlouhodobě problém zhoršuje. OCD se udržuje chováním, které sice krátkodobě snižuje úzkost, ale dlouhodobě problém zhoršuje. Jde třeba o kompulze nebo vyhýbání se situacím spojenými s vtíravými myšlenkami. Také se různě ubezpečujeme, třeba opakovanými otázkami nebo vyhledáváním informací. \n \n **Moderátorka:** Může v tom hrát roli i naše okolí? Třeba naši blízcí, kamarádi nebo kolegové? \n \n **Terapeut:** Určitě ano. Lidé s OCD často vyhledávají ujištění. Jejich blízcí jim chtějí pomoct a tak opakovaně odpovídají na dotazy nebo pomáhají s kontrolami. Problém je, že tím potřebu ujišťování dále posilují. Negativní dopad má i zesměšňování nebo kritika. To může vyvolat pocit studu nebo viny a zvyšovat úzkost. Je důležité si uvědomit, že OCD není něčí vina. Je to komplexní porucha, která má své příčiny a kterou lze léčit. \n \n **Moderátorka:** Děkuji, Ondřeji. Na další stránce si ukážeme, jak se OCD rozvinulo u Jany, která bojuje s obsesemi o nákaze.",
               "title": "Radši si přečtu"
             }
           ]
@@ -1323,7 +1323,7 @@
                 "Lidé s OCD se trápí nutkavými myšlenkami, impulzy nebo představami, kterým říkáme **obsese.**",
                 "Lidé s OCD provádí **kompulze**, aby se těchto pocitů zbavili, nebo je zmírnili. Ty se mohou objevovat v chování, např. jako opakované důkladné mytí rukou, nebo v myšlenkách, např. jako počítání v duchu. ",
                 "OCD vzniká kombinací **genetické zranitelnosti**, změn ve **fungování mozku** a vlivem **raných zážitků.**",
-                "OCD se často rozvíjí v **nejistých životních obdobích** a udržuje **kompulzí a vyhýbavého chování.**"
+                "OCD se často rozvíjí v **nejistých životních obdobích** a udržuje **kompulzemi a vyhýbavým chováním.**"
               ]
             }
           ]
@@ -1334,7 +1334,7 @@
           "contentSections": [
             {
               "type": "audio",
-              "audioSrc": "xx",
+              "audioSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Bludny_kruh_OCD_b547d45d84.wav",
               "title": "Bludný kruh OCD",
               "imageSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Bludny_kruh_OCD_812b17f073.svg"
             },
@@ -2103,7 +2103,7 @@
               },
               {
                 "type": "markdown",
-                "content": ":::text--center #### Každá cesta začíná prvním krokem! \n \n Pochopení bludného kruhu OCD je důležitý krok k tomu, abyste se z něj postupně osvobodili. ::::"
+                "content": ":::text--center \n #### Každá cesta začíná prvním krokem! \n \n Pochopení bludného kruhu OCD je důležitý krok k tomu, abyste se z něj postupně osvobodili. \n :::"
               }
             ]
           },
@@ -2111,86 +2111,22 @@
             {
               "type": "tool",
               "tool": "viciousCircles",
-              "showDescription": false,
-              "showTitle": false,
-              "showFillOutAgainButton": false,
-              "showDownloadButton": false,
               "required": true,
-              "sectionsData": {
-                "triggers": {
-                  "question": "Popiště jednu situaci, která ve Vás vyvolala negativní prožívání",
-                  "canYouThinkOfAnything": "Jedná se o situaci, která ovlivňuje Vaši náladu. Rozpoznáte ji tak, že si rozpomenete na to, co se stalo předtím, než jste si všimli změny nálady. Spouštěčem může být například neúspěch v práci či hádka s kamarádem nebo partnerem."
-                },
-                "thoughts": {
-                  "question": "Jaké myšlenky to ve Vás vyvolává?",
-                  "canYouThinkOfAnything": "Narozdíl od emocí, které se většinou dají popsat jedním slovem, jsou myšlenky spíše souvislými větami. Příklady mohou být následující: „Co když to nezvládnu?“ - „Všichni uvidí, že jsem k ničemu“ - „Co když přijdu o peníze?“."
-                },
-                "emotions": {
-                  "question": "Jaké emoce to ve Vás vyvolává?",
-                  "canYouThinkOfAnything": "Emoce jsou vnitřní pocity, které reagují na vnější události nebo myšlenky. Ovlivňují jak se cítíme a mají vliv na naše myšlení, chování a fyzický stav.",
-                  "tags": [
-                    { "type": "upset", "title": "Rozčílení" },
-                    { "type": "grief", "title": "Smutek" },
-                    { "type": "nervousness", "title": "Nervozita" },
-                    { "type": "fear", "title": "Strach" },
-                    { "type": "anxiety", "title": "Úzkost" },
-                    { "type": "irritability", "title": "Podrážděnost" },
-                    { "type": "disgust", "title": "Znechucení" },
-                    { "type": "shame", "title": "Stud" },
-                    { "type": "jealousy", "title": "Žárlivost" },
-                    { "type": "regret", "title": "Lítost" },
-                    { "type": "loneliness", "title": "Osamělost" },
-                    { "type": "resentment", "title": "Ukřivděnost" },
-                    { "type": "disappointment", "title": "Zklamání" },
-                    { "type": "hopelessness", "title": "Beznaděj" },
-                    { "type": "discontent", "title": "Nespokojenost" },
-                    { "type": "powerlessness", "title": "Bezmoc" }
-                  ]
-                },
-                "bodilySensations": {
-                  "question": "Jaké tělesné pocity to ve Vás vyvolává?",
-                  "canYouThinkOfAnything": "Fyzické pocity jsou vjemy, které pociťujete na svém těle. Typicky se jedná o - tělesné napětí - ztížené dýchání - bušení srdce - vyčerpanost - bolest hlavy - stažený žaludek Jak se na základě úzkostné epizody zachováte? - Chování nápověda - úzkost ovlivňuje to, co děláme a nebo naopak neděláme. Jako příklad můžeme uvést: vyhýbání se - neurotické připravování se - izolace - pláč",
-                  "tags": [
-                    { "type": "tremor", "title": "třes" },
-                    { "type": "rapidHeartbeat", "title": "zrychlený tep" },
-                    { "type": "constipation", "title": "zácpa" },
-                    { "type": "fatigue", "title": "únava" },
-                    {
-                      "type": "unexplainedPains",
-                      "title": "nevysvětlitelné bolesti"
-                    },
-                    {
-                      "type": "lossOfInterestInSex",
-                      "title": "ztráta zájmu o sex"
-                    },
-                    { "type": "sleepProblems", "title": "problémy se spánkem" },
-                    { "type": "muscleTension", "title": "svalové napětí" },
-                    {
-                      "type": "difficultyBreathing",
-                      "title": "ztížené dýchání"
-                    },
-                    { "type": "sweating", "title": "pocení se" }
-                  ]
-                },
-                "behavior": {
-                  "question": "Jak se na základě této situace zachováte?",
-                  "canYouThinkOfAnything": "Jako příklad můžeme uvést: vyhýbání se - neurotické připravování se - izolace - pláč"
-                }
-              }
+              "viciousCirclesVersion": "ocd"
             }
           ]
         },
         {
           "title": "Cvičení mindfulness",
-          "icon": "video",
+          "icon": "Flower",
           "contentSections": [
             {
               "type": "markdown",
-              "content": "Níže jsme pro vás připravili **cvičení rozvíjející mindfulness**. Nemusíte v něm nic řešit, hodnotit, ani měnit. Nemusíte „umět meditovat“. Stačí být tady. Tak, jak právě jste. \n \n Možná cítíte napětí. Možná nejistotu. A možná i kousek klidu. Všechno, co cítíte, je v tuto chvíli v pořádku. Zkuste jen **naslouchat hlasu**, který vás bude provázet. Můžete mít zavřené oči, nebo klidně sledovat video. \n \n Postupujte svým tempem. Tato chvíle je vaše. Pro vaše tělo. Pro dech. Pro laskavé naladění na přítomnost."
+              "content": "Níže jsme pro vás připravili **cvičení rozvíjející mindfulness**. Nemusíte v něm nic řešit, hodnotit, ani měnit. Nemusíte „umět meditovat“. Stačí být tady. Tak, jak právě jste. \n \n Možná cítíte napětí. Možná nejistotu. A možná i kousek klidu. Všechno, co cítíte, je v tuto chvíli v pořádku. Zkuste jen **naslouchat hlasu**, který vás bude provázet. Můžete mít zavřené oči, nebo klidně sledovat video."
             },
             {
               "type": "video",
-              "url": "xx"
+              "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/OCD_M1_c64ccdf790.mp4"
             },
             {
               "type": "collapse",
@@ -2223,6 +2159,7 @@
         {
           "title": "Dokončili jste první modul!",
           "icon": "Exercise",
+          "isEvaluable": true,
           "contentSections": [
             {
               "type": "image",
@@ -2276,7 +2213,7 @@
             },
             {
               "type": "video",
-              "url": "xx"
+              "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M1_3_0f22d4fa01.mp4"
             },
             {
               "type": "collapse",
@@ -2316,6 +2253,7 @@
         {
           "title": "Jak se vám modul líbil?",
           "icon": "Exercise",
+          "isEvaluable": true,
           "contentSections": [
             {
               "type": "satisfactionQuestionnaire",

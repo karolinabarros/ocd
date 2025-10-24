@@ -171,7 +171,7 @@
             },
             {
               "type": "audio",
-              "audioSrc": "xx",
+              "audioSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Kognitivni_omyly_2940192774.wav",
               "title": "Kognitivní omyly",
               "imageSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Kognitivni_omyly_c163329e2a.svg"
             },
@@ -499,13 +499,7 @@
               "type": "collapse",
               "content": "Všechny nás někdy napadnou nepříjemné nebo strašidelné myšlenky. Co nás ale často děsí víc, je samotná **existence takových myšlenek**. „Jak mě to mohlo vůbec nepadnout?“ Říkáme si, že to o nás musí vypovídat něco hrozného. \n \n Ukážeme si to na příkladu. Petrovy obsese se často týkají strachu, že udělá chybu a způsobí vážné následky. „Co když jsem nevypnul sporák a vyhoří celý dům?“ Tím to ale nekončí. Začne si říkat: „Proč mě to vůbec napadá? To asi znamená, že chci, abychom vyhořeli. Jsem nebezpečný.“ Petr začne **hodnotit**, co o něm takové myšlenky **vypovídají**. Říká si: „Tohle by sis neměl myslet! Jsi hrozný člověk!“ \n \n Říkáme tomu **metakognice**, nebo také **myšlenky o myšlenkách**. Jsou to vlastně názory na to, co znamená naše přemýšlení. A právě ty často spouští největší úzkost. \n \n Metakognice hlavně **hodnotí**, jaké naše myšlenky jsou. Jsou dobré nebo špatné? Co o nás vypovídají? Jsou důležité? Nejsou náhodou nebezpečné? \n \n Někdy nám našeptávají, že když nás něco napadne, **musí to být pravda**. Nebo že se to kvůli tomu určitě stane. \n \n Na následující stránce se seznámíte se základními druhy metakognic.",
               "title": "Radši si přečtu"
-            }
-          ]
-        },
-        {
-          "title": "Druhy metakognic",
-          "icon": "text",
-          "contentSections": [
+            },
             {
               "type": "markdown",
               "content": "Metakogice můžeme rozdělit na **pozitivní** a **negativní**. Níže si přečtěte, jak se tyto druhy liší."
@@ -520,6 +514,37 @@
               "isSingleColumn": true,
               "icon": "ArrowRight",
               "cards": [
+                {
+                  "id": "Positive metacognitions",
+                  "title": "Pozitivní metakognice",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Pozitivni_metakognice_icon_92e5c16251.svg",
+                  "contentCard": [
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Pozitivni_metakognice_342e14d5bf.svg",
+                      "width": "100%",
+                      "alt": "Postava čistící nábytek s myšlenkami o bakteriích a virech",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Pozitivni_metakognice_mobile_eeefd76411.svg",
+                      "widthMobile": "100%",
+                      "align": "center",
+                      "unoptimized": true
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "Tyto myšlenky se tváří jako užitečné. Přesvědčují nás, že si musíme určitých věcí všímat nebo je kontrolovat, abychom zabránili katastrofě. Ale ve skutečnosti nás drží v napětí a strachu. \n \n Kvůli těmto myšlenkám se soustředíme hlavně na hrozby. Pak si nevšímáme klidných a bezpečných částí života – i když jich je kolem nás spousta."
+                    },
+                    {
+                      "type": "list",
+                      "title": "**Příklady pozitivních metakognic:**",
+                      "color": "#27637C",
+                      "items": [
+                        "„Musím si říkat, že věci jsou znečištěné, jinak bych na to nedbal a nakazil bych sebe i druhé.“",
+                        "„Musím si v duchu přehrávat, co jsem udělala, jinak bych mohla zapomenout na něco důležitého.“"
+                      ]
+                    }
+                  ]
+                },
                 {
                   "id": "Negative metacognitions",
                   "title": "Negativní metakognice",
@@ -556,54 +581,23 @@
                       "content": "**Ve skutečnosti ale platí:** \n \n - Myšlenky nejsou činy. \n \n - Mozek vytváří různé nápady, ale to neznamená, že jsou pravdivé. \n \n - To, co nás napadne, nevypovídá o naší povaze."
                     }
                   ]
-                },
-                {
-                  "id": "Positive metacognitions",
-                  "title": "Pozitivní metakognice",
-                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Pozitivni_metakognice_icon_92e5c16251.svg",
-                  "contentCard": [
-                    {
-                      "type": "image",
-                      "isExpandable": false,
-                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Pozitivni_metakognice_342e14d5bf.svg",
-                      "width": "100%",
-                      "alt": "Postava čistící nábytek s myšlenkami o bakteriích a virech",
-                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Pozitivni_metakognice_mobile_eeefd76411.svg",
-                      "widthMobile": "100%",
-                      "align": "center",
-                      "unoptimized": true
-                    },
-                    {
-                      "type": "markdown",
-                      "content": "Tyto myšlenky se tváří jako užitečné. Přesvědčují nás, že si musíme určitých věcí všímat nebo je kontrolovat, abychom zabránili katastrofě. Ale ve skutečnosti nás drží v napětí a strachu. \n \n Kvůli těmto myšlenkám se soustředíme hlavně na hrozby. Pak si nevšímáme klidných a bezpečných částí života – i když jich je kolem nás spousta."
-                    },
-                    {
-                      "type": "list",
-                      "title": "**Příklady pozitivních metakognic:**",
-                      "color": "#27637C",
-                      "items": [
-                        "„Musím si říkat, že věci jsou znečištěné, jinak bych na to nedbal a nakazil bych sebe i druhé.“",
-                        "„Musím si v duchu přehrávat, co jsem udělala, jinak bych mohla zapomenout na něco důležitého.“"
-                      ]
-                    }
-                  ]
                 }
               ]
             }
           ]
         },
         {
-          "title": "Nejistota a potřeba kontroly",
+          "title": "Strach z nejistoty a potřeba kontroly",
           "icon": "audio",
           "contentSections": [
             {
               "type": "markdown",
-              "content": "Myšlení lidi s OCD ovlivňuje **nejistota** a z toho vyplývající **potřeba kontroly**. Poslechněte si rozhovor, který se věnuje tomu, jak to vypadá."
+              "content": "To, jak lidé s OCD přemýšlí, ovlivňuje také potřeba absolutní jistoty. Poslechněte si rozhovor, který se věnuje tomu, jak to vypadá."
             },
             {
               "type": "audio",
               "audioSrc": "xx",
-              "title": "Nejistota a potřeba kontroly",
+              "title": "Strach z nejistoty a potřeba kontroly",
               "imageSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Nejistota_a_potreba_kontroly_1ffccc8bdb.svg"
             },
             {
@@ -967,7 +961,7 @@
                 "isExpandable": true,
                 "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Relax_e24051df56.svg",
                 "width": "280px",
-                "alt": "Obrázek začátku cesty do hor",
+                "alt": "Relaxující postava sedící se skříženýma nohama",
                 "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Relax_e24051df56.svg",
                 "widthMobile": "280px",
                 "align": "center"
@@ -1026,7 +1020,7 @@
                         },
                         {
                           "name": "Přehnaná zodpovědnost",
-                          "value": "Excessive Reponsibility"
+                          "value": "ExcessiveReponsibility"
                         },
                         {
                           "name": "Perfekcionismus",
@@ -1034,23 +1028,23 @@
                         },
                         {
                           "name": "Magické myšlení",
-                          "value": "Magical Thinking"
+                          "value": "MagicalThinking"
                         },
                         {
                           "name": "Tunelové vidění",
-                          "value": "Tunnel Vision"
+                          "value": "TunnelVision"
                         },
                         {
                           "name": "Braní si věcí osobně",
-                          "value": "Taking things personally"
+                          "value": "TakingThingspersonally"
                         },                        
                         {
                           "name": "Negativní metakognice",
-                          "value": "Negative metacognitions"
+                          "value": "NegativeMetacognitions"
                         },                        
                         {
                           "name": "Pozitivní metakognice",
-                          "value": "Positive metacognitions"
+                          "value": "PositiveMetacognitions"
                         }
                       ]
                     }
@@ -1483,7 +1477,7 @@
         },
         {
           "title": "Cvičení mindfulness",
-          "icon": "video",
+          "icon": "Flower",
           "contentSections": [
             {
               "type": "markdown",
@@ -1524,6 +1518,7 @@
         {
           "title": "Dokončili jste druhý modul!",
           "icon": "Exercise",
+          "isEvaluable": true,
           "contentSections": [
             {
               "type": "image",
@@ -1607,6 +1602,7 @@
         {
           "title": "Jak se vám modul líbil?",
           "icon": "Exercise",
+          "isEvaluable": true,
           "contentSections": [
             {
               "type": "satisfactionQuestionnaire",

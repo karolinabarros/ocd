@@ -1,0 +1,1413 @@
+{
+  "pages": [
+      {
+          "title": "Vítejte ve čtvrtém modulu",
+          "icon": "video",
+          "contentSections": [
+            {
+              "type": "video",
+              "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M4_1_e0169cf6bd.mp4"
+            },
+            {
+              "type": "collapse",
+              "content": "Vítejte ve **čtvrtém modulu**. Dnes vám ukážeme, jak objevovat nové možnosti pomocí **behaviorálních experimentů** a naplánujete si **příjemné aktivity.** \n \n Určitě víte, jaké to je mít obavu, že když něco nezkontrolujete, tak se stane něco hrozného. **Strach** se často stává naším velitelem a my ho necháme řídit své chování. Co kdybychom to ale zkusili jinak? \n \n Právě o tom bude tento modul. Naučíte se plánovat **behaviorální experimenty** - malé, bezpečné kroky, které vám ukážou **realitu** takovou, jaká skutečně je. \n \n Slovo behaviorální znamená, že experimenty se týkají našeho **chování**. Tedy je to experiment, ve kterém se cíleně **zachováme jinak**, než jsme zvyklí, abychom zjistili, co se stane. \n \n Zkusíte udělat něco jinak a na svou kůži poznáte, co se **opravdu stane**. Vlastní zkušenost dokáže překonat i ten nejsilnější strach. \n \n V druhé půlce modulu se zaměříme na to, co vás **naplňuje** a dělá **radost**. Příjemné aktivity nejsou jen „navíc“. Pomáhají budovat **rovnováhu** a smysluplně zaplnit prostor, který dříve zabíraly obsese a kompulze. \n \n Cílem terapie není pouze zbavit se negativních pocitů a nutkání, ale také si aktivně budovat **příjemné prožívání.** \n \n A právě tomu se budeme věnovat. Tak jdeme na to!",
+              "title": "Radši si přečtu"
+            },
+            {
+              "type": "list",
+              "title": "**V tomto modulu se dozvíte:**",
+              "color": "#27637C",
+              "items": [
+                "Jak behaviorální experimenty pomáhají zvládat OCD.",
+                "Jak si naplánovat takový experiment.",
+                "Jak příjemné činnosti pomáhají vyvážit nepříjemné pocity spojené s OCD."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Dotazník o příznacích OCD",
+          "icon": "check",
+          "isEvaluable": true,
+          "finalScreen": {
+            "buttonLabel": "Upravit odpovědi",
+            "contentSections": [
+              {
+                "type": "image",
+                "isExpandable": true,
+                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Flowers_0e031c2a29.svg",
+                "width": "138px",
+                "alt": "Kopretina v růžovém květináči",
+                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Flowers_0e031c2a29.svg",
+                "widthMobile": "138px",
+                "align": "center"
+              },
+              {
+                "type": "markdown",
+                "content": ":::text--center \n #### Děkujeme za vyplnění! \n \n Pro terapeuta je podstatné sledovat, jak jste na tom právě teď. \n :::"
+              }
+            ]
+          },
+          "contentSections": [
+            {
+              "type": "oci12Survey"
+            }
+          ]
+        },
+        {
+          "title": "Dotazník o příznacích deprese",
+          "icon": "check",
+          "isEvaluable": true,
+          "finalScreen": {
+            "buttonLabel": "Upravit odpovědi",
+            "contentSections": [
+              {
+                "type": "image",
+                "isExpandable": true,
+                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Hands_1de1a67dae.svg",
+                "width": "220px",
+                "alt": "Dvě ruce natažené k sobě, symbolizující podporu, propojení a lidský kontakt",
+                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Hands_1de1a67dae.svg",
+                "widthMobile": "220px",
+                "align": "center"
+              },
+              {
+                "type": "markdown",
+                "content": ":::text--center \n #### Je důležité si to uvědomovat. \n \n Příznaky deprese mají vliv na to, jak nás obsese ovlivňují. \n :::"
+              }
+            ]
+          },
+          "contentSections": [
+            {
+              "type": "phq9Survey"
+            }
+          ]
+        },
+        {
+          "title": "Ohlédnutí za týdnem expozic",
+          "icon": "exercise",
+          "isEvaluable": true,
+          "finalScreen": {
+            "buttonLabel": "Upravit odpovědi",
+            "contentSections": [
+              {
+                "type": "image",
+                "isExpandable": true,
+                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Relax_e24051df56.svg",
+                "width": "280px",
+                "alt": "Relaxující postava sedící se skříženýma nohama",
+                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Relax_e24051df56.svg",
+                "widthMobile": "280px",
+                "align": "center"
+              },
+              {
+                "type": "markdown",
+                "content": ":::text--center \n #### Jděte na to postupně. \n \n I malý krok je úspěch, pokud se na něj díváme očima odvahy. \n :::"
+              }
+            ]
+          },
+          "contentSections": [
+            {
+              "type": "markdown",
+              "content": "Během týdne jste měli příležitost procvičovat si **expozice v představě**. Zajímá nás, jak se vám dařilo!"
+            },
+            {
+              "type": "pictureAndNote",
+              "image": {
+                "isExpandable": true,
+                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Scenar_expozice_af5f82448b.svg",
+                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Scenar_expozice_mobile_9d736d9bed.svg",
+                "alt": "Zápisník se zakroužkovaným textem",
+                "width": "164px",
+                "widthMobile": "100%",
+                "align": "center"
+              },
+              "note": {
+                "title": "**Stručně popište, jaký scénář jste si četli nebo pouštěli?**",
+                "rows": 2,
+                "placeholder": "Scénář expozice",
+                "required": false
+              }
+            },
+            {
+              "type": "pictureAndNote",
+              "image": {
+                "isExpandable": true,
+                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Prekazka_v_expozici_mobile_10cabb11d1.svg",
+                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Prekazka_v_expozici_c51e881b72.svg",
+                "alt": "Stupnice s ručičkou ukazující intenzitu",
+                "width": "164px",
+                "widthMobile": "100%",
+                "align": "center"
+              },
+              "note": {
+                "title": "**Co bylo během expozic nejtěžší? (např. pocit selhání, silná úzkost, nutkání přerušit)**",
+                "rows": 2,
+                "placeholder": "Překážky při představách",
+                "required": false
+              }
+            },
+            {
+              "type": "pictureAndNote",
+              "image": {
+                "isExpandable": true,
+                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Reseni_prekazky_aac80e3d00.svg",
+                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Reseni_prekazky_mobile_52ae432259.svg",
+                "alt": "Dveře s klíčem",
+                "width": "164px",
+                "widthMobile": "100%",
+                "align": "center"
+              },
+              "note": {
+                "title": "**Jak jste se s překážkou vypořádali?**",
+                "rows": 2,
+                "placeholder": "Moje řešení překážky",
+                "required": false
+              }
+            },
+            {
+              "type": "pictureAndNote",
+              "image": {
+                "isExpandable": true,
+                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Moje_uspechy_c0a40b6efb.svg",
+                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Moje_uspechy_mobile_760e0e3cee.svg",
+                "alt": "Hora s praporkem na vrcholu",
+                "width": "164px",
+                "widthMobile": "100%",
+                "align": "center"
+              },
+              "note": {
+                "title": "**Co se vám povedlo nebo povedlo alespoň trochu?**",
+                "rows": 2,
+                "placeholder": "Moje úspěchy",
+                "required": false
+              }
+            },
+            {
+              "type": "pictureAndNote",
+              "image": {
+                "isExpandable": true,
+                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Novy_pohled_2ee4153b6b.svg",
+                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Novy_pohled_mobile_367cf25a29.svg",
+                "alt": "Srdce rozděléné do čtyř puzzle dílků",
+                "width": "164px",
+                "widthMobile": "100%",
+                "align": "center"
+              },
+              "note": {
+                "title": "**Co jste o sobě při opakování zjistili? Jak se změnilo vaše prožívání scénáře?**",
+                "rows": 2,
+                "placeholder": "Můj nový pohled",
+                "required": false
+              }
+            }
+          ]
+        },
+        {
+          "title": "Zpráva pro terapeuta",
+          "icon": "exercise",
+          "isEvaluable": true,
+          "contentSections": [
+            {
+              "type": "image",
+              "isExpandable": true,
+              "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Zprava_pro_terapeuta_22d2000e96.svg",
+              "width": "100%",
+              "alt": "Ruka držící dopis v obálce",
+              "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Zprava_pro_terapeuta_mobile_e785e38a53.svg",
+              "widthMobile": "100%",
+              "align": "center"
+            },
+            {
+              "type": "note",
+              "placeholder": "Co máte na srdci?",
+              "title": "**Terapeutovi můžete napsat o čemkoli. Jak jste se od posledně měli? Co vám udělalo radost?**",
+              "rows": 3,
+              "maxLength": 2000,
+              "lengthValidationMessage": "Maximální délka odpovědi je 2000 znaků.",
+              "required": false
+            }
+          ]
+        },
+        {
+          "title": "Jak můžeme experimentovat?",
+          "icon": "audio",
+          "contentSections": [
+            {
+              "type": "markdown",
+              "content": "V tomto modulu si ukážeme, jak pomocí **behaviorálních experimentů** naučit čelit strachu z možných situací. V rozhovoru se dozvíte, jak takové experimenty vypadají."
+            },
+            {
+              "type": "audio",
+              "audioSrc": "xx",
+              "title": "Jak můžeme experimentovat?",
+              "imageSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jak_muzeme_experimentovat_21d6a8e237.svg"
+            },
+            {
+              "type": "collapse",
+              "content": "xx",
+              "title": "Radši si přečtu"
+            },
+            {
+              "type": "markdown",
+              "content": "**Postup behaviorálního experimentu:**"
+            },
+            {
+              "type": "noteBox",
+              "desktopImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lightbulb_Icon_5bba92e832.svg",
+              "mobileImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lightbulb_Icon_5bba92e832.svg",
+              "backgroundColor": "#EDF4F6",
+              "textColor": "#27637C",
+              "text": "**1. Ujasněte si svou obavu nebo předpoklad** - Přemýšlejte, jaká myšlenka vás znepokojuje. Například: „Pokud neřeknu magické slovo, stane se nehoda.“ \n \n **2. Navrhněte si experiment** - Vymyslete způsob, jak svůj předpoklad otestovat. Například: „Zkusím to neříct a uvidím, co se stane.“ \n \n **3. Proveďte experiment a všímejte si, co se stalo** - Pusťte se do toho a věnujte pozornost tomu, co se děje. Jak se cítíte? Co se děje kolem vás? Je tam někdo s vámi? Co dělá? \n \n **4. Vyhodnoťte výsledek** - Zapište si závěr: Co se opravdu stalo? Jak se změnil váš pohled na původní obavu? Pomohlo vám to lépe pochopit realitu?",
+              "desktopImageWidth": "84px",
+              "mobileImageWidth": "84px",
+              "isWrapping": true
+            }
+          ]
+        },
+        {
+          "title": "Petrův experiment",
+          "icon": "video",
+          "contentSections": [
+            {
+              "type": "markdown",
+              "content": "Petr si naplánoval vlastní praktický experiment. Chtěl si vyzkoušet, co se stane, když pro jednou nebude opakovaně kontrolovat fakturu. Ve videu uvidíte, jak mu to šlo."
+            },
+            {
+              "type": "video",
+              "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Petruv_Experiment_c_b590ee0fce.mp4"
+            },
+            {
+              "type": "collapse",
+              "content": "**VYPRAVĚČ:** Petr sedí v práci nad fakturou pro zákazníka. Fakturu už jednou zkontroloval, ale před odesláním ho naplnila nejistota.\n \n **PETR:** Už jsem to zkontroloval… ale co když jsem něco přehlédl? Co když to klient neuzná? Bude to moje vina... \n \n **PETR:** Mohl bych to ještě jednou otevřít. Jen pro jistotu… Pak budu mít klid. \n \n **VYPRAVĚČ:** Petr si vzpomněl, že chtěl vyzkoušet experiment. Co se stane, když fakturu odešle bez opakovaných kontrol? \n \n **PETR:** Teď už je to venku. Co když tam opravdu byla chyba? Co když si o mě budou myslet, že jsem flákač? \n \n **VYPRAVĚČ:** Petr napjatě vyčkával. Přijde zpráva od rozzlobeného klienta? Bude muset řešit problém? Ale nikdo se neozval. \n \n **PETR:** Je to už hodina… Možná to bylo v pořádku. Jedna kontrola stačila. \n \n **VYPRAVĚČ:** Večer si Petr zapisuje do deníku expozic.  \n \n **PETR:** Vyzkoušel jsem si odeslat fakturu po jedné kontrole. Úzkost postupně klesla ze 7 na 3. Dalo se to zvládnout. A nebyl z toho nakonec žádný problém. Možná nemusím věci kontrolovat pořád dokola, a ono to stačí. \n \n **VYPRAVĚČ:** Petr si ověřil, že sebedůvěra neroste, když se za každou cenu vyhne chybě, ale díky odvaze zkusit to jinak.",
+              "title": "Radši si přečtu"
+            }
+          ]
+        },
+        {
+          "title": "První část máte za hotovou!",
+          "icon": "text",
+          "contentSections": [
+            {
+              "type": "image",
+              "isExpandable": false,
+              "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Prvni_cast_mate_za_hotovou_c7a701be63.svg",
+              "width": "100%",
+              "alt": "Postava na začátku cesty s vlajkou s nápisem start",
+              "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Prvni_cast_mate_za_hotovou_mobile_c4eb2b9c28.svg",
+              "widthMobile": "100%",
+              "align": "center",
+              "unoptimized": true
+            },
+            {
+              "type": "list",
+              "title": "**Co jste dokázali:**",
+              "color": "#27637C",
+              "items": [
+                "Zhodnotili jste, jak vám šla týdenní výzva a napsali jste vzkaz terapeutovi.",
+                "Ohlédli jste se za týdnem expozic v představě.",
+                "Dozvěděli jste se, že behaviorální experimenty pomáhají při terapii OCD."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Příběhy",
+          "icon": "Story",
+          "contentSections": [
+            {
+              "type": "markdown",
+              "content": "Každá z našich postav si zkusila jednoduchý, ale **důležitý experiment**. V příbězích popisují, co si naplánovali, jak se cítili, co čekali a co se skutečně stalo."
+            },
+            {
+              "type": "noteBox",
+              "desktopImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lightbulb_Icon_5bba92e832.svg",
+              "mobileImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lightbulb_Icon_5bba92e832.svg",
+              "backgroundColor": "#EDF4F6",
+              "textColor": "#27637C",
+              "text": "**Nemusíte číst všechny příběhy.** Zkuste najít ten, ve kterém se nejvíce najdete. Můžete se na něj zaměřit i v dalších modulech a ostatní číst spíše pro zajímavost. Ale můžete je také vynechat.",
+              "desktopImageWidth": "84px",
+              "mobileImageWidth": "84px",
+              "isWrapping": true
+            },
+            {
+              "type": "cardStories",
+              "cards": [
+                {
+                  "title": "JANA",
+                  "subtitle": "administrativní pracovnice, 34 let",
+                  "description": "Janu trápí obavy ze znečištění. Má silný pocit zodpovědnosti, který ji stresuje.",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jana_karta_7c69375325.svg",
+                  "pictureMobileBackground": "#E5EBE3",
+                  "pictureMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jana_karta_mobile_7063c7503a.svg",
+                  "modalContentSections": [
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jana_modal_21111b8b39.svg",
+                      "width": "100%",
+                      "alt": "Obrázek Jany: Žena s dlouhými světle hnědými vlasy v culíku, v bílém triku a modrém svetru",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jana_modal_21111b8b39.svg",
+                      "widthMobile": "100%",
+                      "align": "center",
+                      "unoptimized": true
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "**Jana** \n \n **Problém:** Mám silnou potřebu mýt si ruce po každém kontaktu s předměty. Bojím se, že nakazím syna. \n \n **Experiment:** Dotknout se kliky u vchodových dveří a neumýt si hned ruce. \n \n **Předpoklad:** Budu mít nutkání si je jít okamžitě umýt. Pokud to neudělám, budu se celý den cítit znečištěná a nebezpečná pro ostatní. Úzkost bude stále horší. \n \n **Průběh:** Před obědem jsem otevřela dveře z bytu a pak šla rovnou za synem do obýváku. V hlavě mi běželo: „Dotkla ses kliky. Jsou tam bakterie.“ Ale nešla jsem se umýt. Zůstala jsem s ním a četla jsem mu pohádku. \n \n **Zhodnocení:** Úzkost byla asi na 6 z 10. Do půl hodiny klesla na 3. Večer jsem se cítila klidnější. \n \n **Poučení:** Moje obava se nenaplnila. Nebylo to tak nebezpečné, jak jsem si myslela."
+                    }
+                  ]
+                },
+                {
+                  "title": "PETR",
+                  "subtitle": "technik, 45 let",
+                  "description": "Petr se bojí, že udělá chybu, která bude mít fatální následky. Vše raději pečlivě kontroluje.",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Petr_karta_cb6c382476.svg",
+                  "pictureMobileBackground": "#FFF3EF",
+                  "pictureMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Petr_karta_mobile_607dc58e33.svg",
+                  "modalContentSections": [
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Petr_modal_ccd80f55c5.svg",
+                      "width": "100%",
+                      "alt": "Obrázek Petra: Muž ve středním věku s kudrnatými šedými vlasy a plnovousem",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Petr_modal_ccd80f55c5.svg",
+                      "widthMobile": "100%",
+                      "align": "center",
+                      "unoptimized": true
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "**Petr** \n \n **Problém:** Často opakovaně kontroluji zámek dveří. Bojím se, že nezamknu, vykradou nás a bude to moje chyba. \n \n **Experiment:** Odejít z bytu bez toho, abych si nahlas řekl „zamčeno“, což obvykle dělám jako kompulzi. \n \n **Předpoklad:** Když to neudělám, budu mít silný pocit, že jsem nechal dveře odemčené. Vrátím se, nebo mě přepadne panika. Možná někdo vnikne dovnitř. Strach budu mít celý den. \n \n **Průběh:** Připravil jsem si plán: prostě odejdu a nic si neřeknu. Jen se podívám, jestli je klíč otočený, a půjdu. Udělal jsem to. Na chodbě mě sevřelo napětí, ale šel jsem dál. Po pěti minutách jsem měl chuť se otočit. Místo toho jsem si řekl: „Tohle je součást plánu. Věř si.“  \n \n **Zhodnocení:** Byl jsem nervózní asi třicet minut. Úzkost klesala z 9 na 4. Pak mě zaměstnal telefonát z práce a přestal jsem na to myslet. Když jsem se večer vrátil domů, bylo všechno v pořádku.  \n \n **Poučení:** Zamknul jsem i bez nahlas vyslovené věty a nevracel jsem se. Nezávisí to na slovech, ale na mém rozhodnutí. Nevykradli nás."
+                    }
+                  ]
+                },
+                {
+                  "title": "EVA",
+                  "subtitle": "studentka VŠ, 22 let",
+                  "description": "Eva má vtíravé představy, že by mohla někomu ublížit. Za tyto myšlenky se velmi stydí.",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Eva_karta_1d42669807.svg",
+                  "pictureMobileBackground": "#EFE9EC",
+                  "pictureMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Eva_karta_mobile_ff5c9a65ad.svg",
+                  "modalContentSections": [
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Eva_modal_8adc9d2543.svg",
+                      "width": "100%",
+                      "alt": "Obrázek Evy: mladá žena s kratšími kudrnatými zrzavými vlasy se žlutým baretem",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Eva_modal_8adc9d2543.svg",
+                      "widthMobile": "100%",
+                      "align": "center",
+                      "unoptimized": true
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "**Eva** \n \n **Problém:** Bojím se, že někomu ublížím, i když jsem nikdy nic neudělala. Zneklidňují mě hlavně nože. \n \n **Experiment:** Mít v kuchyni nůž položený na lince během vaření. \n \n **Předpoklad:** Nebudu schopná soustředit se na nic jiného. Budu ho chtít hned uklidit. Myšlenky na ublížení zesílí. Bude to trvat celou dobu, co budu u těch nožů. \n \n **Průběh:** Připravovala jsem snídani. Položila jsem nůž na linku a nechala jsem ho tam. Dýchala jsem. Dvakrát jsem měla nutkání ho uklidit, ale vydržela jsem. Úzkost postupně klesala. \n \n **Zhodnocení:** Úzkost byla asi na 4. Po deseti minutách jsem si všimla, že si víc všímám chleba než nože. \n \n **Poučení:** Myšlenky jsou jen myšlenky. Věci samy o sobě nejsou nebezpečné. V pohodě jsem se soustředila na jiné věci."
+                    }
+                  ]
+                },
+                {
+                  "title": "DAVID",
+                  "subtitle": "knihovník, 36 let",
+                  "description": "David potřebuje, aby bylo vše kolem zarovnané a symetrické. Obává se magických důsledků.",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/David_karta_739e7ef7df.svg",
+                  "pictureMobileBackground": "#DFE8EB",
+                  "pictureMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/David_karta_mobile_662bfbf554.svg",
+                  "modalContentSections": [
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/David_modal_c2247c95c4.svg",
+                      "width": "100%",
+                      "alt": "Obrázek Davida: Muž s krátkými černými vlasy v bílé košili a hnědé pletené vestě",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/David_modal_c2247c95c4.svg",
+                      "widthMobile": "100%",
+                      "align": "center",
+                      "unoptimized": true
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "**David** \n \n **Problém:** Potřebuji mít věci přesně srovnané. Bojím se, že neuspořádanost přitáhne něco špatného. \n \n **Experiment:** Nechat jednu knihu na stole mírně nakřivo. \n \n **Předpoklad:** Budu na ni pořád myslet. Budu mít pocit, že se stane něco zlého nebo že to nezvládnu a narovnám ji. \n \n **Průběh:** Položil jsem knihu trochu šikmo. Šel jsem si udělat čaj a několikrát jsem se na ni podíval. Chtěl jsem ji srovnat. Ale místo toho jsem si sedl jinam a snažil se dělat něco jiného. \n \n **Zhodnocení:** Po dvaceti minutách kleslo napětí z 8 na 3. Když jsem se vrátil do pokoje, už mě to tak nedráždilo. \n \n **Poučení:** I neuspořádaná věc může zůstat tak, jak je. Svět se nezhroutil. Nepříjemný pocit odezní."
+                    }
+                  ]
+                },
+                {
+                  "title": "KLÁRA",
+                  "subtitle": "zdravotní sestra, 28 let",
+                  "description": "Kláru trápí myšlenky se sexuálními tématy. Stydí se a vyhýbá se intimitě.",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Klara_karta_fb018941e5.svg",
+                  "pictureMobileBackground": "#EFE9EC",
+                  "pictureMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Klara_karta_mobile_75a2027257.svg",
+                  "modalContentSections": [
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Klara_modal_a2e0d015d3.svg",
+                      "width": "100%",
+                      "alt": "Obrázek Kláry: Žena s dlouhými blond vlasy v růžovém svetru",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Klara_modal_a2e0d015d3.svg",
+                      "widthMobile": "100%",
+                      "align": "center",
+                      "unoptimized": true
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "**Klára** \n \n **Problém:** Bojím se, že nevhodným dotykem ublížím dítěti. Vyhýbám se kontaktu, i když vím, že by byl přirozený. \n \n **Experiment:** Předat dítěti omalovánky a krátce se přitom dotknout jeho ruky. \n \n **Předpoklad:** Okamžitě mě zaplaví děsivé myšlenky. Budu se cítit jako špatný člověk. Možná zpanikařím a uteču. Dokud tam budu, budu cítít napětí a strach. \n \n **Průběh:** Byla jsem s kamarádkou a jejím synem. Přinesla jsem Honzíkovi omalovánky a předala jsem je tak, že jsem se dotkla jeho ruky. V tu chvíli se mi sevřelo srdce. Ale řekla jsem si: „Tohle je experiment. Dýchej. Neuhýbej.“ \n \n **Zhodnocení:** Myšlenky přišly, ale nezůstaly. Honzík se usmál a začal si kreslit. Já jsem si všimla, že zůstávám a že to jde. \n \n **Poučení:** Dotek neznamená nebezpečí. Ne všechny myšlenky jsou pravdivé. Udělala jsem krok k normálnímu kontaktu."
+                    }
+                  ]
+                },
+                {
+                  "title": "LUKÁŠ",
+                  "subtitle": "elektrikář, 30 let",
+                  "description": "Lukáš se bojí hřešit a neustále se modlí kvůli rouhavým myšlenkám. Cítí vnitřní rozpor.",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lukas_karta_40be25b691.svg",
+                  "pictureMobileBackground": "#FFF3EF",
+                  "pictureMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lukas_karta_mobile_543f887105.svg",
+                  "modalContentSections": [
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lukas_modal_19fee9701c.svg",
+                      "width": "100%",
+                      "alt": "Obrázek Lukáše: muž s plnovousem, pracovní kšilovkou v oranžové košili",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lukas_modal_19fee9701c.svg",
+                      "widthMobile": "100%",
+                      "align": "center",
+                      "unoptimized": true
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "**Lukáš** \n \n **Problém:** Nutkání opakovat modlitby, aby byly dokonalé. Bojím se božího trestu i pocitu viny, který by mě pohltil. \n \n **Experiment:** Ranní modlitbu říct jen jednou, bez opravování nebo doplňování. \n \n **Předpoklad:** Pokud ji neřeknu přesně, budu mít špatný den. Bude mě trápit vina. Něco se stane mně nebo někomu blízkému. Budu napjatý až do další modlitby. \n \n **Průběh:** Ráno jsem vstal a pomodlil se. Jednou. Měl jsem chuť přidat další slova, protože jsem něco „neřekl správně“. Ale řekl jsem si: „Bůh ví, co mám na srdci. Nezáleží na dokonalosti.“ \n \n **Zhodnocení:** Napětí bylo asi na 5 a časem kleslo na 2. Měl jsem klidný den. Nic špatného se nestalo. Ani v hlavě, ani ve světě. \n \n **Poučení:** Důvěra nepotřebuje dokonalost. Víra není o rituálu, ale o vztahu. A napětí jde vydržet a časem klesá."
+                    }
+                  ]
+                },
+                {
+                  "title": "VERONIKA",
+                  "subtitle": "manažerka, 35 let",
+                  "description": "Veronika se bojí o své zdraví. Nechává se vyšetřovat, i když lékaři nic nenašli.",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Veronika_karta_bb390f8d7d.svg",
+                  "pictureMobileBackground": "#EFE9EC",
+                  "pictureMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Veronika_karta_mobile_ff4d1e518c.svg",
+                  "modalContentSections": [
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Veronika_modal_0eeca499fc.svg",
+                      "width": "100%",
+                      "alt": "Obrázek Veroniky: žena s dlouhými černými vlasy ve vysokém culíku v zeleném topu s perlovým náhrdelníkem",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Veronika_modal_0eeca499fc.svg",
+                      "widthMobile": "100%",
+                      "align": "center",
+                      "unoptimized": true
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "**Veronika** \n \n **Problém:** Mám nutkání vyhledávat zdravotní informace na internetu. Každý neobvyklý pocit v těle mě vede k obavám. \n \n **Experiment:** Celý den nevkládat příznak do vyhledávače a neptat se nikoho, co by to mohlo být. \n \n **Předpoklad:** Pokud to neověřím, budu celý den ve stresu. Možná přehlédnu vážné onemocnění. \n \n **Průběh:** Píchlo mě v levém boku. První impuls byl otevřít telefon. Ale vzpomněla jsem si na plán a neudělala jsem to. Položila jsem telefon a šla jsem si sednout k oknu. Dýchala jsem a čekala. \n \n **Zhodnocení:** Úzkost byla vysoká, tak na 9 po dobu asi 15 minut. Pak ustoupila na 3. Bolest přestala. Nikomu jsem o tom neřekla a pořád jsem tady. \n \n **Poučení:** Nemusím znát všechno hned. Nepotřebuju všechno kontrolovat. Tělo se čas od času ozve, ale to neznamená, že volá o pomoc. Nebyla jsem ve stresu celý den."
+                    }
+                  ]
+                },
+                {
+                  "title": "MICHAL",
+                  "subtitle": "učitel, 27 let",
+                  "description": "Michala trápí nutkavé pochybnosti o svém vztahu. Vyžaduje neustále ujišťování.",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Michal_karta_41e0daacdc.svg",
+                  "pictureMobileBackground": "#dfe8eb",
+                  "pictureMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Michal_karta_mobile_8530388119.svg",
+                  "modalContentSections": [
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Michal_modal_9a4f39a394.svg",
+                      "width": "100%",
+                      "alt": "Obrázek Michala: mladý muž s kudrnatými hnědými vlasy a brýlemi v modrém roláku",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Michal_modal_9a4f39a394.svg",
+                      "widthMobile": "100%",
+                      "align": "center",
+                      "unoptimized": true
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "**Michal** \n \n **Problém:** Mám potřebu ověřovat, jestli mě partnerka opravdu miluje a jestli miluji já ji. Ptám se na různé věci znovu a znovu a hodnotím, co a jak řekla. \n \n **Experiment:** Zeptat se jen jednou, jaký měla den, a už se k tomu nevracet. \n \n **Předpoklad:** Pokud se nezeptám znovu, nebudu mít jistotu, že je všechno v pořádku. Budu celý veřer nervózní a možná to nevydržím. \n \n **Průběh:** Večer jsem se Lenky zeptal, jak se měla. Odpověděla stručně: „Celkem dobře.“ Normálně bych se doptával. Tentokrát jsem mlčel. Cítil jsem se napjatý, ale zároveň jsem si všímal, co dělá. Byla uvolněná. Usmála se. \n \n **Zhodnocení:** Myšlenky na to, že je něco špatně, postupně zeslábly. Neptal jsem se znovu. \n \n **Poučení:** Někdy méně znamená víc. Důvěra se nebuduje otázkami, ale přijetím. A nervozita časem klesá, i když s tím nic nedělám."
+                    }
+                  ]
+                },
+                {
+                  "title": "JIRKA",
+                  "subtitle": "lékař, 58 let",
+                  "description": "Jirku trápí obavy, že pokud nespočítá určitá čísla, stane se neštěstí v práci nebo v rodině.",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jirka_karta_01d80f6712.svg",
+                  "pictureMobileBackground": "#E5EBE3",
+                  "pictureMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jirka_karta_mobile_4fe638f329.svg",
+                  "modalContentSections": [
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jirka_modal_bdecd1b4aa.svg",
+                      "width": "100%",
+                      "alt": "Obrázek Jirky: starší muž se šedými vlasy a plnovousem, s brýlemi",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jirka_modal_bdecd1b4aa.svg",
+                      "widthMobile": "100%",
+                      "align": "center",
+                      "unoptimized": true
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "**Jirka** \n \n **Problém:** Musím sčítat čísla, na která s podívám, aby jejich počet nebyl prvočíslo. Pokud je to prvočíslo, musím hledat další čísla nebo počítat předměty, dokud nenajdu násobek čtyř. \n \n **Experiment:** Napíšu si na papír velkým písmem řadu čísel 3-5-2-1, dám si je na palubní desku, podívám se na ně opakovaně během jízdy do práce. Nebudu během jízdy počítat žádné předměty. \n \n **Předpoklad:** Budu cítit velké napětí, protože mě napadne, že se stane nehoda Lucce nebo některému z mých pacientů. \n \n **Průběh:** Dal jsem si papír s čísly na palubní desku. Bylo to nepříjemné, protože mně napadlo, že Lucku srazí auto a ochrne. Napětí trvalo celou cestu do práce. Pak, když jsem dojel a mluvil se sestřičkou, postupně to opadlo. Lucce se nic nestalo. \n \n **Zhodnocení:** Napětí stouplo na 8/10, bylo vysoké asi 20 minut. Po příchodu do práce kleslo na 5/10 po dalších 10 minut. Pak jsem mluvil se sestrou a pokleslo na 2/10. Když jsem začal pracovat, zapomněl jsem na to úplně. \n \n **Poučení:** Napětí i obavy zmizí i když je neřeším hledáním násobků čtyř."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Možné překážky a jak je překonat",
+          "icon": "text",
+          "contentSections": [
+            {
+              "type": "image",
+              "isExpandable": false,
+              "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Mozne_prekazky_a_jak_je_prekonat_54317be9d7.svg",
+              "width": "100%",
+              "alt": "Postava běžící závod s překážkami",
+              "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Mozne_prekazky_a_jak_je_prekonat_mobile_8f81d19861.svg",
+              "widthMobile": "100%",
+              "align": "center",
+              "unoptimized": true
+            },
+            {
+              "type": "markdown",
+              "content": "Během experimentů se můžete setkat s překážkami. Níže vám poradíme, jak se s nimi můžete vypořádat. \n \n **1. Nutkání experiment přerušit a “napravit”** \n \n Připoměňte si: “Tohle je součást experimentu. Dýchej a zůstaň v tom.” \n \n **2. Příliš silná úzkost** \n \n Začněte s něčím lehčím \n \n **3. Experiment neběží podle plánu** \n \n Experiment nemusí být dokonalý. Pokud se však setkáte s významnou překážkou, můžete svůj plán upravit. Možná ho provést jindy, možná zvolit předpoklad, který vás tolik nezúzkostňuje. \n \n **4. Myšlenky typu “Ale co když...”** \n \n Odpovězte si: “Je to jen myšlenka, ne realita.” \n \n **5. Chuť to celé vzdát** \n \n Naplánujte si předem, komu o tom řeknete (terapeut, deník). Sdílení s druhým člověk vám pomůže udržet kurz. \n \n **6. Obava z hodnocení druhých** \n \n Uvědomte si, že to děláte pro sebe, ne pro ostatní. Mluvte sami k sobě jako k příteli."
+            }
+          ]
+        },
+        {
+          "title": "Kvíz o behaviorálních experimentech",
+          "icon": "Star",
+          "contentSections": [
+            {
+              "type": "survey",
+              "variant": "quiz",
+              "questions": [
+                {
+                  "name": "Question1",
+                  "question": ":::text--center \n Petr se rozhodl odeslat důležitou fakturu už po první kontrole, přestože měl nutkání ji zkontrolovat ještě třikrát. Co bylo hlavním cílem tohoto experimentu? \n :::",
+                  "options": [
+                    {
+                      "label": "A) Získat reálnou zkušenost, která zpochybní přesvědčení",
+                      "value": 0
+                    },
+                    {
+                      "label": "B) Dostat pochvalu od nadřízeného",
+                      "value": 1
+                    },
+                    {
+                      "label": "C) Přestat mít strach natrvalo",
+                      "value": 2
+                    }
+                  ],
+                  "correctAnswer": 0,
+                  "correctAnswerReason": "Správná odpověď je A). Petrův experiment slouží k získání nové zkušenosti, že fakturu lze odeslat i bez kompulzivní kontroly, a přesto se nic nestane. Cílem není přesvědčit mozek logikou, ale dát mu nový důkaz."
+                },
+                {
+                  "name": "Question2",
+                  "question": ":::text--center \n Eva nechala nůž na kuchyňské lince, i když měla nutkání ho uklidit. Jaký by byl v tomto případě hlavní rozdíl mezi expozicí a behaviorálním experimentem? \n :::",
+                  "options": [
+                    {
+                      "label": "A) Při expozici by Eva nůž používala, ale při experimentu ho nechává ležet.",
+                      "value": 0
+                    },
+                    {
+                      "label": "B) Experiment je o zmizení úzkosti, expozice o tom, že nezmizí.",
+                      "value": 1
+                    },
+                    {
+                      "label": "C) Expozice znamená vydržet úzkost, experiment ověřuje obavu.",
+                      "value": 2
+                    }
+                  ],
+                  "correctAnswer": 2,
+                  "correctAnswerReason": "Správná odpověď je C). Eva zkoušela, jestli byl pravdivý její předpoklad, že přítomnost nože může vést ke ztrátě kontroly. To znamená, že nešlo jen o snášení nepříjemného pocitu, ale o testování obavy. Expozice by vypadala jinak – Eva by nůž nechala na lince, aby si zvykla na nepříjemný pocit."
+                },
+                {
+                  "name": "Question3",
+                  "question": ":::text--center \n David se rozhodl nechat nepořádek na stole celý den. Jaký byl přínos tohoto experimentu? \n :::",
+                  "options": [
+                    {
+                      "label": "A) Přesvědčil ho, že neuspořádanost nevede ke katastrofě.",
+                      "value": 0
+                    },
+                    {
+                      "label": "B) Ukázal, že chaos znamená ohrožení jeho blízkých.",
+                      "value": 1
+                    },
+                    {
+                      "label": "C) Naučil ho, jak přimět ostatní k úklidu.",
+                      "value": 2
+                    }
+                  ],
+                  "correctAnswer": 0,
+                  "correctAnswerReason": "Správná odpověď je A). David se přesvědčil, že katastrofické myšlenky o důsledcích nepořádku jsou přehnané. Experiment mu pomohl odhalit rozdíl mezi nepříjemným pocitem a reálnou hrozbou."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Cvičení: Plán experimentu",
+          "icon": "exercise",
+          "isEvaluable": true,
+          "finalScreen": {
+            "buttonLabel": "Upravit odpovědi",
+            "contentSections": [
+              {
+                "type": "image",
+                "isExpandable": true,
+                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Mountain_dc166aa05f.svg",
+                "width": "195px",
+                "alt": "Obrázek hory s vlajkou na vrcholu",
+                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Mountain_dc166aa05f.svg",
+                "widthMobile": "195px",
+                "align": "center"
+              },
+              {
+                "type": "markdown",
+                "content": ":::text--center \n #### Jsme rádi, že do toho jdete! \n \n Experimenty vám pomůžou ověřit, že myšlenky nejsou fakta. \n :::"
+              }
+            ]
+          },
+          "contentSections": [
+            {
+              "type": "image",
+              "isExpandable": true,
+              "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Cviceni_Plan_experimentu_fcae8b4085.svg",
+              "width": "100%",
+              "alt": "Obrázek postavičky, která vychází ze dveří",
+              "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Cviceni_Plan_experimentu_mobile_c6a3f48733.svg",
+              "widthMobile": "100%",
+              "align": "center"
+            },
+            {
+              "type": "markdown",
+              "content": "Toto cvičení vám pomůže vytvořit jednoduchý, ale odvážný **behaviorální experiment**, kterým si ověříte, zda se vaše obavy zakládají na realitě. Cílem je zjistit, co se doopravdy stane, když přestanete jednat podle nutkání, pravidla nebo strachu."
+            },
+            {
+              "type": "stepByStep",
+              "required": true,
+              "steps": [
+                {
+                  "title": "Krok 1 - Popis situace",
+                  "contentSections": [
+                    {
+                      "type": "note",
+                      "title": "**Vypište si konkrétní situaci, ve které se cítíte přetížení obsesí, odpovědností, cítíte nutkání provést kompulzi nebo se ujistit.**",
+                      "required": true,
+                      "rows": 2,
+                      "placeholder": "Popis situace"
+                    }
+                  ]
+                },
+                {
+                  "title": "Krok 2 - Můj předpoklad",
+                  "contentSections": [
+                    {
+                      "type": "note",
+                      "title": "**Čeho se přesně obáváte?**",
+                      "tooltipInfo": "**Příklady katastrofických předpokladů:** <br> <br> „Když nezkontroluju plyn, způsobím výbuch.“ <br> <br> „Když nezavolám mámě, něco se jí stane.“ <br> <br> „Když neřeknu přesně modlitbu, Bůh mě potrestá.“ <br> <br> „Když nevyhledám, co všechno může způsobovat píchání v pravém boku, zanedbám vážnou nemoc.“ <br> <br> „Když neuklidím stůl, bratrovi se něco stane.“",
+                      "required": true,
+                      "rows": 2,
+                      "placeholder": "Katastrofický předpoklad"
+                    },
+                    { 
+                      "type": "slider", 
+                      "title": "**Nakolik předpokladu věříte?**",
+                      "min": 0, 
+                      "max": 100,
+                      "step": 10, 
+                      "defaultValue": 0,
+                      "variant": "standard",
+                      "required": false
+                    }
+                  ]
+                },
+                {
+                  "title": "Krok 3 - Návrh experimentu",
+                  "contentSections": [
+                    {
+                      "type": "note",
+                      "title": "**Navrhněte odvážný, ale bezpečný experiment.**",
+                      "tooltipInfo": "**Jak na to?** <br> <br> Udělejte to jinak než obvykle. <br> <br> Neudělejte kompulzi. Nehledejte jistotu. <br> <br> Buďte pozorovatelem toho, co se opravdu stane.",
+                      "required": true,
+                      "rows": 2,
+                      "placeholder": "Kdy, kde a co uděláte?"
+                    },
+                    { 
+                      "type": "slider", 
+                      "title": "**Jak silnou nepohodu očekáváte?**",
+                      "min": 0, 
+                      "max": 10,
+                      "step": 1, 
+                      "defaultValue": 0, 
+                      "labelStart": "Slabá úzkost",
+                      "labelEnd": "Silná úzkost",
+                      "variant": "gradient",
+                      "required": false
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Druhou část máte hotovou!",
+          "icon": "text",
+          "contentSections": [
+            {
+              "type": "image",
+              "isExpandable": false,
+              "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Druhou_cast_mate_za_ssebou_97a32abad9.svg",
+              "width": "100%",
+              "alt": "Postava sedící v křesle s počítačem",
+              "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Druhou_cast_mate_za_ssebou_mobile_4e9b88698f.svg",
+              "widthMobile": "100%",
+              "align": "center",
+              "unoptimized": true
+            },
+            {
+              "type": "list",
+              "title": "**Co jste se dozvěděli:**",
+              "color": "#27637C",
+              "items": [
+                "Jak hrdinové z **příběhů** dělali behaviorální experimenty a co se díky tomu dozvěděli.",
+                "Jak řešit časté **překážky**, které nám brání vytrvat u behaviorálních experimentů.",
+                "Jak si **připravit** behaviorální experiment."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Příjemné aktivity",
+          "icon": "video",
+          "contentSections": [
+            {
+              "type": "video",
+              "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M4_2_08789c7ff6.mp4"
+            },
+            {
+              "type": "collapse",
+              "content": "OCD dokáže člověka **připravit o běžné radosti**. Může za to napětí, zahlcení, nedostatek času a neustálé nutkání „řešit něco důležitého“. Člověk pak postupně přestane příjemné činnosti **plánovat**, protože „není kdy“, „nestojí to za to“, nebo „nejdřív musí vyřešit důležité věci“. Naše tělo ale zůstává napjaté a hlava unavená. \n \n Nejen při terapii je důležité si vyhradit prostor pro to, co nás **naplňuje** a dává životu **smysl**. Příjemné aktivity by neměly být luxusem. Jsou nezbytnou protiváhou úzkosti a nepohody, protože nás posilují, povzbuzují a pomáhají obnovit rovnováhu. \n \n OCD totiž nečerpá jen z nepříjemných emocí, ale i z toho, co nám v životě **chybí**. Z radosti se pak stává **hrozba**. „Jak se můžu smát, když bych měla být ve střehu?“ \n \n Když cítíme klid, začne se pak ozývat **vina**: „Když budu odpočívat, něco určitě přehlédnu.“ \n \n A pozornost k sobě vnímáme jako důkaz **sobectví**: „Mám být zodpovědná za druhé.“ \n \n Možná si říkáte, že na radost a příjemné věci teď prostě **nemáte čas**. Že byste měli řešit svoje kompulze a pořádně zabrat. Ale radost a odpočinek jsou na této cestě vašimi pomocníky, ne rozptýlením. \n \n Strach často našeptává, že na to nemáte **nárok**. Ale to není pravda. Příjemné chvíle vás udrží na cestě ke změně a vyváží čas strávený expozicemi. \n \n Příjemné aktivity nemusí být jen zábava. Může to být chvilka klidu u čaje, procházka se psem, kreslení, hudba, nebo setkání s někým blízkým. Zkuste si **každý den** naplánovat **jednu malou věc**, která vám udělá radost. \n \n Návrat k příjemným aktivitám může být malým, ale významným krokem k uzdravení.",
+              "title": "Radši si přečtu"
+            },
+            {
+              "type": "list",
+              "title": "**Shrnutí videa:**",
+              "color": "#27637C",
+              "items": [
+                "Příjemné aktivity pomáhají obnovit rovnováhu mezi napětím a uvolněním. Mohou snížit čas i sílu obsesí a kompulzí.",
+                "Při OCD často převažují pocit viny, přetížení a potřeba kontroly. Příjemné aktivity dodávají energii a potřebnou protiváhu zátěži, kterou OCD přináší.",
+                "Stejně jako jindy, i tady začněte malými kroky. Udržíte spíše malou, ale pravidelnou činnost než velkou a náhlou změnu."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Příběhy",
+          "icon": "Story",
+          "contentSections": [
+            {
+              "type": "markdown",
+              "content": "Naši hrdinové dlouho zanedbávali věci, které jim dříve přinášely **radost**, **klid** nebo pocit **naplnění**. Někdy na ně zapomněli. Jindy je vytlačil strach. Často se cítili příliš unavení, zahlcení nebo provinilí. Postupně ale každý z nich přišel na to, že cesta k uzdravení vede skrze návrat k životu, který má chuť, vůni, barvu a smysl."
+            },
+            {
+              "type": "noteBox",
+              "desktopImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lightbulb_Icon_5bba92e832.svg",
+              "mobileImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lightbulb_Icon_5bba92e832.svg",
+              "backgroundColor": "#EDF4F6",
+              "textColor": "#27637C",
+              "text": "**Nemusíte číst všechny příběhy.** Zkuste najít ten, ve kterém se nejvíce najdete. Můžete se na něj zaměřit i v dalších modulech a ostatní číst spíše pro zajímavost. Ale můžete je také vynechat.",
+              "desktopImageWidth": "84px",
+              "mobileImageWidth": "84px",
+              "isWrapping": true
+            },
+            {
+              "type": "cardStories",
+              "cards": [
+                {
+                  "title": "JANA",
+                  "subtitle": "administrativní pracovnice, 34 let",
+                  "description": "Janu trápí obavy ze znečištění. Má silný pocit zodpovědnosti, který ji stresuje.",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jana_karta_7c69375325.svg",
+                  "pictureMobileBackground": "#E5EBE3",
+                  "pictureMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jana_karta_mobile_7063c7503a.svg",
+                  "modalContentSections": [
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jana_modal_21111b8b39.svg",
+                      "width": "100%",
+                      "alt": "Obrázek Jany: Žena s dlouhými světle hnědými vlasy v culíku, v bílém triku a modrém svetru",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jana_modal_21111b8b39.svg",
+                      "widthMobile": "100%",
+                      "align": "center",
+                      "unoptimized": true
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "**Jana** \n \n Dříve jsem běžně chodila na výlety do přírody. Ale jak se OCD rozrůstalo, stal se z každé vycházky stres. I dotek trávy ve mně spouštěl lavinu katastrofických scénářů. Tráva = špína. Špína = bakterie. Bakterie = nemoc. A já nesmím dovolit, aby se něco stalo Toníčkovi. Tak jsme zůstávali doma. I o víkendu. Představa, že si jen tak sednu na trávu? Nemyslitelné. \n \n V rámci cvičení jsem si naplánovala krátkou aktivitu venku, která mě dřív těšila. Napadla mě bosá chůze v trávě. Jako malá jsem si na zahradě hrála moc ráda. Zapsala jsem si to. Sobota. 10 minut. Na zahradě. Jen ta představa mě děsila. Ale zároveň něco ve mně chtělo ven. \n \n Den D. Vyrazili jsme. Toník se rozběhl a smál se. Já stála u kraje, boty pevně na nohou. Myslí mi probíhal hlas, který mě strašil: Zbláznila ses? Nakazíš se. Jsi nezodpovědná. \n \n Přesto jsem se sklonila a zula se. První krok byl, jako bych vstoupila do nebezpečného území. Cítila jsem orosenou trávu, byla jsem napjatá nepříjemným očekáváním nákazy. \n \n Ale pak jsem začala vnímat víc. Chlad trávy, vůni květin a zvuk smíchu. Uvědomila jsem si, že se usmívám. Toník běží ke mně a chce hrát na honěnou. To je radost. Být tam, být s ním. Ne všechno musí být sterilní. Být s Toníčkem, tady a teď, je důležitější než dokonalá kontrola."
+                    }
+                  ]
+                },
+                {
+                  "title": "PETR",
+                  "subtitle": "technik, 45 let",
+                  "description": "Petr se bojí, že udělá chybu, která bude mít fatální následky. Vše raději pečlivě kontroluje.",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Petr_karta_cb6c382476.svg",
+                  "pictureMobileBackground": "#FFF3EF",
+                  "pictureMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Petr_karta_mobile_607dc58e33.svg",
+                  "modalContentSections": [
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Petr_modal_ccd80f55c5.svg",
+                      "width": "100%",
+                      "alt": "Obrázek Petra: Muž ve středním věku s kudrnatými šedými vlasy a plnovousem",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Petr_modal_ccd80f55c5.svg",
+                      "widthMobile": "100%",
+                      "align": "center",
+                      "unoptimized": true
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "**Petr** \n \n Dřív jsem chodil rád do kaváren. Bylo to místo, kde jsem si četl, pozoroval lidi a přemýšlel. Ale s nástupem OCD se z každého takového výletu stalo minové pole. Co když jsem nezamkl? Co když jsem něco zapomněl? Co když jsem někde nechal důležitý dokument? \n \n Kvůli tomu jsem se často vracel a všechno jsem kontroloval. Byl jsem z toho vyčerpaný. A nakonec jsem přestal chodit úplně. Stejně jsem si ten „volný čas“ neužil. Hlava mi pořád jela. Seznamy, kontroly, výčitky svědomí... \n \n V modulu jsem se dostal k tématu příjemných aktivit. Nejdřív mi to připadalo hloupé. Jak se mám bavit, když nestíhám ani základní věci? Ale pak jsem pochopil, že právě proto musím. A tak jsem si zapsal do diáře: úterý, 15:00 – kavárna. Sám. Bez notebooku. Bez úkolů. \n \n To ráno jsem byl napjatý. Před odchodem jsem třikrát kontroloval zámek. A přesto jsem měl předtuchu, že se něco stane. V kavárně jsem si objednal cappuccino a sedl jsem si k oknu. Napřed jsem kontroloval telefon. Pak mě to unavilo. Schoval jsem ho do kapsy a začal jsem vnímat, co se děje okolo. Lidi venku. Zvuky kávovaru. Hřejivý porcelán v dlaních. \n \n A najednou, jen na chvilku, se ve mně něco uvolnilo. Přišel klid. Pomalý, tichý, nečekaný. Byl jsem tam. Nic jsem neřešil. Jen jsem uvolněně dýchal a popíjel kávu. Zvládnul jsem to. A nejen zvládnul – dokonce jsem si to i užil."
+                    }
+                  ]
+                },
+                {
+                  "title": "EVA",
+                  "subtitle": "studentka VŠ, 22 let",
+                  "description": "Eva má vtíravé představy, že by mohla někomu ublížit. Za tyto myšlenky se velmi stydí.",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Eva_karta_1d42669807.svg",
+                  "pictureMobileBackground": "#EFE9EC",
+                  "pictureMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Eva_karta_mobile_ff5c9a65ad.svg",
+                  "modalContentSections": [
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Eva_modal_8adc9d2543.svg",
+                      "width": "100%",
+                      "alt": "Obrázek Evy: mladá žena s kratšími kudrnatými zrzavými vlasy se žlutým baretem",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Eva_modal_8adc9d2543.svg",
+                      "widthMobile": "100%",
+                      "align": "center",
+                      "unoptimized": true
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "**Eva** \n \n Být mezi lidmi je pro mě těžké. Dlouho jsem byla ve spolenosti jako na jehlách. Vtíravé obrazy mi bránily užít si jakýkoli společenský kontakt. A ne kvůli nim, ale kvůli tomu, co mi OCD předhazuje: Když se směješ, jsi necitlivá. Co když se právě teď děje něco strašného a ty se bavíš? Když jsem se náhodou zasmála, okamžitě mě přepadl vnitřní hlas: Ty se směješ? Teď? Když se může něco stát? \n \n Ale pak jsem mluvila na terapii o tom, jak moc mi chybí obyčejný lidský smích. Už jsem věděla, že potřebuji zažít něco jiného než ubíjející tlak. Vymysleli jsme proto plán: uspořádat malou večeři s přáteli. Nic formálního. Pozvala jsem partu kamarádů. Můj cíl byl, abych se zkusila smát, když se mi bude chtít. Nebojovat s tím, nepotlačovat to. Jen být. \n \n Seděli jsme venku na terase, bylo hezky. Povídali jsme si o všem možném – o práci, dětech, počasí. Mluvilo se o banálních věcech. A pak někdo řekl vtip. Zasmála jsem se. Nahlas. Normálně bych přinutila úsměv zmizet, přepnula bych se do „ostražité“ polohy. Ale tentokrát jsem se zasmála. Spontánně. A na chvíli jsem zapomněla, že bych měla být na vážná a pozoru. \n \n Ve vteřině mě napadlo: Co když teď někdo někde trpí? Tohle si nesmíš dovolit. Ale já už jsem se zasmála. Vnímala jsem, jak mi cukají koutky, jak mě hřeje obličej, jak se mi uvolňují ramena. Po dlouhé době jsem se cítila součástí. A nejen pozorovatelem. Bylo to moc fajn."
+                    }
+                  ]
+                },
+                {
+                  "title": "DAVID",
+                  "subtitle": "knihovník, 36 let",
+                  "description": "David potřebuje, aby bylo vše kolem zarovnané a symetrické. Obává se magických důsledků.",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/David_karta_739e7ef7df.svg",
+                  "pictureMobileBackground": "#DFE8EB",
+                  "pictureMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/David_karta_mobile_662bfbf554.svg",
+                  "modalContentSections": [
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/David_modal_c2247c95c4.svg",
+                      "width": "100%",
+                      "alt": "Obrázek Davida: Muž s krátkými černými vlasy v bílé košili a hnědé pletené vestě",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/David_modal_c2247c95c4.svg",
+                      "widthMobile": "100%",
+                      "align": "center",
+                      "unoptimized": true
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "**David** \n \n Hudba mě provázela od dětství. Hra na klavír mě bavila a často jsem při ní ztratil přehled o čase. Ale OCD všechno překroutilo. Každá nota musela být správná. Každá chyba znamenala selhání. Nakonec jsem raději nehrál vůbec. Bylo to moc náročné. A přitom mi to tolik chybí. \n \n V modulu jsem se zamyslel nad tím, co mi dělávalo radost. Připravil jsem si plán: 20 minut hraní na klavír týdně. Připadalo mi to nesplnitelné. Stejně jsem si ale doplnil podrobnosti: čtvrtek 19:00, bez opravování chyb, jen tak hrát. Den předtím jsem měl chuť se na to vykašlat. Ale pamatoval jsem si, jak jsem si to dříve užíval. Šel jsem do toho. \n \n Sedl jsem si. Ruce byly ztuhlé, prsty nejisté. Vybral jsem si starou skladbu, kterou jsem hrával mámě. Hlava jela: „Zase to pokazíš.“ Ale začal jsem. Uprostřed jsem se spletl. Automaticky jsem se chtěl vrátit, ale tentokrát jsem pokračoval. A i když jsem se spletl, neopravil jsem se. Nezastavil. Dohrál jsem.  \n \n V tu chvíli jsem cítil, jak se ve mně něco pohnulo. Nešlo o výkon. Bylo to o tom pocitu. O tom okamžiku, kdy se prsty dotkly kláves a hlava se na chvíli ztišila. Ke konci jsem si všiml, že se mi klepou prsty – ne z úzkosti, ale z dojetí. Hudba mě nesla. A já byl po dlouhé době opravdu tady a teď, v přítomnosti."
+                    }
+                  ]
+                },
+                {
+                  "title": "KLÁRA",
+                  "subtitle": "zdravotní sestra, 28 let",
+                  "description": "Kláru trápí myšlenky se sexuálními tématy. Stydí se a vyhýbá se intimitě.",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Klara_karta_fb018941e5.svg",
+                  "pictureMobileBackground": "#EFE9EC",
+                  "pictureMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Klara_karta_mobile_75a2027257.svg",
+                  "modalContentSections": [
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Klara_modal_a2e0d015d3.svg",
+                      "width": "100%",
+                      "alt": "Obrázek Kláry: Žena s dlouhými blond vlasy v růžovém svetru",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Klara_modal_a2e0d015d3.svg",
+                      "widthMobile": "100%",
+                      "align": "center",
+                      "unoptimized": true
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "**Klára** \n \n Zpívání jsem milovala. Jako malá jsem si zpívala pořád. Písničky z pohádek, vymyšlené melodie, cokoli, co mě napadlo. Ale jak mi přibývala pravidla v hlavě, zpěv se postupně vytratil. OCD mi z něj udělalo něco hloupého. Začala jsem si říkat, že zpívání je zbytečné a že tím ostatní jen ruším. Když jsem zpívala, připadala jsem si dětinsky. \n \n „Už nejsi dítě,“ říkala jsem si. Tak jsem utichla. \n \n Bavila jsem se s kamarádkou o tom, co mi dřív přinášelo radost. Hned mě napadl zpěv, ale zároveň s ním pocit studu. Měla jsem dojem, že bych se měla stydět za to, že jsem i hravá. Ale zkusila jsem malý krok.  \n \n Rozhodla jsem se, že si zazpívám doma. Ne pro výkon. Jen pro sebe. Jedno ráno jsem si napsala do mobilu: Zazpívej si při mytí nádobí, aspoň 3 minuty. Nemusíš znít perfektně. \n \n Když jsem pak myla nádobí, v hlavě mi zněla písnička z dětství. Začala jsem broukat. Nejprve potichu. Pak celou sloku. Pak jsem si ji zazpívala celou písničku. Nejistě. Potichu. Možná falešně. Ale byla to chvíle jen pro mě. A v hrudi mi zůstalo něco hřejivého. Jako světlo."
+                    }
+                  ]
+                },
+                {
+                  "title": "LUKÁŠ",
+                  "subtitle": "elektrikář, 30 let",
+                  "description": "Lukáš se bojí hřešit a neustále se modlí kvůli rouhavým myšlenkám. Cítí vnitřní rozpor.",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lukas_karta_40be25b691.svg",
+                  "pictureMobileBackground": "#FFF3EF",
+                  "pictureMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lukas_karta_mobile_543f887105.svg",
+                  "modalContentSections": [
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lukas_modal_19fee9701c.svg",
+                      "width": "100%",
+                      "alt": "Obrázek Lukáše: muž s plnovousem, pracovní kšilovkou v oranžové košili",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lukas_modal_19fee9701c.svg",
+                      "widthMobile": "100%",
+                      "align": "center",
+                      "unoptimized": true
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "**Lukáš** \n \n Odmala jsem si užíval hudbu. Ale s časem, jak OCD přebíralo vládu, jsem si vytvořil striktní pravidla - co je „čisté“, co je „dovolené“, co je „duchovní“. I Mozart se ocitl na černé listině. A já se bál, že když si pustím skladbu, znesvětím něco důležitého. Držel jsem se toho roky.  \n \n Jednou večer jsem byl doma sám, tak jsem si sepsal krátký plán: Pustit si Mozartův klavírní koncert. Deset minut. Jen tak. Tlačil se mi do hlavy hlas: „Máš se věnovat duchovním věcem!“ nebo „Zradíš své hodnoty.“ Ale stiskl jsem přehrát. \n \n Hudba začala. Seděl jsem na posteli, zavřel oči. Napřed to šlo jen napůl. Naslouchal jsem víc hlasům v hlavě než tónům klavíru. Uvnitř mi běžel hlásek, který mi říkal, že se to nesmí. Ale pak přišla moje oblíbená pasáž. A něco ve mně povolilo. Zavřel jsem oči. Nechal jsem to hrát a dál jsem poslouchal. \n \n Cítil jsem jemné chvění podél páteře. Teplo v břiše. Plynutí. Přítomnost. Hudba mě nesla jako řeka. A já se v ní dovolil uvolnit. Bez výčitek. \n \n Po doznění posledního tónu jsem chvíli seděl v tichu. A svět se nezbořil. A já taky ne. Hudba ve mně něco rozezněla. Ne provinění, ale krásu. A ta zůstala i potom, co hudba utichla."
+                    }
+                  ]
+                },
+                {
+                  "title": "VERONIKA",
+                  "subtitle": "manažerka, 35 let",
+                  "description": "Veronika se bojí o své zdraví. Nechává se vyšetřovat, i když lékaři nic nenašli.",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Veronika_karta_bb390f8d7d.svg",
+                  "pictureMobileBackground": "#EFE9EC",
+                  "pictureMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Veronika_karta_mobile_ff4d1e518c.svg",
+                  "modalContentSections": [
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Veronika_modal_0eeca499fc.svg",
+                      "width": "100%",
+                      "alt": "Obrázek Veroniky: žena s dlouhými černými vlasy ve vysokém culíku v zeleném topu s perlovým náhrdelníkem",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Veronika_modal_0eeca499fc.svg",
+                      "widthMobile": "100%",
+                      "align": "center",
+                      "unoptimized": true
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "**Veronika** \n \n Ve chvílích úzkosti jsem vždycky sahala po telefonu. Sociální sítě. Zdravotnické stránky. Zprávy v novinách. Chtěla jsem se rozptýlit. Místo úlevy přicházelo ještě větší napětí. Začala jsem hledat jiné možnosti, jak úzkost ustát, aniž bych se chránila kontrolou. \n \n V terapii jsem si stanovila plán: Zůstat s pocitem úzkosti v těle. A zkusit si to namalovat. Když přijde vlna úzkosti, nakreslit si, co cítím. V barvách, tvarech a bez hodnocení, jestli se mi to povedlo. Jeden večer, když mě sevřel tlak na hrudi, jsem vzala akvarely a sedla jsem si k oknu. \n \n Zavřela jsem oči a zeptala se: Jak by vypadala tahle úzkost, kdyby byla barva? Objevil se vír. Fialový, s tmavými čarami. Vzala jsem si akvarely. Malovala jsem ho pomalu, vrstvila jsem barvy a pozorovala, jak se vpíjí do papíru. \n \n A něco se změnilo. Tlak se jakoby přelil z hrudi do ruky. Do štětce. Do barev. Když jsem skončila, byl to nový pocit. Neobjevila se panika. Dívala jsem se na obraz a zůstala v přítomnosti. Nepotřebovala jsem si nic vyhledávat. Úzkost jsem zklidnila barvami a tvary na plátně."
+                    }
+                  ]
+                },
+                {
+                  "title": "MICHAL",
+                  "subtitle": "učitel, 27 let",
+                  "description": "Michala trápí nutkavé pochybnosti o svém vztahu. Vyžaduje neustále ujišťování.",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Michal_karta_41e0daacdc.svg",
+                  "pictureMobileBackground": "#dfe8eb",
+                  "pictureMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Michal_karta_mobile_8530388119.svg",
+                  "modalContentSections": [
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Michal_modal_9a4f39a394.svg",
+                      "width": "100%",
+                      "alt": "Obrázek Michala: mladý muž s kudrnatými hnědými vlasy a brýlemi v modrém roláku",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Michal_modal_9a4f39a394.svg",
+                      "widthMobile": "100%",
+                      "align": "center",
+                      "unoptimized": true
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "**Michal** \n \n Vztahy jsou pro mě těžké a intimita složitá. OCD mi neustále našeptává: „Zeptej se, ujisti se, jinak ji ztratíš.“ OCD ve mně vytvořilo představu, že musím mít naprostou jistotu, jinak přijde katastrofa. Kvůli tomu jsem dusil vztah, který jsem si přál udržet. Tak jsem se pořád ptal. Tlačil. Přesvědčoval se. \n \n Mluvil jsem se svým terapeutem o důvěře. O tom, jak intimita může vznikat i bez slov. Tentokrát jsem si řekl, že zkusím něco jiného. Napsal jsem si: Budu vedle Mirky aspoň 10 minut bez otázek. Budu vedle ní ležet jen tak, v tichu. Budu vnímat přítomnost. \n \n Chtěl jsem vědět, jaké to bude, jen být vedle sebe. Znělo to jednoduše. Ale už při té myšlence jsem cítil jsem tlak, skoro paniku. \n \n Večer jsem do toho šel. Leželi jsme na gauči vedle sebe. Dýchali. Rameno na rameni. V hlavě mi naskakovaly otázky jako na běhacím pásu. Ale snažil jsem se jim nevěnovat pozornost. \n \n Chtěl jsem se Mirky zeptat, jak se cítí. Chtěl jsem slyšet ujištění. Ale zůstal jsem zticha. A pak jsem si všiml jejího dechu. Její vůně. Zaměřil jsem se na teplo její kůže. Po chvíli jsem si uvědomil, že i mé tělo se zklidňuje. \n \n Uvolnil jsem ramena. Dýchání se mi zpomalilo. Ticho už nebylo prázdné a plné nejistoty. Bylo příjemné, intimní a pohodlné. Pocítil jsem vděčnost. Že tu jsme. Že nemusím nic dokazovat. A že to nemusím mít pořád pod kontrolou. Že někdy stačí jen být."
+                    }
+                  ]
+                },
+                {
+                  "title": "JIRKA",
+                  "subtitle": "lékař, 58 let",
+                  "description": "Jirku trápí obavy, že pokud nespočítá určitá čísla, stane se neštěstí v práci nebo v rodině.",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jirka_karta_01d80f6712.svg",
+                  "pictureMobileBackground": "#E5EBE3",
+                  "pictureMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jirka_karta_mobile_4fe638f329.svg",
+                  "modalContentSections": [
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jirka_modal_bdecd1b4aa.svg",
+                      "width": "100%",
+                      "alt": "Obrázek Jirky: starší muž se šedými vlasy a plnovousem, s brýlemi",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jirka_modal_bdecd1b4aa.svg",
+                      "widthMobile": "100%",
+                      "align": "center",
+                      "unoptimized": true
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "**Jirka** \n \n Když jsem byl mladší, trávil jsem v přírodě často celé víkendy. Miloval jsem hory. Na zádech svůj starý vysloužilý batoh a pod nohama oblíbenou trasu přes hřebeny s výhledem na řeku. Turistika mi dávala pocit klidu, pohybu, volnosti. Ale pak se všechno změnilo. \n \n Nejdřív nenápadně. Jen pár čísel na poznávacích značkách. Jen pár součtů. Ale najednou jsem si už nedokázal představit jet na výlet. Znamenalo by to minout desítky aut. A co kdyby bylo na některém prvočíslo? Co kdybych nestihl počítat dost předmětů, aby to „vyvážilo“? \n \n Začal jsem se řízení vyhýbat. Prosil jsem Lucku, aby jela místo mě. Když jsem se přece jen odhodlal, přestal jsem se dívat z okna. Byl jsem v přírodě, ale jako by duchem nepřítomen. \n \n V modulu o příjemných aktivitách jsem si napsal, co mi kdy dělalo radost. Turistika byla první věc, na kterou jsem si vzpomněl. Chtěl jsem to zkusit znovu. S ohledem na to, jak silná může být úzkost, ale taky s odvahou udělat malý krok. \n \n Nejdřív jen krátká procházka po okolí. Lucka řídila. Díval jsem se z okna a viděl čísla. Součty. Ale počítání jsem odložil. Vědomě jsem dýchal. Vnímal jsem stromy. Pak jsme dojeli do lesa za městem. Dvě hodiny venku. Kolem projelo několik aut se značkami, které mě vyplašily. Ale tentokrát jsem nepřepnul do režimu „počítání pro záchranu světa“. Místo toho jsem počítal kroky. Jen tak. Pro sebe. \n \n A když jsme došli k vyhlídce, sedl jsem si na lavičku a mlčel. V hlavě ticho. Nebo aspoň menší hluk.Pak přišlo něco nečekaného: úleva. Ne protože bylo všechno v pořádku. Ale protože jsem tam byl. Bez výmluv. Bez výčitek. A s výhledem, který mi chyběl. \n \n Napsal jsem si plán: jednou týdně jít s Luckou na výlet. A jednou měsíčně sám. S autem. S rizikem, že uvidím prvočísla. Ale také s vědomím, že mi stojí za to jít dál. \n \n Ještě to není bez námahy. Ale po letech poprvé vnímám, že mě hory zase volají."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Kvíz o příjemných aktivitách",
+          "icon": "Star",
+          "contentSections": [
+            {
+              "type": "survey",
+              "variant": "quiz",
+              "questions": [
+                {
+                  "name": "Question1",
+                  "question": ":::text--center \n Petr se vydal po dlouhé době do kavárny. Zpočátku byl napjatý, neklidný a kontroloval telefon. Co mu mohlo nejvíce pomoci, aby si nakonec chvíli odpočinul? \n :::",
+                  "options": [
+                    {
+                      "label": "A) Přinutit se nemyslet na obavy.",
+                      "value": 0
+                    },
+                    {
+                      "label": "B) Požádat obsluhu, aby s ním chvíli mluvila.",
+                      "value": 1
+                    },
+                    {
+                      "label": "C) Věnovat pozornost přítomnému okamžiku.",
+                      "value": 2
+                    }
+                  ],
+                  "correctAnswer": 2,
+                  "correctAnswerReason": "Správná odpověď je C). Petr si dovolil na chvíli jen být. Bez kontroly, bez výkonu. Pomohlo mu to uvědomit si, že se neděje nic hrozného. Pozornost k přítomnosti mu pomohla zpomalit a najít úlevu."
+                },
+                {
+                  "name": "Question2",
+                  "question": ":::text--center \n Jana si naplánovala, že půjde s Toníkem na zahradu a zkusí chodit bosky. To už neudělala řadu let. Co je častým důvodem, proč lidé s OCD přestávají dělat příjemné aktivity? \n :::",
+                  "options": [
+                    {
+                      "label": "A) Chybí jim sebevědomí.",
+                      "value": 0
+                    },
+                    {
+                      "label": "B) Vyčerpávají je kompulze, úzkost a napětí.",
+                      "value": 1
+                    },
+                    {
+                      "label": "C) Je pro ně těžké určit priority.",
+                      "value": 2
+                    }
+                  ],
+                  "correctAnswer": 1,
+                  "correctAnswerReason": "Správná odpověď je B). Lidé s OCD často přestanou dělat příjemné aktivity, protože velkou část jejich dne zabere napětí, kontrolování a výčitky. Vnitřní hlas je vede k plnění kompulzí a různých povinností. Často si radost dokonce zakazují, z pocitu viny nebo z obavy, že něco přehlédnou."
+                },
+                {
+                  "name": "Question3",
+                  "question": ":::text--center \n Veronika zvolila jako příjemnou aktivitu malování své úzkosti. Co bylo hlavním cílem tohoto experimentu? \n :::",
+                  "options": [
+                    {
+                      "label": "A) Najít barvu, která k úzkosti nejvíc sedí.",
+                      "value": 0
+                    },
+                    {
+                      "label": "B) Být s úzkostí v klidu a zkusit ji jinak zpracovat.",
+                      "value": 1
+                    },
+                    {
+                      "label": "C) Zbavit se úzkosti tím, že na ni nebude myslet.",
+                      "value": 2
+                    }
+                  ],
+                  "correctAnswer": 1,
+                  "correctAnswerReason": "Správná odpověď je B). Veronika se nesnažila zahnat úzkost, ale vytrvat s ní a zpracovat ji tvořivým způsobem. Léčba OCD často znamená učit se být s emocemi bez nutnosti je ihned řešit, analyzovat nebo neutralizovat. Její aktivita jí pomohla zůstat v přítomnosti a dát úzkosti tvar i hranici. Na konci zjistila, že pro ni malování bylo nejen užitečné, ale i příjemné."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Cvičení: Můj krok k radosti",
+          "icon": "exercise",
+          "isEvaluable": true,
+          "finalScreen": {
+            "buttonLabel": "Upravit odpovědi",
+            "contentSections": [
+              {
+                "type": "image",
+                "isExpandable": true,
+                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Watering_Can_488f075007.svg",
+                "width": "280px",
+                "alt": "Obrázek postavičky, která s úsměvem zalévá pokojové rostliny",
+                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Watering_Can_488f075007.svg",
+                "widthMobile": "280px",
+                "align": "center"
+              },
+              {
+                "type": "markdown",
+                "content": ":::text--center \n #### Radost by neměla být luxus. \n \n Příjemné aktivity vám pomohou čelit úzkosti. \n :::"
+              }
+            ]
+          },
+          "contentSections": [
+            {
+              "type": "image",
+              "isExpandable": true,
+              "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Cviceni_Plan_experimentu_fcae8b4085.svg",
+              "width": "100%",
+              "alt": "Obrázek postavičky, která odchází ze dveří",
+              "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Cviceni_Plan_experimentu_mobile_c6a3f48733.svg",
+              "widthMobile": "100%",
+              "align": "center"
+            },
+            {
+              "type": "markdown",
+              "content": "Toto cvičení vám pomůže vytvořit jednoduchý, ale odvážný **behaviorální experiment**, kterým si ověříte, zda se vaše obavy zakládají na realitě. Cílem je zjistit, co se doopravdy stane, když přestanete jednat podle nutkání, pravidla nebo strachu."
+            },
+            {
+              "type": "stepByStep",
+              "required": true,
+              "steps": [
+                {
+                  "title": "",
+                  "contentSections": [
+                    {
+                      "type": "note",
+                      "title": "**Co by pro vás mohla být příjemná aktivita?**",
+                      "instruction": "Může jít i o malé věci, které jste dříve dělali rádi nebo vás jen trochu lákají.",
+                      "placeholder": "Příjemná aktivita",
+                      "required": true,
+                      "rows": 1
+                    }
+                  ]
+                },
+                {
+                  "title": "",
+                  "contentSections": [
+                    {
+                      "type": "note",
+                      "title": "**Naplánujte si konkrétně, kdy a kde tuto příjemnou aktivitu provedete.**",
+                      "instruction": "Nastavení konkrétního dne a času vám pomůže se do aktivity skutečně pustit.",
+                      "placeholder": "Akční plán",
+                      "required": true,
+                      "rows": 2
+                    }
+                  ]
+                },
+                {
+                  "title": "",
+                  "contentSections": [
+                    {
+                      "type": "note",
+                      "title": "**Zvažte, co by vám v tom mohlo bránit.**",
+                      "instruction": "Například: obsese, kompulze, únava, stud, pocit viny, obavy z neklidu nebo z nudy",
+                      "placeholder": "Možná překážka",
+                      "required": true,
+                      "rows": 2
+                    }
+                  ]
+                },
+                {
+                  "title": "",
+                  "contentSections": [
+                    {
+                      "type": "note",
+                      "title": "**Zapište si, jak tyto překážky můžete zvládnout.**",
+                      "instruction": "Co si můžete říct nebo udělat, abyste překážky překonali?",
+                      "placeholder": "Jak překonám překážky",
+                      "required": true,
+                      "rows": 2
+                    }
+                  ]
+                },
+                {
+                  "title": "",
+                  "contentSections": [
+                    {
+                      "type": "checkBoxList",
+                      "title": "**Předem si naplánujte malou odměnu.**",
+                      "required": true,
+                      "isSingleColumn": false,
+                      "options": [
+                        {
+                          "name": "Dám si něco dobrého",
+                          "value": "Snack"
+                        },
+                        {
+                          "name": "Udělám si čas jen pro sebe",
+                          "value": "PrivateTime"
+                        },
+                        {
+                          "name": "Pořídím si něco, co už dlouho chci",
+                          "value": "Shop"
+                        },
+                        {
+                          "name": "Pochválím se",
+                          "value": "Congratulations"
+                        },
+                        {
+                          "name": "Podniknu něco venku (kino, výlet...)",
+                          "value": "Go out"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Cvičení mindfulness",
+          "icon": "video",
+          "contentSections": [
+            {
+              "type": "markdown",
+              "content": "**Příjemné prožívání** můžeme rozvíjet ve svých představách. Můžete si k tomu vyzkoušet tuto řízenou imaginaci. Tu si můžete pustit kdykoli budete cítit, že vás OCD odděluje od radosti. \n \n Není třeba se cítit vysloveně skvěle. Stačí se otevřít možnosti příjemného zážitku. Imaginace vám pomůže znovu navázat kontakt s tělem, smysly a krásou všedních okamžiků."
+            },
+            {
+              "type": "video",
+              "url": "xx"
+            },
+            {
+              "type": "collapse",
+              "content": "Zaujměte pohodlnou pozici. Můžete sedět nebo ležet. Zavřete oči, pokud vám to vyhovuje.  \n \n Přiveďte pozornost ke svému dechu. Nádech… a výdech… Pozorujte, jak se tělo s dechem pomalu uvolňuje. Nemusíte nic měnit. Jen být. \n \n Teď si představte, že vstupujete do místa, které vám přináší klid a radost. Může to být koupelna s teplou vodou, pokoj s klavírem, rozkvetlá zahrada… Možná místo, které jste kdysi měli rádi. Možná něco úplně nového. \n \n Nechte se vést tím, co vidíte a cítíte. Jste tam sami. V bezpečí. Není třeba nic řešit, nic vysvětlovat.  \n \n Zkuste se v tomto prostoru zastavit. Vnímejte jemné detaily. Teplotu vzduchu na kůži… světlo, které sem dopadá… možná vůni, zvuky, hudbu…  \n \n Všimněte si, jaké to je – být tady. Bez úkolů. Bez tlaku na výkon. Teď a tady. Jen vy.  \n \n Zkuste vnímat tělem. Co cítí vaše nohy, když se dotýkají země? Jaké je to, mít kolem teplo, barvy, pohyb, ticho?  \n \n Možná vám v hlavě naskočí myšlenky: „Tohle není důležité.“, „To si nemůžeš dovolit.“ Ale dnes můžete. Dnes si dovolíte pár minut klidu.  \n \n Každý nádech je pozvánkou k přítomnosti. Každý výdech odnáší napětí, které není nutné držet.  \n \n Možná si vzpomenete na chvíli, kdy jste se smáli. Hráli. Vnímali život naplno. Nebo si ji právě teď vytváříte. Vědomě, otevřeně, svobodně.  \n \n A když se cítíte připraveni, pomalu se nadechněte…a s výdechem si dovolte ten pocit podržet. Ne jako úkol, ale jako dar. Jste tady. A to stačí. \n \n Až budete chtít, pomalu otevřete oči…a vraťte se zpět s vědomím, že i krátká chvíle radosti má v životě své místo.",
+              "title": "Radši si přečtu"
+            }
+          ]
+        },
+        {
+          "title": "Bonusový příběh",
+          "icon": "audio",
+          "contentSections": [
+            {
+              "type": "markdown",
+              "content": "Níže si můžete přehrát další audio příběh."
+            },
+            {
+              "type": "audio",
+              "audioSrc": "xx",
+              "title": "Bonusový příběh",
+              "imageSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Bonusovy_pribeh_bf051504b6.svg"
+            },
+            {
+              "type": "collapse",
+              "content": "xx",
+              "title": "Radši si přečtu"
+            }
+          ]
+        },
+        {
+          "title": "Dokončili jste druhý modul!",
+          "isEvaluable": true,
+          "icon": "Exercise",
+          
+          "contentSections": [
+            {
+              "type": "image",
+              "isExpandable": false,
+              "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Modul_dokoncen_1785f55c82.svg",
+              "width": "100%",
+              "alt": "Postava pouštějící papírovou vlaštovku",
+              "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Modul_dokoncen_mobile_00b1a7904d.svg",
+              "widthMobile": "100%",
+              "align": "center",
+              "unoptimized": true
+            },
+            {
+              "type": "list",
+              "title": "**V tomto modulu jste se dozvěděli:**",
+              "color": "#27637C",
+              "items": [
+                "Příjemné aktivity pomáhají obnovit rovnováhu mezi napětím a uvolněním. Mohou snížit čas i sílu obsesí a kompulzí.",
+                "Při OCD často převažuje pocit viny, přetížení a potřeba kontroly, což může postupně vést k omezování příjemných činností.",
+                "Při plánování příjemných aktivit je důležité naplánovat si konkrétní čas, kdy se do toho pustíme. Také nám pomůže předem se zamyslet nad možnými překážkami a jak je můžeme překonat."
+              ]
+            },
+            {
+              "type": "note",
+              "placeholder": "Co vás zaujalo?",
+              "title": "**Co pro vás bylo nejpřínosnější nebo nejzajímavější?**",
+              "rows": 2,
+              "maxLength": 500,
+              "lengthValidationMessage": "Maximální délka odpovědi je 500 znaků.",
+              "required": false
+            }
+          ]
+        },
+        {
+          "title": "Týdenní výzva",
+          "icon": "video",
+          "contentSections": [
+            {
+              "type": "markdown",
+              "content": "Připravili jsme pro vás další **týdenní výzvu.**"
+            },
+            {
+              "type": "video",
+              "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M4_3_08a3a5ea06.mp4"
+            },
+            {
+              "type": "collapse",
+              "content": "Jste téměř u konce dalšího modulu. Jsme rádi, že v programu pokračujete. A máme pro vás novou **týdenní výzvu.** \n \n Během týdne se pusťte do **příjemné aktivity**, kterou jste si v modulu naplánovali. Zkuste se jí věnovat několikrát. Ideální je si každý den udělat nějakou **drobnou radost**. Příjemné aktivity vám pomůžou vytrvat v expozicích. Mohou být vaší **odměnou.** \n \n Během týdne se můžete začít pouštět do **behaviorálních experimentů** nebo prvních **expozic**. Nezapomeňte, že je důležité začínat těmi nejsnazšími. Pokud to pro vás bude těžké, jako první krok se vždy můžete vrátit k **expozicím v představě**. Opakujte si je, dokud vaše úzkost neklesne alespoň na 4/10. \n \n Pokud u expozice nevydržíte odolat nutkání, **netrestejte se**. I tak si dopřejte něco příjemného. Bude vás to **motivovat** zkusit to znovu. \n \n Příjemné aktivity můžete brát jako experiment. Předem si zapište svá *áočekávání**. Třeba jak moc si myslíte, že si to užijete, jak dlouho bude radost trvat a jak se budete cítit později. Po aktivitě si zapište, co se **skutečně stalo**. Můžete být překvapeni rozdíly mezi svým očekáváním a realitou. \n \n I když se vám někdy možná **nebude chtít** nebo budete mít pocit, že **nemáte čas**, je důležité si sestavit a dodržet plán. Jen tak můžete zjistit, co vám skutečně přináší radost a energii do běžného života. \n \n **Pravidelné příjemné činnosti** jsou investicí do vaší psychické pohody. Každá prožitá radost, i krátká, pomáhá budovat odolnost a zvládat úzkosti spojené s OCD. Stojí to za to. \n \n Držíme vám palce! A budeme se na vás těšit příště.",
+              "title": "Radši si přečtu"
+            }
+          ]
+        },
+        {
+          "title": "Co vás čeká příště?",
+          "icon": "text",
+          "contentSections": [
+            {
+              "type": "image",
+              "isExpandable": false,
+              "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Co_vas_ceka_priste_1229fc51ec.svg",
+              "width": "100%",
+              "alt": "Postavička s velkou tužkou, kterou si kreslí schody",
+              "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Co_vas_ceka_priste_mobile_158d3c08a9.svg",
+              "widthMobile": "100%",
+              "align": "center",
+              "unoptimized": true
+            },
+            {
+              "type": "list",
+              "title": "**V příštím modulu se dozvíte:**",
+              "color": "#27637C",
+              "items": [
+                "Co jsou expozice se zábranou odpovědi.",
+                "Jak si naplánovat expozice se zábranou odpovědi.",
+                "Jak se potřeba naprosté jistoty podílí na udržování OCD."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Jak se vám modul líbil?",
+          "icon": "Exercise",
+          "isEvaluable": true,
+          "contentSections": [
+            {
+              "type": "satisfactionQuestionnaire",
+              "omitTherapistHelpsQuestion": false
+            },
+            {
+              "type": "note",
+              "placeholder": "Co máte na srdci?",
+              "title": "**Napadá vás, jak bychom mohli program vylepšit?**",
+              "rows": 2,
+              "required": false
+            }
+          ]
+        }
+  ]
+}

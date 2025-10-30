@@ -6,7 +6,8 @@
           "contentSections": [
             {
               "type": "video",
-              "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M2_1_8e100a0f68.mp4"
+              "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M2_1_8e100a0f68.mp4",
+              "captionsUrl": "xx"
             },
             {
               "type": "collapse",
@@ -152,7 +153,8 @@
             },
             {
               "type": "video",
-              "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M2_2_2a867e84b5.mp4"
+              "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M2_2_2a867e84b5.mp4",
+              "captionsUrl": "xx"
             },
             {
               "type": "collapse",
@@ -493,7 +495,8 @@
             },
             {
               "type": "video",
-              "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M2_3_f11b690f3d.mp4"
+              "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M2_3_f11b690f3d.mp4",
+              "captionsUrl": "xx"
             },
             {
               "type": "collapse",
@@ -617,7 +620,8 @@
             },
             {
               "type": "video",
-              "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/petr_a_jeho_filtry_mysleni_1_ed8cee7c24.mp4"
+              "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/petr_a_jeho_filtry_mysleni_1_ed8cee7c24.mp4",
+              "captionsUrl": "xx"
             },
             {
               "type": "collapse",
@@ -669,7 +673,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Jana** \n \n Jana je administrativní pracovnice a maminka malého Toníka. Pokaždé, když přijde z venku, dezinfikuje sebe i věci kolem sebe, převléká se a umývá ruce. \n \n Její strach se zaměřuje na možnost, že by mohla ublížit svému dítěti. Často ji napadá: \n \n - **Katastrofizace:** „Na každé klice mohou být smrtelné bakterie.“ \n \n - **Přehnaná odpovědnost:** „Musím udělat všechno, abych ochránila své dítě. I kdyby mě to mělo zničit.“ \n \n - **Myšlenky o myšlenkách:** „Když mám úzkost, znamená to, že jsme opravdu v nebezpečí.“"
+                      "content": "**Jana** \n \n Jana je administrativní pracovnice a maminka malého Toníka. Pokaždé, když přijde z venku, dezinfikuje sebe i věci kolem sebe, převléká se a umývá ruce. \n \n Její strach se zaměřuje na možnost, že by mohla ublížit svému dítěti. Často ji napadá: \n \n - **Katastrofizace:** „Na každé klice mohou být smrtelné bakterie.“ \n \n - **Přehnaná odpovědnost:** „Musím udělat všechno, abych ochránila své dítě. I kdyby mě to mělo zničit.“ \n \n - **Metakognice:** „Když mám úzkost, znamená to, že jsme opravdu v nebezpečí.“"
                     }
                   ]
                 },
@@ -694,7 +698,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Petr** \n \n Petr pracuje jako technik. Každý den několikrát kontroluje dveře, sporák, zásuvky. Z práce často chodí pozdě, protože si není jistý, jestli něco nezapomněl. V jeho mysli se objevují obrazy požárů, zničených domovů a výčitek svědomí. Napadají ho tyto omyly v myšlení a myšlenky o myšlenkách: \n \n - **Katastrofizace:** „Když něco přehlédnu, může se stát katastrofa.“ \n \n - **Přehnaná odpovědnost:** „Když to nezkontroluju, bude to moje vina.“ \n \n - **Splývání myšlení a skutečnosti:** „Když mě napadne, že jsem něco nechal zapnuté, možná to tak skutečně je.“ "
+                      "content": "**Petr** \n \n Petr pracuje jako technik. Každý den několikrát kontroluje dveře, sporák, zásuvky. Z práce často chodí pozdě, protože si není jistý, jestli něco nezapomněl. V jeho mysli se objevují obrazy požárů, zničených domovů a výčitek svědomí. Napadají ho tyto omyly v myšlení a myšlenky o myšlenkách: \n \n - **Katastrofizace:** „Když něco přehlédnu, může se stát katastrofa.“ \n \n - **Přehnaná odpovědnost:** „Když to nezkontroluju, bude to moje vina.“ \n \n - **Metakognice:** „Když mě napadne, že jsem něco nechal zapnuté, možná to tak skutečně je.“"
                     }
                   ]
                 },
@@ -719,7 +723,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Eva** \n \n Eva studuje sociální práci. Trápí ji představy, že by mohla někomu ublížit – třeba nožem. Vyhýbá se kvůli tomu vaření i blízkosti ostatních. Přestože nikdy nikoho nezranila, paralyzují ji stud a strach. Její myšlení ovlivňují: \n \n - **Myšlenky ovlivňující pohled na sebe:** „Když mě napadne, že bych mohla někomu ublížit, znamená to, že jsem nebezpečná.“ \n \n - **Přehnaná odpovědnost:** „Normální lidé by takové myšlenky neměli mít.“ \n \n - **Splynutí myšlení a skutečnosti:** „Když mě napadne hrozivá myšlenka, je to stejné, jako bych opravdu něco udělala.“"
+                      "content": "**Eva** \n \n Eva studuje sociální práci. Trápí ji představy, že by mohla někomu ublížit - třeba nožem. Vyhýbá se kvůli tomu vaření i blízkosti ostatních. Přestože nikdy nikoho nezranila, paralyzují ji stud a strach. Její myšlení ovlivňují: \n \n - **Metakognice:** „Když mě napadne, že bych mohla někomu ublížit, znamená to, že jsem nebezpečná.“ \n \n - **Přehnaná odpovědnost:** „Normální lidé by takové myšlenky neměli mít.“ \n \n - **Metakognice:** „Když mě napadne hrozivá myšlenka, je to stejné, jako bych opravdu něco udělala.“"
                     }
                   ]
                 },
@@ -744,7 +748,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**David** \n \n David pracuje v knihovně a doma i v práci musí mít vše naprosto rovné, symetrické a čisté. Jinak má vtíravé obavy, že přivolá neštěstí. Usilovně organizuje věci podle velikosti, tvaru a barvy. Často se mu hlavou honí: \n \n - **Magické myšlení:** „Když knihy nejsou rovně, může se stát něco zlého.“ \n \n - **Perfekcionismus:** „Když je něco nesymetrické, je to nebezpečné.“ \n \n - **Splývání myšlenek se skutečností:** „Když mě napadne, že se něco stane, když věci nebudou srovnané, tak se to stane.“"
+                      "content": "**David** \n \n David pracuje v knihovně a doma i v práci musí mít vše naprosto rovné, symetrické a čisté. Jinak má vtíravé obavy, že přivolá neštěstí. Usilovně organizuje věci podle velikosti, tvaru a barvy. Často se mu hlavou honí: \n \n - **Magické myšlení:** „Když knihy nejsou rovně, může se stát něco zlého.“ \n \n - **Perfekcionismus:** „Když je něco nesymetrické, je to nebezpečné.“ \n \n - **Metakognice:** „Když mě napadne, že se něco stane, když věci nebudou srovnané, tak se to stane.“"
                     }
                   ]
                 },
@@ -769,14 +773,14 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Klára** \n \n Klára je zdravotní sestra. Děsí ji vtíravé myšlenky o dětech, které se jí objevují ve stresu. Vyhýbá se dětem i blízkosti s partnerem, protože se bojí, že je špatný člověk. Její OCD posilují myšlenkové omyly a myšlenky o myšlenkách jako: \n \n - **Braní věcí osobně:** „Když mě napadne něco nepřijatelného, znamená to, že jsem zvrácená.“ \n \n - **Splynutí myšlení a skutečnosti:** „Když mě něco napadá, stane se to.“ \n \n - **Katastrofizace:** „Pokud se těch myšlenek nezbavím, vymknou se mi z kontroly a udělám něco strašného.“"
+                      "content": "**Klára** \n \n Klára je zdravotní sestra. Děsí ji vtíravé myšlenky o dětech, které se jí objevují ve stresu. Vyhýbá se dětem i blízkosti s partnerem, protože se bojí, že je špatný člověk. Její OCD posilují myšlenkové omyly a myšlenky o myšlenkách jako: \n \n - **Braní věcí osobně:** „Když mě napadne něco nepřijatelného, znamená to, že jsem zvrácená.“ \n \n - **Metakognice:** „Když mě něco napadá, stane se to.“ \n \n - **Katastrofizace:** „Pokud se těch myšlenek nezbavím, vymknou se mi z kontroly a udělám něco strašného.“"
                     }
                   ]
                 },
                 {
                   "title": "LUKÁŠ",
                   "subtitle": "elektrikář, 30 let",
-                  "description": "Lukáš se bojí hřešit a neustále se modlí kvůli rouhavým myšlenkám. Cítí vnitřní rozpor.",
+                  "description": "Lukáš se bojí hříchu a neustále se modlí kvůli rouhavým myšlenkám. Cítí vnitřní rozpor.",
                   "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lukas_karta_40be25b691.svg",
                   "pictureMobileBackground": "#FFF3EF",
                   "pictureMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lukas_karta_mobile_543f887105.svg",
@@ -794,7 +798,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Lukáš** \n \n Lukáš je hluboce věřící. Každá rouhavá myšlenka v něm spouští silnou úzkost a pocit viny. Bojí se, že je hříšný a nebude spasen. Hodiny tráví v modlitbách a prosbách o odpuštění. Často se mu hlavou honí: \n \n - **Přehnaná odpovědnost:** „Když mě napadnou rouhavé myšlenky, je to moje vina.“ \n \n - **Katastrofizace:** „Když mě napadne rouhavá myšlenka, Bůh mě zavrhne.“ \n \n - **Zdánlivě pozitivní myšlenky zvyšující úzkost:** „Musím se modlit absolutně dokonale, jinak moje modlitba nebude přijata.“"
+                      "content": "**Lukáš** \n \n Lukáš je hluboce věřící. Každá rouhavá myšlenka v něm spouští silnou úzkost a pocit viny. Bojí se, že je hříšný a nebude spasen. Hodiny tráví v modlitbách a prosbách o odpuštění. Často se mu hlavou honí: \n \n - **Přehnaná odpovědnost:** „Když mě napadnou rouhavé myšlenky, je to moje vina.“ \n \n - **Katastrofizace:** „Když mě napadne rouhavá myšlenka, Bůh mě zavrhne.“ \n \n - **Metakognice:** „Musím se modlit absolutně dokonale, jinak moje modlitba nebude přijata.“"
                     }
                   ]
                 },
@@ -819,14 +823,14 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Veronika** \n \n Veronika se velmi často obává, že má vážnou nemoc. Studuje své příznaky na internetu, často navštěvuje lékaře. Po každém vyšetření přichází úleva – ale jen na chvíli. Brzy se objeví nová pochybnost. Mezi její kognitivní omyly a meta-kognice patří: \n \n - **Perfekcionismus:** „Když si nejsem jistá, že jsem zdravá, je velké riziko, že něco přehlížím.“ \n \n - **Přehnaná odpovědnost:** „Co když ten detail, který jsem přehlédla, byl důležitý?“ \n \n - **Zdánlivě pozitivní myšlenky zvyšující úzkost:** „Když mám obavy, musím se okamžitě ujistit, že je vše v pořádku – jinak riskuji život.“"
+                      "content": "**Veronika** \n \n Veronika se velmi často obává, že má vážnou nemoc. Studuje své příznaky na internetu, často navštěvuje lékaře. Po každém vyšetření přichází úleva – ale jen na chvíli. Brzy se objeví nová pochybnost. Mezi její kognitivní omyly a metakognice patří: \n \n - **Perfekcionismus:** „Když si nejsem jistá, že jsem zdravá, je velké riziko, že něco přehlížím.“ \n \n - **Přehnaná odpovědnost:** „Co když ten detail, který jsem přehlédla, byl důležitý?“ \n \n - **Metakognice:** „Když mám obavy, musím se okamžitě ujistit, že je vše v pořádku - jinak riskuji život.“"
                     }
                   ]
                 },
                 {
                   "title": "MICHAL",
                   "subtitle": "učitel, 27 let",
-                  "description": "Michala trápí nutkavé pochybnosti o svém vztahu. Vyžaduje neustále ujišťování.",
+                  "description": "Michala trápí nutkavé pochybnosti o svém vztahu. Často se ujišťuje, že je vše v pořádku.",
                   "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Michal_karta_41e0daacdc.svg",
                   "pictureMobileBackground": "#dfe8eb",
                   "pictureMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Michal_karta_mobile_8530388119.svg",
@@ -844,7 +848,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Michal** \n \n Michal je přemýšlivý a citlivý. Neustále se ujišťuje, že ho partnerka miluje a že je jejich vztah ten pravý. Když ho ujistí, uklidní se, ale jen na chvíli. Jeho nejistota se brzy vrací. Jeho myšlenkové omyly a myšlenky o myšlenkách, se kterými se potýká, jsou: \n \n - **Katastrofizace:** „Když váhá, určitě mě nemiluje.“ \n \n - **Perfekcionismus:** „Musím vědět stoprocentně, že je to pravý vztah.“ \n \n - **Zdánlivě pozitivní myšlenky zvyšující úzkost:** „Musím neustále analyzovat náš vztah, jinak bych mohl udělat obrovskou chybu.“"
+                      "content": "**Michal** \n \n Michal je přemýšlivý a citlivý. Neustále se ujišťuje, že ho Mirka miluje a že je jejich vztah ten pravý. Když ho ujistí, uklidní se. Ale jen na chvíli. Jeho nejistota se brzy vrací. Myšlenkové omyly a myšlenky o myšlenkách, se kterými se potýká, jsou: \n \n - **Katastrofizace:** „Když váhá, určitě mě nemiluje.“ \n \n - **Perfekcionismus:** „Musím vědět stoprocentně, že je to pravý vztah.“ \n \n - **Metakognice:** „Musím neustále analyzovat náš vztah, jinak bych mohl udělat obrovskou chybu.“"
                     }
                   ]
                 },
@@ -869,7 +873,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Jirka** \n \n Jirku trápí obavy, že pokud nespočítá určité číselné kombinace, stane se neštěstí. Proto počítá čísla na automobilových značkách a vytváří z nich součty. Některá čísla jsou pro něj negativní (prvočísla) a některá pozitivní (dělitelná čtyřmi). \n \n Jirka si plně uvědomuje, že jsou to nesmysly. Sám pro sebe si říká, že to jsou jeho „magořiny“. Nedokáže si ale pomoci, protože by jinak cítil velkou vinu.  Jirku napadají: \n \n - **Myšlenky ovlivňující pohled na sebe:** „Jsem blázen, když sčítám čísla na SPZkách.“ \n \n - **Zdánlivě pozitivní myšlenky zvyšující úzkost:** „Je dobře, že to dělám, protože tím bráním nestěstí.“ \n \n - **Splynutí myšlení a skutečnosti:** „Když si něco představím, tak se to stane.“"
+                      "content": "**Jirka** \n \n Jirku trápí obavy, že pokud nespočítá určité číselné kombinace, stane se neštěstí. Proto počítá čísla na automobilových značkách a vytváří z nich součty. Plně si uvědomuje, že to není logické. Sám pro sebe si říká, že to jsou jeho „magořiny“. Nedokáže si ale pomoci. \n \n Jirku napadají: \n \n - **Metakognice:** „Jsem blázen, když sčítám čísla na SPZkách.“ \n \n - **Metakognice:** „Je dobře, že to dělám, protože tím bráním neštěstí.“ \n \n - **Magické myšlení:** „Když mi v součtu vyjde prvočíslo, Lucce se stane něco hrozného.“"
                     }
                   ]
                 }
@@ -1104,7 +1108,8 @@
             },
             {
               "type": "video",
-              "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M2_4_021f044500.mp4"
+              "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M2_4_021f044500.mp4",
+              "captionsUrl": "xx"
             },
             {
               "type": "collapse",
@@ -1176,7 +1181,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Jana** \n \n Janu trápí obavy ze znečištění a přenesení nemoci na své blízké. Má vtíravé myšlenky (např. „Co když něco přenesu na Toníka?“), na které reaguje častým mytím, dezinfekcí, převlékáním a vyhýbáním se blízkosti. \n \n **Janina hierarchie expozic** \n \n 1. Dotknout se kliky v domácnosti a neumýt si hned ruce. (úzkost 2/10) \n \n 2. Dotknout se veřejného madla a chvíli si nesahat na obličej. (úzkost 3/10) \n \n 3. Neumýt si ruce ihned po příchodu domů z MHD. (úzkost 4/10) \n \n 4. Před jídlem si umýt ruce pouze jednou, bez dezinfekce. (úzkost 5/10) \n \n 5. Použít veřejné WC bez dezinfikování sedátka. (úzkost 6/10) \n \n 6. Po příchodu z práce obejmout Toníka ještě předtím, než se převléknu. (úzkost 7/10) \n \n 7. Nedezinfikovat mobil a klíče po návratu z města. (úzkost 8/10) \n \n 8. Dotknout se veřejného předmětu, a potom pít z vlastní lahve. (úzkost 9/10) \n \n 9. Večer jít spát, aniž bych se osprchovala po kontaktu s „rizikovým“ objektem. (úzkost 9/10) \n \n 10. V MHD se držet madla a po návratu domů obejmout Toníka bez mytí rukou. (úzkost 10/10)"
+                      "content": "**Jana** \n \n Jana trpí obsedantně-kompulzivní poruchou spojenou s obavami ze znečištění a přenesení nemoci na své blízké. Má vtíravé myšlenky (např. „Co když něco přenesu na Tondu?“), na které reaguje častým mytím, dezinfekcí, převlékáním a vyhýbáním se blízkosti. \n \n **Janina hierarchie expozic** \n \n 1. Dotknout se kliky v domácnosti a neumýt si hned ruce. (úzkost 2/10) \n \n 2. Dotknout se veřejného madla a chvíli si nesahat na obličej. (úzkost 3/10) \n \n 3. Neumýt si ruce ihned po příchodu domů z MHD. (úzkost 4/10) \n \n 4. Před jídlem si umýt ruce pouze jednou, bez dezinfekce. (úzkost 5/10) \n \n 5. Použít veřejné WC bez dezinfikování sedátka. (úzkost 6/10) \n \n 6. Po příchodu z práce obejmout Toníka ještě předtím, než se převléknu. (úzkost 7/10) \n \n 7. Nedezinfikovat mobil a klíče po návratu z města. (úzkost 8/10) \n \n 8. Dotknout se veřejného předmětu, a potom pít z vlastní lahve. (úzkost 9/10) \n \n 9. Večer jít spát, aniž bych se osprchovala po kontaktu s „rizikovým“ objektem. (úzkost 9/10) \n \n 10. V MHD se držet madla a po návratu domů obejmout Toníka bez mytí rukou. (úzkost 10/10)"
                     }
                   ]
                 },
@@ -1201,7 +1206,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Petr** \n \n Petr kontroluje spotřebiče. Má obavy, aby nezačalo hořet a nebyla to jeho chyba. Sepsal si situace, které v něm vyvolávají nepříjemné pocity a poté si je uspořádal podle toho, jak odhaduje, že budou obtížné. \n \n **Petrova hierarchie expozic** \n \n 1. Odejít z bytu bez slovního ujištění nahlas (např. „vypnuto, zamčeno“). (úzkost 2/10) \n \n 2. Zkontrolovat zámek při odchodu jen jednou. (úzkost 3/10) \n \n 3. Zkontrolovat sporák pouze pohledem bez doteku. (úzkost 4/10) \n \n 4. Nevracet se z parkoviště zpátky do bytu kvůli pocitu nejistoty. (úzkost 5/10) \n \n 5. Odejít do práce bez jakékoli kontroly zásuvek. (úzkost 6/10) \n \n 6. Nechat nabíječku v zásuvce a odejít. (úzkost 6/10) \n \n 7. Odejít z bytu a nezkontrolovat, zda jsou zavřená okna. (úzkost 7/10) \n \n 8. Odejít do práce a vůbec nic nezkontrolovat. (úzkost 8/10) \n \n 9. Jít na víkend mimo domov bez předchozí kontroly spotřebičů, zámků, okna. (úzkost 9/10) \n \n 10. Odjet na dovolenou a nic nezkontrolovat. (úzkost 10/10)"
+                      "content": "**Petr** \n \n Petr kontroluje spotřebiče. Má obavy, aby nezačalo hořet a nebyla to jeho chyba. Petr si sepsal postupné kroky v expozicích. Poté si je uspořádal podle toho, jak odhaduje, že budou obtížné. \n \n **Petrova hierarchie expozic** \n \n 1. Odejít z bytu bez slovního ujištění nahlas (např. „vypnuto, zamčeno“). (úzkost 2/10) \n \n 2. Zkontrolovat zámek při odchodu jen jednou. (úzkost 3/10) \n \n 3. Zkontrolovat sporák pouze pohledem bez doteku. (úzkost 4/10) \n \n 4. Nevracet se z parkoviště zpátky do bytu kvůli pocitu nejistoty. (úzkost 5/10) \n \n 5. Odejít do práce bez jakékoli kontroly zásuvek. (úzkost 6/10) \n \n 6. Nechat nabíječku v zásuvce a odejít. (úzkost 6/10) \n \n 7. Odejít z bytu a nezkontrolovat, zda jsou zavřená okna. (úzkost 7/10) \n \n 8. Odejít do práce a vůbec nic nezkontrolovat. (úzkost 8/10) \n \n 9. Jít na víkend mimo domov bez předchozí kontroly spotřebičů, zámků, okna. (úzkost 9/10) \n \n 10. Odjet na dovolenou a nic nezkontrolovat. (úzkost 10/10)"
                     }
                   ]
                 },
@@ -1226,7 +1231,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Eva** \n \n Eva trpí agresivními vtíravými myšlenkami. Bojí se, že by mohla někomu ublížit, i když nikdy neprojevila násilné sklony. Proto se vyhýbá ostrým předmětům, dětem a stresujícím situacím, které její myšlenky spouští. \n \n **Evina hierarchie expozic** \n \n 1. Mít na kuchyňské lince během vaření položený nůž. (úzkost 2/10) \n \n 2. Držet při vaření nůž a vědomě pozorovat své vtíravé myšlenky. (úzkost 3/10) \n \n 3. Mluvit s Vaškem v kuchyni při krájení zeleniny. (úzkost 4/10) \n \n 4. Krájet zeleninu a představit si, že situaci zvládám bez obav. (úzkost 5/10) \n \n 5. Zůstat v jedné místnosti se synovcem a ostrým předmětem poblíž. (úzkost 6/10) \n \n 6. Podat Petříkovi (synovec) předmět (např. lžíci) a být v těsném kontaktu. (úzkost 7/10) \n \n 7. Hladit psa s vědomím, že mám v druhé ruce nůž nebo jiný ostrý předmět. (úzkost 8/10) \n \n 8. Hrát si s Petříkem bez vnitřního opakování „Jsem neškodná“. (úzkost 9/10) \n \n 9. Mluvit s Vaškem o svých vtíravých myšlenkách. (úzkost 9/10) \n \n 10. Držet nůž, být v blízkosti druhého člověka a uvědomovat si své myšlenky bez toho, abych udělala kompulzi. (úzkost 10/10)"
+                      "content": "**Eva** \n \n Eva trpí agresivními vtíravými myšlenkami. Bojí se, že by mohla někomu ublížit, i když nikdy neprojevila násilné sklony. Proto se vyhýbá ostrým předmětům, dětem a stresujícím situacím, které její myšlenky spouští. \n \n Její expozice se zaměřují na postupné přibližování se k těmto situacím – s důrazem na bezpečné prostředí, bez nutnosti provést kompulzi. Její expozice se věnují i uvědomění a přijetí myšlenek bez hodnocení. Nechce je tlumit, ale chce se s nimi učit být, aniž by se vyhýbala. \n \n **Evina hierarchie expozic** \n \n 1. Mít na kuchyňské lince během vaření položený nůž. (úzkost 2/10) \n \n 2. Držet při vaření nůž a vědomě pozorovat své vtíravé myšlenky. (úzkost 3/10) \n \n 3. Mluvit s Vaškem v kuchyni při krájení zeleniny. (úzkost 4/10) \n \n 4. Krájet zeleninu a představit si, že situaci zvládám bez obav. (úzkost 5/10) \n \n 5. Zůstat v jedné místnosti se synovcem a ostrým předmětem poblíž. (úzkost 6/10) \n \n 6. Podat Petříkovi (synovec) předmět (např. lžíci) a být v těsném kontaktu. (úzkost 7/10) \n \n 7. Hladit psa s vědomím, že mám v druhé ruce nůž nebo jiný ostrý předmět. (úzkost 8/10) \n \n 8. Hrát si s Petříkem bez vnitřního opakování „Jsem neškodná“. (úzkost 9/10) \n \n 9. Mluvit s Vaškem o svých vtíravých myšlenkách. (úzkost 9/10) \n \n 10. Držet nůž, být v blízkosti druhého člověka a uvědomovat si své myšlenky bez toho, abych udělala kompulzi. (úzkost 10/10)"
                     }
                   ]
                 },
@@ -1251,7 +1256,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**David** \n \n V Davidově životě hraje velkou roli pocit řádu a kontroly. Pokud se něco vychýlí z jeho představ o „správném“ uspořádání, cítí napětí a úzkost. V hloubi duše má strach, že narušený řád by mohl „přitáhnout“ něco špatného. Jeho expozice se zaměřují na posilování schopnosti snášet nepřesnost a nejistotu. \n \n **Davidova hierarchie expozic** \n \n 1. Nechat jednu knihu na stole mírně nakřivo. (úzkost 2/10) \n \n 2. Neopravit peřinu, i když není přehozená na obou stranách rovnoměrně. (úzkost 3/10) \n \n 3. Neuspořádat myš a klávesnici přesně na střed podložky. (úzkost 4/10) \n \n 4. Nezarovnat tužky v zásobníku na stole podle velikosti. (úzkost 5/10) \n \n 5. V práci nechat na stole hrnek mimo obvyklé místo a nevšímat si ho. (úzkost 6/10) \n \n 6. Nechat dokumenty a papíry na stole celý den v mírném nepořádku. (úzkost 7/10) \n \n 7. Jít spát, aniž by zarovnal knihy na nočním stolku. (úzkost 8/10) \n \n 8. Neupravit věci při odchodu z bytu (boty, věci na stole). (úzkost 9/10) \n \n 9. Nevrátit se domů kvůli myšlence, že jsem něco nechal nepřesně zarovnané. (úzkost 9/10) \n \n 10. Nechat schválně věci neorganizované během dne, kdy čekám návštěvu. (úzkost 10/10)"
+                      "content": "**David** \n \n David pracuje jako knihovník a v jeho životě hraje velkou roli pocit řádu a kontroly. Pokud se něco vychýlí z jeho představ o „správném“ uspořádání, cítí napětí a úzkost. \n \n V hloubi duše má strach, že narušený řád by mohl „přitáhnout“ něco špatného. Kromě toho si myslí, že když něco není dokonalé, může se stát neštěstí. Jeho expozice se zaměřují na postupné narušování tohoto vzorce a posilování schopnosti snášet nepřesnost a nejistotu. \n \n **Davidova hierarchie expozic** \n \n 1. Nechat jednu knihu na stole mírně nakřivo. (úzkost 2/10) \n \n 2. Neopravit peřinu, i když není přehozená na obou stranách rovnoměrně. (úzkost 3/10) \n \n 3. Neuspořádat myš a klávesnici přesně na střed podložky. (úzkost 4/10) \n \n 4. Nezarovnat tužky v zásobníku na stole podle velikosti. (úzkost 5/10) \n \n 5. V práci nechat na stole hrnek mimo obvyklé místo a nevšímat si ho. (úzkost 6/10) \n \n 6. Nechat dokumenty a papíry na stole celý den v mírném nepořádku. (úzkost 7/10) \n \n 7. Jít spát, aniž by zarovnal knihy na nočním stolku. (úzkost 8/10) \n \n 8. Neupravit věci při odchodu z bytu (boty, věci na stole). (úzkost 9/10) \n \n 9. Nevrátit se domů kvůli myšlence, že jsem něco nechal nepřesně zarovnané. (úzkost 9/10) \n \n 10. Nechat schválně věci neorganizované během dne, kdy čekám návštěvu. (úzkost 10/10)"
                     }
                   ]
                 },
@@ -1276,14 +1281,14 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Klára** \n \n Kláru trápí sexuální vtíravé myšlenky, které se často týkají dětí. Její největší obava je, že by mohla být nebezpečná nebo zkažená. Proto se dětem raději vyhýbá. Expozice se zaměřují na snášení nepříjemných myšlenek bez nutnosti s nimi bojovat a odsuzovat se za ně. \n \n **Klářina hierarchie expozic** \n \n 1. Dívat se na obrázek dítěte v časopise. (úzkost 2/10) \n \n 2. Sledovat krátké video s dětmi (např. rodinné video, reklamu). (úzkost 3/10) \n \n 3. Jít ven, kde jsou cizí děti, a nezměnit trasu. (úzkost 4/10) \n \n 4. Pozorovat děti na hřišti a uvědomovat si své myšlenky. (úzkost 5/10) \n \n 5. Být blízko dítěte v rodinném kruhu (např. neteř, synovec). (úzkost 6/10) \n \n 6. Navázat krátký kontakt (např. podat dítěti hračku). (úzkost 7/10) \n \n 7. Přečíst si článek o sexuálních obsesích u OCD. (úzkost 7/10) \n \n 8. Sdílet svůj problém s kamarádkou Janou. (úzkost 8/10) \n \n 9. Strávit čas s dítětem v přítomnosti dalšího člověka bez vyhýbání se myšlenkám. (úzkost 9/10) \n \n 10. Hrát si s dítětem (např. deskovky, kreslení) s plnou pozorností na to, co cítím a co si myslím, bez hodnocení. (úzkost 10/10)"
+                      "content": "**Klára** \n \n Klára zažívá sexuální vtíravé myšlenky zaměřené na děti. Její největší obava spočívá v tom, že by mohla být nebezpečná nebo zkažená, a proto se dětem vyhýbá. \n \n Cítí silný stud a hodně se odsuzuje. Expozice se zaměřují na postupné snižování vyhýbání a snášení nepříjemných myšlenek bez nutnosti s nimi bojovat a odsuzovat se za ně. \n \n **Klářina hierarchie expozic** \n \n 1. Dívat se na obrázek dítěte v časopise. (úzkost 2/10) \n \n 2. Sledovat krátké video s dětmi (např. rodinné video, reklamu). (úzkost 3/10) \n \n 3. Jít ven, kde jsou cizí děti, a nezměnit trasu. (úzkost 4/10) \n \n 4. Pozorovat děti na hřišti a uvědomovat si své myšlenky. (úzkost 5/10) \n \n 5. Být blízko dítěte v rodinném kruhu (např. neteř, synovec). (úzkost 6/10) \n \n 6. Navázat krátký kontakt (např. podat dítěti hračku). (úzkost 7/10) \n \n 7. Přečíst si článek o sexuálních obsesích u OCD. (úzkost 7/10) \n \n 8. Sdílet svůj problém s kamarádkou Janou. (úzkost 8/10) \n \n 9. Strávit čas s dítětem v přítomnosti dalšího člověka bez vyhýbání se myšlenkám. (úzkost 9/10) \n \n 10. Hrát si s dítětem (např. deskovky, kreslení) s plnou pozorností na to, co cítím a co si myslím, bez hodnocení. (úzkost 10/10)"
                     }
                   ]
                 },
                 {
                   "title": "LUKÁŠ",
                   "subtitle": "elektrikář, 30 let",
-                  "description": "Lukáš se bojí hřešit a neustále se modlí kvůli rouhavým myšlenkám. Cítí vnitřní rozpor.",
+                  "description": "Lukáš se bojí hříchu a neustále se modlí kvůli rouhavým myšlenkám. Cítí vnitřní rozpor.",
                   "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lukas_karta_40be25b691.svg",
                   "pictureMobileBackground": "#FFF3EF",
                   "pictureMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lukas_karta_mobile_543f887105.svg",
@@ -1301,7 +1306,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Lukáš** \n \n Lukáš má náboženské obsese, zejména rouhavé myšlenky, a cítí intenzivní vinu a potřebu opakovaného „očišťování“ skrze modlitby. Cílem jeho expozic je postupně snáze snášet „neslušné“ nebo „rouhavé“ myšlenky a snižovat nutkání reagovat rituálem (např. opakováním modliteb, žádostí o odpuštění). \n \n **Lukášova hierarchie expozic** \n \n 1. Číst článek, ve kterém je slovo „Bůh“, bez přeříkávání modlitby. (úzkost 2/10) \n \n 2. Podívat se na vtip, který si trochu dělá srandu z náboženství. (úzkost 3/10) \n \n 3. Podívat se na kříž a nereagovat modlitbou. (úzkost 4/10) \n \n 4. Záměrně zadržet nutkání říci „Otčenáš“ po neuctivé obsesi týkající se víry. (úzkost 5/10) \n \n 5. Poslechnout si podcast nebo rozhovor, kde se zpochybňuje náboženství. (úzkost 6/10) \n \n 6. Zapsat si obavu: „Bojím se, že jsem zhřešil tím, co jsem si pomyslel,“ a neprovádět žádné kompulze (např. nevyhledávat ujištění). (úzkost 7/10) \n \n 7. Vystavit se prostředí, kde se mluví necírkevně, bez snahy to „vyvážit“. (úzkost 8/10) \n \n 8. V modlitbě vynechat některé části. (úzkost 9/10) \n \n 9. Říct si větu typu: „Možná jsem zhřešil,“ a pak neudělat žádnou kompulzi. (úzkost 9/10) \n \n 10. Vystavit se záměrně rouhavé větě bez modlitby, zůstat s pocitem viny, aniž bych hledal úlevu v kompulzi. (úzkost 10/10)"
+                      "content": "**Lukáš** \n \n Lukáš trpí náboženskými obsesemi, zejména rouhavými myšlenkami, intenzivní vinou a potřebou opakovaného očištění skrze modlitby. \n \n Cílem jeho expozic je postupně snáze snášet „neslušné“ nebo „rouhavé“ myšlenky a snižovat nutkání reagovat rituálem (např. opakováním modliteb, žádostí o odpuštění). Směřuje i k tomu, aby rozpoznal, že myšlenky nejsou skutečnost a že pomyslet si hříšnou myšlenku není to samé, co vykonat hříšný čin. \n \n **Lukášova hierarchie expozic** \n \n 1. Číst článek, ve kterém je slovo „Bůh“, bez přeříkávání modlitby. (úzkost 2/10) \n \n 2. Podívat se na vtip, který si trochu dělá srandu z náboženství. (úzkost 3/10) \n \n 3. Podívat se na kříž a nereagovat modlitbou. (úzkost 4/10) \n \n 4. Záměrně zadržet nutkání říci „Otčenáš“ po neuctivé obsesi týkající se víry. (úzkost 5/10) \n \n 5. Poslechnout si podcast nebo rozhovor, kde se zpochybňuje náboženství. (úzkost 6/10) \n \n 6. Zapsat si obavu: „Bojím se, že jsem zhřešil tím, co jsem si pomyslel,“ a neprovádět žádné kompulze (např. nevyhledávat ujištění). (úzkost 7/10) \n \n 7. Vystavit se prostředí, kde se mluví necírkevně, bez snahy to „vyvážit“. (úzkost 8/10) \n \n 8. V modlitbě vynechat některé části. (úzkost 9/10) \n \n 9. Říct si větu typu: „Možná jsem zhřešil,“ a pak neudělat žádnou kompulzi. (úzkost 9/10) \n \n 10. Vystavit se záměrně rouhavé větě bez modlitby, zůstat s pocitem viny, aniž bych hledal úlevu v kompulzi. (úzkost 10/10)"
                     }
                   ]
                 },
@@ -1326,14 +1331,14 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Veronika** \n \n Veroniku trápí obsese o tom, že ona nebo někdo blízký onemocní. Má strach z vážných nemocí, vyhledává příznaky, často kontaktuje lékaře a těžko snáší nejistotu ohledně svého zdraví. Cílem jejích expozic je zvyšovat toleranci k nejistotě a tělesným pocitům bez nutkání vyhledávat ujištění. \n \n **Veroničina hierarchie expozic** \n \n 1. Cítit mírné škrábání v krku a nevyhledávat příznaky online. (úzkost 3/10) \n \n 2. Vydržet celý den bez otevření lékařských webů. (úzkost 4/10) \n \n 3. Pozorovat tělesný pocit (třeba tlak v břiše) a říct si: „Nevím, co to je, a je to v pořádku“. (úzkost 5/10) \n \n 4. Nezavolat lékaři při lehkém příznaku, vydržet alespoň 24 hodin. (úzkost 6/10) \n \n 5. Podívat se na vlastní lékařskou zprávu a nevyhledávat další vysvětlení. (úzkost 6/10) \n \n 6. Nečíst si žádné články o konkrétní nemoci, které se zrovna bojím. (úzkost 7/10) \n \n 7. Zapsat si obavu typu: „Možná mám vážnou nemoc“, a pak to neověřovat. (úzkost 8/10) \n \n 8. Vydržet 48 hodin bez jakéhokoliv ujištění (internet, blízcí, lékaři). (úzkost 9/10) \n \n 9. Pustit si dokument o závažných onemocněních a pozorně se na něj dívat. (úzkost 9/10) \n \n 10. Dovolit si představit větu: „Možná jsem nemocná“, bez hledání ujištění, že mi nic není. (úzkost 10/10)"
+                      "content": "**Veronika** \n \n Veroniku trápí obsese o tom, že ona nebo někdo blízký onemocní. Má neustálý strach z vážných nemocí, vyhledává symptomy, často kontaktuje lékaře a těžko snáší nejistotu ohledně svého zdraví. \n \n Cílem jejích expozic je zvyšovat toleranci k nejistotě a tělesným pocitům bez nutkání vyhledávat ujištění. Díky expozicím se může také naučit, že nejistota neznamená nebezpečí. Expozice pomáhají posilovat důvěru ve vlastní tělo a schopnost neřešit vše hned. \n \n **Veroničina hierarchie expozic** \n \n 1. Cítit mírné škrábání v krku a nevyhledávat příznaky online. (úzkost 3/10) \n \n 2. Vydržet celý den bez otevření lékařských webů. (úzkost 4/10) \n \n 3. Pozorovat tělesný pocit (třeba tlak v břiše) a říct si: „Nevím, co to je, a je to v pořádku“. (úzkost 5/10) \n \n 4. Nezavolat lékaři při lehkém příznaku, vydržet alespoň 24 hodin. (úzkost 6/10) \n \n 5. Podívat se na vlastní lékařskou zprávu a nevyhledávat další vysvětlení. (úzkost 6/10) \n \n 6. Nečíst si žádné články o konkrétní nemoci, které se zrovna bojím. (úzkost 7/10) \n \n 7. Zapsat si obavu typu: „Možná mám vážnou nemoc“, a pak to neověřovat. (úzkost 8/10) \n \n 8. Vydržet 48 hodin bez jakéhokoliv ujištění (internet, blízcí, lékaři). (úzkost 9/10) \n \n 9. Pustit si dokument o závažných onemocněních a pozorně se na něj dívat. (úzkost 9/10) \n \n 10. Dovolit si představit větu: „Možná jsem nemocná“, bez hledání ujištění, že mi nic není. (úzkost 10/10)"
                     }
                   ]
                 },
                 {
                   "title": "MICHAL",
                   "subtitle": "učitel, 27 let",
-                  "description": "Michala trápí nutkavé pochybnosti o svém vztahu. Vyžaduje neustále ujišťování.",
+                  "description": "Michala trápí nutkavé pochybnosti o svém vztahu. Často se ujišťuje, že je vše v pořádku.",
                   "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Michal_karta_41e0daacdc.svg",
                   "pictureMobileBackground": "#dfe8eb",
                   "pictureMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Michal_karta_mobile_8530388119.svg",
@@ -1351,7 +1356,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Michal** \n \n Michal trpí OCD zaměřeným na vztahy. Neustále se ujišťuje o lásce partnerky Mirky, přemýšlí, jestli je jejich vztah správný, a těžko snáší pochybnosti. Cílem jeho expozic je snášet nejistotu ve vztahu a naučit se žít s pochybnostmi bez kompulzivního ujišťování.\n \n **Michalova hierarchie expozic** \n \n 1. Všimnout si pochybnosti („Miluje mě?“) a neujišťobvat se u Mirky. (úzkost 4/10) \n \n 2. Pozorovat Mirku, když působí odtažitě, a neujistit se, že mě miluje. (úzkost 5/10) \n \n 3. Vydržet celý den bez otázky „Máš mě ráda?“ (úzkost 5/10) \n \n 4. Představit si, že Mirka váhá s odpovědí, a nedoptávat se jí na to. (úzkost 6/10) \n \n 5. Přečíst si článek o vztahových problémech bez vyhledávání ujištění. (úzkost 6/10) \n \n 6. Zapsat si myšlenku: „Možná náš vztah není perfektní,“ a neujišťovat se u Mirky. (úzkost 7/10) \n \n 7. Vydržet 24 hodin bez jakékoli hledání potvrzení nebo analyzování vztahu. (úzkost 8/10) \n \n 8. Nevracet se k předchozím diskuzím (např. v chatu), abych kontroloval jejich tón a obsah. (úzkost 8/10) \n \n 9. Záměrně si představit scénář, že vztah není dokonalý, a neudělat kompulzi. (úzkost 9/10) \n \n 10. Vydržet týden bez žádosti o ujištění a psát si deník myšlenek a emocí. (úzkost 10/10)"
+                      "content": "**Michal** \n \n Michal trpí OCD zaměřeným na vztahy. Neustále se ujišťuje o lásce přítelkyně Mirky, přemýšlí, jestli je jejich vztah správný, a těžko snáší pochybnosti. \n \n Cílem expozic je snášet nejistotu ve vztazích a naučit se žít s pochybnostmi bez kompulzivního ujišťování. V expozicích se může naučit, že pochybnosti jsou běžnou součástí vztahů a nemusí být hrozbou, ale příležitostí k důvěře. \n \n **Michalova hierarchie expozic** \n \n 1. Všimnout si pochybnosti („Miluje mě?“) a neujišťobvat se u Mirky. (úzkost 4/10) \n \n 2. Pozorovat Mirku, když působí odtažitě, a neujistit se, že mě miluje. (úzkost 5/10) \n \n 3. Vydržet celý den bez otázky „Máš mě ráda?“ (úzkost 5/10) \n \n 4. Představit si, že Mirka váhá s odpovědí, a nedoptávat se jí na to. (úzkost 6/10) \n \n 5. Přečíst si článek o vztahových problémech bez vyhledávání ujištění. (úzkost 6/10) \n \n 6. Zapsat si myšlenku: „Možná náš vztah není perfektní,“ a neujišťovat se u Mirky. (úzkost 7/10) \n \n 7. Vydržet 24 hodin bez jakékoli hledání potvrzení nebo analyzování vztahu. (úzkost 8/10) \n \n 8. Nevracet se k předchozím diskuzím (např. v chatu), abych kontroloval jejich tón a obsah. (úzkost 8/10) \n \n 9. Záměrně si představit scénář, že vztah není dokonalý, a neudělat kompulzi. (úzkost 9/10) \n \n 10. Vydržet týden bez žádosti o ujištění a psát si deník myšlenek a emocí. (úzkost 10/10)"
                     }
                   ]
                 },
@@ -1376,7 +1381,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Jirka** \n \n Jirka počítá čísla, zejména sčítá čísla na značkách aut. Má pocit, že pokud to neudělá, stane se neštěstí v práci nebo v rodině. Cílem jeho expozic je přijmout obavy a vydržet bez počítání. \n \n **Jirkova hierarchie expozic** \n \n 1. Vynechám počítání čísel u jednoho auta. (úzkost 2/10) \n \n 2. Vynechám pět aut za sebou. (úzkost 3/10) \n \n 3. Když dojdu k prvočíslu, nebudu pak počítat předměty. (úzkost 4/10) \n \n 4. Přestanu sečítat čísla na dokumentaci. (úzkost 5/10) \n \n 5. Budu chodit půlhodiny po ulici, dívat se na značky aut a nespočtu ani jedno číslo auta. (úzkost 6/10).  \n \n 6. Budu chodit po ulici 2 hodiny a nespočtu ani jedno číslo. (úzkost 7/10) \n \n 7. Na výletě s rodinou za půl dne nespočtu ani jedno číslo. (úzkost 8/10) \n \n 8. Celý den v práci nespočtu čísla ani na počítači, na dokumentaci. (úzkosti 8/10) \n \n 9. Na celodenním výletě zaparkuji na placeném parkoviště a nespočtu ani jednu značku - na začátku, na konci výletu, ani přes den na výletě. (úzkost 9/10) \n \n 10. Nebudu počítat čísla aut ani spisů celý týden, přesto, že se na ně budou koukat. (úzkost 10/10)"
+                      "content": "**Jirka** \n \n Jirka počítá čísla, hlavně sčítá čísla na značkách aut. Má obavy, že prvočísla nosí smůlu, a mohlo by se tak stát neštěstí. Raději věci přepočítává. Nechce riskovat, že by se skutečně něco stalo jeho rodině. \n \n **Jirkova hierarchie expozic** \n \n 1. Vynechám počítání čísel u jednoho auta. (úzkost 2/10) \n \n 2. Vynechám pět aut za sebou. (úzkost 3/10) \n \n 3. Když dojdu k prvočíslu, nebudu pak počítat předměty. (úzkost 4/10) \n \n 4. Přestanu sečítat čísla na dokumentaci. (úzkost 5/10) \n \n 5. Budu chodit půlhodiny po ulici, dívat se na značky aut a nespočtu ani jedno číslo auta. (úzkost 6/10).  \n \n 6. Budu chodit po ulici 2 hodiny a nespočtu ani jedno číslo. (úzkost 7/10) \n \n 7. Na výletě s rodinou za půl dne nespočtu ani jedno číslo. (úzkost 8/10) \n \n 8. Celý den v práci nespočtu čísla ani na počítači, na dokumentaci. (úzkosti 8/10) \n \n 9. Na celodenním výletě zaparkuji na placeném parkoviště a nespočtu ani jednu značku - na začátku, na konci výletu, ani přes den na výletě. (úzkost 9/10) \n \n 10. Nebudu počítat čísla aut ani spisů celý týden, přesto, že se na ně budou koukat. (úzkost 10/10)"
                     }
                   ]
                 }
@@ -1466,7 +1471,8 @@
             },
             {
               "type": "video",
-              "url": "xx"
+              "url": "xx",
+              "captionsUrl": "xx"
             },
             {
               "type": "collapse",
@@ -1485,7 +1491,8 @@
             },
             {
               "type": "video",
-              "url": "xx"
+              "url": "xx",
+              "captionsUrl": "xx"
             },
             {
               "type": "collapse",
@@ -1563,7 +1570,8 @@
             },
             {
               "type": "video",
-              "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M2_5_05726e38b7.mp4"
+              "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M2_5_05726e38b7.mp4",
+              "captionsUrl": "xx"
             },
             {
               "type": "collapse",

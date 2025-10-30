@@ -6,7 +6,8 @@
           "contentSections": [
             {
               "type": "video",
-              "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M1_1_b38bc085f4.mp4"
+              "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M1_1_b38bc085f4.mp4",
+              "captionsUrl": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M1_1_ces_a1e7c1370e.vtt"
             },
             {
               "type": "collapse",
@@ -90,7 +91,8 @@
           "contentSections": [
             {
               "type": "video",
-              "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Obsese_A_Kompulze_1_c64e9e4031.mp4"
+              "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Obsese_A_Kompulze_1_c64e9e4031.mp4",
+              "captionsUrl": "xx"
             },
             {
               "type": "collapse",
@@ -1040,7 +1042,8 @@
             },
             {
               "type": "video",
-              "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jana_A_OCD_c_1_81a6308c15.mp4"
+              "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jana_A_OCD_c_1_81a6308c15.mp4",
+              "captionsUrl": "xx"
             },
             {
               "type": "collapse",
@@ -1117,7 +1120,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Petr** \n \n Petr pracuje jako technik. Žije s přítelkyní Alenou už tři roky. Každé ráno musí z bytu odejít třikrát. Kontroluje dveře, sporák a zásuvky. Bojí se požáru. \n \n Když už je na ulici, často si není jistý. Nepamatuje si přesně, jestli opravdu vypnul sporák. Vrací se zpět nebo volá Aleně. Ta to chápe, ale už je unavená. \n \n Petr kvůli tomu někdy přijde do práce pozdě. Kolegové si dělají legraci. „Zase jsi zapomněl klíče?“ ptají se. Petr jen přikývne. Neví, jak by jim vysvětlil pravdu. \n \n Alena to zpočátku brala. Myslela si, že je jen pečlivý. Postupně začala být ale frustrovaná. Cítí se přehlížená. Jednou mu řekla: „Nechci být tvá pojistka. Takhle to nejde.“ \n \n Petrovi se sevřelo srdce. Chápal ji. Sám sobě ale říká: „Kdyby se něco stalo, byla by to moje vina. Nikdy bych si to neodpustil.“ \n \n Petr touží po svobodě. Rád by odešel z domu bez starostí, ale vítězí strach."
+                      "content": "**Petr** \n \n Petr pracuje jako technik. Žije s manželkou Alenou. Každé ráno musí z bytu odejít třikrát. Kontroluje dveře, sporák a zásuvky. Bojí se požáru. \n \n Když už je na ulici, často si není jistý. Nepamatuje si přesně, jestli opravdu vypnul sporák. Vrací se zpět nebo volá Aleně. Ta to chápe, ale už je unavená. \n \n Petr kvůli tomu někdy přijde do práce pozdě. Kolegové si dělají legraci. „Zase jsi zapomněl klíče?“ ptají se. Petr jen přikývne. Neví, jak by jim vysvětlil pravdu. \n \n Alena to zpočátku brala. Myslela si, že je jen pečlivý. Postupně začala být ale frustrovaná. Cítí se přehlížená. Taky jí vadilo, že na něj často musí čekat, když někam jdou. Kontroly mu totiž vždy zaberou nějaký čas. Jednou mu řekla: „Nechci být tvá pojistka a pořád na tebe čekat.“  \n \n Petrovi se sevřelo srdce. Chápal ji. Sám sobě ale říká: *„Kdyby se něco stalo, byla by to moje vina. Nikdy bych si to neodpustil.“* \n \n Petr touží po svobodě. Rád by odešel z domu bez starostí, ale vítězí strach."
                     }
                   ]
                 },
@@ -1142,7 +1145,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Eva** \n \n Eva studuje sociální práci. Je tichá a citlivá. Trápí ji vtíravé představy, že by mohla někomu ublížit. Když vaří a drží nůž, napadá ji, co kdyby někoho bodla. Když jde kolem dítěte, bojí se, že by mu mohla ublížit. \n \n Eva nikdy nikomu nic neudělala. Ani by to nechtěla. Ale její myšlenky jsou neodbytné. Proto se vaření vyhýbá. S dětmi si hraje jen „na dálku“. Nože schovává, aby je nemusela vidět. \n \n Navenek působí uzavřeně. Ve skutečnosti se bojí, že někdo její myšlenky odhalil. „Měli by mě za zrůdu,“ říká si v duchu. Bojí se o tom mluvit i se svým partnerem Vaškem. Ten netuší, co se v její hlavě děje. Někdy Eva potají pláče v koupelně. \n \n Nejvíc ji bolí, že se kvůli strachu začala bát blízkosti. Vzdaluje se od těch, které má nejraději."
+                      "content": "**Eva** \n \n Eva studuje sociální práci. Je tichá a citlivá. Trápí ji vtíravé představy, že by mohla někomu ublížit. Když vaří a drží nůž, napadá ji, co kdyby někoho bodla. Když jde kolem dítěte, bojí se, že by mu mohla ublížit. \n \n Eva nikdy nikomu nic neudělala. Ani by to nechtěla. Ale její myšlenky jsou neodbytné. Proto se vaření vyhýbá. S dětmi si hraje jen „na dálku“. Nože schovává, aby je nemusela vidět. \n \n Navenek působí uzavřeně. Ve skutečnosti se bojí, že někdo její myšlenky odhalil. *„Měli by mě za zrůdu,“* říká si v duchu. Bojí se o tom mluvit i se svým partnerem Vaškem. Ten netuší, co se v její hlavě děje. Někdy Eva potají pláče v koupelně. \n \n Nejvíc ji bolí, že se kvůli strachu začala bát blízkosti. Vzdaluje se od těch, které má nejraději."
                     }
                   ]
                 },
@@ -1167,7 +1170,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**David** \n \n David je knihovník. Je klidný a tichý. Jeho problém se skrývá v každodenním chaosu: ve věcech, které nejsou zarovnané. Když něco není symetrické, má pocit, že se stane něco zlého. \n \n V noci se budí, aby srovnal knihy podle výšky. V práci tráví desítky minut organizací předmětů na stole. Jeho kolegové ho mají za precizního. Nikdo ale neví, jak ho to vyčerpává. \n \n David se stydí. Ví, že by mohl být víc spontánní, víc s lidmi. Ale místo toho věnuje čas kompulzím. „Když to neudělám, budu nervózní. A co když to bude mít špatné důsledky?“ \n \n Jaké, to úplně neví. Třeba někdo zbytečně umře. David si uvědomuje, že to není realistické, ale raději dá věci do pořádku. \n \n David nemá děti ani partnerku. Nikdy neměl dlouhodobý vztah. Toužil by po blízkosti, ale OCD mu bere klid i volnost."
+                      "content": "**David** \n \n David je knihovník. Je klidný a tichý. Jeho problém se skrývá v každodenním chaosu: ve věcech, které nejsou zarovnané. Když něco není symetrické, má pocit, že se stane něco zlého. \n \n V noci se budí, aby srovnal knihy podle výšky. V práci tráví desítky minut organizací předmětů na stole. Jeho kolegové ho mají za precizního. Nikdo ale neví, jak ho to vyčerpává. \n \n David se stydí. Ví, že by mohl být víc spontánní, víc s lidmi. Ale místo toho věnuje čas kompulzím. *„Když to neudělám, budu nervózní. A co když to bude mít špatné důsledky?“* \n \n Jaké, to úplně neví. Třeba někdo zbytečně umře. David si uvědomuje, že to není realistické, ale raději dá věci do pořádku. \n \n Už dva roky je ve vztahu s přítelem Tomášem. Nedávno se sestěhovali. Kvůli Davidovým kompulzím a potřebě dokonalého pořádku mezi nimi vzniká napětí. Tomášovi přijde, že mu David vyčítá prkotiny, třeba neurovnané hrníčky ve skříňce. David se spolubydlením také bojuje, protože byl zvyklý, že má doma všechno uspořádané a pod kontrolou."
                     }
                   ]
                 },
@@ -1192,14 +1195,14 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Klára** \n \n Klára pracuje jako zdravotní sestra. Když vidí děti, napadnou ji myšlenky, které ji děsí. „Co když jsem úchylná? Co když jim ublížím? Co když je sexuálně zneužiju?“ \n \n Ve skutečnosti by nikdy nic takového neudělala, protože z toho má strach. Ale ten strach je silný. Myšlenky zesilují hlavně, když je více ve stresu. \n \n Od té doby, co je má, se vyhýbá se malým dětem. Nechodí na místa, kde jsou školky, hřiště nebo pískoviště. Vyhýbá se i dětem blízkých příbuzných. Přestala proto chodit na rodinné oslavy. \n \n Ve vztahu s Honzou je opatrná, v sexu zdrženlivá. Když se Honza snaží o blízkost, raději uhýbá. Myslí si, že kdyby věděl, co ji napadá, opustil by ji. Aby se s ním mohla milovat, musí se opít. V noci si často opakuje: „Nejsem špatný člověk.“ Ale moc tomu nevěří."
+                      "content": "**Klára** \n \n Klára pracuje jako zdravotní sestra. Když vidí děti, napadnou ji myšlenky, které ji děsí. *„Co když jsem úchylná? Co když jim ublížím? Co když je sexuálně zneužiju?“* \n \n Ve skutečnosti by nikdy nic takového neudělala, protože z toho má strach. Ale ten strach je silný. Myšlenky zesilují hlavně, když je více ve stresu. \n \n Od té doby, co je má, se vyhýbá se malým dětem. Nechodí na místa, kde jsou školky, hřiště nebo pískoviště. Vyhýbá se i dětem blízkých příbuzných. Přestala proto chodit na rodinné oslavy. \n \n Ve vztahu s Honzou je opatrná, v sexu zdrženlivá. Když se Honza snaží o blízkost, raději uhýbá. Myslí si, že kdyby věděl, co ji napadá, opustil by ji. Aby se s ním mohla milovat, musí se opít. V noci si často opakuje: *„Nejsem špatný člověk.“* Ale moc tomu nevěří."
                     }
                   ]
                 },
                 {
                   "title": "LUKÁŠ",
                   "subtitle": "elektrikář, 30 let",
-                  "description": "Lukáš se bojí hřešit a neustále se modlí kvůli rouhavým myšlenkám. Cítí vnitřní rozpor.",
+                  "description": "Lukáš se bojí hříchu a neustále se modlí kvůli rouhavým myšlenkám. Cítí vnitřní rozpor.",
                   "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lukas_karta_40be25b691.svg",
                   "pictureMobileBackground": "#FFF3EF",
                   "pictureMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lukas_karta_mobile_543f887105.svg",
@@ -1217,7 +1220,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Lukáš** \n \n Lukáš v pubertě po rozvodu rodičů konvertoval ke křesťanství. Víra mu tehdy pomohla najít řád a útočiště. Časem se však proměnila v trápení. \n \n Každá rouhavá myšlenka, každý nevhodný obraz v hlavě v něm vyvolává pocit, že hřeší. Modlí se opakovaně, někdy i hodiny. Má strach, že zklame Boha, že nebude spasen. Naopak za rouhání přijde trest. \n \n Rouhavé myšlenky se objevují samy. Třeba když vidí kříž, kostel, čte něco o církvi nebo potká kněze či jeptišku. Musí se vždy zastavit a pomodlit. \n \n Lukáš je laskavý a citlivý člověk. Ale když přátelé vtipkují, raději odchází. Má dojem, že jsou jejich řeči povrchní a nábožensky nevhodné. Špatně snáší zejména černý humor. Svým smíchem se mohou rouhat. \n \n Lukáš má potíže i s intimitou. Bojí se hříchu, znečištění mysli a pokušení. Někdy si přeje být jako ostatní, ale zároveň nechce zradit svou víru. Tento vnitřní rozpor ho ničí."
+                      "content": "**Lukáš** \n \n Lukáš v pubertě po rozvodu rodičů konvertoval ke křesťanství. Víra mu tehdy pomohla najít řád a útočiště. Časem se však proměnila v trápení. \n \n Každá rouhavá myšlenka, každý nevhodný obraz v hlavě v něm vyvolává pocit, že hřeší. Modlí se opakovaně, někdy i hodiny. Má strach, že zklame Boha, že nebude spasen. Naopak za rouhání přijde trest. \n \n Rouhavé myšlenky se objevují samy. Třeba když vidí kříž, kostel, čte něco o církvi nebo potká kněze či jeptišku. Musí se vždy zastavit a pomodlit. \n \n Lukáš je laskavý a citlivý člověk. Ale když přátelé vtipkují, raději odchází. Má dojem, že jsou jejich řeči povrchní a nábožensky nevhodné. Špatně snáší zejména černý humor. Svým smíchem se mohou rouhat. \n \n Lukáš má potíže i s intimitou. Bojí se hříchu, znečištění mysli a pokušení. Vídal se chvíli s několika ženami, ale nikdy z toho nebyl vztah. Někdy si přeje být jako ostatní, ale zároveň nechce zradit svou víru. Tento vnitřní rozpor ho ničí."
                     }
                   ]
                 },
@@ -1242,14 +1245,14 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Veronika** \n \n Veroniku často něco bolí. Někdy v zádech, jindy v trupu, v krku nebo v hlavě. Vždy má pocit, že by to mohlo být něco vážného. Rakovina. Roztroušená skleróza. Smrtelná choroba. \n \n Vyhledává si příznaky na internetu, srovnává obrázky a volá lékařům. Vyšetření nikdy nic nenašla. Ale pocit, že „tentokrát to bude ono“, je silnější než fakta. \n \n Veroničin partner Filip je zvyklý. Nejprve ji uklidňoval, ale časem se stáhl. Kamarádi ji přestali zvát na výlety, protože stále mluvila jen o nemocech. \n \n Veronika se stydí. Ví, že přichází o vztahy, příležitosti a normální život. Bojí se ale vzdát se kontroly. „Co když se lékaři spletli? Co když to fakt mám? Znám řadu případů ze světa, kdy se lékaři spletli. Třeba je to vzácná nemoc.” napadá ji. Tyto obsese nepomáhají. \n \n Chtěla by stoprocentní jistotu. Proto se nechává vyšetřovat znovu a znovu, čte si o nemocech na internetu, ptá se lékařů a opakovaně jim volá. Většina je už z toho otrávena a dává jí to najevo."
+                      "content": "**Veronika** \n \n Veroniku často něco bolí. Někdy v zádech, jindy v trupu, v krku nebo v hlavě. Vždy má pocit, že by to mohlo být něco vážného. Rakovina. Roztroušená skleróza. Smrtelná choroba. \n \n Vyhledává si příznaky na internetu, srovnává obrázky a volá lékařům. Žádné vyšetření zatím nic neodhalilo. Ale pocit, že „tentokrát to bude ono“, je silnější než fakta. \n \n Veroničin partner Filip je zvyklý. Nejprve ji uklidňoval, ale časem se stáhl. Kamarádi ji přestali zvát na výlety, protože stále mluvila jen o nemocech. \n \n Veronika se stydí. Ví, že přichází o vztahy, příležitosti a normální život. Bojí se ale vzdát se kontroly. *„Co když se lékaři spletli? Co když to fakt mám? Znám řadu případů ze světa, kdy se lékaři spletli. Třeba je to vzácná nemoc...”* napadá ji. Tyhle myšlenky jí ale nepomáhají. \n \n Chtěla by stoprocentní jistotu. Proto se nechává vyšetřovat znovu a znovu, čte si o nemocech na internetu, ptá se lékařů a opakovaně jim volá. Většina je už z toho otrávena a dává jí to najevo."
                     }
                   ]
                 },
                 {
                   "title": "MICHAL",
                   "subtitle": "učitel, 27 let",
-                  "description": "Michala trápí nutkavé pochybnosti o svém vztahu. Vyžaduje neustále ujišťování.",
+                  "description": "Michala trápí nutkavé pochybnosti o svém vztahu. Často se ujišťuje, že je vše v pořádku.",
                   "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Michal_karta_41e0daacdc.svg",
                   "pictureMobileBackground": "#dfe8eb",
                   "pictureMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Michal_karta_mobile_8530388119.svg",
@@ -1267,7 +1270,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Michal** \n \n Michal je inteligentní a přemýšlivý. V práci má velkou odpovědnost a jedná s přirozeným odstupem a respektem. Ale v blízkých vztazích je to pro něj těžší. \n \n Neustále se ptá partnerky Mirky, jestli ho miluje. Jestli si je jistá. Jestli je „dost dobrý“. Když mu odpoví ano, nevěří jí. Když s odpovědí váhá, Michal propadá panice. \n \n Ale otázky ho napadají i opačně. Co když on nemiluje jí? Je ona pro něj ta pravá? Vybral si opravdu dobře? V hlavě mu běží různé obsedantní otázky: „Milujeme se dost? Neexistuje někdo lepší? Zasloužím si být šťastný?“ \n \n Už se mu to stalo i v předešlých vztazích. Raději je ukončil, ale pak toho litoval. Mirka ho miluje. Cítí se však pod tlakem jeho otázek a ujišťování. \n \n Michal se stydí. Má ale strach, že „kdybych to nedělal, všechno by se rozpadlo.“ Jakoby otázkami a ujišťováním bděl nad vztahem. Ale zároveň ví, že právě tím vztah ohrožuje."
+                      "content": "**Michal** \n \n Michal je inteligentní a přemýšlivý. V práci má velkou odpovědnost a jedná s přirozeným odstupem a respektem. Ale v blízkých vztazích je to pro něj těžší. Neustále se ptá přítelkyně Mirky, jestli ho miluje. Jestli si je jistá. Jestli je „dost dobrý“. Když mu odpoví ano, nevěří jí. Když s odpovědí váhá, Michal propadá panice. \n \n Otázky ho napadají i opačně: Co když on nemiluje ji? Je pro něj ta pravá? Vybral si správně? V hlavě mu běží různé obsedantní otázky: *„Milujeme se dost? Neexistuje někdo lepší? Zasloužím si být šťastný?“* \n \n Často se srovnává s ostatními. Přemýšlí, jestli je dost atraktivní, dost silný, dost mužný. Sleduje každý detail svého vzhledu, hodnotí, jestli by Mirka mohla hledat někoho „lepšího“. \n \n Už se mu to dělo i v předešlých vztazích. Raději je ukončil, ale pak toho litoval. Mirka ho miluje. Cítí se však pod tlakem jeho otázek a ujišťování. \n \n Michal se stydí. Má ale strach, že kdyby to nedělal, všechno by se rozpadlo. Jakoby otázkami a ujišťováním bděl nad vztahem. Ale zároveň ví, že právě tím vztah ohrožuje."
                     }
                   ]
                 },
@@ -1292,7 +1295,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Jirka** \n \n Jirkovi je 58 let. Je uznávaný gynekolog, pracuje na klinice, a zároveň školí mladší kolegy. Žije s manželkou Lucií a má dvě dospělé dcery - Magdu a Ivanu. Ivana má dceru Vanesu, jeho první vnouče. Magda se s manželem neúspěšně snaží o dítě. \n \n Jirka jako lékař vždy cítil velkou zodpovědnost za zdraví svých blízkých. Magdininy potíže s otěhotněním u něj spustily kompulzivní chování. \n \n Když jde po ulici nebo vychází z práce, musí se podívat na každé auto a spočítat čísla na poznávacích značkách. V duchu si je sčítá, dělí, někdy hledá známky „příznivých kombinací“. Když součet dá dohromady prvočíslo, musí hledat v okolí předměty, které počítá, dokud nenajde počet dělitelný čtyřmi. \n \n Podobně, jako to má s počítáním čísel na poznávacích značkách, počítá čísla na fakturách nebo jednácí čísla na úředních dokumentech. Pokud rituál neudělá včas, obává se, že se stane něco hrozného jeho rodině. \n \n Jirka ví, že to nedává smysl. Jako lékař by to u pacienta zřejmě označil za „magické myšlení“. Ale pocit neklidu a odpovědnosti je silnější než jeho rozum. Když čísla nepočítá, cítí intenzivní napětí, které ustoupí až po splnění rituálu. Tento cyklus se opakuje několikrát denně. \n \n Začal se vyhýbat řízení auta, žádá svojí ženu Lucii, aby řídila, a on se kouká do země, aby se vyhnul pohledu na poznávací značky. Manželce to už začíná vadit. Jirka začíná pociťovat stud a izolaci. Nechce, aby si toho ostatní všimli. \n \n Vtíravé myšlenky ho vyčerpávají. Rozhodl se zapojit do programu, protože doufá, že najde způsob, jak získat odstup od své úzkosti, pochopit její příčiny a postupně se vymanit z nutnosti rituálů."
+                      "content": "**Jirka** \n \n Jirkovi je 58 let. Je uznávaný gynekolog, pracuje na klinice, a zároveň školí mladší kolegy. Žije s manželkou Lucií a má dvě dospělé dcery: Magdu a Ivanu. Ivana má dceru Vanesu, jeho první vnouče. Magda se s manželem neúspěšně snaží o dítě. \n \n Jirka jako lékař vždy cítil zvýšenou zodpovědnost za zdraví svých blízkých. Magdininy potíže s otěhotněním u něj spustily kompulze. \n \n Když jde po ulici nebo vychází z práce, musí se podívat na každé auto a spočítat čísla na poznávacích značkách. V duchu si je sčítá, dělí, někdy hledá známky „příznivých kombinací“. Když součet dá dohromady prvočíslo, musí hledat v okolí předměty, které počítá, dokud nenajde počet dělitelný čtyřmi. \n \n Podobně, jako to má s počítáním čísel na poznávacích značkách, počítá čísla na fakturách nebo čísla na úředních dokumentech. Pokud rituál neudělá včas, obává se, že se stane něco hrozného jeho rodině. \n \n Jirka ví, že to nedává smysl. Ale pocit neklidu a odpovědnosti je silnější než logika. Když čísla nespočítá, cítí intenzivní napětí, které ustoupí až po splnění kompulze. Opakuje se to několikrát denně. \n \n Začal se proto vyhýbat řízení auta. Raději žádá Lucii, aby řídila ona. Po cestě se kouká do mobilu, aby se vyhnul pohledu na poznávací značky. Lucce to už začíná vadit. \n \n Jirka se za své nutkání stydí a raději o tom nikomu neříká. Vtíravé myšlenky ho ale dále vyčerpávají. Rozhodl se zapojit do terapeutického programu. Doufá, že najde způsob, jak se vymanit z nutkání k rituálům."
                     }
                   ]
                 }
@@ -1991,7 +1994,8 @@
             },
             {
               "type": "video",
-              "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M1_2_22fd35d636.mp4"
+              "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M1_2_22fd35d636.mp4",
+              "captionsUrl": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M1_2_ces_f9546fe40d.vtt"
             },
             {
               "type": "collapse",
@@ -2126,7 +2130,8 @@
             },
             {
               "type": "video",
-              "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/OCD_M1_c64ccdf790.mp4"
+              "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/OCD_M1_c64ccdf790.mp4",
+              "captionsUrl": "xx"
             },
             {
               "type": "collapse",
@@ -2213,7 +2218,8 @@
             },
             {
               "type": "video",
-              "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M1_3_0f22d4fa01.mp4"
+              "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M1_3_0f22d4fa01.mp4",
+              "captionsUrl": "xx"
             },
             {
               "type": "collapse",

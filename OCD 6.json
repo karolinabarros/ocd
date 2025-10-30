@@ -1,17 +1,17 @@
 {
   "pages": [
       {
-          "title": "Vítejte v pátém modulu",
+          "title": "Vítejte v šestém modulu",
           "icon": "video",
           "contentSections": [
             {
               "type": "video",
-              "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M5_1_26cee62ae6.mp4",
+              "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M6_1_94fb658704.mp4",
               "captionsUrl": "xx"
             },
             {
               "type": "collapse",
-              "content": "Vítáme vás v dalším modulu. Máte za sebou **první třetinu** programu a to si zaslouží gratulaci. Jsme moc rádi, že jste tu s námi. \n \n Možná jste se už pustili do **expozic** ze své hierarchie. Možná jste zatím zůstali u **expozic v představě**. Dnes se blíže podíváme na to, jak nám expozice dlouhodobě pomáhají zmírňovat příznaky OCD. \n \n Vysvětlíme si, co jsou **expozice se zábranou odpovědi**. Dozvíte se, jak si je naplánovat a jak u nich vytrvat. Nesmí chybět ani příběhy našich hrdinů, kteří do toho půjdou s vámi. \n \n V druhé polovině modulu se budeme věnovat potřebě **naprosté jistoty**. Ta velmi často souvisí s OCD. My si ukážeme, jak s pochybnostmi a nejistotou vydržet. \n \n Držíme vám palce a jdeme na to.",
+              "content": "Vítáme vás v šestém modulu našeho programu. Jste už v polovině, a to samo o sobě je velký úspěch. Ať už jste expozice zkoušeli, nebo se teprve připravujete, každý váš pokus má smysl. \n \n V předchozích modulech jsme se věnovali expozicím v představách. Dnes se k tomu vrátíme. Ale jinak než předtím. \n \n Tentokrát se na tyto představy podíváme hlouběji. Nebudeme s nimi bojovat. Místo toho si dovolíme je proměnit. A zároveň si ukážeme, že ne všechny automatické myšlenky jsou pravdivé, i když tak možná někdy působí. \n \n I velmi nepříjemné obsese, které nám často jen ubližují, se dají změnit. Na takové, které nám pomáhají, a přitom jsou pravdivější. Ukážeme si realističtější a laskavější pohled na sebe i na svět. \n \n Čeká vás další krok. Nový pohled, nová možnost volby. Není cílem, aby jste už nikdy nezažili napětí nebo úzkost. Stačí, když se přestanete tolik obávat vtíravých myšlenek a nebudete jimi řídit své chování. \n \n Tak jdeme na to!",
               "title": "Radši si přečtu"
             },
             {
@@ -19,9 +19,9 @@
               "title": "**V tomto modulu se dozvíte:**",
               "color": "#27637C",
               "items": [
-                "Co jsou expozice se zábranou odpovědi.",
-                "Jak si naplánovat expozice se zábranou odpovědi.",
-                "Jak se potřeba naprosté jistoty podílí na udržování OCD."
+                "Jak se dají měnit myšlenky, které udržují OCD.",
+                "Co jsou to katastrofické scénáře.",
+                "Jak zapojit katastrofické scénáře do svých expozic a zvýšit tak odolnost vůči napětí a úzkosti."
               ]
             }
           ]
@@ -45,7 +45,7 @@
               },
               {
                 "type": "markdown",
-                "content": ":::text--center \n #### Je to důležité! \n \n Pro terapeuta je podstatné sledovat, jak jste na tom právě teď. \n :::"
+                "content": ":::text--center \n #### Děkujeme za vyplnění! \n \n Dotazníky umožňují vám i terapeutovi sledovat, jak se vyvíjí vaše příznaky OCD. \n :::"
               }
             ]
           },
@@ -65,11 +65,11 @@
               {
                 "type": "image",
                 "isExpandable": true,
-                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Therapist_84844fe845.svg",
-                "width": "318px",
-                "alt": "Terapeutka sedící u počítače, vyhodnocující modul",
-                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Therapist_84844fe845.svg",
-                "widthMobile": "250px",
+                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Hands_1de1a67dae.svg",
+                "width": "220px",
+                "alt": "Dvě ruce natažené k sobě, symbolizující podporu, propojení a lidský kontakt",
+                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Hands_1de1a67dae.svg",
+                "widthMobile": "220px",
                 "align": "center"
               },
               {
@@ -85,8 +85,157 @@
           ]
         },
         {
-          "title": "Ohlédnutí za minulým týdnem",
-          "icon": "exercise",
+          "title": "Úvod k inventáři obsesí a kompulzí",
+          "icon": "text",
+          "isEvaluable": true,
+          "contentSections": [
+            {
+              "type": "image",
+              "isExpandable": true,
+              "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Uvod_k_inventari_obsesi_a_kompulzi_a59b6e502d.svg",
+              "width": "100%",
+              "alt": "Pbrázky znázorňující různá témata obsesí - bakterie, nezarovnané tužky, hromada věcí",
+              "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Uvod_k_inventari_obsesi_a_kompulzi_mobile_91994e52ab.svg",
+              "widthMobile": "100%",
+              "align": "center"
+            },
+            {
+              "type": "markdown",
+              "content": "Na následující stránce si vyplníte **inventář obsesí a kompulzí**. Ten jste už vyplňovali v prvním modulu. Od té doby jste ušli kus cesty, a proto nás zajímá, zda se vaše obsese a kompulze změnily."
+            }
+          ]
+        },
+        {
+          "title": "Inventář obsesí",
+          "icon": "check",
+          "isEvaluable": true,
+          "contentSections": [
+            {
+              "required": true,
+              "type": "tool",
+              "tool": "OCDInventory",
+              "toolSection": "page1",
+              "toolSectionData": {
+                "description": "Následující dotazník vám pomůže lépe pochopit vaše potíže a zaměřit se na to, co je pro vás nejdůležitější. V první části označte, které z obsesí se u vás objevily **během posledního měsíce.**",
+                "options": [
+                  {
+                    "name": "Obavy z nákazy, špíny, bakterií a virů nebo tělesných tekutin",
+                    "value": "FearOfInfection"
+                  },
+                  {
+                    "name": "Strach, že jsem něco zapomněl/a vypnout či zamknout",
+                    "value": "FearOfForgetting"
+                  },
+                  {
+                    "name": "Obavy, že jsem udělal/a chybu, např. v práci, ve smlouvě, v komunikaci",
+                    "value": "FearOfMistake"
+                  },
+                  {
+                    "name": "Strach, že jsem někomu ublížil/a a nepamatuji si to",
+                    "value": "FearOfHurtingSomeone"
+                  },
+                  {
+                    "name": "Vtíravé agresivní nebo sexuální myšlenky a představy",
+                    "value": "IntrusiveAgressiveThoughts"
+                  },
+                  {
+                    "name": "Náboženské nebo morální pochybnosti (např. strach z hříchu nebo že nejsem dost dobrý/á)",
+                    "value": "ReligiousDoubts"
+                  },
+                  {
+                    "name": "Potřeba symetrie, přesného zarovnání předmětů",
+                    "value": "NeedForSymmetry"
+                  },
+                  {
+                    "name": "Nutkání opakovat věci, aby „byly správně“",
+                    "value": "NeedToRepeatThings"
+                  },
+                  {
+                    "name": "Představy o „správných“ číslech, barvách nebo slovech",
+                    "value": "IdeasOfCorrectNumbers"
+                  },
+                  {
+                    "name": "Strach, že moje myšlenky můžou ovlivnit realitu („když si to pomyslím, stane se to“)",
+                    "value": "FearMyThoughtCouldAffectReality"
+                  },
+                  {
+                    "name": "Pochybnosti o vztahu, partnerovi nebo věrnosti",
+                    "value": "DoubtsAboutRelationship"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "title": "Inventář kompulzí",
+          "icon": "check",
+          "isEvaluable": true,
+          "contentSections": [
+            {
+              "required": true,
+              "type": "tool",
+              "tool": "OCDInventory",
+              "toolSection": "page2",
+              "toolSectionData": {
+                "description": "Označte, které z kompulzí se u vás objevily **během posledního měsíce.**",
+                "options": [
+                  {
+                    "name": "Opakované mytí rukou, nadměrná hygiena nebo čištění věcí",
+                    "value": "RepeatedHandWashing"
+                  },
+                  {
+                    "name": "Kontrolování spotřebičů, dveří, zámků, zásuvek, plynu apod.",
+                    "value": "CheckingAppliances"
+                  },
+                  {
+                    "name": "Ujišťování se u ostatních a vyhledávání informací na internetu",
+                    "value": "LookingForAssurance"
+                  },
+                  {
+                    "name": "Počítání, opakování vět nebo nutkavé modlení",
+                    "value": "Counting"
+                  },
+                  {
+                    "name": "Opakování pohybů nebo doteků, aby se „něco nestalo“",
+                    "value": "RepeatingMovementsg"
+                  },
+                  {
+                    "name": "Zarovnávání a seřazování předmětů",
+                    "value": "SortingObjects"
+                  },
+                  {
+                    "name": "Psaní seznamů, kontrolních soupisů, záznamů",
+                    "value": "WritingLists"
+                  },
+                  {
+                    "name": "Hromadění předmětů",
+                    "value": "HoardingObjects"
+                  },
+                  {
+                    "name": "Opakované omlouvání za domnělé chyby",
+                    "value": "RepeatingApologies"
+                  },
+                  {
+                    "name": "Opakování činností, dokud to není „správně“",
+                    "value": "RepeatingActions"
+                  },
+                  {
+                    "name": "Rituály pro zbavení špatných myšlenek nebo snaha kontrolovat vlastní myšlenky a emoce",
+                    "value": "RitualsToControlThoughts"
+                  },
+                  {
+                    "name": "Vyhýbání se číslům, slovům nebo barvám, které „nosí smůlu“",
+                    "value": "AvoidingNumbers"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "title": "Dotazník o inventáři obsesí a kompulzí",
+          "icon": "check",
           "isEvaluable": true,
           "finalScreen": {
             "buttonLabel": "Upravit odpovědi",
@@ -94,23 +243,176 @@
               {
                 "type": "image",
                 "isExpandable": true,
-                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Relax_e24051df56.svg",
-                "width": "280px",
-                "alt": "Relaxující postava sedící se skříženýma nohama",
-                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Relax_e24051df56.svg",
-                "widthMobile": "280px",
+                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Clouds_e14e3b8be7.svg",
+                "width": "224px",
+                "alt": "Postava v oblacích na žebříku",
+                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Clouds_e14e3b8be7.svg",
+                "widthMobile": "224px",
                 "align": "center"
               },
               {
                 "type": "markdown",
-                "content": ":::text--center \n #### Jděte na to postupně. \n \n I malý krok je úspěch, pokud se na něj díváme očima odvahy. \n :::"
+                "content": ":::text--center \n #### Máte za sebou kus cesty! \n \n Jsme rádi, že jste to zvládli až sem. \n :::"
               }
             ]
           },
           "contentSections": [
             {
+              "required": true,
+              "type": "tool",
+              "tool": "OCDInventory",
+              "toolSection": "page3",
+              "toolSectionData": {
+                "description": "Zamyslete nad všemi obsesemi a kompulzemi, kterých jste si u sebe všimli **během posledního měsíce**, a odpovězte na otázky.",
+                "image": {
+                  "isExpandable": true,
+                  "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Dotaznik_o_inventari_obsesi_a_kompulzi_1a1862e3f3.svg",
+                  "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Dotaznik_o_inventari_obsesi_a_kompulzi_mobile_523e13d7ee.svg",
+                  "alt": "Postavička s počítačem sedící na knihách a vybírající jednu ze tří možností",
+                  "width": "100%",
+                  "widthMobile": "100%",
+                  "align": "center"
+                },
+                "questions": [
+                  {
+                    "name": "timeAday",
+                    "question": "Kolik času denně vám zabíraly všechny příznaky?",
+                    "options": [
+                      {
+                        "label": "Méně než 1 hodinu",
+                        "value": 0
+                      },
+                      {
+                        "label": "1-3 hodiny",
+                        "value": 1
+                      },
+                      {
+                        "label": "3-8 hodin",
+                        "value": 2
+                      },
+                      {
+                        "label": "Více než 8 hodin",
+                        "value": 3
+                      }
+                    ]
+                  },
+                  {
+                    "name": "difficulty",
+                    "question": "Jak náročné pro vás bylo nevšímat si obsesí?",
+                    "options": [
+                      {
+                        "label": "Snadné",
+                        "value": 0
+                      },
+                      {
+                        "label": "Spíše snadné",
+                        "value": 1
+                      },
+                      {
+                        "label": "Někdy snadné, někdy obtížné",
+                        "value": 2
+                      },
+                      {
+                        "label": "Spíše obtížné",
+                        "value": 3
+                      },
+                      {
+                        "label": "Obtížné",
+                        "value": 4
+                      }
+                    ]
+                  },
+                  {
+                    "name": "excessiveConcernsAboutVariousThings",
+                    "question": "Nadměrné obavy týkající se různých věcí",
+                    "options": [
+                      {
+                        "label": "Snadné",
+                        "value": 0
+                      },
+                      {
+                        "label": "Spíše snadné",
+                        "value": 1
+                      },
+                      {
+                        "label": "Někdy snadné, někdy obtížné",
+                        "value": 2
+                      },
+                      {
+                        "label": "Spíše obtížné",
+                        "value": 3
+                      },
+                      {
+                        "label": "Obtížné",
+                        "value": 4
+                      }
+                    ]
+                  },
+                  {
+                    "name": "howOften",
+                    "question": "Jak často jste se vyhýbal/a situacím, které spouští vaše obsese a kompulze?",
+                    "options": [
+                      {
+                        "label": "Nikdy",
+                        "value": 0
+                      },
+                      {
+                        "label": "Zřídka",
+                        "value": 1
+                      },
+                      {
+                        "label": "Občas",
+                        "value": 2
+                      },
+                      {
+                        "label": "Často",
+                        "value": 3
+                      },
+                      {
+                        "label": "Velmi často",
+                        "value": 4
+                      }
+                    ]
+                  },
+                  {
+                    "name": "howMuch",
+                    "question": "Jak moc vaše příznaky ovlivňovaly vaši náladu a emoční pohodu?",
+                    "options": [
+                      {
+                        "label": "Vůbec",
+                        "value": 0
+                      },
+                      {
+                        "label": "Trochu",
+                        "value": 1
+                      },
+                      {
+                        "label": "Středně",
+                        "value": 2
+                      },
+                      {
+                        "label": "Hodně",
+                        "value": 3
+                      },
+                      {
+                        "label": "Extrémně",
+                        "value": 4
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "title": "Ohlédnutí za minulým týdnem",
+          "icon": "exercise",
+          "isEvaluable": true,
+          "contentSections": [
+            {
               "type": "markdown",
-              "content": "Během týdne jste měli příležitost zkoušet si **expozice** a **behaviorální experimenty**. Zajímá nás, jak se vám dařilo!"
+              "content": "Během týdne jste měli příležitost vyzkoušet si expozice se zábranou odpovědi. Rádi bychom věděli, jaké to bylo!"
             },
             {
               "type": "pictureAndNote",
@@ -124,7 +426,7 @@
                 "align": "center"
               },
               "note": {
-                "title": "**Stručně popište, zda nebo jak jste se pustili do expozic a experimentů.**",
+                "title": "**Stručně popište, zda nebo jak jste se pustili do expozic.**",
                 "rows": 2,
                 "placeholder": "Čemu jste se věnovali?",
                 "required": false
@@ -172,6 +474,25 @@
           "title": "Zpráva pro terapeuta",
           "icon": "exercise",
           "isEvaluable": true,
+          "finalScreen": {
+            "buttonLabel": "Upravit odpovědi",
+            "contentSections": [
+              {
+                "type": "image",
+                "isExpandable": true,
+                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Therapist_84844fe845.svg",
+                "width": "318px",
+                "alt": "Terapeutka sedící u počítače, vyhodnocující modul",
+                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Therapist_84844fe845.svg",
+                "widthMobile": "250px",
+                "align": "center"
+              },
+              {
+                "type": "markdown",
+                "content": ":::text--center \n #### Váš terapeut je tu pro vás! \n \n Terapeutovi se můžete svěřit s tím, co vám leží na srdci. \n :::"
+              }
+            ]
+          },
           "contentSections": [
             {
               "type": "image",
@@ -195,112 +516,104 @@
           ]
         },
         {
-          "title": "Expozice se zábranou odpovědi",
-          "icon": "audio",
+          "title": "Práce s vtíravými myšlenkami",
+          "icon": "video",
           "contentSections": [
             {
               "type": "markdown",
-              "content": "V rozhovoru se tentokrát budeme zabývat **expozicemi se zábranou odpovědi**, neboli **ERP** (Exposure and Response Prevention)."
+              "content": "Ve videu se podíváme na to, proč je práce s myšlenkami užitečná při terapii OCD. Také vám vysvětlíme, jak nás myšlenky mohou negativně ovlivňovat, pokud jim přikládáme velký význam."
             },
             {
-              "type": "audio",
-              "audioSrc": "xx",
-              "title": "Expozice se zábranou odpovědi",
-              "imageSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Expozice_se_zabranou_odpovedi_4304ccb392.svg"
+              "type": "video",
+              "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M6_2_5171b75626.mp4",
+              "captionsUrl": "xx"
             },
             {
               "type": "collapse",
-              "content": "xx",
+              "content": "Někdy stačí jediná **myšlenka** a naše mysl spustí **poplach**. „Co když jsem nebezpečný?“, „Co když něco provedu?“ Ale takové myšlenky nejsou varování, příkazy ani důkazy. \n \n Jsou jako **mýdlové bubliny**. Objeví se, chvíli poletují, a pak zmizí. V tomto modulu si ukážeme, jak si takových myšlenek všímat, a zároveň je nechávat být. Nebudeme s nimi bojovat. Jen jim přestaneme slepě věřit. A tím **ztratí svou sílu.** \n \n Problém je totiž v tom, že myšlenkám často přikládáme **přehnaný význam**. Náš mozek pak reaguje, jako by šlo o **skutečné nebezpečí**. Myšlenka ale není čin, ani skutečnost. Nemusíme ji proto za každou cenu analyzovat, potlačovat nebo brát vážně. \n \n Pro lidi s OCD je těžké rozlišovat mezi neškodnou myšlenkou a **skutečným varováním**. Když uvěříme, že se obsese rovná realitě, dojde ke splynutí myšlenky a činu. S tímto filtrem myšlení jsme se seznámili v druhém modulu. \n \n A jak to může vypadat? Třeba když vás napadne něco nevhodného, a vy uvěříte, že to skutečně chcete udělat. Nebo když vám proběhla hlavou rouhavá myšlenka, a vy věříte, že jste kvůli tomu špatný člověk. \n \n Myšlenky mohou být automatické, krátké **impulzy**, které se objevují bez vědomého rozhodování. Často jim přikládáme význam, i když ve skutečnosti **neodrážejí** naše přesvědčení ani hodnoty.",
               "title": "Radši si přečtu"
             }
           ]
         },
         {
-          "title": "Jak přerušit bludný kruh OCD",
-          "icon": "Story",
-          "contentSections": [
-            {
-              "type": "markdown",
-              "content": "Vzpomínáte na bludný kruh OCD z prvního modulu? Nejdříve se objeví spouštěč – třeba špinavá podlaha nebo pochybnost, jestli jste zamkli. Cítíte úzkost nebo jiné nepříjemná emoce a uděláte kompulzi. Tím si na chvíli ulevíte, ale zároveň potvrzujete mozku, že situace byla opravdu nebezpečná a že byste to bez kompulze nezvládli."
-            },
-            {
-              "type": "markdown",
-              "content": ":::text--center \n **Janin bludný kruh v situaci, kdy se dotkla tyče v tramvaji** \n :::"
-            },
-            {
-              "type": "image",
-              "isExpandable": false,
-              "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Janin_bludny_kruh_2_9d3cc6e1f9.svg",
-              "width": "80%",
-              "alt": "Bludný kruh Jany",
-              "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Janin_bludny_kruh_2_9d3cc6e1f9.svg",
-              "widthMobile": "100%",
-              "align": "center",
-              "unoptimized": true
-            },
-            {
-              "type": "markdown",
-              "content": "Když kompulzi vynecháme, nepříjemné prožívání sice na nějaký čas přetrvá, ale tělo si poradí. Nový okruh v mozku říká: „Možná to nebylo tak hrozné. Možná to zvládnu i bez kompulze.” Tak se vytváří jiný kruh – kruh zvládání. A čím víc ho opakujeme, tím více oslabujeme ten starý, který nám nepomáhal."
-            },
-            {
-              "type": "markdown",
-              "content": ":::text--center \n **Janin nový kruh zdravého zvládání** \n :::"
-            },
-            {
-              "type": "image",
-              "isExpandable": false,
-              "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Janin_novy_kruh_zdraveho_zvladani_613e4565a2.svg",
-              "width": "80%",
-              "alt": "Zdravý kruh Jany",
-              "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Janin_novy_kruh_zdraveho_zvladani_613e4565a2.svg",
-              "widthMobile": "100%",
-              "align": "center",
-              "unoptimized": true
-            }
-          ]
-        },
-        {
-          "title": "Jak na expozice se zábranou odpovědi",
+          "title": "Impulzivní reakce na myšlenky vs. zdravý odstup",
           "icon": "text",
           "contentSections": [
             {
               "type": "image",
               "isExpandable": false,
-              "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jak_na_expozice_se_zabranou_odpovedi_367d9fac02.svg",
+              "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Impulzivni_reakce_na_myslenky_vs_zdravy_odstup_1_7c3736652d.svg",
               "width": "100%",
-              "alt": "Postavička zapisující si expozici o dotknutí kliky",
-              "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jak_na_expozice_se_zabranou_odpovedi_mobile_b14fabb8db.svg",
+              "alt": "Dvě postavy, jedna si bere negativní myšlenku k srdci, druhá má vyvážená odstup",
+              "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Impulzivni_reakce_na_myslenky_vs_zdravy_odstup_1_mobile_458a6d87ae.svg",
               "widthMobile": "100%",
               "align": "center",
               "unoptimized": true
             },
             {
               "type": "markdown",
-              "content": "Už víte, proč jsou expozice se zábranou odpovědi důležité při terapii OCD. Nyní se podíváme na to, jak si je naplánovat."
+              "content": "Na obrázku vidíte dvě různé reakce na tu samou myšlenku. První člověk se s ní ztotožnil. Věří, že o něm říká pravdu. Druhý člověk si uvědomil: „Tohle je jen hlas v mojí hlavě. Může mě znepokojit, ale nemusím mu věřit.“ V terapii se učíme zaujmout právě ten druhý postoj - s odstupem a laskavostí k sobě."
+            },
+            {
+              "type": "image",
+              "isExpandable": false,
+              "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Impulzivni_reakce_na_myslenky_vs_zdravy_odstup_2_66d1029f6c.svg",
+              "width": "100%",
+              "alt": "Dvě postavy, jedna si bere negativní myšlenku k srdci, druhá má vyvážená odstup",
+              "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Impulzivni_reakce_na_myslenky_vs_zdravy_odstup_2_mobile_ad08c7a920.svg",
+              "widthMobile": "100%",
+              "align": "center",
+              "unoptimized": true
             },
             {
               "type": "markdown",
-              "content": "**Jak na to krok za krokem?** \n \n 1. Vyberte si expozici ze své hierarchie (nízké až střední náročnosti). \n \n 2. Připravte si plán: co uděláte a co tentokrát neuděláte. \n \n 3. Jděte do toho! Věnujte pozornost tomu, jak se při tom cítíte (tělesně i emočně) a co se vám honí hlavou. \n \n 4. Neprovádějte kompulzi. Sledujte napětí či úzkost. Dýchejte a zaznamenávejte si.  \n \n 5. Vydržte v situaci, dokud nepohoda neklesne aspoň o polovinu. Je důležité kompulze nedohánět ani po dokončení expozice.  \n \n 6. Zaznamenejte si výsledek. \n \n 7. Jděte do toho znovu. "
+              "content": "Mezi myšlenkou a činem vždy existuje určitý prostor. Je to chvíle, ve které si můžeme uvědomit, co se děje. OCD nám tento prostor často bere, protože myšlenky v nás mohou vyvolat silné napětí a stres. Když ale nereagujeme impulzivně, nesnažíme se utéct nebo se za každou cenu uklidnit, učíme se, že ne každé vnitřní varování je skutečná hrozba."
+            },
+            {
+              "type": "image",
+              "isExpandable": false,
+              "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Impulzivni_reakce_na_myslenky_vs_zdravy_odstup_3_bc32db7d37.svg",
+              "width": "100%",
+              "alt": "Dvě postavy, jedna si bere negativní myšlenku k srdci, druhá má vyvážená odstup",
+              "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Impulzivni_reakce_na_myslenky_vs_zdravy_odstup_3_mobile_d33afa99f6.svg",
+              "widthMobile": "100%",
+              "align": "center",
+              "unoptimized": true
+            },
+            {
+              "type": "markdown",
+              "content": "V tomto modulu si ukážeme, jak myšlenku zaznamenat a dále na ni nereagovat. Pomůže nám, když si myšlenku přeformulujeme. Nahradíme ji pohledem, který je pravdivější a laskavější. Takový přepis není o přehlížení nebo popírání. Je to jiný, vyváženější pohled na věc. \n \n **Příklady vyvážených pohledů:** \n \n - „To, že mě to napadlo, neznamená, že to udělám.“ \n \n - „Každý někdy má zvláštní myšlenky. O tom, jaký jsem, vypovídá mé chování.“ \n \n - „To je hlas OCD - ne můj vnitřní hlas.“ \n \n - „I nepříjemné myšlenky mohu pozorovat bez reakce.“ \n \n - „Nejsem to, co mě napadne. Jsem to, co dělám.“"
             }
           ]
         },
         {
-          "title": "Janina expozice bez kompulze",
-          "icon": "video",
+          "title": "Veronika a vtíravé myšlenky",
+          "icon": "Story",
           "contentSections": [
             {
               "type": "markdown",
-              "content": "Jana se pustila do své první expozice se zábranou odpovědi. Ve videu uvidíte, jak to šlo."
+              "content": "Veronice se v hlavě objevují nepříjemné a vtíravé myšlenky o tom, že by mohla být vážně nemocná. Je pro ni těžké takovým myšlenkám odolat a často hledá úlevu ujišťováním nebo vyhledáváním příznaků. Obavy se vrací, i když chodí na vyšetření, která nic neukázala. Veronika se s myšlenkami proto učí pracovat jinak."
             },
             {
-              "type": "video",
-              "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Petruv_Experiment_c_46b46f330a.mp4",
-              "captionsUrl": "xx"
-            },
-            {
-              "type": "collapse",
-              "content": "**VYPRAVĚČ:** xx",
-              "title": "Radši si přečtu"
+              "type": "stories",
+              "stories": [
+                {
+                  "name": "Veronika",
+                  "toggleImageUrl": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Ikonka_Veronika_0bc72e7934.svg",
+                  "contentSections": [
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Veronika_a_vtirave_myslenky_f267f57f34.svg",
+                      "width": "100%",
+                      "alt": "Komiks o tom, jak Veronika odolala nutkání vyhledávt symptomy",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Veronika_a_vtirave_myslenky_mobile_7d7b4b8293.svg",
+                      "widthMobile": "100%",
+                      "align": "center"
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -324,8 +637,10 @@
               "title": "**Co jste dokázali:**",
               "color": "#27637C",
               "items": [
-                "Expozice se zábranou odpovědi jsou efektivní způsob, jak zmírňovat příznaky OCD.",
-                "Při dělání expozic je důležité vytrvat bez kompulzí. Tím se učíme, že i nepříjemné situace jde vydržet, a postupně snižujeme míru nepohody, které v nás vyvolávají."
+                "Lidé s OCD často přikládají svým myšlenkám příliš velký význam. Proto v nich myšlenky mohou vyvolat silné emoční reakce.",
+                "Pro mozek je těžké rozlišovat mezi myšlenkami a skutečným ohrožením.",
+                "Myšlenky mohou být automatické a náhodné. Často jsou podbarvené únavou, strachem nebo napětím.",
+                "To, že nás něco napadne, neříká nic o tom, kdo jsme. Myšlenky nejsou ani povely ani fakta. "
               ]
             }
           ]
@@ -336,7 +651,7 @@
           "contentSections": [
             {
               "type": "markdown",
-              "content": "Každá z našich postav si zkusila jednoduchý, ale **důležitý experiment**. V příbězích popisují, co si naplánovali, jak se cítili, co čekali a co se skutečně stalo."
+              "content": "Postavy v příbězích se učí pracovat se svými myšlenkami. Ne tím, že by myšlenky přemohly, ale tím, že si k nim vytvořily nový vztah, s odstupem a pochopením. "
             },
             {
               "type": "noteBox",
@@ -373,7 +688,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Jana** \n \n **Plán expozice:** Dotknu se holýma rukama držadla nákupního vozíku při nákupu. Po návratu domů nepoužiju dezinfekci a ruce si umyju až běžným způsobem před večeří. \n \n **Obtížnost expozice:** 3/10 \n \n **Průběh expozice:** Při nákupu bylo napětí 5/10, po odchodu z obchodu stouplo na 9/10. Měla jsem silné nutkání sáhnout po dezinfekci. Hlavou mi běželo, že můžu ohrozit Toníka, ale vydržela jsem to. Jen jsem dýchala, neopakovala jsem si žádné uklidňující věty. Doma jsem ruce umyla jen jednou, až večer. Napětí večer kleslo na 4/10. \n \n **Zhodnocení:** Bylo to těžké, ale zvládla jsem to. Toníček je v pořádku. A já jsem měla konečně pocit, že si sama určuju pravidla a ne OCD."
+                      "content": "**Jana** \n \n Janu při nákupu napadlo: „Sáhla jsem na chleba neumytýma rukama. Co když se někdo nakazí?“ \n \n V tu chvíli jí tělem projelo napětí. Dříve by si šla hned umýt ruce, přehrávala si situaci ve vzpomínkách nebo by chléb rovnou vyhodila. \n \n Tentokrát jen ztichla. Řekla si: „To je jen myšlenka. Může být nepříjemná, ale nemusím s ní nic dělat.“ Chvílí byla napjatá, ale pak to opadlo. \n \n Později si do deníku napsala: „Myšlenka mi připomněla můj strach. Ale já jsem se rozhodla nejednat podle ní.“"
                     }
                   ]
                 },
@@ -398,7 +713,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Petr** \n \n **Plán expozice:** Při odchodu z bytu se nevrátím, ani kdybych si nebyl jistý, jestli jsem všechno vypnul a vypojil ze zásuvky. \n \n **Obtížnost expozice:** 4/10 \n \n **Průběh expozice:** Hned na schodišti napětí 6/10, pak vystoupalo na 8/10. Napadla mě představa, jak u nás hoří. Na schodišti se mi zvedal žaludek, opakovaly se mi obrazy výbuchu, hasičů a nešťastné Aleny. Do mobilu jsem si napsal: „Chci se vrátit, ale neudělám to. Učím se to vydržet.“ V autě mi začala klesat úzkost. V půlce cesty už byla jen na 3/10. Přemýšlel jsem, co si dám k večeři. \n \n **Zhodnocení:** Už vím, že nejistota nebo nepříjemný pocit není důkaz. A že katastrofické představy nejsou realita. Nejasný pocit může být prostě jen zmatek, ne varování."
+                      "content": "**Petr** \n \n Petr odcházel z domu a napadlo ho: „Nevím, jestli jsem zavřel všechna okna.“ Pocítil úzkost a malý úlek. Projel jím pocit, jako by něco přehlédl. \n \n Ale domů se nevrátil. Zůstal chvilku stát a pozoroval svůj dech. Uvědomil si, že tohle není reálné varování. Je to známá myšlenka, která ho svádí k opakování. Neposlechl ji. Napětí za chvíli zmizelo, v práci už o tom ani nevěděl. \n \n Večer si zapsal do deníku: „Měl jsem pochybnost, ale nereagoval jsem. A nic se nestalo.“"
                     }
                   ]
                 },
@@ -423,7 +738,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Eva** \n \n **Plán expozice:** Po vaření nechám nůž oschnout na odkapávači nádobí. Neschovám ho do šuplíku. \n \n **Obtížnost expozice:** 5/10 \n \n **Průběh expozice:** Po jídle mi stouplo napětí z 4/10 na 7/10. Napadalo mě: „Co když se něco stane? Co když udělám něco strašného?“ Chtěla jsem se vrátit do kuchyně a schovat nůž. Ale místo toho jsem si sedla do obýváku a pustila jsem si audiostopu z programu. Po půlhodině jsem se cítila klidněji a napětí mi kleslo na 3/10. \n \n **Zhodnocení:** Poprvé jsem si dovolila nechat své myšlenky být. A nic se nestalo. Myšlenka není čin."
+                      "content": "**Eva** \n \n Když Eva připravovala večeři, problesklo jí hlavou: „Co kdybych někoho bodla nožem?“ \n \n Dřív by si myšlenku zakázala a začala se kontrolovat. Teď ji jen vnímala. Neodpovídala na ni. Napětí chvíli kolísalo, v jednu chvílí to bylo velmi nepříjemné, ale během vaření zmizelo. \n \n Řekla si: „Tahle myšlenka je jen obsese. Přichází ve stresu. Nic to o mně nevypovídá.“ \n \n Později si do deníku napsala: „Tuhle myšlenku znám, protože se mi opakuje. Nebudu se ji bát, protože nic takového nechci. Myšlenka mě zaskočila. Ale neutekla jsem. A postupně sama odešla.“"
                     }
                   ]
                 },
@@ -448,7 +763,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**David** \n \n **Plán expozice:** Nechám boty v předsíni neuspořádané a vědomě odolám nutkání je srovnat. Nevrátím se k jejich kontrole. \n \n **Obtížnost expozice:** 3/10 \n \n **Průběh expozice:** Obvykle bych boty přesně zarovnal, ale dnes jsem odešel a nechal je tak, jak byly. Dopoledne mi opakovaně naskakovaly myšlenky, že to může vést k nehodě. Napětí začalo na 5/10 a postupně vzrostlo na 7/10. \n \n V poledne mi volala Martina. Probírali jsme pracovní věci, ale taky mi řekla vtip, kterému jsem se musel smát. To mě na chvíli přirozeně vytrhlo z úzkosti. Po poledni jsem si všiml, že napětí samo od sebe kleslo na 2 z 10, aniž bych podnikl jakoukoli kontrolu. \n \n**Zhodnocení:** Neuspořádanost neznamená nebezpečí. Svět běží dál a možná nezávisí na tom, jestli jsou moje boty zarovnané. Dokázal jsem odolat nutkání a ověřil jsem si, že se mé obavy nenaplnily."
+                      "content": "**David** \n \n David viděl neuspořádané oblečení na křesle a pocítil v těle napětí. Napadlo ho: „Tohle znamená, že nezvládám. Když to hned neurovnám, přijde tragédie a bude to moje vina.“ \n \n Zastavil se. Nechal oblečení ležet tak, jak bylo. Jen pozoroval, co s ním myšlenka dělá, a jak postupně odeznívá. Dokázal vydržet celý den, aniž by uklidil. \n \n Večer si napsal: „Nechal jsem oblečení být. Nepřerovnal jsem ho, ani neuklidil. A nic hrozného se nestalo. Myšlenka mi neublížila, jen mě nutila jednat. Ale já jsem nemusel.“"
                     }
                   ]
                 },
@@ -473,7 +788,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Klára** \n \n **Plán expozice:** Půjdu za Maruškou do parku a tam chci pozdravit jejího Matýska. Budu se mu dívat do očí a usměju se. Bez odvrácení hlavy a bez vnitřního opakování zklidňujících vět. \n \n **Obtížnost expozice:** 5/10 \n \n **Průběh expozice:** Když se Matýsek přiblížil, automaticky jsem chtěla uhnout pohledem. Ale dál jsem se mu dívala do očí. Při příchodu bylo napětí na 6/10. Dokázala jsem se usmát a pozdravila jsem ho. Při pozdravu stouplo napětí na 7/10. Napadalo mě, že jsem možná sexuální deviantka, ale nerozvíjela jsem to. Bavila jsem se s Maruškou, i když mi hlavou vířily vtíravé otázky. Povídaly jsme si a hráli jsme si s Matýskem. Po půl hodině napětí spadlo na 3/10. \n \n **Zhodnocení:** Matýskovi jsem se nevyhýbala, ani jsem se nikam neschovala. Nezačala jsem analyzovat, jestli jsem normální. Prostě jsem tam byla. A Matýsek se smál. Nebyla jsem pro něho skutečná hrozba, měla jsem jen obavy z vlastního myšlení."
+                      "content": "**Klára** \n \n Klára byla na zahradě, když ji oslovil sousedův malý chlapeček Kubík. Najednou ji přepadla vtíravá myšlenka, která ji hodně zneklidnila: „Co když se mi líbilo se na něj podívat? Co když mě to vzrušuje?“ \n \n Zastavila se. Vnímala své tělo, cítila napětí a úzkost. Ale nereagovala. Neutekla, ani se Kubíkovi jinak nevyhýbala. Řekla si: „Je to blbost, žádné vzrušení necítím. Je to jen myšlenka...“ Dál si s ním ještě pár minut povídala. \n \n Potom si zapsala: „Myšlenka mě nezastavila. Nepřevzala nade mnou kontrolu. A já s ní můžu žít, aniž bych se jí musela nějak bránit nebo něco dokazovat.“"
                     }
                   ]
                 },
@@ -498,7 +813,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Lukáš** \n \n **Plán expozice:** Přečtu si text, který není v souladu s mojí vírou. Nebudu se pak modlit ani se omlouvat Bohu. Článek celý přečtu a neudělám žádnou zklidňující kompulzi. \n \n **Obtížnost expozice:** 5/10 \n \n **Průběh expozice:** Během čtení se ve mně zvedla vlna viny. Napětí bylo tak 5/10 při čtení a 7/10 po dočtení. Hned po poslední větě jsem měl nutkání se pomodlit, ale zůstal jsem v tichu. Prostě jsem seděl, vnímal jsem své tělo a udělal jsem zápis do deníku expozic. Po dvaceti minutách bylo napětí už jen na 3/10. \n \n **Zhodnocení:** Číst polemiku o víře není hřích, ale může to být impulz k růstu. Víra může být přítomná i v tichu."
+                      "content": "**Lukáš** \n \n Lukáše během modlitby zničehonic napadla rouhavá věta, že by mohl „Boha nakopnout do zadku.“ I představa, jak kope. Vyděsil se. Měl nutkání odčinit svou úzkost opakovaným modlením, odříkáním nebo dlouhým půstem. Měl na sebe vztek a cítil narůstající napětí, jako by měl přijít soudný den. \n \n Tentokrát ale zůstal sedět. Myšlenka se objevila znovu. Nepokusil se ji potlačit ani s ní bojovat. Jen ji nechal být. Po chvíli odezněla. Pak se vrátila… a zase odešla. Napětí přicházelo a odcházelo, až postupně zesláblo. \n \n Později si napsal: „Rouhavé myšlenky a představy nejsou čin. Je to jen obsese. Nic víc. A já se mohu rozhodnout jim nepřikládat význam.“"
                     }
                   ]
                 },
@@ -523,7 +838,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Veronika** \n \n **Plán expozice:** Když se objeví nějaký příznak, nebudu hledat informace na internetu, ani nikomu nebudu telefonovat a zjišťovat, co to je. Chci to vydržet 24 hodin. \n \n **Obtížnost expozice:** 4/10 \n \n **Průběh expozice:** Večer mě začalo bolet v podbřišku. Obvykle bych ihned zjišťovala, co to může být. Celý večer jsem měla pocit, že něco zanedbávám. Napětí bylo večer 6/10, vrcholilo až na 8/10 při usínání. Bolest opadla, ale úzkost ne. Uvařila jsem si čaj, četla jsem knihu a udělala jsem si zápis do deníku. Myslela jsem, že celou noc probdím, ale byla jsem unavená a nakonec jsem usnula. Ráno jsem cítila úlevu. Bez jakéhokoli zásahu. Ranní napětí bylo už jen 2/10. \n \n **Zhodnocení:** Úzkost mě tlačila k činu, ale tělo si poradilo i bez kontroly. Nejistota je těžká, ale ne nebezpečná."
+                      "content": "**Veronika** \n \n Veroniku zabolelo břicho. Okamžitě ji napadlo: „Mám nádor. Musím to hned řešit!“ Cítila strach. Pak si řekla: „Jsem zvyklá se hodně pozorovat. Možná přeháním. Tohle se mi stává často.“ Ihned se to přelilo zpět: „Ale co když to je opravdu nádor? Jak mám poznat, co je reálné a co je obsese? Zavolám doktorovi.“ \n \n Zastavila se. Řekla si: „Tělo něco cítí. Myšlenka to pak hodnotí. Ani jedno není důkaz, že mám nádor.“ Neudělala nic. Nechala bolest být. Ještě chvíli seděla na gauči, potom vstala a dala prát prádlo. Postupně se uklidnila. Břicho už ji nebolelo. Cítila se vyčerpaně. \n \n Nakonec pokrčila rameny a zapsala si do deníku: „Dnes jsem jen sledovala, co se ve mně děje, a nehledala jsem, co to znamená.“"
                     }
                   ]
                 },
@@ -548,7 +863,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Michal** \n \n **Plán expozice:** Chci být o víkendu celý den s Mirkou bez jediné otázky o citech nebo vztahu. Nebudu se ptát, jestli mě má ráda nebo jestli jsem pro ni ten pravý. Ani to nebudu zjišťovat nijak skrytě. Prostě jen budu s ní a budeme dělat normální věci. \n \n **Obtížnost expozice:** 4/10 \n \n **Průběh expozice:** První hodiny byly náročné. Napětí 6/10 ráno. Několikrát jsem už otevřel pusu, ale zastavil jsem se. Vůbec to nebylo lehké. Pak to během dne postupně kleslo – 5/10 odpoledne, 2/10 večer. Vařili jsme spolu a zašli jsme na výlet do Divoké Šárky. Místo otázek jsem ji držel za ruku. Usmívala se. Protože kvetly třešně, dali jsme si pod jednou z nich pusu. Bylo to fajn. \n \n **Zhodnocení:** Láska není o slovech, ale o přítomnosti. Nemusel jsem se ptát, a přesto jsem cítil její blízkost. Když jsem se soustředil na společný čas, bylo to mnohem silnější než jakékoli ujištění."
+                      "content": "**Michal** \n \n Michal seděl vedle Mirky a problesklo mu: „Možná necítím lásku. Možná to celé předstírám. Co když ji nemiluji a nikdy jsem ji nemiloval?!“ \n \n Ztuhl. Ale neřekl nic. Nerozvíjel to dál. Jen dýchal. Myšlenka přišla… a pomalu odešla. Chvíli mlčel, a pak se zeptal Mirky, jestli nechce udělat něco k pití. Uvařil jí čaj a sobě taky. \n \n Večer si zapsal: „Lásku někdy nelze cítit úplně jasně. Ale to neznamená, že není skutečná. Znamená to jen, že moje mysl je pod tlakem OCD – a já se rozhodl tomu nevěnovat pozornost.“"
                     }
                   ]
                 },
@@ -573,7 +888,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Jirka** \n \n **Plán expozice:** Podívám se během jízdy na poznávací značky aut bez toho, abych si je spočítal nebo „vyrovnal“ čísla kompulzí. Vydržím napětí a nebudu nic napravovat počítáním, ani hledáním „bezpečného čísla“. \n \n **Obtížnost expozice:** 6/10 \n \n **Průběh expozice:** Ráno jsme s Luckou jeli na výlet. Seděl jsem na místě spolujezdce a díval jsem se z okna. Po chvíli jsem si začal všímat SPZ aut. Na některých byla čísla, která ve mně spouštěla obavy. Hned se ve mně spustilo nutkání je rychle sečíst, porovnat, jestli jde o prvočíslo, a pak najít další SPZ, která „vynuluje“ tu nebezpečnou. \n \n Tentokrát jsem vědomě dýchal a nechal to být. Napětí se zvedlo hned, asi na 7/10. Měl jsem chuť zavřít oči nebo koukat do telefonu. Ale zůstal jsem přítomný. Všímal jsem si stromů, mraků, hudby v rádiu. Napětí chvílemi kolísalo, ale nezmizelo úplně. \n \nKdyž jsme dojeli, napětí spadlo na 4/10. Neudělal jsem žádnou kompulzi. K večeru, když jsme jeli zpět, jsem byl unavený a měl větší nutkání „si pomoct“ počítáním. Ale vydržel jsem. Připomínal jsem si, že i když se bojím, není to nutné řešit kompulzemi. \n \n **Zhodnocení:** Čísla nemají magickou moc. Když je nechám být, nic se nestane. Úzkost odezní i bez kompulze. Dnešní expozice mi ukázala, že jsem schopný s tím něco dělat i bez magického počítání."
+                      "content": "**Jirka** \n \n Jirka šel po parkovišti k autu. Hned u vchodu do garáže zahlédl poznávací značku, která končila číslem 113. V hlavě se mu okamžitě rozběhly známé věty: „To je špatné znamení. Když teď odjedu, něco se stane. Měl bych si to ověřit. Najít aspoň jedno číslo dělitelným čtyřmi…“ \n \n Zastavil se. Vnímal, jak se mu rozbušilo srdce. V minulosti by teď začal počítat auta, okna nebo kroky, dokud by se nedostal na „bezpečné číslo“. \n \n Ale tentokrát jen tiše řekl: „Tohle je ta myšlenka, kterou znám. Není to varování. Je to OCD.“ \n \n Rozhlédl se po okolí, na nebe, na stromy, na lidi, kteří procházeli kolem, a pokračoval k autu. Myšlenka sice chvíli zůstala, ale její síla slábla. \n \n Večer si zapsal: „Měl jsem obavu, že prvočíslo přinese neštěstí. Ale neposlechl jsem ji. A svět běžel dál. Myšlenka není fakt. Je to jen šum, který odezní, když mu nenaslouchám.“"
                     }
                   ]
                 }
@@ -582,50 +897,7 @@
           ]
         },
         {
-          "title": "Co vám může pomoci?",
-          "icon": "text",
-          "contentSections": [
-            {
-              "type": "markdown",
-              "content": "Expozice mohou být hlavně ze začátku náročné. Ale vytrvat se vyplatí! Máme pro vás pár užitečných doporučení."
-            },
-            {
-              "type": "noteBox",
-              "desktopImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Zapisnik_expozic_e82bdda011.svg",
-              "mobileImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Zapisnik_expozic_e82bdda011.svg",
-              "backgroundColor": "#EFE9EC",
-              "textColor": "#553C4A",
-              "text": "**Zápisník expozic** \n \n Dostat myšlenky na papír pomáhá vyčistit hlavu. Do zápisníku si můžete zaznamenávat svůj plán, jak se měnila vaše úzkost, jak dlouho jste v expozici zůstávali a co se vám honilo hlavou.",
-              "desktopImageWidth": "78px",
-              "mobileImageWidth": "78px",
-              "isWrapping": true
-            },
-            {
-              "type": "noteBox",
-              "desktopImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Cetnost_expozic_59d2f345a5.svg",
-              "mobileImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Cetnost_expozic_59d2f345a5.svg",
-              "backgroundColor": "#E5EBE3",
-              "textColor": "#24615A",
-              "text": "**Četnost expozic** \n \n Čím častěji se expozicím věnujete, tím lépe. Ideální je alespoň jednou denně. Postupně vám to půjde lépe a nepříjemné pocity už nebudou tak silné, jako ze začátku.",
-              "desktopImageWidth": "78px",
-              "mobileImageWidth": "78px",
-              "isWrapping": true
-            },
-            {
-              "type": "noteBox",
-              "desktopImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Co_je_dobre_vedet_da251c83cd.svg",
-              "mobileImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Co_je_dobre_vedet_da251c83cd.svg",
-              "backgroundColor": "#F1F2F4",
-              "textColor": "#27637C",
-              "text": "**Co je dobré vědět?** \n \n - I neúspěšný pokus se počítá. Je to zkušenost, která vás posune dál. \n -  Jako přípravu si to můžete nejdřív představit. To je bezpečnější, takže to jde snáz. \n - I minuty, kdy vydržíte o trochu víc než včera, se počítají. \n - Expozice je dokončená, když intenzita negativní emoce během expozice klesne na polovinu. Pak je možné se posunout k těžší situaci v hierarchii.",
-              "desktopImageWidth": "78px",
-              "mobileImageWidth": "78 px",
-              "isWrapping": true
-            }
-          ]
-        },
-        {
-          "title": "Kvíz o expozicích se zábranou odpovědi",
+          "title": "Kvíz o zkresleném významu myšlenek",
           "icon": "Star",
           "contentSections": [
             {
@@ -634,70 +906,70 @@
               "questions": [
                 {
                   "name": "Question1",
-                  "question": ":::text--center \n Když Jana sáhne na madlo v tramvaji a odolá nutkání použít dezinfekční ubrousek, co tím získává? \n :::",
+                  "question": ":::text--center \n Veronika si všimla lehkého tlaku na hrudi. Napadlo ji: „Co když je to infarkt?“ A vzápětí: „Jsem hrozná, že na to tak moc myslím. Možná si vymýšlím.“ Co jí nejvíce pomůže? \n :::",
                   "options": [
                     {
-                      "label": "A) Přesvědčení, že bakterie nejsou nebezpečné",
+                      "label": "A) Důkladně si vyhledat příznaky na internetu a zkontrolovat, jestli to není něco vážného.",
                       "value": 0
                     },
                     {
-                      "label": "B) Důkaz, že úzkost se může snížit i bez kompulze",
+                      "label": "B) Donutit se myslet na něco pozitivního.",
                       "value": 1
                     },
                     {
-                      "label": "C) Ujištění, že se určitě nenakazí",
-                      "value": 2
-                    }
-                  ],
-                  "correctAnswer": 1,
-                  "correctAnswerReason": "Správná odpověď je B). Jana se učí, že úzkost může sama odeznít, aniž by musela provést uklidňující kompulzi. Díky tomu získává novou zkušenost, že může být v bezpečí i bez dezinfekce."
-                },
-                {
-                  "name": "Question2",
-                  "question": ":::text--center \n Petr se pustil do expozice, kdy odešel z bytu s nejistotou, jestli vypnul konvici. Má silné nutkání se vrátit. Jak by měl postupovat, aby expozice byla účinná? \n :::",
-                  "options": [
-                    {
-                      "label": "A) Napsat si poznámku a zkontrolovat konvici večer",
-                      "value": 0
-                    },
-                    {
-                      "label": "B) Nechat přítelkyni, ať to zkontroluje za něj",
-                      "value": 1
-                    },
-                    {
-                      "label": "C) Zůstat v autě a vůbec se nevracet",
+                      "label": "C) Připomenout si, že myšlenka není důkaz, a jen ji pozorovat.",
                       "value": 2
                     }
                   ],
                   "correctAnswer": 2,
-                  "correctAnswerReason": "Správná odpověď je C). Petr se pustil do expozice se zábranou odpovědi. Nemá se tedy udělat kompulzi – sám, ani prostřednictvím jiného člověka. Jedině tak se může postupně naučit, že i nejistota může být zvládnutelná."
+                  "correctAnswerReason": "Správná odpověď je C). Myšlenky nejsou důkazy. U OCD často přicházejí vtíravé obavy i hodnotící meta-kognice. Důležité je myšlenku jen zaznamenat a nechat ji být, bez reakce."
                 },
                 {
-                  "name": "Question3",
-                  "question": ":::text--center \n Eva během expozice nechala ležet kuchyňský nůž na lince. Má vtíravou myšlenku, že by mohla někomu ublížit. Jak může podpořit svou expozici bez toho, aby se zapojila do kompulze? \n :::",
+                  "name": "Question2",
+                  "question": ":::text--center \n Při čtení novin Eva zahlédla slovo „útok“ a hned ji napadlo: „Co když něco udělám? Co když to ve mně je?“ Co o takové myšlence platí? \n :::",
                   "options": [
                     {
-                      "label": "A) Vydržet s úzkostí a dovolit jí, aby sama odezněla",
+                      "label": "A) Je varováním, které se musí brát vážně.",
                       "value": 0
                     },
                     {
-                      "label": "B) Znovu zkontrolovat, kde je nůž",
+                      "label": "B) Je jako vlna na hladině - přichází a časem mizí.",
                       "value": 1
                     },
                     {
-                      "label": "C) Požádat partnera, ať nůž uklidí",
+                      "label": "C) Je hlasem jejích skrytých tužeb.",
+                      "value": 2
+                    }
+                  ],
+                  "correctAnswer": 1,
+                  "correctAnswerReason": "Správná odpověď je B). U agresivních obsesí lidé často věří, že myšlenka něco znamená. Ve skutečnosti jsou to jen nápady mysli. Pozorování bez reakce pomáhá jejich sílu oslabit."
+                },
+                {
+                  "name": "Question3",
+                  "question": ":::text--center \n Kláru napadla zneklidňující představa při kontaktu s dítětem. Řekla si: „Co když to znamená, že jsem zvrácená?“ Co je vhodné si v takové chvíli připomenout? \n :::",
+                  "options": [
+                    {
+                      "label": "A) Že vtíravá myšlenka je jen náhodný nápad, ne to, kým Klára je.",
+                      "value": 0
+                    },
+                    {
+                      "label": "B) Že takové myšlenky mají jen špatní lidé, kteří by se za sebe měli stydět.",
+                      "value": 1
+                    },
+                    {
+                      "label": "C) Že každá myšlenka říká něco o naší povaze.",
                       "value": 2
                     }
                   ],
                   "correctAnswer": 0,
-                  "correctAnswerReason": "Správná odpověď je A). U expozice se zábranou odpovědi je důležité dovolit si nejistotu a nesnažit se ji okamžitě zmírnit kontrolou nebo hledáním ujištění. Expozice jsou účinné jen tehdy, když během nich provádíme kompulze."
+                  "correctAnswerReason": "Správná odpověď je A). Obsese nejsou vyjádřením skutečné touhy. Jsou to automatické, vtíravé impulzy, které většinu lidí s OCD zneklidní právě proto, že jsou v rozporu s jejich hodnotami."
                 }
               ]
             }
           ]
         },
         {
-          "title": "Cvičení: Plán expozice se zábranou odpovědi",
+          "title": "Cvičení: Práce s vtíravými myšlenkami",
           "icon": "exercise",
           "isEvaluable": true,
           "finalScreen": {
@@ -722,7 +994,7 @@
           "contentSections": [
             {
               "type": "markdown",
-              "content": "V tomto cvičení si naplánujete expozici se zábranou odpovědi. Plánovat si expozice je užitečné, protože vás to nejen lépe připraví, ale také si tím nastavujete jasná a konkrétní očekávání."
+              "content": "V tomto cvičení se naučíte zachytit vtíravou myšlenku, porozumět jejímu vlivu a vytvořit si k ní věcný, klidnější pohled. Doporučujeme začít s myšlenkou, která je pro vás trochu nepříjemná, ale ne zahlcující. Až si to vyzkoušíte, můžete postupovat k silnějším myšlenkám. \n \n **Můžete se inspirovat od postav z příběhů.**"
             },
             {
               "type": "stepByStep",

@@ -786,7 +786,7 @@
                       "value": 2
                     }
                   ],
-                  "correctAnswer": 1,
+                  "correctAnswer": 0,
                   "correctAnswerReason": "Správná odpověď je A). Kritik sice může působit jako ochrana před možným odmítnutím, ale současně Kláře brání v blízkosti. Když si připustí, že její obava dává smysl, a přesto se rozhodne jednat s důvěrou a odvahou, otevírá si prostor pro nový, soucitnější přístup k sobě i druhým."
                 },
                 {
@@ -806,7 +806,7 @@
                       "value": 2
                     }
                   ],
-                  "correctAnswer": 0,
+                  "correctAnswer": 2,
                   "correctAnswerReason": "Správná odpověď je C). Pokud se člověk Kritikovi nepostaví a nechá mu volné pole působnosti, Kritik se často dostane do dalších oblastí života. Může ovlivňovat vztahy, práci i každodenní rozhodování a místo pomoci přináší stále větší tlak a nesvobodu."
                 }
               ]

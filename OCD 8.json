@@ -1,0 +1,1845 @@
+{
+  "pages": [
+      {
+          "title": "Vítejte v osmém modulu",
+          "icon": "video",
+          "contentSections": [
+            {
+              "type": "video",
+              "url": "xx",
+              "captionsUrl": "xx"
+            },
+            {
+              "type": "collapse",
+              "content": "Vítáme vás v novém modulu. Tentokrát to bude trošku jiné. Nezaměříme se tolik na to, co se s vámi děje uvnitř, ale na to, co se děje **mezi vámi a druhými**. Na **vztahy**. Na to, jak mluvíte o své úzkosti, o pochybách, o obsedantních myšlenkách. A hlavně na to, jak často vlastně nemluvíte přímo, ale hledáte ujištění. \n \n U OCD je **hledání ujištění** velmi časté. Vypadá jako snaha o blízkost, ale vlastně to tak není. Je to pokus zbavit se nejistoty. A i když vám druhý odpoví, že je vše v pořádku, že jste to neudělali špatně nebo že vás má rád, úleva vydrží jen krátce. A ozve se znovu. \n \n Pak se ptáme zase. A zase. Nebo **tlačíme**, aby druhý člověk něco udělal, třeba aby si znovu umyl ruce. Možná ho pak **kontrolujeme**, jestli to udělal správně. A když nesplnil, co potřebujeme, přijde hněv, výčitky nebo zklamání... \n \n Ale kvůli tomu se **blízkost naopak vytrácí**. Naše vztahy se zužují jen na hledání úlevy. Druhý člověk přestane být partnerem, rodičem nebo kamarádem. Stane se jakýmsi **nástrojem k uklidnění**. A to většinou nefunguje. Ve vztahu narůstá napětí, začneme se hádat a trápit. \n \n Lidé s OCD mají často potíže mluvit o svých pocitech a potřebách **přímo**. Místo věty „Je mi úzko,“ často zazní otázka: „Neudělala jsem něco špatně?“ Nebo místo toho, aby vyjádřili strach, začnou druhému vysvětlovat, moralizovat a přesvědčovat ho o své pravdě. \n \n A právě to dnes zkusíme **změnit**. Naučíme se rozpoznat, kdy hledáme jistotu, a místo ní nabídnout druhému něco opravdovějšího. Sebe. Své pocity. Svou nejistotu. Bez tlaku na odpověď a bez kontroly. \n \n Protože mluvit o OCD není slabost. A sdílení nejistoty nemusí být přítěží. Může to být cesta ke skutečné blízkosti. \n \n Je bezvadné, že jdete do toho s námi. Pojďme se podívat, jak na to.",
+              "title": "Radši si přečtu"
+            },
+            {
+              "type": "list",
+              "title": "**V tomto modulu se dozvíte:**",
+              "color": "#27637C",
+              "items": [
+                "Jak může OCD ovlivňovat komunikaci mezi lidmi.",
+                "Co to může znamenat pro naše vztahy.",
+                "Jak komunikovat, aby bylo dobře nám i druhému člověku."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Dotazník o příznacích OCD",
+          "icon": "check",
+          "isEvaluable": true,
+          "finalScreen": {
+            "buttonLabel": "Upravit odpovědi",
+            "contentSections": [
+              {
+                "type": "image",
+                "isExpandable": true,
+                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Therapist_84844fe845.svg",
+                "width": "318px",
+                "alt": "Terapeutka sedící u počítače, vyhodnocující modul",
+                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Therapist_84844fe845.svg",
+                "widthMobile": "250px",
+                "align": "center"
+              },
+              {
+                "type": "markdown",
+                "content": ":::text--center \n #### Je to důležité! \n \n Pro terapeuta je podstatné sledovat, jak jste na tom právě teď. \n :::"
+              }
+            ]
+          },
+          "contentSections": [
+            {
+              "type": "oci12Survey"
+            }
+          ]
+        },
+        {
+          "title": "Dotazník o příznacích deprese",
+          "icon": "check",
+          "isEvaluable": true,
+          "finalScreen": {
+            "buttonLabel": "Upravit odpovědi",
+            "contentSections": [
+              {
+                "type": "image",
+                "isExpandable": true,
+                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Flowers_0e031c2a29.svg",
+                "width": "138px",
+                "alt": "Kopretina v růžovém květináči",
+                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Flowers_0e031c2a29.svg",
+                "widthMobile": "138px",
+                "align": "center"
+              },
+              {
+                "type": "markdown",
+                "content": ":::text--center \n #### Děkujeme za vyplnění! \n \n Příznaky deprese mají vliv na to, jak nás obsese ovlivňují. \n :::"
+              }
+            ]
+          },
+          "contentSections": [
+            {
+              "type": "phq9Survey"
+            }
+          ]
+        },
+        {
+          "title": "Ohlédnutí za minulým týdnem",
+          "icon": "exercise",
+          "isEvaluable": true,
+          "contentSections": [
+            {
+              "type": "markdown",
+              "content": "V předchozím modulu jste se seznámili s hlasem **vnitřního Kritika**. Jak se vám dařilo ho u sebe rozpoznávat a odpovídat mu hlasem **Zdravého dospělého** a **Laskavého rodiče**? Jak postupujete v hierarchii expozic?"
+            },
+            {
+              "type": "pictureAndNote",
+              "image": {
+                "isExpandable": true,
+                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Scenar_expozice_af5f82448b.svg",
+                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Scenar_expozice_mobile_9d736d9bed.svg",
+                "alt": "Zápisník se zakroužkovaným textem",
+                "width": "164px",
+                "widthMobile": "100%",
+                "align": "center"
+              },
+              "note": {
+                "title": "**Stručně popište, zda nebo jak jste se pustili do práce s kritickými myšlenkami.**",
+                "rows": 2,
+                "placeholder": "Čemu jste se věnovali?",
+                "required": false
+              }
+            },
+            {
+              "type": "pictureAndNote",
+              "image": {
+                "isExpandable": true,
+                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Moje_uspechy_c0a40b6efb.svg",
+                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Moje_uspechy_mobile_760e0e3cee.svg",
+                "alt": "Hora s praporkem na vrcholu",
+                "width": "164px",
+                "widthMobile": "100%",
+                "align": "center"
+              },
+              "note": {
+                "title": "**Co se vám při tom povedlo? Z čeho jste měli dobrý pocit?**",
+                "rows": 2,
+                "placeholder": "Moje úspěchy a pokroky",
+                "required": false
+              }
+            },
+            {
+              "type": "pictureAndNote",
+              "image": {
+                "isExpandable": true,
+                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Novy_pohled_2ee4153b6b.svg",
+                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Novy_pohled_mobile_367cf25a29.svg",
+                "alt": "Srdce rozděléné do čtyř puzzle dílků",
+                "width": "164px",
+                "widthMobile": "100%",
+                "align": "center"
+              },
+              "note": {
+                "title": "**Co jste o sobě během výzvy zjistili?**",
+                "rows": 2,
+                "placeholder": "Můj nový pohled",
+                "required": false
+              }
+            }
+          ]
+        },
+        {
+          "title": "Zpráva pro terapeuta",
+          "icon": "exercise",
+          "isEvaluable": true,
+          "finalScreen": {
+            "buttonLabel": "Upravit odpovědi",
+            "contentSections": [
+              {
+                "type": "image",
+                "isExpandable": true,
+                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Hands_1de1a67dae.svg",
+                "width": "220px",
+                "alt": "Dvě ruce natažené k sobě, symbolizující podporu, propojení a lidský kontakt",
+                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Hands_1de1a67dae.svg",
+                "widthMobile": "220px",
+                "align": "center"
+              },
+              {
+                "type": "markdown",
+                "content": ":::text--center \n #### Jsme rádi, že to sdílíte! \n \n Váš terapeut ocení, že jste mu zanechali vzkaz. \n :::"
+              }
+            ]
+          },
+          "contentSections": [
+            {
+              "type": "image",
+              "isExpandable": true,
+              "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Zprava_pro_terapeuta_22d2000e96.svg",
+              "width": "100%",
+              "alt": "Ruka držící dopis v obálce",
+              "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Zprava_pro_terapeuta_mobile_e785e38a53.svg",
+              "widthMobile": "100%",
+              "align": "center"
+            },
+            {
+              "type": "note",
+              "placeholder": "Co máte na srdci?",
+              "title": "**Terapeutovi můžete napsat o čemkoli. Jak jste se od posledně měli? Co vám udělalo radost?**",
+              "rows": 3,
+              "maxLength": 2000,
+              "lengthValidationMessage": "Maximální délka odpovědi je 2000 znaků.",
+              "required": false
+            }
+          ]
+        },
+        {
+          "title": "Komunikace a OCD",
+          "icon": "video",
+          "contentSections": [
+            {
+              "type": "video",
+              "url": "xx",
+              "captionsUrl": "xx"
+            },
+            {
+              "type": "collapse",
+              "content": "Když žijeme s OCD, naše **vnitřní úzkost** se přenáší i na naše nejbližší. Touha mít věci jisté, v pořádku nebo zabezpečené se snadno promění v **tlak na druhé**. Aby nám odpovídali, uklidňovali nás, nebo dělali věci tak, jak potřebujeme. Často to není záměr, ale automatická reakce na strach. \n \n Možná se bojíme, že nás druhý člověk **nepochopí**. A pak raději **mlčíme**, nebo naopak hledáme **ujištění**. Třeba se opakovaně ptáme: „Myslíš, že to bylo v pořádku?“ Na chvíli to pomůže. Ale jen na chvíli. Úleva odezní a úzkost se vrátí. A s ní i další otázky. Druhý člověk se může cítit zmatený, zatížený nebo vzdálený. \n \n Můžeme se také snažit druhého **nepřímo ovlivnit**. Třeba ho žádáme, aby si také umyl ruce. Jindy raději mlčíme a rozhovoru se vyhýbáme ze strachu, že nás druhý nepochopí. A pokud druhý neodpoví tak, jak čekáme, může to vyvolat pocity studu a viny nebo se můžeme rozzlobit. \n \n To vše ovlivňuje naše vztahy s druhými, hlavně ty partnerské, rodinné a pracovní. V tomto modulu se podíváme na to, jak to dělat jinak. Aby nám druhý člověk **porozuměl** a mohl nás **vyslyšet**. Budeme hledat způsob komunikace, který je přiměřený a respektuje obě strany. \n \n Podíváme se na to, co se v komunikaci vlastně děje. Zaměříme se na chvíle, kdy cítíme potřebu se ujistit. A tentokrát to neuděláme. Také si uvědomíme, kdy kvůli vlastní nejistotě nebo napětí druhé nadměrně kontrolujeme nebo na ně tlačíme. \n \n Cílem je zvládnout komunikovat **jasně a bez tlaku**. Na sebe ani na druhé. Tak, aby jste se cítili dobře. A aby vaše vztahy mohly růst s vámi.",
+              "title": "Radši si přečtu"
+            }
+          ]
+        },
+        {
+          "title": "Jak se může OCD projevovat v komunikaci?",
+          "icon": "text",
+          "contentSections": [
+            {
+              "type": "image",
+              "isExpandable": true,
+              "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Zprava_pro_terapeuta_22d2000e96.svg",
+              "width": "100%",
+              "alt": "Ruka držící dopis v obálce",
+              "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Zprava_pro_terapeuta_mobile_e785e38a53.svg",
+              "widthMobile": "100%",
+              "align": "center"
+            },
+            {
+              "type": "list",
+              "title": "**Jak se může OCD projevovat v komunikaci?**",
+              "color": "#27637C",
+              "items": [
+                "Vyhýbáme se rozhovoru, protože se bojíme nepochopení.",
+                "Obáváme se otevřenosti kvůli strachu, že když se svěříme, druhý nás opustí nebo odmítne.",
+                "Vyhýbáme se tématům souvisejícím s obsesemi (např. o nemocích, násilí nebo sexualitě).",
+                "Omluváme se za vlastní pocity nebo myšlenky.",
+                "Kontrolujeme druhé („Můžeš si taky umýt ruce?“).",
+                "Cítíme silné emoce, když druhý nereaguje podle našeho očekávání."
+              ]
+            },
+            {
+              "type": "list",
+              "title": "**Často se s úzkostí vyrovnáváme opakovaným hledáním ujištění: **",
+              "color": "#27637C",
+              "items": [
+                "„Myslíš, že je to v pořádku?“",
+                "„Opravdu jsem nic neudělal/a špatně?“",
+                "„Zkontroluj to prosím ještě jednou.“",
+                "„Nezlobíš se?“"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Cvičení: Jak OCD ovlivňuje moje vztahy ",
+          "icon": "exercise",
+          "isEvaluable": true,
+          "contentSections": [
+            {
+              "type": "checkBoxList",
+              "title": "**Zaškrtněte situace, které znáte z vlastní zkušenosti. Níže k tomu můžete dopsat komentář.**",
+              "instruction": "můžete vybrat více možností",
+              "required": true,
+              "isSingleColumn": true,
+              "options": [
+                {
+                  "name": "Často se druhých ptám, jestli jsem něco neudělal/a špatně.",
+                  "value": "AskToAssureMyself"
+                },
+                {
+                  "name": "Potřebuji, aby mi blízcí znovu potvrdili, že mě mají rádi.",
+                  "value": "ConfirmAffection"
+                },
+                {
+                  "name": "Když druhý nereaguje, mám sklon si myslet, že mě odmítá nebo se zlobí.",
+                  "value": "InsecureRelationship"
+                },
+                {
+                  "name": "Žádám druhé, aby udělali určité věci „správně“. Třeba si umyli ruce nebo něco zkontrolovali.",
+                  "value": "AskToDoItRight"
+                },
+                {
+                  "name": "Mívám silnou potřebu vysvětlovat, proč mám strach, i když druhý nerozumí nebo nesouhlasí.",
+                  "value": "UnwantedExplaining"
+                },
+                {
+                  "name": "Když mě blízcí neujistí, cítím vztek nebo zklamání.",
+                  "value": "AngerWhenInsecure"
+                },                        
+                {
+                  "name": "Mám potíže mluvit přímo o svých pocitech. Často to zabalím do vysvětlování nebo moralizace.",
+                  "value": "HardTalkAboutFeelings"
+                },                        
+                {
+                  "name": "Mívám sklon druhého testovat, např. mlčet, abych viděl/a, jestli si mě všimne.",
+                  "value": "TestingOthers"
+                },
+                {
+                  "name": "Kontroluji, zda druhý udělal to, co slíbil. I opakovaně.",
+                  "value": "ControlPromise"
+                },
+                {
+                  "name": "Cítím potřebu, aby se druhý choval určitým způsobem. Opakuji mu to, když to neudělá.",
+                  "value": "NeedSpecificBehavior"
+                },
+                {
+                  "name": "Když se necítím v bezpečí, říkám druhému, co „by měl“ nebo „nesmí“ dělat.",
+                  "value": "BossyWhenInsecure"
+                },
+                {
+                  "name": "Obviňuji druhé, když se necítím dobře, jako by za to mohli.",
+                  "value": "BlameOthers"
+                },
+                {
+                  "name": "Mám pocit, že když mi druhý neodpoví správně, je to důkaz, že mu na mně nezáleží.",
+                  "value": "ProofOfEvil"
+                },
+                {
+                  "name": "Mám potřebu se ujišťovat i o věcech, které druhý nemůže ovlivnit (např. jestli jsem dobrý člověk).",
+                  "value": "NeedAssuranceWhenInsecure"
+                },
+                {
+                  "name": "Přenáším odpovědnost za své emoce na druhé, místo abych o nich mluvil/a jako o svých.",
+                  "value": "TransferResponsibility"
+                }
+              ]
+            },
+            {
+              "type": "note",
+              "placeholder": "Jak OCD ovlivňuje mé vztahy",
+              "title": "**Níže to můžete blíže popsat.**",
+              "rows": 2,
+              "maxLength": 2000,
+              "lengthValidationMessage": "Maximální délka odpovědi je 2000 znaků.",
+              "required": false
+            }
+          ]
+        },
+        {
+          "title": "První část máte za hotovou!",
+          "icon": "text",
+          "contentSections": [
+            {
+              "type": "image",
+              "isExpandable": false,
+              "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Prvni_cast_mate_za_hotovou_c7a701be63.svg",
+              "width": "100%",
+              "alt": "Postava na začátku cesty s vlajkou s nápisem start",
+              "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Prvni_cast_mate_za_hotovou_mobile_c4eb2b9c28.svg",
+              "widthMobile": "100%",
+              "align": "center",
+              "unoptimized": true
+            },
+            {
+              "type": "list",
+              "title": "**Co jste dokázali:**",
+              "color": "#27637C",
+              "items": [
+                "Vnitřní úzkost a strach z nejistoty se přenáší na naše vztahy.",
+                "Lidé s OCD se často bojí o svých vnitřních obavách a pocitech mluvit otevřeně.",
+                "OCD může způsobovat, že se stahujeme do sebe, vyhýbáme se se rozhovorům nebo naopak kontrolujeme a tlačíme na druhé."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "David a jeho Vnitřní Kritik",
+          "icon": "Story",
+          "contentSections": [
+            {
+              "type": "markdown",
+              "content": "David zná vnitřního Kritika moc dobře. Často mu našeptává, že pokud nedohlédne na to, že je vše zarovnané a uspořádané, bude zodpovědný za nějaké neštěstí. Tentokrát se ale David rozhodl nenechat se Kritikem řídit."
+            },
+            {
+              "type": "stories",
+              "stories": [
+                {
+                  "name": "David",
+                  "toggleImageUrl": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Ikonka_David_cf10d257b3.svg",
+                  "contentSections": [
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Veronika_a_vtirave_myslenky_f267f57f34.svg",
+                      "width": "100%",
+                      "alt": "Komiks o tom, jak David odolal vnitřnímu kritickému hlasu a neudělal kompulzi",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Veronika_a_vtirave_myslenky_mobile_7d7b4b8293.svg",
+                      "widthMobile": "100%",
+                      "align": "center"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Příběhy",
+          "icon": "Story",
+          "contentSections": [
+            {
+              "type": "markdown",
+              "content": "Přečtěte si, jak se naši hrdinové popasovali se svým Kritikem. Připomínají vám některé z jejich příkladů vlastního Kritika? Zkuste se zamyslet i nad tím, jaké by pro vás bylo, kdybyste se svému Kritikovi postavili podobně jako oni."
+            },
+            {
+              "type": "noteBox",
+              "desktopImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lightbulb_Icon_5bba92e832.svg",
+              "mobileImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lightbulb_Icon_5bba92e832.svg",
+              "backgroundColor": "#EDF4F6",
+              "textColor": "#27637C",
+              "text": "**Nemusíte číst všechny příběhy.** Zkuste najít ten, ve kterém se nejvíce najdete. Můžete se na něj zaměřit i v dalších modulech a ostatní číst spíše pro zajímavost. Ale můžete je také vynechat.",
+              "desktopImageWidth": "84px",
+              "mobileImageWidth": "84px",
+              "isWrapping": true
+            },
+            {
+              "type": "cardStories",
+              "cards": [
+                {
+                  "title": "JANA",
+                  "subtitle": "administrativní pracovnice, 34 let",
+                  "description": "Janu trápí obavy ze znečištění. Má silný pocit zodpovědnosti, který ji stresuje.",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jana_karta_7c69375325.svg",
+                  "pictureMobileBackground": "#E5EBE3",
+                  "pictureMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jana_karta_mobile_7063c7503a.svg",
+                  "modalContentSections": [
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jana_modal_21111b8b39.svg",
+                      "width": "100%",
+                      "alt": "Obrázek Jany: Žena s dlouhými světle hnědými vlasy v culíku, v bílém triku a modrém svetru",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jana_modal_21111b8b39.svg",
+                      "widthMobile": "100%",
+                      "align": "center",
+                      "unoptimized": true
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "**Jana** \n \n Jana sedí s přáteli v kavárně. Povídají si, smějí se. Je to obyčejné, příjemné odpoledne. Vtom její kamarádka Bětka kýchla do kapesníku a v Janě to cuklo.\n \n Okamžitě se jí v hlavě ozval známý hlas Kritika: *„Viděla jsi to? Má rýmu. Její kapénky jsou teď všude. Na stole, ve vzduchu, i na tobě. Sáhla na tvůj hrnek. Jak můžeš sedět tak blízko?! Musíš se vydezinfikovat!“* \n \n Jana na chvíli ztuhla. Její dech se zkrátil a v mysli se vynořila další myšlenka: *„Když mě to tak rozrušilo, asi je to důležité. Jinak bych byla klidná.“* \n \n Tahle myšlenka ji napadla už mnohokrát. Ví, že to není o skutečném nebezpečí, ale o vnitřním napětí. \n \n Podívala se na Bětku, která se usmívala a klidně vyprávěla, jak se měla na dovolené. Jana sklopila pohled ke svým rukám, které měla položené na stole. Ničemu se nevyhýbala. Neposlouchala svého Kritika. \n \n Najednou jí proběhl myslí i jiný, vyrovnaný komentář. Klidný, věcný a podpůrný: *„Ano, lekla jsem se a na chvíli se ve mně ozval strach. Ale může být spousta důvodů, proč Bětka kýchla. Viróza je jen jeden z nich. A já nemusím skákat, jak můj Kritik píská.“* \n \n Jana zůstala. Nešla se mýt. Neutřela se do ubrousku. Neodsedla si. Jen tak tam byla a bavila se s přáteli. \n \n A když večer vzpomíná na tohle setkání, nevybaví si infekci. Ale přátelství. A to, že tentokrát se rozhodla jinak."
+                    }
+                  ]
+                },
+                {
+                  "title": "PETR",
+                  "subtitle": "technik, 45 let",
+                  "description": "Petr se bojí, že udělá chybu, která bude mít fatální následky. Vše raději pečlivě kontroluje.",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Petr_karta_cb6c382476.svg",
+                  "pictureMobileBackground": "#FFF3EF",
+                  "pictureMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Petr_karta_mobile_607dc58e33.svg",
+                  "modalContentSections": [
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Petr_modal_ccd80f55c5.svg",
+                      "width": "100%",
+                      "alt": "Obrázek Petra: Muž ve středním věku s kudrnatými šedými vlasy a plnovousem",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Petr_modal_ccd80f55c5.svg",
+                      "widthMobile": "100%",
+                      "align": "center",
+                      "unoptimized": true
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "**Petr** \n \n Petr sedí s Alenou v obýváku. Povídají si, sklenička vína, hezký, tichý večer. \n \n Vtom se mu v mysli vynoří Kritik: *„Určitě jsem v koupelně neotevřel okno. Může tam být pára. Vlhkost… Plíseň.... Musím se jít podívat, jestli jsem to udělal. Jinak se nám doma rozleze plíseň a budeme pořád nemocní!“* \n \n Petr znejistí. Cítí, jak mu tělem projede napětí. *„Když mě to tak zneklidnilo, asi to znamená, že je to důležité,“* napadne ho vzápětí. \n \n Na chvíli váhá. Zvednout se? Přerušit příjemné posezení? Pak si uvědomí: Tohle nutkání pro mě není nové. Tohle není realita. To jen mluví můj vnitřní Kritik. Zase straší. Zase přehání. \n \n Petr se zaměří na dech. Jen pár vteřin, dost na to, aby mezi myšlenku a reakci vstoupil jiný hlas. Zdravý dospělý: *„To, že tě něco zneklidní, neznamená, že to ohrožuje tvůj život. Nechat to být není nezodpovědnost. Je to důvěra. A právě teď je důležité i to, že jsi tady. S ní.“* \n \n Alena si všimne jeho napětí. „Děje se něco?“ zeptá se tiše. \n \n „Bojuju s nutkáním,“ přizná Petr. „Ale chci zůstat. S tebou.“ \n \n A zůstane. Nejde nic kontrolovat. Nesnaží se umlčet nejistotu. Jen jí nedává řízení do rukou. \n \n Později si ten večer připomene. Ne kvůli větrání v koupelně. Ale protože se rozhodl jinak. A jeho důvěra nebyla slabost. Byla to rozumná volba."
+                    }
+                  ]
+                },
+                {
+                  "title": "EVA",
+                  "subtitle": "studentka VŠ, 22 let",
+                  "description": "Eva má vtíravé představy, že by mohla někomu ublížit. Za tyto myšlenky se velmi stydí.",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Eva_karta_1d42669807.svg",
+                  "pictureMobileBackground": "#EFE9EC",
+                  "pictureMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Eva_karta_mobile_ff5c9a65ad.svg",
+                  "modalContentSections": [
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Eva_modal_8adc9d2543.svg",
+                      "width": "100%",
+                      "alt": "Obrázek Evy: mladá žena s kratšími kudrnatými zrzavými vlasy se žlutým baretem",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Eva_modal_8adc9d2543.svg",
+                      "widthMobile": "100%",
+                      "align": "center",
+                      "unoptimized": true
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "**Eva** \n \n Eva trávila víkend u své sestry. Dopoledne si sestra na chvíli odběhla a poprosila Evu, ať pohlídá neteř. V tu chvíli se v ní všechno sevřelo. \n \n Hned se jí ozval její Kritik: *„Co když jí ublížím? Co když jí něco udělám nechtěně? Co když to udělám chtěně?“* \n \n Byly to jen myšlenky, ale zněly jako hrozba. V těle se jí rozlil chlad a polil ji pot. Jako když si člověk myslí, že už došel na konec schodiště, ale je tam ještě jeden schod a on šlápne do prázdna. Hlavou se jí mihl Kritikův soud: \n \n *„Když mě to napadlo, znamená to, že jsem toho schopná. Jsem zlá. Tohle nezvládnu.“* \n \n Ten hlas zněl přesvědčivě. Byl tak kritický a odsuzující. Ale Eva už ho poznala. \n \n Na chvíli ztichla. Jen dýchala. A pak si vědomě připomněla to, co už ví. Byl to tichý, ale pevný a vyrovnaný tón, kterým si řekla: *„To, že se tě ty myšlenky dotýkají, není důkaz špatnosti. Je to důkaz, že ti na ní záleží. Ať tě napadne cokoliv, opravdu nechceš ublížit. Zvládneš to.“* \n \n Eva chvíli jen seděla a dýchala. Pak vzala holčičku do náruče. Opatrně, ale klidně. Dítě jí sevřelo prst a přitisklo se k ní. A tehdy to ucítila. Zvládla to."
+                    }
+                  ]
+                },
+                {
+                  "title": "DAVID",
+                  "subtitle": "knihovník, 36 let",
+                  "description": "David potřebuje, aby bylo vše kolem zarovnané a symetrické. Obává se magických důsledků.",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/David_karta_739e7ef7df.svg",
+                  "pictureMobileBackground": "#DFE8EB",
+                  "pictureMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/David_karta_mobile_662bfbf554.svg",
+                  "modalContentSections": [
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/David_modal_c2247c95c4.svg",
+                      "width": "100%",
+                      "alt": "Obrázek Davida: Muž s krátkými černými vlasy v bílé košili a hnědé pletené vestě",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/David_modal_c2247c95c4.svg",
+                      "widthMobile": "100%",
+                      "align": "center",
+                      "unoptimized": true
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "**David** \n \n David s Tomášem skládají novou skříňku. Šroubky, návod, trochu zmatku, ale i smích. \n \n Pak jeden šroubek nezapadl přesně. Lehce se vzpříčil. A v Davidovi se hned ozval jeho vnitřní Kritik: *„Tohle nebude rovné. A když něco není rovné, je to špatně. Skříňka se rozpadne. Stejně jako vztah, který není perfektní.“* \n \n Ztuhnul. Vnitřní Kritik zesílil: *„Musíš to udělat dokonale. Když ne, všechno se pokazí a ukáže se, že jsi na nic.“* \n \n David posmutněl. Všiml si, že už nejde o skříňku. Kritik už nehodnotil nábytek. Hodnotil jeho samotného. Přestal šroubovat. Věděl, že tohle je ta chvíle, kdy se může podvolit svému Kritikovi, nebo dát na sebe a přestat se srážet. \n \n Rozhodl se podívat na to z nadhledu. Připomněl si věty, které už někdy slyšel. Možná na terapii, možná od někoho blízkého. Zatím v něm nejsou přirozené. Ale chtěl jim zkusit dát prostor. \n \n „Vztahy nejsou rovné. Ani přesné. A přesto drží. Nemusíš všechno zvládnout perfektně, aby to bylo v pořádku. A abys byl v pořádku ty.“ \n \n Podíval se na Tomáše, který se usmíval a čekal, co bude dál. \n \n David navrhl: „Zkusme to takhle, a když to nebude držet, vrátíme se k tomu zítra. Nemusí to být dokonalé.“ \n \n Tomáš s úsměvem přikývl. A David? Zvolil jiný přístup. Ten, který dovoluje nedokonalost. A blízkost."
+                    }
+                  ]
+                },
+                {
+                  "title": "KLÁRA",
+                  "subtitle": "zdravotní sestra, 28 let",
+                  "description": "Kláru trápí myšlenky se sexuálními tématy. Stydí se a vyhýbá se intimitě.",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Klara_karta_fb018941e5.svg",
+                  "pictureMobileBackground": "#EFE9EC",
+                  "pictureMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Klara_karta_mobile_75a2027257.svg",
+                  "modalContentSections": [
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Klara_modal_a2e0d015d3.svg",
+                      "width": "100%",
+                      "alt": "Obrázek Kláry: Žena s dlouhými blond vlasy v růžovém svetru",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Klara_modal_a2e0d015d3.svg",
+                      "widthMobile": "100%",
+                      "align": "center",
+                      "unoptimized": true
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "**Klára** \n \n Klára dlouho tajila své OCD i před nejbližšími. Nedávno seděla se svou nejlepší kamarádkou Maruškou v kavárně. A najednou ji napadla potměšilá myšlenka Kritika: *„Přiznej jí, že máš někdy úchylné myšlenky. Uvidíš, že uteče. Jsi divná!“* \n \n V hlavě se rozjel známý kolotoč: *„Když si myslím něco špatného, jsem sama špatná.“* \n \n Klára ucítila známé napětí. Ale tentokrát si všimla, co se děje. Poznala Kritika. Ten hlas, který ji straší a vyčítá a kvůli kterému si připadá cizí. \n \n Zastavila se. Neodpověděla hned. Jen chvíli pozorovala, co se v ní odehrává. A pak našla jiný pohled… Byl to její Zdravý dospělý: \n \n *„Není divné mít strach. Divné je předstírat, že není. Myslet něco neznamená chtít to. Když to řekneš, dáváš šanci na blízkost, ne na odsouzení.“* \n \n Klára se zhluboka nadechla, sklonila hlavu a tiše řekla: \n \n„Někdy se mi v hlavě objeví dost nepříjemné myšlenky. O dětech, o blízkých. Jako bych jim mohla ublížit. Ale vím, že je to OCD. Ne já.“ \n \n Maruška chvíli mlčela. Pak natáhla ruku, položila ji na Klářinu a řekla: „Děkuju, že mi to říkáš. Vážím si toho. To chce odvahu.“ \n \n Klára pocítila, jak z ní se slovy Marušky opadává napětí. Poprvé zažila, že zranitelnost může být mostem. Ne hrozbou."
+                    }
+                  ]
+                },
+                {
+                  "title": "LUKÁŠ",
+                  "subtitle": "elektrikář, 30 let",
+                  "description": "Lukáš se bojí hříchu a neustále se modlí kvůli rouhavým myšlenkám. Cítí vnitřní rozpor.",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lukas_karta_40be25b691.svg",
+                  "pictureMobileBackground": "#FFF3EF",
+                  "pictureMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lukas_karta_mobile_543f887105.svg",
+                  "modalContentSections": [
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lukas_modal_19fee9701c.svg",
+                      "width": "100%",
+                      "alt": "Obrázek Lukáše: muž s plnovousem, pracovní kšilovkou v oranžové košili",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lukas_modal_19fee9701c.svg",
+                      "widthMobile": "100%",
+                      "align": "center",
+                      "unoptimized": true
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "**Lukáš** \n \n Lukáš večeří doma s kamarádkou Magdou. Těší se, že si popovídají, ale uprostřed věty ho přeruší náhlé nutkání. Ozve se hlas Kritika: *„Zapomněl ses pomodlit tak, jak máš. Bůh se od tebe odvrátí.“* \n \n A hned další myšlenka, přísný příkaz: *„Chceš jeho milost? Zopakuj to a udělej všechno správně.“* \n \n Uvědomuje si, že mu mysl podsouvá pravidlo: *„Když neřeknu modlitbu správně, něco se stane.“* A s tím přichází vina, kterou tak dobře zná a kterou zažívá, když mu vnitřní Kritik řekne: *„Zklamal jsi.“* \n \n Cítí tlak v hrudi. Ztrácí nit rozhovoru. Pak se podívá na Magdu, která tiše čeká. V tu chvíli si všimne, co se v něm děje. Zastaví se. Ten hlas, který mu našeptává, že záleží na každém slově… Poznává ho. Je to Kritik. Ale Lukáš v sobě zkusí hledat jiný hlas. Ten, který zná klid. Ten, který je mu skutečnou oporou. \n \n „Myslím, že modlitbu někdy používám jako záchranný kruh,“ řekne po chvíli ticha. „Ale zapomínám, že vztah s Bohem je o důvěře. Ne o přesném rituálu.“ \n \n Magda jen přikývne. A usměje se. Žádná výčitka. Lukáš se pomodlil až další den. Jednou, prostě a v klidu. Ne kvůli strachu, ale kvůli vztahu. Ne pro jistotu, ale z důvěry."
+                    }
+                  ]
+                },
+                {
+                  "title": "VERONIKA",
+                  "subtitle": "manažerka, 35 let",
+                  "description": "Veronika se bojí o své zdraví. Nechává se vyšetřovat, i když lékaři nic nenašli.",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Veronika_karta_bb390f8d7d.svg",
+                  "pictureMobileBackground": "#EFE9EC",
+                  "pictureMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Veronika_karta_mobile_ff4d1e518c.svg",
+                  "modalContentSections": [
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Veronika_modal_0eeca499fc.svg",
+                      "width": "100%",
+                      "alt": "Obrázek Veroniky: žena s dlouhými černými vlasy ve vysokém culíku v zeleném topu s perlovým náhrdelníkem",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Veronika_modal_0eeca499fc.svg",
+                      "widthMobile": "100%",
+                      "align": "center",
+                      "unoptimized": true
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "**Veronika** \n \n Veronice zavolal Filip a pozval ji na večeři. Těšila se na něj. Když si ale při oblékání nahmatala znaménko na ruce, její myšlenky se stočily jinam. \n \n Nastoupil její Kritik: *„Tohle je rakovina. Z procházky nic mít nebudu, protože na to budu myslet. A to je nebezpečné. Navíc, kdo myslí na rande, když může být nemocný?“* \n \n A pokračoval dál, s neochvějnou jistotou: *„Když to vnímáš jako hrozbu, musí to být reálné.“* \n \n Veronika poznala známý vzorec. Myšlenka se tváří jako fakt. Je to splynutí myšlenky se skutečností. To dobře zná. Na chvíli se trochu uvolnila, ale pak přišla Kritikova výčitka: *„Zase to podceňuješ.“* \n \n Cítila, jak se jí svírá hruď. Váhala. Vnímala ten tlak v sobě a myšlenky, které ho vyvolávaly. V tu chvíli se rozhodla je neposlechnout. Neuhnula. Zkusila najít jinou odpověď. Ne únik. Ale odvahu. \n \n „Myslím na rande, protože chci žít,“ řekne si. „Ne přežívat ve strachu. To znaménko kontroluju každý den. Dneska ne. Nepoběžím k lékaři. Dneska prostě půjdu ven s Filipem.“ \n \n A šla. Bez kontroly. Bez ujišťování. Jen tak. Drželi se za ruce. Bylo to obyčejné a krásné. A ten večer na znaménko zapomněla. Ne proto, že by se úplně přestala bát, ale protože se rozhodla neposlouchat hlas, který jí bral radost z přítomnosti. Dala přednost životu."
+                    }
+                  ]
+                },
+                {
+                  "title": "MICHAL",
+                  "subtitle": "učitel, 27 let",
+                  "description": "Michala trápí nutkavé pochybnosti o svém vztahu. Často se ujišťuje, že je vše v pořádku.",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Michal_karta_41e0daacdc.svg",
+                  "pictureMobileBackground": "#dfe8eb",
+                  "pictureMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Michal_karta_mobile_8530388119.svg",
+                  "modalContentSections": [
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Michal_modal_9a4f39a394.svg",
+                      "width": "100%",
+                      "alt": "Obrázek Michala: mladý muž s kudrnatými hnědými vlasy a brýlemi v modrém roláku",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Michal_modal_9a4f39a394.svg",
+                      "widthMobile": "100%",
+                      "align": "center",
+                      "unoptimized": true
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "**Michal** \n \n Michal šel domů z práce a po cestě přemýšlel, jestli opravdu miluje přítelkyni Mirku. V hlavě se začaly ozývat známé námitky jeho vnitřního Kritika: *„Pokud máš pochybnosti, tak ji nemiluješ. A to je podvod.“* \n \n A hned vzápětí, ostře a přesvědčivě: *„Láska je jistota. Když si nejsi jistý, tak ji nemiluješ.“* \n \n Michal se cítil zkroušeně. Ale zároveň si všiml, že tyhle myšlenky už zná. Vracejí se vždycky, když je pod tlakem. A pak si vzpomněl na něco, co řekl terapeut: „Pochybnost není důkaz, že milujeme málo. Je to jen strach z nejistoty.“ \n \n Michal šel dál a pozoroval, co mu běží hlavou. Pak si položil otázku: „Co by mi řekl někdo, komu věřím? Kdo vidí věci jasněji než tenhle vnitřní tlak?“ Představil si svého terapeuta, který mu už dřív pomohl rozplést podobné myšlenky. \n \n A pak se v něm vynořila klidná, tichá věta vlastního Zdravého dospělého: *„Když o ní přemýšlím, znamená to, že mi na ní záleží. Nemusím se tím trápit.“* \n \n Večer si s Mirkou povídali o budoucnosti. Michal necítil absolutní jistotu, že jsou pro sebe zrozeni. Cítil ale blízkost. A ta byla opravdová."
+                    }
+                  ]
+                },
+                {
+                  "title": "JIRKA",
+                  "subtitle": "lékař, 58 let",
+                  "description": "Jirku trápí obavy, že pokud nespočítá určitá čísla, stane se neštěstí v práci nebo v rodině.",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jirka_karta_01d80f6712.svg",
+                  "pictureMobileBackground": "#E5EBE3",
+                  "pictureMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jirka_karta_mobile_4fe638f329.svg",
+                  "modalContentSections": [
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jirka_modal_bdecd1b4aa.svg",
+                      "width": "100%",
+                      "alt": "Obrázek Jirky: starší muž se šedými vlasy a plnovousem, s brýlemi",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jirka_modal_bdecd1b4aa.svg",
+                      "widthMobile": "100%",
+                      "align": "center",
+                      "unoptimized": true
+                    },
+                    {
+                      "type": "markdown",      
+                      "content": "**Jirka** \n \n Jirka stál na zastávce a sledoval přijíždějící autobus. Poznávací značka: 3B7-421. Automaticky začal počítat: 3+7+4+2+1... 17. Prvočíslo. Panika. \n \n *„Musíš najít další čísla!“* ozval se mu v hlavě přísný hlas Kritika. *„Když to neuděláš, stane se něco hrozného. Jsi nezodpovědný!“* \n \n Jirka cítil, jak se mu svírá žaludek. Ale pak si vzpomněl na to, co si při dělání terapeutického programu zapsal do sešitu. Zastavil se a zhluboka se nadechl. \n \n *„Počkej,“* řekl si tiše. *„To není pravda. Tohle je jen můj Vnitřní Kritik. Nejsem zodpovědný za to, co se stane, když nespočítám čísla.“* \n \n Přísný hlas se ozval znovu: *„Ale co když...“* \n \n *„Ne,“* přerušil ho Jirka jemněji, ale rozhodně. *„To je jen OCD. Nejsem zlý člověk. Nepotřebuju být dokonalý.“* \n \n Poprvé po letech vstoupil do autobusu, aniž by dokončil počítání. Srdce mu bušilo, ale cítil také něco nového - hrdost. Neposlechl Kritika. Místo toho poslouchal svůj nový, laskavý hlas, který mu šeptal: *„Jsi v pořádku. Děláš pokrok. A to stačí.“*"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Kvíz o vnitřním Kritikovi",
+          "icon": "Star",
+          "contentSections": [
+            {
+              "type": "survey",
+              "variant": "quiz",
+              "questions": [
+                {
+                  "name": "Question1",
+                  "question": ":::text--center \n Michal přemýšlí, jestli je jeho vztah opravdu ten pravý. Vtom mu hlavou proběhne: „Kdyby to byla pravá láska, nepochyboval bych.“ Podle čeho může Michal poznat, že jde o jeho Kritika? \n :::",
+                  "options": [
+                    {
+                      "label": "A) Podle toho, že mu jeho vnitřní řeč nabízí klidný pohled na jeho vztah.",
+                      "value": 0
+                    },
+                    {
+                      "label": "B) Podle toho, že ho jeho vnitřní řeč povzbuzuje, aby se zaměřil na to, co cítí.",
+                      "value": 1
+                    },
+                    {
+                      "label": "C) Podle toho, že jeho vnitřní monolog vyvolává pocit tlaku a nepřiměřené nároky.",
+                      "value": 2
+                    }
+                  ],
+                  "correctAnswer": 2,
+                  "correctAnswerReason": "Správná odpověď je C). Kritika často poznáme podle toho, že zní přesvědčivě, a zároveň vyvolává pocit viny, tlaku nebo strachu. Michalův Kritik mu podsouvá, že pochybnosti znamenají selhání."
+                },
+                {
+                  "name": "Question2",
+                  "question": ":::text--center \n Klára sedí s kamarádkou v kavárně, když se ozve Kritik: „Přiznej, že máš divné myšlenky. Uvidíš, že uteče. “ Má dojem, že ji Kritik chrání. Zároveň si ale uvědomuje, že se kvůli tomu chce stáhnout a mlčet. Co jí v takové situaci nejvíce pomůže? \n :::",
+                  "options": [
+                    {
+                      "label": "A) Připomenout si, že její obava je pochopitelná, ale že ji může zvládnout i jinak než vyhýbáním.",
+                      "value": 0
+                    },
+                    {
+                      "label": "B) Dlouze přemýšlet, zda má Kritik pravdu, a raději se držet stranou, aby se vyhnula riziku.",
+                      "value": 1
+                    },
+                    {
+                      "label": "C) Potlačit hlas Kritika a snažit se na něj nemyslet, aby ji neovlivňoval. ",
+                      "value": 2
+                    }
+                  ],
+                  "correctAnswer": 1,
+                  "correctAnswerReason": "Správná odpověď je A). Kritik sice může působit jako ochrana před možným odmítnutím, ale současně Kláře brání v blízkosti. Když si připustí, že její obava dává smysl, a přesto se rozhodne jednat s důvěrou a odvahou, otevírá si prostor pro nový, soucitnější přístup k sobě i druhým."
+                },
+                {
+                  "name": "Question3",
+                  "question": ":::text--center \n David věří, že mu sebekritika pomáhá být zodpovědný. Už mu to ale zasahuje do osobního života. Přikazuje si téměř neustále, co říkat, jak se tvářit, kdy se omluvit. Co se může stát, když svého Kritika nechá bez omezení? \n :::",
+                  "options": [
+                    {
+                      "label": "A) Kritik zůstane v pozadí a ozve se jen, když bude opravdu potřeba.",
+                      "value": 0
+                    },
+                    {
+                      "label": "B) Uleví se mu, protože konečně bude dělat všechno správně.",
+                      "value": 1
+                    },
+                    {
+                      "label": "C) Kritik začne být silnější a bude řídit i oblasti, kde dřív nebyl.",
+                      "value": 2
+                    }
+                  ],
+                  "correctAnswer": 0,
+                  "correctAnswerReason": "Správná odpověď je C). Pokud se člověk Kritikovi nepostaví a nechá mu volné pole působnosti, Kritik se často dostane do dalších oblastí života. Může ovlivňovat vztahy, práci i každodenní rozhodování a místo pomoci přináší stále větší tlak a nesvobodu."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Cvičení: Práce s vtíravými myšlenkami",
+          "icon": "exercise",
+          "isEvaluable": true,
+          "finalScreen": {
+            "buttonLabel": "Upravit odpovědi",
+            "contentSections": [
+              {
+                "type": "image",
+                "isExpandable": true,
+                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Flowers_0e031c2a29.svg",
+                "width": "138px",
+                "alt": "Kopretina v růžovém květináči",
+                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Flowers_0e031c2a29.svg",
+                "widthMobile": "138px",
+                "align": "center"
+              },
+              {
+                "type": "markdown",
+                "content": ":::text--center \n #### Vnitřního Kritika nemusíte poslouchat. \n \n Dnes jste k tomu udělali první krok. \n :::"
+              }
+            ]
+          },
+          "contentSections": [
+            {
+              "type": "markdown",
+              "content": "V tomto cvičení se naučíme lépe poznávat **chvíle, kdy se ozývá náš vnitřní Kritik**. Někdy si ho všimneme snadno, jindy to jde těžko. Hlavně tehdy, když se tváří, jako by nám **chtěl pomáhat**. Jeho rozpoznání je prvním krokem k tomu, abyste si mohli vybrat, jak s ním naložíte."
+            },
+            {
+              "type": "stepByStep",
+              "required": true,
+              "steps": [
+                {
+                  "title": "Krok 1: Co se stalo a co vám řekl Kritik ",
+                  "contentSections": [
+                    {
+                      "type": "image",
+                      "isExpandable": true,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Falesny_radce_39d67fef19.svg",
+                      "width": "100%",
+                      "alt": "ddd",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Falesny_radce_39d67fef19.svg",
+                      "widthMobile": "100%",
+                      "align": "center"
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "Vzpomeňte si na situaci, kdy se vám v hlavě objevila myšlenka, která byla nepříjemná, zneklidňující, působila nátlakově (jako by „musela být pravda“) a nebo vyvolala strach, vinu či stud."
+                    },
+                    {
+                      "type": "note",
+                      "title": "**Stručně popište situaci**",
+                      "placeholder": "Popis situace",
+                      "rows": 2,
+                      "maxLength": 500,
+                      "lengthValidationMessage": "Maximální délka odpovědi je 500 znaků.",
+                      "required": true
+                    },
+                    {
+                      "type": "note",
+                      "title": "**Co vám našeptával Kritik**",
+                      "instruction": "Zapište si kritické myšlenky tak, jak vám skutečně zazněly v mysli",
+                      "placeholder": "Hlas Kritika",
+                      "rows": 2,
+                      "maxLength": 500,
+                      "lengthValidationMessage": "Maximální délka odpovědi je 500 znaků.",
+                      "required": true
+                    }
+                  ]
+                },
+                {
+                  "title": "Krok 2: Jak to znělo",
+                  "contentSections": [
+                    {
+                      "type": "image",
+                      "isExpandable": true,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Falesny_radce_39d67fef19.svg",
+                      "width": "100%",
+                      "alt": "ddd",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Falesny_radce_39d67fef19.svg",
+                      "widthMobile": "100%",
+                      "align": "center"
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "Přečtěte si myšlenky Kritika znovu - ideálně nahlas. Vnímejte, jak zní. Tón může prozradit víc než slova."
+                    },
+                    {
+                      "type": "checkBoxList",
+                      "title": "**Jak zněl hlas Kritika?**",
+                      "instruction": "můžete vybrat více možností",
+                      "required": true,
+                      "isSingleColumn": true,
+                      "options": [
+                        {
+                          "name": "Přísně – jako by dával rozkazy",
+                          "value": "Strict"
+                        },
+                        {
+                          "name": "Naléhavě – jako by se něco muselo stát hned",
+                          "value": "Urgent"
+                        },
+                        {
+                          "name": "Nátlakově – jako by se všechno muselo řídit podle něj",
+                          "value": "Pressuring"
+                        },
+                        {
+                          "name": "Zklamaně – jako by čekal víc",
+                          "value": "Disappointed"
+                        },
+                        {
+                          "name": "Ironicky – jako by se vám posmíval",
+                          "value": "Ironic"
+                        },
+                        {
+                          "name": "Katastroficky – jako by chtěl vyvolat paniku",
+                          "value": "Catastrophic"
+                        },                        
+                        {
+                          "name": "Moralisticky – jako by přísně soudil",
+                          "value": "Moralistic"
+                        },                        
+                        {
+                          "name": "Sebejistě a autoritativně – jako by věděl, jak to opravdu je",
+                          "value": "Confident"
+                        },
+                        {
+                          "name": "Lítostivě – jako by říkal: „To je hrozné, co jsi zač!“",
+                          "value": "Regrettable"
+                        },
+                        {
+                          "name": "Věcně, ale chladně – bez emocí a bezútěšně",
+                          "value": "Pragmatic"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "title": "Krok 3: Co od vás Kritik chtěl",
+                  "contentSections": [
+                    {
+                      "type": "image",
+                      "isExpandable": true,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Falesny_radce_39d67fef19.svg",
+                      "width": "100%",
+                      "alt": "ddd",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Falesny_radce_39d67fef19.svg",
+                      "widthMobile": "100%",
+                      "align": "center"
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "Kritik většinou nemluví jen „do větru“. Často něco požaduje, buď přímo, nebo v náznaku. Někdy používá strach, jindy výčitku, moralizování nebo apel na zdravý rozum."
+                    },
+                    {
+                      "type": "checkBoxList",
+                      "title": "**Co si myslíte, že od vás v té chvíli chtěl?**",
+                      "instruction": "můžete vybrat více možností",
+                      "required": true,
+                      "isSingleColumn": true,
+                      "options": [
+                        {
+                          "name": "Abych něco zkontroloval/a",
+                          "value": "Control"
+                        },
+                        {
+                          "name": "Abych se cítil/a provinile",
+                          "value": "Guilt"
+                        },
+                        {
+                          "name": "Abych si něco zakázal/a",
+                          "value": "Ban"
+                        },
+                        {
+                          "name": "Abych o tom pořád přemýšlel/a",
+                          "value": "Rumination"
+                        },
+                        {
+                          "name": "Abych se potrestal/a",
+                          "value": "Punishment"
+                        },
+                        {
+                          "name": "Abych se bál/a",
+                          "value": "Fear"
+                        },                        
+                        {
+                          "name": "Abych se omluvil/a, i když nevím za co",
+                          "value": "Apologize"
+                        },                        
+                        {
+                          "name": "Abych jednal/a dokonale a bez chyb",
+                          "value": "Perfection"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "note",
+                      "instruction": "Jiné",
+                      "placeholder": "Co chtěl Kritik",
+                      "rows": 1,
+                      "maxLength": 200,
+                      "lengthValidationMessage": "Maximální délka odpovědi je 200 znaků.",
+                      "required": false
+                    }
+                  ]
+                },
+                {
+                  "title": "Krok 4: Dvě stránky Kritika",
+                  "contentSections": [
+                    {
+                      "type": "image",
+                      "isExpandable": true,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Falesny_radce_39d67fef19.svg",
+                      "width": "100%",
+                      "alt": "ddd",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Falesny_radce_39d67fef19.svg",
+                      "widthMobile": "100%",
+                      "align": "center"
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "Někdy si všimneme, že se kvůli kritickým myšlenkám cítíme **mizerně**, a je nám jasné, že nám vůbec **nepomáhá**. Ale jindy to tak jednoznačné není. Zní to **užitečně**, a můžeme mít dojem, že bychom to měli **poslechnout**. Jenže zároveň taková „pomoc“ často víc bolí, než pomáhá. \n \n Je úplně normální, pokud máte smíšené pocity. Uvědomit si **dvojí tvář Kritika** je důležitý krok. Teď se na to zkusíme podívat konkrétně."
+                    },
+                    {
+                      "type": "checkBoxList",
+                      "title": "**„Mám dojem, že mi Kritik pomáhal, protože...“**",
+                      "instruction": "můžete vybrat více možností",
+                      "required": true,
+                      "isSingleColumn": true,
+                      "options": [
+                        {
+                          "name": "…mě nutil dávat si pozor a nedělat chyby.",
+                          "value": "AvoidMistakes"
+                        },
+                        {
+                          "name": "…mě držel pod kontrolou, abych někomu neublížil/a.",
+                          "value": "UnderControl"
+                        },
+                        {
+                          "name": "…mě chránil před tím, že bych mohl/a být špatný člověk.",
+                          "value": "PretectedMe"
+                        },
+                        {
+                          "name": "…mi pomáhal být silnější a mít všechno pod kontrolou.",
+                          "value": "BeStronger"
+                        },
+                        {
+                          "name": "…mě udržoval morálně správného/správnou.",
+                          "value": "KeptMoral"
+                        },
+                        {
+                          "name": "…mi dával jistotu, co je dobře a co špatně.",
+                          "value": "GaveAssurance"
+                        },                        
+                        {
+                          "name": "…mě motivoval být lepší a zodpovědnější.",
+                          "value": "MotivateMe"
+                        },                        
+                        {
+                          "name": "…když jsem ho poslechl/a, aspoň jsem „neudělal/a nic špatně.“",
+                          "value": "DidNoWrong"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "note",
+                      "instruction": "Jiné",
+                      "placeholder": "Jak Kritik “pomohl”",
+                      "rows": 1,
+                      "maxLength": 200,
+                      "lengthValidationMessage": "Maximální délka odpovědi je 200 znaků.",
+                      "required": false
+                    },
+                    {
+                      "type": "checkBoxList",
+                      "title": "**„Ale zároveň mi ubližoval tím, že...“**",
+                      "instruction": "můžete vybrat více možností",
+                      "required": true,
+                      "isSingleColumn": true,
+                      "options": [
+                        {
+                          "name": "...mě stresoval nebo vyčerpával.",
+                          "value": "StressedMeOut"
+                        },
+                        {
+                          "name": "...mi naháněl strach, i když nebylo proč.",
+                          "value": "MadeMeWorried"
+                        },
+                        {
+                          "name": "...mi bránil prožívat klid a radost.",
+                          "value": "PreventedPeace"
+                        },
+                        {
+                          "name": "...ve mně vyvolával pocity viny nebo studu.",
+                          "value": "MadeMeGuilty"
+                        },
+                        {
+                          "name": "...mě shazoval nebo znejišťoval.",
+                          "value": "MadeMeInsecure"
+                        },
+                        {
+                          "name": "...mi nedovoloval být lidsky omylný/á.",
+                          "value": "NoMistakes"
+                        },                        
+                        {
+                          "name": "...ze mě dělal někoho, kdo musí být pořád ve střehu.",
+                          "value": "ConstantlyAware"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "note",
+                      "instruction": "Jiné",
+                      "placeholder": "Jak Kritik ublížil",
+                      "rows": 1,
+                      "maxLength": 200,
+                      "lengthValidationMessage": "Maximální délka odpovědi je 200 znaků.",
+                      "required": false
+                    }
+                  ]
+                },
+                {
+                  "title": "Krok 5: Co bych udělal/a, kdybych radil někomu jinému",
+                  "contentSections": [
+                    {
+                      "type": "image",
+                      "isExpandable": true,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Falesny_radce_39d67fef19.svg",
+                      "width": "100%",
+                      "alt": "ddd",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Falesny_radce_39d67fef19.svg",
+                      "widthMobile": "100%",
+                      "align": "center"
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "Představte si, že někdo mluví stejným tónem a stejnými slovy jako váš Kritik na člověka, kterého máte rádi (dítě, partnera, kamaráda)."
+                    },
+                    {
+                      "type": "checkBoxList",
+                      "title": "**Co byste udělal/a?**",
+                      "instruction": "můžete vybrat více možností",
+                      "required": true,
+                      "isSingleColumn": true,
+                      "options": [
+                        {
+                          "name": "Okamžitě bych zasáhl/a.",
+                          "value": "Intervene"
+                        },
+                        {
+                          "name": "Zastal/a bych se toho člověka.",
+                          "value": "StandBy"
+                        },
+                        {
+                          "name": "Odvedl/a bych pozornost jinam.",
+                          "value": "Distraction"
+                        },
+                        {
+                          "name": "Snažil/a bych se to omluvit nebo vysvětlit.",
+                          "value": "ApologizeOrExplain"
+                        },
+                        {
+                          "name": "Asi bych mlčel/a, ale cítil/a bych nesouhlas.",
+                          "value": "NotIntervene"
+                        },
+                        {
+                          "name": "Zůstal/a bych zticha a jen sledoval/a, co se děje.",
+                          "value": "StaySilent"
+                        },                        
+                        {
+                          "name": "Začal/a bych se ptát sám/sama sebe, jestli Kritik nemá pravdu.",
+                          "value": "AskMyself"
+                        },                        
+                        {
+                          "name": "Možná bych s tím i souhlasil/a.",
+                          "value": "MayAgree"
+                        },
+                        {
+                          "name": "Myslel/a bych si: „Ten člověk si to zaslouží.“",
+                          "value": "TheyDeserveIt"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "note",
+                      "instruction": "Jiné",
+                      "placeholder": "Jak byste reagoval/a",
+                      "rows": 1,
+                      "maxLength": 200,
+                      "lengthValidationMessage": "Maximální délka odpovědi je 200 znaků.",
+                      "required": false
+                    },
+                    {
+                      "type": "note",
+                      "title": "**Co vám to říká o tom, jak mluvíte sami se sebou?**",
+                      "placeholder": "Co to o vás říká?",
+                      "rows": 2,
+                      "maxLength": 200,
+                      "lengthValidationMessage": "Maximální délka odpovědi je 200 znaků.",
+                      "required": false
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Druhou část máte hotovou!",
+          "icon": "text",
+          "contentSections": [
+            {
+              "type": "image",
+              "isExpandable": false,
+              "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Druhou_cast_mate_za_ssebou_97a32abad9.svg",
+              "width": "100%",
+              "alt": "Postava sedící v křesle s počítačem",
+              "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Druhou_cast_mate_za_ssebou_mobile_4e9b88698f.svg",
+              "widthMobile": "100%",
+              "align": "center",
+              "unoptimized": true
+            },
+            {
+              "type": "list",
+              "title": "**Co jste se dozvěděli:**",
+              "color": "#27637C",
+              "items": [
+                "Jak hrdinové z příběhů vzdorovali svým kritickým hlasům a začali naslouchat laskavým a zdravým myšlenkám.",
+                "Jak se krok po kroku vymanit z moci vnitřního Kritika a uvědomit si, jaký na nás má jeho našeptávání dopad."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Laskavý Rodič a Zdravý Dospělý",
+          "icon": "audio",
+          "contentSections": [
+            {
+              "type": "markdown",
+              "content": "Už jste zjistili, jak poznat hlas vnitřního Kritika. Zároveň v sobě ale máme i jiné hlasy, které budou jeho opakem. V terapii takovým hlasům říkáme **Laskavý rodič** a **Zdravý dospělý**. Ty můžeme rozvíjet."
+            },
+            {
+              "type": "pictureAndMarkdown",
+              "items": [
+                {
+                  "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Zdravy_rodic_d69f7bc082.svg",
+                  "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Zdravy_rodic_mobile_f0108d4d5c.svg",
+                  "alt": "Postava Zdravého Dospělého, muž s brýlemi a knihou",
+                  "width": "240px",
+                  "widthMobile": "100%",
+                  "isReversed": false,
+                  "isExpandable": false,
+                  "content": "**Zdravý dospělý** má vyvážený pohled na věc. Hledá rozumná řešení, hodnotí věci s odstupem a pomáhá nám rozlišovat skutečné hrozby od těch domnělých. \n \n Zdravý dospělý se opírá o zkušenosti, rozlišuje reálná rizika a rozhoduje klidně. \n \n **Co říká Zdravý dospělý:** \n \n - „Je to jen myšlenka. Nemusím se jí řídit.“ \n - „Můžu být nervózní, a přesto do toho půjdu.“ \n - „Nemusím si být vším absolutně jistá. Nejistota není automaticky hrozba. Zvládnu ji unést.“",
+                  "direction": "row",
+                  "gutter": 24
+                }
+              ]
+            },
+            {
+              "type": "pictureAndMarkdown",
+              "items": [
+                {
+                  "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Laskavy_rodic_0ac18d58a5.svg",
+                  "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Laskavy_rodic_mobile_7080635ed8.svg",
+                  "alt": "Postava Laskavého Rodiče, žena s otevřenou náručí a srdíčky kolem",
+                  "width": "240px",
+                  "widthMobile": "100%",
+                  "isReversed": false,
+                  "isExpandable": false,
+                  "content": "**Laskavý rodič** má k nám i k ostatním pochopení a soucit. Nechává nás prožít emoce bez hodnocení. Povzbuzuje nás, chválí a dává důraz na naše potřeby. \n \n Laskavý rodič podporuje, je empatický, přijímající, laskavý, soucitný a nehodnotí. \n \n **Co říká Laskavý rodič:** \n \n - „Cítíš se úzkostně, a to je v pořádku. Uneseš to. Tvůj mozek se tě jen snaží chránit.“ \n - „Vím, že to zvládneš. Už jsi to dokázal předtím a jsem na tebe hrdý.“ \n - „Jsi dost dobrá tak, jak jsi. Zasloužíš si být k sobě laskavá.“",
+                  "direction": "row",
+                  "gutter": 24
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Jak na Kritika jinak ",
+          "icon": "audio",
+          "contentSections": [
+            {
+              "type": "markdown",
+              "content": "I když by bylo hezké **umlčet** Kritika jednou pro vždy, není to možné. Patří k nám a čas od času se ozve u každého. My ale můžeme záměrně dávat prostor **Zdravému dospělému** a **Laskavému rodiči.**"
+            },
+            {
+              "type": "audio",
+              "audioSrc": "xx",
+              "title": "Jak na Kritika jinak",
+              "imageSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jak_na_Kritika_jinak_6ca5e186f0.svg"
+            },
+            {
+              "type": "collapse",
+              "content": "xx",
+              "title": "Radši si přečtu"
+            }
+          ]
+        },
+        {
+          "title": "Příběhy",
+          "icon": "Story",
+          "contentSections": [
+            {
+              "type": "markdown",
+              "content": "Přečtěte si, jak se naši hrdinové učili odpovídat na své kritické myšlenky z pozice **Zdravého dospělého** a **Laskavého rodiče.**"
+            },
+            {
+              "type": "noteBox",
+              "desktopImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lightbulb_Icon_5bba92e832.svg",
+              "mobileImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lightbulb_Icon_5bba92e832.svg",
+              "backgroundColor": "#EDF4F6",
+              "textColor": "#27637C",
+              "text": "**Nemusíte číst všechny příběhy.** Zkuste najít ten, ve kterém se nejvíce najdete. Můžete se na něj zaměřit i v dalších modulech a ostatní číst spíše pro zajímavost. Ale můžete je také vynechat.",
+              "desktopImageWidth": "84px",
+              "mobileImageWidth": "84px",
+              "isWrapping": true
+            },
+            {
+              "type": "cardStories",
+              "cards": [
+                {
+                  "title": "JANA",
+                  "subtitle": "administrativní pracovnice, 34 let",
+                  "description": "Janu trápí obavy ze znečištění. Má silný pocit zodpovědnosti, který ji stresuje.",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jana_karta_7c69375325.svg",
+                  "pictureMobileBackground": "#E5EBE3",
+                  "pictureMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jana_karta_mobile_7063c7503a.svg",
+                  "modalContentSections": [
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jana_modal_21111b8b39.svg",
+                      "width": "100%",
+                      "alt": "Obrázek Jany: Žena s dlouhými světle hnědými vlasy v culíku, v bílém triku a modrém svetru",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jana_modal_21111b8b39.svg",
+                      "widthMobile": "100%",
+                      "align": "center",
+                      "unoptimized": true
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "**Jana** \n \n Večer jsem si všimla, že jsem se omylem dotkla kliky na vchodových dveřích bez kapesníku. Obvykle bych si hned šla umýt ruce, a pak ještě všechno otřela dezinfekcí. Tentokrát jsem se zastavila. \n \n Sedla jsem si na pohovku a řekla si: *„Teď zkus chvíli vydržet.“* Úzkost narůstala. V hlavě mi zněl hlas Kritika: *„Nevíš, co tam bylo za bakterie! Jestli si teď neumyješ ruce, ohrozíš sebe i ostatní!*“ \n \n Ale ozval se i klidnější hlas Zdravého dospělého: *„Pamatuješ, co jsme si říkali? Úzkost přejde. Bakterie jsou součást světa. Neděje se nic vážného.“* \n \n Po dvaceti minutách jsem si uvědomila, že jsem v pořádku. A že kompulze nejsou jediná cesta."
+                    }
+                  ]
+                },
+                {
+                  "title": "PETR",
+                  "subtitle": "technik, 45 let",
+                  "description": "Petr se bojí, že udělá chybu, která bude mít fatální následky. Vše raději pečlivě kontroluje.",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Petr_karta_cb6c382476.svg",
+                  "pictureMobileBackground": "#FFF3EF",
+                  "pictureMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Petr_karta_mobile_607dc58e33.svg",
+                  "modalContentSections": [
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Petr_modal_ccd80f55c5.svg",
+                      "width": "100%",
+                      "alt": "Obrázek Petra: Muž ve středním věku s kudrnatými šedými vlasy a plnovousem",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Petr_modal_ccd80f55c5.svg",
+                      "widthMobile": "100%",
+                      "align": "center",
+                      "unoptimized": true
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "**Petr** \n \n Když jsem ráno odcházel z bytu, napadlo mě: *„Zamkl jsi vůbec? Co když někdo vykrade celý dům?“* Měl jsem chuť se otočit a zkontrolovat to. Kritik mi našeptával: *„Budeš toho litovat! Jednou zapomeneš a stane se neštěstí.“* \n \n Udělal jsem tři kroky zpět, ale pak jsem si řekl hlasem Zdravého dospělého: *„Vím, že jsem zamkl. Tohle je OCD, které mi chce vzít klid.“* A pak jsem se obrátil na svého Laskavého rodiče, který mi odpověděl: *„I když si nejsi jistý, zvládneš to. Riziko existuje vždy, ale ty jsi zodpovědný.“* \n \n Uklidnil jsem se a domů jsem se nevrátil. A svět se nezbořil."
+                    }
+                  ]
+                },
+                {
+                  "title": "EVA",
+                  "subtitle": "studentka VŠ, 22 let",
+                  "description": "Eva má vtíravé představy, že by mohla někomu ublížit. Za tyto myšlenky se velmi stydí.",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Eva_karta_1d42669807.svg",
+                  "pictureMobileBackground": "#EFE9EC",
+                  "pictureMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Eva_karta_mobile_ff5c9a65ad.svg",
+                  "modalContentSections": [
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Eva_modal_8adc9d2543.svg",
+                      "width": "100%",
+                      "alt": "Obrázek Evy: mladá žena s kratšími kudrnatými zrzavými vlasy se žlutým baretem",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Eva_modal_8adc9d2543.svg",
+                      "widthMobile": "100%",
+                      "align": "center",
+                      "unoptimized": true
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "**Eva** \n \n Pomáhala jsem mamce v kuchyni a krájela zeleninu. Najednou mi hlavou proběhl děsivý obraz, že jí můžu ublížit. Kritik hned spustil: *„Tohle je zvrácené! Jak můžeš vůbec pomyslet na něco takového? Co když to chceš opravdu udělat?“* \n \n Chtěla jsem nůž položit a odejít, ale vzpomněla jsem si, že myšlenka není čin. Zůstala jsem. Soustředila jsem se na svůj dech a dál s mámou mluvila. \n \n Zamyslela jsem se nad tím, co by mi mohl poradil můj Zdravý dospělý a Laskavý rodič. Vymyslel toto: *„Neboj se sama sebe. Jsi člověk, který se učí rozpoznávat OCD. To z tebe nedělá nebezpečného člověka.“* \n \n Bála jsem se, ale zároveň jsem na sebe byla hrdá, že jsem neutekla. Že jsem tomu čelila."
+                    }
+                  ]
+                },
+                {
+                  "title": "DAVID",
+                  "subtitle": "knihovník, 36 let",
+                  "description": "David potřebuje, aby bylo vše kolem zarovnané a symetrické. Obává se magických důsledků.",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/David_karta_739e7ef7df.svg",
+                  "pictureMobileBackground": "#DFE8EB",
+                  "pictureMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/David_karta_mobile_662bfbf554.svg",
+                  "modalContentSections": [
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/David_modal_c2247c95c4.svg",
+                      "width": "100%",
+                      "alt": "Obrázek Davida: Muž s krátkými černými vlasy v bílé košili a hnědé pletené vestě",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/David_modal_c2247c95c4.svg",
+                      "widthMobile": "100%",
+                      "align": "center",
+                      "unoptimized": true
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "**David** \n \n Když jsem v práci naskenoval dokument, nebyl úplně rovně. V hlavě mi bliklo: *„Jestli to neopravíš, celý den bude špatný.“* Kritik na mě dál tlačil: *„Rovně znamená správně. Takhle to kazíš. Musíš to přehodit!“* \n \n Už jsem to chtěl znovu naskenovat. Ale vzpomněl jsem si, jak to děláme v expozicích. Zastavím se, všimnu si těch myšlenek, ale neřídím se jimi. Uvědomil jsem si, že to je můj Zdravý dospělý. \n \n Kdybych si pak pod svým Laskavým rodičem představil svého dědečka, který mě měl rád, řekl by mi, že křivě naskenovaný dokument přece nemůže ovlivnit, jaký budu mít den. A že jen zbytečně stresuji. \n \n Tak jsem to nechal být. Cítil jsem napětí, nebudu tvrdit, že ne. Ale nestala se žádná hrůza. A to je pro mě nový zážitek: nezhroutit se, i když není všechno podle pravidel."
+                    }
+                  ]
+                },
+                {
+                  "title": "KLÁRA",
+                  "subtitle": "zdravotní sestra, 28 let",
+                  "description": "Kláru trápí myšlenky se sexuálními tématy. Stydí se a vyhýbá se intimitě.",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Klara_karta_fb018941e5.svg",
+                  "pictureMobileBackground": "#EFE9EC",
+                  "pictureMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Klara_karta_mobile_75a2027257.svg",
+                  "modalContentSections": [
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Klara_modal_a2e0d015d3.svg",
+                      "width": "100%",
+                      "alt": "Obrázek Kláry: Žena s dlouhými blond vlasy v růžovém svetru",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Klara_modal_a2e0d015d3.svg",
+                      "widthMobile": "100%",
+                      "align": "center",
+                      "unoptimized": true
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "**Klára** \n \n Minulý týden jsem šla kolem školy a zahlédla holčičku, jak běží za mámou. Bleskla mi hlavou nevhodná myšlenka. Kritik spustil: *„Tohle je odporné! Takhle myslí jen zlí lidi. Jsem nebezpečná!“* \n \n Zrudla jsem a chtěla změnit trasu. Ale vzpomněla jsem si na větu z modulu: *„Myšlenka není čin.“* Můj Zdravý dospělý mi tiše připomněl: *„Myšlenky nejsou nebezpečné. Nejsi to ty. To OCD vytváří ten obraz, ne tvoje skutečné já.“* \n \n Zpomalila jsem, zhluboka jsem dýchala a prošla kolem školy. Srdce mi bušilo, ale nezhroutila jsem se. Neutíkala jsem. Zamyslela jsem se nad tím, co by mi řekl můj Zdravý dospělý, a napadlo mě: *„Tohle je OCD. Nejsem nebezpečná. Jsem člověk, co se učí žít s nejistotou.“*"
+                    }
+                  ]
+                },
+                {
+                  "title": "LUKÁŠ",
+                  "subtitle": "elektrikář, 30 let",
+                  "description": "Lukáš se bojí hříchu a neustále se modlí kvůli rouhavým myšlenkám. Cítí vnitřní rozpor.",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lukas_karta_40be25b691.svg",
+                  "pictureMobileBackground": "#FFF3EF",
+                  "pictureMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lukas_karta_mobile_543f887105.svg",
+                  "modalContentSections": [
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lukas_modal_19fee9701c.svg",
+                      "width": "100%",
+                      "alt": "Obrázek Lukáše: muž s plnovousem, pracovní kšilovkou v oranžové košili",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lukas_modal_19fee9701c.svg",
+                      "widthMobile": "100%",
+                      "align": "center",
+                      "unoptimized": true
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "**Lukáš** \n \n Večer jsem zapomněl dokončit jednu z modliteb a hned nastoupil Kritik: *„To je špatně! Bůh mě potrestá! Musím to hned napravit!“* \n \n V minulosti bych si to vyčítal celé hodiny a opakoval bych modlitbu, dokud nebude zcela správně. Tentokrát jsem si prostě řekl: *„Tohle není hlas mé víry. To je hlas strachu.“* \n \n Můj Zdravý dospělý taky dodal: *„Bůh mě slyší i tehdy, když modlitbu nedořeknu přesně. Víra není o dokonalosti.“* \n \n Nevrátil jsem se k ní. Výčitky přišly, ale zároveň přišla i úleva. Připadám si o kousek svobodnější. Ne jako stroj na správné fráze, ale jako člověk, který se učí důvěřovat."
+                    }
+                  ]
+                },
+                {
+                  "title": "VERONIKA",
+                  "subtitle": "manažerka, 35 let",
+                  "description": "Veronika se bojí o své zdraví. Nechává se vyšetřovat, i když lékaři nic nenašli.",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Veronika_karta_bb390f8d7d.svg",
+                  "pictureMobileBackground": "#EFE9EC",
+                  "pictureMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Veronika_karta_mobile_ff4d1e518c.svg",
+                  "modalContentSections": [
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Veronika_modal_0eeca499fc.svg",
+                      "width": "100%",
+                      "alt": "Obrázek Veroniky: žena s dlouhými černými vlasy ve vysokém culíku v zeleném topu s perlovým náhrdelníkem",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Veronika_modal_0eeca499fc.svg",
+                      "widthMobile": "100%",
+                      "align": "center",
+                      "unoptimized": true
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "**Veronika** \n \n V neděli večer mě píchlo u srdce. V mžiku mi hlavou proběhlo: *„Co když je to infarkt? Co když jsem něco přehlédla?“* \n \n Byl to můj Kritik, který spustil paniku: *„Je to infarkt! Pokud hned nezasáhnu, umřu. Hned musím ověřit, jak to je!“* \n \n Už jsem sahala po mobilu, že znovu projedu příznaky na internetu. Ale tentokrát jsem se zarazila. Můj Zdravý dospělý a Laskavý rodič mi připomněli: *„Tohle znáš. Je to nutkání ke kontrole. Nemusíš reagovat. Ustojíš to i bez toho. Důvěřuj zkušenosti.“* \n \n Nahlas jsem si řekla: „Tohle je OCD. Nejdřív si uvařím čaj.“ Úzkost mi pořád tepala v těle, ale přešla. Neumřela jsem. Zvládla jsem to, bez hledání na internetu, bez volání partnerovi. Mám na co navázat."
+                    }
+                  ]
+                },
+                {
+                  "title": "MICHAL",
+                  "subtitle": "učitel, 27 let",
+                  "description": "Michala trápí nutkavé pochybnosti o svém vztahu. Často se ujišťuje, že je vše v pořádku.",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Michal_karta_41e0daacdc.svg",
+                  "pictureMobileBackground": "#dfe8eb",
+                  "pictureMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Michal_karta_mobile_8530388119.svg",
+                  "modalContentSections": [
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Michal_modal_9a4f39a394.svg",
+                      "width": "100%",
+                      "alt": "Obrázek Michala: mladý muž s kudrnatými hnědými vlasy a brýlemi v modrém roláku",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Michal_modal_9a4f39a394.svg",
+                      "widthMobile": "100%",
+                      "align": "center",
+                      "unoptimized": true
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "**Michal** \n \n Mirka se mě včera zeptala, jestli ji miluju. Okamžitě mi hlavou prolétlo tisíc pochybností: *„Miluju ji dost? Co když jenom nechci být sám?“* \n \n Zase ten můj Kritik. Jen začal, tak se rozjel: *„Jestli si nejsem jistý, je to špatně. Jsem neupřímný. Zaslouží si někoho lepšího.“* \n \n V minulosti bych analyzoval každý detail našeho vztahu. Já už ale nechci poslouchat Kritika. Chci místo něj naslouchat svému Zdravému dospělému. Místo toho jsem jí proto řekl: *„Dneska mám v hlavě zmatek, ale chci s tebou být.“* \n \n Zdravý dospělý mi dál řekl: *„Láska není matematika. Vztah může být dobrý i s pochybnostmi. Opravdovost je víc než jistota.“* \n \n Byl to nejistý, ale opravdový okamžik. A ona mi řekla, že si toho váží."
+                    }
+                  ]
+                },
+                {
+                  "title": "JIRKA",
+                  "subtitle": "lékař, 58 let",
+                  "description": "Jirku trápí obavy, že pokud nespočítá určitá čísla, stane se neštěstí v práci nebo v rodině.",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jirka_karta_01d80f6712.svg",
+                  "pictureMobileBackground": "#E5EBE3",
+                  "pictureMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jirka_karta_mobile_4fe638f329.svg",
+                  "modalContentSections": [
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jirka_modal_bdecd1b4aa.svg",
+                      "width": "100%",
+                      "alt": "Obrázek Jirky: starší muž se šedými vlasy a plnovousem, s brýlemi",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jirka_modal_bdecd1b4aa.svg",
+                      "widthMobile": "100%",
+                      "align": "center",
+                      "unoptimized": true
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "**Jirka** \n \n Šel jsem po ulici a oči mi hned automaticky padly na poznávací značku auta. Čísla: 3, 7, 1. Sečetl jsem je. Jedenáct. Prvočíslo. Hned mi naskočilo: *„Musím najít další čísla a přepočítat je, dokud nedostanu číslo dělitelné dvěma, jinak se něco stane mé rodině.“* \n \n V hlavě mi zazněl hlas Kritika: *„Tohle nesmíš nechat být! Důsledky budou hrozné!“* \n \n Už jsem měl nutkání začít hledat další SPZky, ale vzpomněl jsem si na poznatek z programu: „Magické myšlení je past. Vypadá logicky, ale je to OCD, které tě nutí k falešnému pocitu kontroly.“ \n \n Představil jsem si, co by mi dál řekl můj Zdravý dospělý. Možná něco jako: *„Tohle je jen číslo. Neexistuje žádná souvislost mezi SPZ a bezpečím tvé rodiny. Můžeš ten strach jen pozorovat a nic neudělat.“* \n \n Zastavil jsem se. Nepřepočítával jsem. Úzkost stoupala, ale já zůstal stát. Dýchal jsem a řekl si: *„Tohle je OCD. Ne já.“* \n \n Po pár minutách napětí povolilo. A svět se nezbořil. I moje rodina byla v pořádku. Ten pocit, že se můžu rozhodnout sám, byl pro mě nový a silný."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Kvíz o Zdravém dospělém a Laskavém rodiči",
+          "icon": "Star",
+          "contentSections": [
+            {
+              "type": "survey",
+              "variant": "quiz",
+              "questions": [
+                {
+                  "name": "Question1",
+                  "question": ":::text--center \n Když Eva vzala neteř do parku, napadla ji děsivá myšlenka: „Co když ji neuhlídám a něco se jí stane?“ Jak se s tím může nejlépe vypořádat? \n :::",
+                  "options": [
+                    {
+                      "label": "A) Řekne si: „To, že mě to napadlo, neznamená, že je to pravda. Zvládnu to.“",
+                      "value": 0
+                    },
+                    {
+                      "label": "B) Začne si dokazovat, že je zodpovědná a pečující, aby se ujistila, že se nic nestane.",
+                      "value": 1
+                    },
+                    {
+                      "label": "C) Bude se snažit myšlenku rychle zahnat a tvářit se, že ji neslyší. ",
+                      "value": 2
+                    }
+                  ],
+                  "correctAnswer": 0,
+                  "correctAnswerReason": "Správná odpověď je A). Eva si všimla hlasu Kritika, který ji strašil. Pomůže jí, když nepodlehne panice, ani se nebude snažit myšlenku potlačit. Místo toho může reagovat klidně a laskavě - z pozice Zdravého dospělého. Když si připomene, že myšlenka není čin, situaci lépe zvládne."
+                },
+                {
+                  "name": "Question2",
+                  "question": ":::text--center \n Jana je u kamarádky na návštěvě. Kamarádka jí nabídne domácí koláč a Jana si všimne, že ho pekla bez rukavic. Hlavou jí proběhne: „Co když to není hygienické?“ Co jí nejvíce pomůže, aby situaci zvládla? \n :::",
+                  "options": [
+                    {
+                      "label": "A) Když koláč slušně odmítne a řekne, že právě nemá chuť.",
+                      "value": 0
+                    },
+                    {
+                      "label": "B) Když si uvědomí, že je trochu nervózní, ale to neznamená, že je to opravdu nebezpečné.",
+                      "value": 1
+                    },
+                    {
+                      "label": "C) Když se zeptá kamarádky, jestli si před pečením umyla ruce.",
+                      "value": 2
+                    }
+                  ],
+                  "correctAnswer": 1,
+                  "correctAnswerReason": "Správná odpověď je B). Jana rozpoznala hlas Kritika, který přehání a varuje. Když nezačne kontrolovat, ani se vyhýbat, ale postaví se k tomu klidně a věcně, může strávit hezké setkání s kamarádkou."
+                },
+                {
+                  "name": "Question3",
+                  "question": ":::text--center \n Petr vychází z bytu. Přepadne vtíravá myšlenka: „Co když jsme nechali otevřené okno a naprší dovnitř?“ Je nervózní a řekne manželce: „Neotočíme se? Jen to rychle zkontrolovat?“ Ona nesouhlasí. Petr ale cítí silné nutkání. \n \n Co mu v tu chvíli nejvíc pomůže?  \n :::",
+                  "options": [
+                    {
+                      "label": "A) Trvat na tom, aby se vrátili, protože tak přece vypadá zodpovědnost.",
+                      "value": 0
+                    },
+                    {
+                      "label": "B) Potlačit své pocity a dělat, že se nic neděje.",
+                      "value": 1
+                    },
+                    {
+                      "label": "C) Říct si: „Nechci, aby za mě rozhodovala úzkost, ani abych ji předával dál.“",
+                      "value": 2
+                    }
+                  ],
+                  "correctAnswer": 2,
+                  "correctAnswerReason": "Správná odpověď je C). Petr si uvědomí, že úzkost není automaticky důvod k akci. Zdravý dospělý mu pomáhá nepřenášet zodpovědnost na partnerku a nezachraňovat situaci za každou cenu. Místo toho volí důvěru a zůstává v přítomnosti."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Cvičení: Rozhovor s vnitřním Kritikem",
+          "icon": "exercise",
+          "isEvaluable": true,
+          "finalScreen": {
+            "buttonLabel": "Upravit odpovědi",
+            "contentSections": [
+              {
+                "type": "image",
+                "isExpandable": true,
+                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Watering_Can_488f075007.svg",
+                "width": "280px",
+                "alt": "Obrázek postavičky, která s úsměvem zalévá pokojové rostliny",
+                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Watering_Can_488f075007.svg",
+                "widthMobile": "280px",
+                "align": "center"
+              },
+              {
+                "type": "markdown",
+                "content": ":::text--center \n #### Odpovídejte Kritikovi s laskavostí a nadhledem. \n \n Čím častěji to uděláte, tím přirozenější a pevnější nový hlas bude. \n :::"
+              }
+            ]
+          },
+          "contentSections": [
+            {
+              "type": "markdown",
+              "content": "Toto cvičení vám pomůže naučit se odpovídat Kritikovi jinak - klidně, pevně a laskavě."
+            },
+            {
+              "type": "stepByStep",
+              "required": true,
+              "steps": [
+                {
+                  "title": "Krok 1: Popište hlas Kritika",
+                  "contentSections": [
+                    {
+                      "type": "pictureAndNote",
+                      "image": {
+                        "isExpandable": true,
+                        "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Myslenka_69a2e836af.svg",
+                        "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Myslenka_mobile_601d4f21ea.svg",
+                        "alt": "Zápisník se zakroužkovaným textem",
+                        "width": "128px",
+                        "widthMobile": "100%",
+                        "align": "center"
+                      },
+                      "note": {
+                        "title": "**Vyberte nedávnou situaci s nepříjemnou či vtíravou myšlenkou.**",
+                        "instruction": "popište KDE a KDy to bylo.",
+                        "rows": 2,
+                        "placeholder": "Popis situace",
+                        "required": false
+                      }
+                    },
+                    {
+                      "type": "pictureAndNote",
+                      "image": {
+                        "isExpandable": true,
+                        "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Kritik_547755400b.svg",
+                        "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Kritik_mobile_ce5fad5b49.svg",
+                        "alt": "Zápisník se zakroužkovaným textem",
+                        "width": "128px",
+                        "widthMobile": "100%",
+                        "align": "center"
+                      },
+                      "note": {
+                        "title": "**Co vám v ten moment našeptával váš vnitřní Kritik?**",
+                        "instruction": "Co říkal a jaký měl tón?",
+                        "rows": 2,
+                        "placeholder": "Co říkal Kritik",
+                        "required": false
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": "Krok 2: Najděte nový pohled na věc",
+                  "contentSections": [
+                    {
+                      "type": "pictureAndNote",
+                      "image": {
+                        "isExpandable": true,
+                        "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Odoved_e4202c6e43.svg",
+                        "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Odoved_mobile_5fa49b81ec.svg",
+                        "alt": "Zápisník se zakroužkovaným textem",
+                        "width": "128px",
+                        "widthMobile": "100%",
+                        "align": "center"
+                      },
+                      "note": {
+                        "title": "**Jak byste mohli odpovědět hlasem Zdravého dospělého a Laskavého rodiče?**",
+                        "instruction": "Představte si, že tak radíte svému blízkému.",
+                        "rows": 2,
+                        "placeholder": "Moje nová odpověď",
+                        "required": false
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": "Krok 3: Přečtěte si odpověď",
+                  "contentSections": [
+                    {
+                      "type": "pictureAndNote",
+                      "image": {
+                        "isExpandable": true,
+                        "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Novy_pocit_27e59f18fa.svg",
+                        "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Novy_pocit_mobile_1ffc3f225d.svg",
+                        "alt": "Zápisník se zakroužkovaným textem",
+                        "width": "128px",
+                        "widthMobile": "100%",
+                        "align": "center"
+                      },
+                      "note": {
+                        "title": "**Jak se teď cítíte, když si nahlas přečtete tuto odpověď?**",
+                        "instruction": "čeho jste si všimli ve svém těle, emocích a tónu hlasu? ",
+                        "rows": 2,
+                        "placeholder": "Moje reakce",
+                        "required": false
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Upomínkové kartičky",
+          "icon": "text",
+          "contentSections": [
+            {
+              "type": "markdown",
+              "content": "**Vnitřní Kritik** je pohled, který se v nás buduje a posiluje dlouhou dobu. Už víte, že pohled Zdravého dospělého a Laskavého rodiče ho může postupně oslabovat. Ale to nejde ze dne na den. \n \n Naslouchat novým hlasům je o zvyku, který se posiluje **opakováním**. K tomu vám pomůžou **upomínkové kartičky**. Můžete si je vytisknout a nechat na různých místech. \n \n **Ukázková upomínková kartička:**"
+            },
+            {
+              "type": "image",
+              "isExpandable": false,
+              "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Modul_dokoncen_1785f55c82.svg",
+              "width": "100%",
+              "alt": "Postava pouštějící papírovou vlaštovku",
+              "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Modul_dokoncen_mobile_00b1a7904d.svg",
+              "widthMobile": "100%",
+              "align": "center",
+              "unoptimized": true
+            },
+            {
+              "type": "download",
+              "title": "stáhnout upomínkové kartičky",
+              "downloadLink": "xx"
+            }
+          ]
+        },
+        {
+          "title": "Řízená imaginace",
+          "icon": "video",
+          "contentSections": [
+            {
+              "type": "markdown",
+              "content": "V imaginaci se setkáte se svým vnitřním Kritikem a vyzkoušíte si, jak s ním vést dialog."
+            },
+            {
+              "type": "video",
+              "url": "xx",
+              "captionsUrl": "xx"
+            },
+            {
+              "type": "collapse",
+              "content": "Vítejte u krátké řízené imaginace. Najděte si pohodlnou pozici. Můžete sedět nebo ležet. Zavřete oči. A chvíli jen dýchejte…  \n \n Není třeba nic měnit. Jen si uvědomujte, že dýcháte. Nádech… A výdech… Nádech… A výdech…  \n \n Možná přicházejí myšlenky. Nevadí. Představte si, že jsou jako listy, které plují po hladině. Připlouvají… a zase odplouvají.  \n \n Teď si představte, že jdete po klidné cestě. Může to být známá lesní pěšina… nebo široká louka… Nebo třeba pláž u klidného moře. Cítíte, jak se vaše nohy dotýkají země. Jste tu v bezpečí. V dálce vidíte postavu. \n \n Pomalu se k ní přibližujete… A poznáváte… že je to váš vnitřní hlas. Ten, který často promlouvá, když máte pochybnosti. Váš Vnitřní Kritik. Ten, který někdy křičí… někdy šeptá… někdy soudí nebo srovnává. \n \n Zastavíte se kousek od něj. Díváte se na něj. Není to váš nepřítel. Je s vámi už dlouho… Možná se snažil pomáhat, ale často způsoboval bolest. V duchu mu můžete říct: „Slyším tě. Vím, že ses snažil mě chránit. Ale teď už tě tolik nepotřebuji. Můžu tě někdy vyslechnout. Ale nechci, abys mě ovládal.“ \n \n Sledujte, co dělá. Možná se oddaluje… Možná ztrácí sílu… Možná jen tiše naslouchá. A teď, z místa hluboko uvnitř vás, z místa klidu, síly a soucitu, mu řekněte: \n \n - „Mám právo dělat chyby. A přesto jsem hoden lásky.“ \n \n - „Mohu mít těžké myšlenky. A přesto jsem dobrý člověk.“ \n \n - „Nejsem svými myšlenkami. Jsem ten, kdo si volí, jak na ně zareaguje.“  \n \n Až budete připraveni… Začněte znovu vnímat svůj dech… Nádech… a výdech… Pohněte prsty… Protáhněte se… A jemně otevřete oči.",
+              "title": "Radši si přečtu"
+            }
+          ]
+        },
+        {
+          "title": "Bonusový příběh",
+          "icon": "audio",
+          "contentSections": [
+            {
+              "type": "markdown",
+              "content": "Níže si můžete přehrát další audio příběh."
+            },
+            {
+              "type": "audio",
+              "audioSrc": "xx",
+              "title": "Bonusový příběh",
+              "imageSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Bonusovy_pribeh_ec60cb6d82.svg"
+            },
+            {
+              "type": "collapse",
+              "content": "xx",
+              "title": "Radši si přečtu"
+            }
+          ]
+        },
+        {
+          "title": "Dokončili jste osmý modul!",
+          "isEvaluable": true,
+          "icon": "Exercise",
+          
+          "contentSections": [
+            {
+              "type": "image",
+              "isExpandable": false,
+              "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Modul_dokoncen_1785f55c82.svg",
+              "width": "100%",
+              "alt": "Postava pouštějící papírovou vlaštovku",
+              "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Modul_dokoncen_mobile_00b1a7904d.svg",
+              "widthMobile": "100%",
+              "align": "center",
+              "unoptimized": true
+            },
+            {
+              "type": "list",
+              "title": "**V tomto modulu jste se dozvěděli:**",
+              "color": "#27637C",
+              "items": [
+                "Kritika nejde umlčet jednou pro vždy. Patří k nám a čas od času se ozve u každého.",
+                "Můžeme ale záměrně dávat prostor Zdravému dospělému a Laskavému rodiči.",
+                "Zdravý dospělý se opírá o zkušenosti, rozlišuje reálná rizika a rozhoduje klidně.",
+                "Laskavý rodič podporuje, je empatický, přijímající, laskavý, soucitný a nehodnotí."
+              ]
+            },
+            {
+              "type": "note",
+              "placeholder": "Co vás zaujalo?",
+              "title": "**Co pro vás bylo nejpřínosnější nebo nejzajímavější?**",
+              "rows": 2,
+              "maxLength": 500,
+              "lengthValidationMessage": "Maximální délka odpovědi je 500 znaků.",
+              "required": false
+            }
+          ]
+        },
+        {
+          "title": "Týdenní výzva",
+          "icon": "video",
+          "contentSections": [
+            {
+              "type": "markdown",
+              "content": "Připravili jsme pro vás další **týdenní výzvu.**"
+            },
+            {
+              "type": "video",
+              "url": "xx",
+              "captionsUrl": "xx"
+            },
+            {
+              "type": "collapse",
+              "content": "Gratulujeme vám, došli jste na konec dalšího modulu. A čeká na vás nová **týdenní výzva.** \n \n Vnitřního Kritika máme v hlavě všichni. Je snadné ho nechat ovládat náš život a slepě mu věřit. Ale v tomto modulu jste se dozvěděli, jak ho **poznat** a jak mu můžete **klidně** a **laskavě odpovědět**. A tím si postupně posilovat nový pohled na věc. \n \n Vaše týdenní výzva je **pozorovat svého vnitřního Kritika**. Když vám začne našeptávat, že musíte něco udělat nebo že jste špatní, protože vás něco napadlo, zastavte se. První krok je uvědomit si, že to není pravda. Že je to jen Kritik. \n \n Když si to uvědomíte, v klidu se nad věcí zamyslete jako **Laskavý rodič** a **Zdravý dospělý**. Jak byste v takové situaci poradili svému blízkému? Co by vám řekl někdo, komu na vás záleží? A jak byste se na tuto situaci dívali třeba za deset let? \n \n Nesnažte se Kritika **potlačovat** nebo **překřikovat**. Je vaší součástí a jeho hlas je silný. Zatím. Mnohem užitečnější je s ním vést **dialog**. Zkuste mu vysvětlit, co právě cítíte a jaké je rozumnější a klidnější řešení situace. \n \n Je bezvadné, že se do toho pouštíte. Když svého Kritika oslabíte, pomůže vám to i při dělání expozic. Doufáme, že se vám daří postupovat ve vaší **hierarchii**. Je důležité vytrvat, protože úleva přichází s časem. \n \n Budeme se na vás těšit v dalším modulu. Mějte se krásně.",
+              "title": "Radši si přečtu"
+            },
+            {
+              "type": "download",
+              "title": "stáhnout záznamový list",
+              "downloadLink": "xx"
+            }
+          ]
+        },
+        {
+          "title": "Co vás čeká příště?",
+          "icon": "text",
+          "contentSections": [
+            {
+              "type": "image",
+              "isExpandable": false,
+              "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Co_vas_ceka_priste_1229fc51ec.svg",
+              "width": "100%",
+              "alt": "Postavička s velkou tužkou, kterou si kreslí schody",
+              "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Co_vas_ceka_priste_mobile_158d3c08a9.svg",
+              "widthMobile": "100%",
+              "align": "center",
+              "unoptimized": true
+            },
+            {
+              "type": "list",
+              "title": "**V příštím modulu se dozvíte:**",
+              "color": "#27637C",
+              "items": [
+                "Jak může OCD ovlivňovat komunikaci mezi lidmi.",
+                "Co to může znamenat pro naše vztahy.",
+                "Jak komunikovat, aby bylo dobře nám i druhému člověku."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Jak se vám modul líbil?",
+          "icon": "Exercise",
+          "isEvaluable": true,
+          "contentSections": [
+            {
+              "type": "satisfactionQuestionnaire",
+              "omitTherapistHelpsQuestion": false
+            },
+            {
+              "type": "note",
+              "placeholder": "Co máte na srdci?",
+              "title": "**Napadá vás, jak bychom mohli program vylepšit?**",
+              "rows": 2,
+              "required": false
+            }
+          ]
+        }
+  ]
+}

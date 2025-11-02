@@ -536,7 +536,7 @@
           ]
         },
         {
-          "title": "Impulzivní reakce na myšlenky vs. zdravý odstup",
+          "title": "Impulzivní reakce vs. zdravý odstup",
           "icon": "text",
           "contentSections": [
             {
@@ -552,7 +552,12 @@
             },
             {
               "type": "markdown",
-              "content": "Na obrázku vidíte dvě různé reakce na tu samou myšlenku. První člověk se s ní ztotožnil. Věří, že o něm říká pravdu. Druhý člověk si uvědomil: „Tohle je jen hlas v mojí hlavě. Může mě znepokojit, ale nemusím mu věřit.“ V terapii se učíme zaujmout právě ten druhý postoj - s odstupem a laskavostí k sobě."
+              "content": "**Myšlenky nejsou fakta** \n \n Na obrázku vidíte dvě různé reakce na tu samou myšlenku. První člověk se s ní ztotožnil. Věří, že o něm říká pravdu. Druhý člověk si uvědomil: „Tohle je jen hlas v mojí hlavě. Může mě znepokojit, ale nemusím mu věřit.“ V terapii se učíme zaujmout právě ten druhý postoj - s odstupem a laskavostí k sobě."
+            },
+            {
+              "type": "gap",
+              "desktopGap": "24px",
+              "mobileGap": "12px"
             },
             {
               "type": "image",
@@ -567,7 +572,12 @@
             },
             {
               "type": "markdown",
-              "content": "Mezi myšlenkou a činem vždy existuje určitý prostor. Je to chvíle, ve které si můžeme uvědomit, co se děje. OCD nám tento prostor často bere, protože myšlenky v nás mohou vyvolat silné napětí a stres. Když ale nereagujeme impulzivně, nesnažíme se utéct nebo se za každou cenu uklidnit, učíme se, že ne každé vnitřní varování je skutečná hrozba."
+              "content": "**Odstup od myšlenek** \n \n Mezi myšlenkou a činem vždy existuje určitý prostor. Je to chvíle, ve které si můžeme uvědomit, co se děje. OCD nám tento prostor často bere, protože myšlenky v nás mohou vyvolat silné napětí a stres. Když ale nereagujeme impulzivně, nesnažíme se utéct nebo se za každou cenu uklidnit, učíme se, že ne každé vnitřní varování je skutečná hrozba."
+            },
+            {
+              "type": "gap",
+              "desktopGap": "24px",
+              "mobileGap": "12px"
             },
             {
               "type": "image",
@@ -582,7 +592,19 @@
             },
             {
               "type": "markdown",
-              "content": "V tomto modulu si ukážeme, jak myšlenku zaznamenat a dále na ni nereagovat. Pomůže nám, když si myšlenku přeformulujeme. Nahradíme ji pohledem, který je pravdivější a laskavější. Takový přepis není o přehlížení nebo popírání. Je to jiný, vyváženější pohled na věc. \n \n **Příklady vyvážených pohledů:** \n \n - „To, že mě to napadlo, neznamená, že to udělám.“ \n \n - „Každý někdy má zvláštní myšlenky. O tom, jaký jsem, vypovídá mé chování.“ \n \n - „To je hlas OCD - ne můj vnitřní hlas.“ \n \n - „I nepříjemné myšlenky mohu pozorovat bez reakce.“ \n \n - „Nejsem to, co mě napadne. Jsem to, co dělám.“"
+              "content": "**Vyváženější pohled** \n \n V tomto modulu si ukážeme, jak myšlenku zaznamenat a dále na ni nereagovat. Pomůže nám, když si myšlenku přeformulujeme. Nahradíme ji pohledem, který je pravdivější a laskavější. Takový přepis není o přehlížení nebo popírání. Je to jiný, vyváženější pohled na věc."
+            },
+            {
+              "type": "list",
+              "title": "**Jak může vypadat vyvážený pohled?**",
+              "color": "#27637C",
+              "items": [
+                "„To, že mě to napadlo, neznamená, že to udělám.“",
+                "„Každý někdy má zvláštní myšlenky. O tom, jaký jsem, vypovídá mé chování.“",
+                "„To je hlas OCD - ne můj vnitřní hlas.“",
+                "„I nepříjemné myšlenky mohu pozorovat bez reakce.“",
+                "Nejsem to, co mě napadne. Jsem to, co dělám.“"
+              ]
             }
           ]
         },
@@ -637,8 +659,8 @@
               "title": "**Co jste dokázali:**",
               "color": "#27637C",
               "items": [
-                "Lidé s OCD často přikládají svým myšlenkám příliš velký význam. Proto v nich myšlenky mohou vyvolat silné emoční reakce.",
-                "Pro mozek je těžké rozlišovat mezi myšlenkami a skutečným ohrožením.",
+                "Svým myšlenkám můžeme často přikládat příliš velký význam. Proto mohou vyvolat silné emoční reakce.",
+                "Pro mozek je někdy těžké rozlišovat mezi myšlenkami a skutečným ohrožením.",
                 "Myšlenky mohou být automatické a náhodné. Často jsou podbarvené únavou, strachem nebo napětím.",
                 "To, že nás něco napadne, neříká nic o tom, kdo jsme. Myšlenky nejsou ani povely ani fakta. "
               ]
@@ -688,7 +710,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Jana** \n \n Janu při nákupu napadlo: „Sáhla jsem na chleba neumytýma rukama. Co když se někdo nakazí?“ \n \n V tu chvíli jí tělem projelo napětí. Dříve by si šla hned umýt ruce, přehrávala si situaci ve vzpomínkách nebo by chléb rovnou vyhodila. \n \n Tentokrát jen ztichla. Řekla si: „To je jen myšlenka. Může být nepříjemná, ale nemusím s ní nic dělat.“ Chvílí byla napjatá, ale pak to opadlo. \n \n Později si do deníku napsala: „Myšlenka mi připomněla můj strach. Ale já jsem se rozhodla nejednat podle ní.“"
+                      "content": "**Jana** \n \n Janu při nákupu napadlo: *„Sáhla jsem na chleba neumytýma rukama. Co když se někdo nakazí?“* \n \n V tu chvíli jí tělem projelo napětí. Dříve by si šla hned umýt ruce, přehrávala si situaci ve vzpomínkách nebo by chléb rovnou vyhodila. \n \n Tentokrát jen ztichla. Řekla si: „To je jen myšlenka. Může být nepříjemná, ale nemusím s ní nic dělat.“ Chvílí byla napjatá, ale pak to opadlo. \n \n Později si do deníku napsala: „Myšlenka mi připomněla můj strach. Ale já jsem se rozhodla nejednat podle ní.“"
                     }
                   ]
                 },
@@ -713,7 +735,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Petr** \n \n Petr odcházel z domu a napadlo ho: „Nevím, jestli jsem zavřel všechna okna.“ Pocítil úzkost a malý úlek. Projel jím pocit, jako by něco přehlédl. \n \n Ale domů se nevrátil. Zůstal chvilku stát a pozoroval svůj dech. Uvědomil si, že tohle není reálné varování. Je to známá myšlenka, která ho svádí k opakování. Neposlechl ji. Napětí za chvíli zmizelo, v práci už o tom ani nevěděl. \n \n Večer si zapsal do deníku: „Měl jsem pochybnost, ale nereagoval jsem. A nic se nestalo.“"
+                      "content": "**Petr** \n \n Petr odcházel z domu a napadlo ho: *„Nevím, jestli jsem zavřel všechna okna.“* Pocítil úzkost a malý úlek. Projel jím pocit, jako by něco přehlédl. \n \n Ale domů se nevrátil. Zůstal chvilku stát a pozoroval svůj dech. Uvědomil si, že tohle není reálné varování. Je to známá myšlenka, která ho svádí k opakování. Neposlechl ji. Napětí za chvíli zmizelo, v práci už o tom ani nevěděl. \n \n Večer si zapsal do deníku: „Měl jsem pochybnost, ale nereagoval jsem. A nic se nestalo.“"
                     }
                   ]
                 },
@@ -738,7 +760,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Eva** \n \n Když Eva připravovala večeři, problesklo jí hlavou: „Co kdybych někoho bodla nožem?“ \n \n Dřív by si myšlenku zakázala a začala se kontrolovat. Teď ji jen vnímala. Neodpovídala na ni. Napětí chvíli kolísalo, v jednu chvílí to bylo velmi nepříjemné, ale během vaření zmizelo. \n \n Řekla si: „Tahle myšlenka je jen obsese. Přichází ve stresu. Nic to o mně nevypovídá.“ \n \n Později si do deníku napsala: „Tuhle myšlenku znám, protože se mi opakuje. Nebudu se ji bát, protože nic takového nechci. Myšlenka mě zaskočila. Ale neutekla jsem. A postupně sama odešla.“"
+                      "content": "**Eva** \n \n Když Eva připravovala večeři, problesklo jí hlavou: *„Co kdybych někoho bodla nožem?“* \n \n Dřív by si myšlenku zakázala a začala se kontrolovat. Teď ji jen vnímala. Neodpovídala na ni. Napětí chvíli kolísalo, v jednu chvílí to bylo velmi nepříjemné, ale během vaření zmizelo. \n \n Řekla si: „Tahle myšlenka je jen obsese. Přichází ve stresu. Nic to o mně nevypovídá.“ \n \n Později si do deníku napsala: „Tuhle myšlenku znám, protože se mi opakuje. Nebudu se ji bát, protože nic takového nechci. Myšlenka mě zaskočila. Ale neutekla jsem. A postupně sama odešla.“"
                     }
                   ]
                 },
@@ -763,7 +785,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**David** \n \n David viděl neuspořádané oblečení na křesle a pocítil v těle napětí. Napadlo ho: „Tohle znamená, že nezvládám. Když to hned neurovnám, přijde tragédie a bude to moje vina.“ \n \n Zastavil se. Nechal oblečení ležet tak, jak bylo. Jen pozoroval, co s ním myšlenka dělá, a jak postupně odeznívá. Dokázal vydržet celý den, aniž by uklidil. \n \n Večer si napsal: „Nechal jsem oblečení být. Nepřerovnal jsem ho, ani neuklidil. A nic hrozného se nestalo. Myšlenka mi neublížila, jen mě nutila jednat. Ale já jsem nemusel.“"
+                      "content": "**David** \n \n David viděl neuspořádané oblečení na křesle a pocítil v těle napětí. Napadlo ho: *„Tohle znamená, že nezvládám. Když to hned neurovnám, přijde tragédie a bude to moje vina.“* \n \n Zastavil se. Nechal oblečení ležet tak, jak bylo. Jen pozoroval, co s ním myšlenka dělá, a jak postupně odeznívá. Dokázal vydržet celý den, aniž by uklidil. \n \n Večer si napsal: „Nechal jsem oblečení být. Nepřerovnal jsem ho, ani neuklidil. A nic hrozného se nestalo. Myšlenka mi neublížila, jen mě nutila jednat. Ale já jsem nemusel.“"
                     }
                   ]
                 },
@@ -788,14 +810,14 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Klára** \n \n Klára byla na zahradě, když ji oslovil sousedův malý chlapeček Kubík. Najednou ji přepadla vtíravá myšlenka, která ji hodně zneklidnila: „Co když se mi líbilo se na něj podívat? Co když mě to vzrušuje?“ \n \n Zastavila se. Vnímala své tělo, cítila napětí a úzkost. Ale nereagovala. Neutekla, ani se Kubíkovi jinak nevyhýbala. Řekla si: „Je to blbost, žádné vzrušení necítím. Je to jen myšlenka...“ Dál si s ním ještě pár minut povídala. \n \n Potom si zapsala: „Myšlenka mě nezastavila. Nepřevzala nade mnou kontrolu. A já s ní můžu žít, aniž bych se jí musela nějak bránit nebo něco dokazovat.“"
+                      "content": "**Klára** \n \n Klára byla na zahradě, když ji oslovil sousedův malý chlapeček Kubík. Najednou ji přepadla vtíravá myšlenka, která ji hodně zneklidnila: *„Co když se mi líbilo se na něj podívat? Co když mě to vzrušuje?“* \n \n Zastavila se. Vnímala své tělo, cítila napětí a úzkost. Ale nereagovala. Neutekla, ani se Kubíkovi jinak nevyhýbala. Řekla si: *„Je to blbost, žádné vzrušení necítím. Je to jen myšlenka...“* Dál si s ním ještě pár minut povídala. \n \n Potom si zapsala: „Myšlenka mě nezastavila. Nepřevzala nade mnou kontrolu. A já s ní můžu žít, aniž bych se jí musela nějak bránit nebo něco dokazovat.“"
                     }
                   ]
                 },
                 {
                   "title": "LUKÁŠ",
                   "subtitle": "elektrikář, 30 let",
-                  "description": "Lukáš se bojí hřešit a neustále se modlí kvůli rouhavým myšlenkám. Cítí vnitřní rozpor.",
+                  "description": "Lukáš se bojí hříchu a neustále se modlí kvůli rouhavým myšlenkám. Cítí vnitřní rozpor.",
                   "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lukas_karta_40be25b691.svg",
                   "pictureMobileBackground": "#FFF3EF",
                   "pictureMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lukas_karta_mobile_543f887105.svg",
@@ -813,7 +835,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Lukáš** \n \n Lukáše během modlitby zničehonic napadla rouhavá věta, že by mohl „Boha nakopnout do zadku.“ I představa, jak kope. Vyděsil se. Měl nutkání odčinit svou úzkost opakovaným modlením, odříkáním nebo dlouhým půstem. Měl na sebe vztek a cítil narůstající napětí, jako by měl přijít soudný den. \n \n Tentokrát ale zůstal sedět. Myšlenka se objevila znovu. Nepokusil se ji potlačit ani s ní bojovat. Jen ji nechal být. Po chvíli odezněla. Pak se vrátila… a zase odešla. Napětí přicházelo a odcházelo, až postupně zesláblo. \n \n Později si napsal: „Rouhavé myšlenky a představy nejsou čin. Je to jen obsese. Nic víc. A já se mohu rozhodnout jim nepřikládat význam.“"
+                      "content": "**Lukáš** \n \n Lukáše během modlitby zničehonic napadla rouhavá myšlenka, že by mohl *„Boha nakopnout do zadku.“* I představa, jak kope. Vyděsil se. Měl nutkání odčinit svou úzkost opakovaným modlením, odříkáním nebo dlouhým půstem. Měl na sebe vztek a cítil narůstající napětí, jako by měl přijít soudný den. \n \n Tentokrát ale zůstal sedět. Myšlenka se objevila znovu. Nepokusil se ji potlačit ani s ní bojovat. Jen ji nechal být. Po chvíli odezněla. Pak se vrátila… a zase odešla. Napětí přicházelo a odcházelo, až postupně zesláblo. \n \n Později si napsal: „Rouhavé myšlenky a představy nejsou čin. Je to jen obsese. Nic víc. A já se mohu rozhodnout jim nepřikládat význam.“"
                     }
                   ]
                 },
@@ -838,14 +860,14 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Veronika** \n \n Veroniku zabolelo břicho. Okamžitě ji napadlo: „Mám nádor. Musím to hned řešit!“ Cítila strach. Pak si řekla: „Jsem zvyklá se hodně pozorovat. Možná přeháním. Tohle se mi stává často.“ Ihned se to přelilo zpět: „Ale co když to je opravdu nádor? Jak mám poznat, co je reálné a co je obsese? Zavolám doktorovi.“ \n \n Zastavila se. Řekla si: „Tělo něco cítí. Myšlenka to pak hodnotí. Ani jedno není důkaz, že mám nádor.“ Neudělala nic. Nechala bolest být. Ještě chvíli seděla na gauči, potom vstala a dala prát prádlo. Postupně se uklidnila. Břicho už ji nebolelo. Cítila se vyčerpaně. \n \n Nakonec pokrčila rameny a zapsala si do deníku: „Dnes jsem jen sledovala, co se ve mně děje, a nehledala jsem, co to znamená.“"
+                      "content": "**Veronika** \n \n Veroniku zabolelo břicho. Napadlo ji, že má možná nádor. Cítila strach a úzkost. Měla silné nutkání to začit hned řešit. Snažila se uklidnit: *„Jsem zvyklá se hodně pozorovat. Možná přeháním. Tohle se mi stává často.“* \n \n Obavy se ale rychle vrátily: *„Co když to je opravdu nádor? Jak mám poznat, co je skutečné a co je jen obsese? Zavolám raději doktorovi.“* \n \n Veronika se ale zastavila. Zhluboka se nadechla a řekla si: *„Tělo něco cítí. Myšlenky to pak hodnotí. Ani jedno není důkaz, že mám nádor.“* Nechala bolest být. Nehledala odpovědi, nevolala lékaři. Chvíli seděla na gauči, potom vstala a dala prát prádlo. Napětí se pomalu snižovalo. Břicho už ji po hodině nebolelo. \n \n Nakonec pokrčila rameny a zapsala si do deníku: „Dnes jsem jen sledovala, co se ve mně děje, a nehledala jsem, co to znamená.“"
                     }
                   ]
                 },
                 {
                   "title": "MICHAL",
                   "subtitle": "učitel, 27 let",
-                  "description": "Michala trápí nutkavé pochybnosti o svém vztahu. Vyžaduje neustále ujišťování.",
+                  "description": "Michala trápí nutkavé pochybnosti o svém vztahu. Často se ujišťuje, že je vše v pořádku.",
                   "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Michal_karta_41e0daacdc.svg",
                   "pictureMobileBackground": "#dfe8eb",
                   "pictureMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Michal_karta_mobile_8530388119.svg",
@@ -863,7 +885,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Michal** \n \n Michal seděl vedle Mirky a problesklo mu: „Možná necítím lásku. Možná to celé předstírám. Co když ji nemiluji a nikdy jsem ji nemiloval?!“ \n \n Ztuhl. Ale neřekl nic. Nerozvíjel to dál. Jen dýchal. Myšlenka přišla… a pomalu odešla. Chvíli mlčel, a pak se zeptal Mirky, jestli nechce udělat něco k pití. Uvařil jí čaj a sobě taky. \n \n Večer si zapsal: „Lásku někdy nelze cítit úplně jasně. Ale to neznamená, že není skutečná. Znamená to jen, že moje mysl je pod tlakem OCD – a já se rozhodl tomu nevěnovat pozornost.“"
+                      "content": "**Michal** \n \n Michal seděl vedle Mirky a problesklo mu: *„Možná necítím lásku. Možná to celé předstírám. Co když ji nemiluji a nikdy jsem ji nemiloval?!“* \n \n Ztuhl. Ale neřekl nic. Nerozvíjel to dál. Jen dýchal. Myšlenka přišla… A pomalu odešla. Chvíli mlčel, a pak se zeptal Mirky, jestli nechce udělat něco k pití. Uvařil jí čaj a sobě taky. \n \n Večer si zapsal: „Lásku někdy nelze cítit úplně jasně. Ale to neznamená, že není skutečná. Znamená to jen, že moje mysl je pod tlakem OCD – a já se rozhodl tomu nevěnovat pozornost.“"
                     }
                   ]
                 },
@@ -887,8 +909,8 @@
                       "unoptimized": true
                     },
                     {
-                      "type": "markdown",
-                      "content": "**Jirka** \n \n Jirka šel po parkovišti k autu. Hned u vchodu do garáže zahlédl poznávací značku, která končila číslem 113. V hlavě se mu okamžitě rozběhly známé věty: „To je špatné znamení. Když teď odjedu, něco se stane. Měl bych si to ověřit. Najít aspoň jedno číslo dělitelným čtyřmi…“ \n \n Zastavil se. Vnímal, jak se mu rozbušilo srdce. V minulosti by teď začal počítat auta, okna nebo kroky, dokud by se nedostal na „bezpečné číslo“. \n \n Ale tentokrát jen tiše řekl: „Tohle je ta myšlenka, kterou znám. Není to varování. Je to OCD.“ \n \n Rozhlédl se po okolí, na nebe, na stromy, na lidi, kteří procházeli kolem, a pokračoval k autu. Myšlenka sice chvíli zůstala, ale její síla slábla. \n \n Večer si zapsal: „Měl jsem obavu, že prvočíslo přinese neštěstí. Ale neposlechl jsem ji. A svět běžel dál. Myšlenka není fakt. Je to jen šum, který odezní, když mu nenaslouchám.“"
+                      "type": "markdown",      
+                      "content": "**Jirka** \n \n Jirka šel po parkovišti k autu. Hned u vchodu do garáže zahlédl poznávací značku, která končila číslem 113. V hlavě se mu okamžitě rozběhly známé věty: *„To je špatné znamení. Když teď odjedu, něco se stane. Měl bych si to ověřit. Najít aspoň jedno číslo dělitelným čtyřmi…“* \n \n Zastavil se. Vnímal, jak se mu rozbušilo srdce. V minulosti by teď začal počítat auta, okna nebo kroky, dokud by se nedostal na „bezpečné číslo“. \n \n Ale tentokrát jen tiše řekl: „Tohle je ta myšlenka, kterou znám. Není to varování. Je to OCD.“ \n \n Rozhlédl se po okolí, na nebe, na stromy, na lidi, kteří procházeli kolem, a pokračoval k autu. Myšlenka sice chvíli zůstala, ale její síla slábla. \n \n Večer si zapsal: „Měl jsem obavu, že prvočíslo přinese neštěstí. Ale neposlechl jsem ji. A svět běžel dál. Myšlenka není fakt. Je to jen šum, který odezní, když mu nenaslouchám.“"
                     }
                   ]
                 }
@@ -978,16 +1000,16 @@
               {
                 "type": "image",
                 "isExpandable": true,
-                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Mountain_dc166aa05f.svg",
-                "width": "195px",
-                "alt": "Obrázek hory s vlajkou na vrcholu",
-                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Mountain_dc166aa05f.svg",
-                "widthMobile": "195px",
+                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Flowers_0e031c2a29.svg",
+                "width": "138px",
+                "alt": "Kopretina v růžovém květináči",
+                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Flowers_0e031c2a29.svg",
+                "widthMobile": "138px",
                 "align": "center"
               },
               {
                 "type": "markdown",
-                "content": ":::text--center \n #### Expozice je krok ke změně, ne test síly! \n \n Je to zkušenost, že dokážete vydržet bez kompulze. \n :::"
+                "content": ":::text--center \n #### Nepříjemná myšlenka nemusí být problém. \n \n Problém je, když jí slepě uvěříme. Toto cvičení pomáhá získat odstup a nový pohled na věc. \n :::"
               }
             ]
           },
@@ -997,93 +1019,259 @@
               "content": "V tomto cvičení se naučíte zachytit vtíravou myšlenku, porozumět jejímu vlivu a vytvořit si k ní věcný, klidnější pohled. Doporučujeme začít s myšlenkou, která je pro vás trochu nepříjemná, ale ne zahlcující. Až si to vyzkoušíte, můžete postupovat k silnějším myšlenkám. \n \n **Můžete se inspirovat od postav z příběhů.**"
             },
             {
+              "type": "tool",
+              "tool": "interactiveCardModal",
+              "cardsPictureWidth": 80,
+              "cardsPictureHeight": 80,
+              "disabled": false,
+              "isSingleColumn": false,
+              "icon": "ArrowRight",
+              "buttonLabel": "Zavřít",
+              "cards": [
+                {
+                  "id": "Eva",
+                  "title": "Eva",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Icon_Eva_d5ddbd6eda.svg",
+                  "contentCard": [
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Eva_modal_8adc9d2543.svg",
+                      "width": "100%",
+                      "alt": "Obrázek Evy: mladá žena s kratšími kudrnatými zrzavými vlasy se žlutým baretem",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Eva_modal_8adc9d2543.svg",
+                      "widthMobile": "100%",
+                      "align": "center",
+                      "unoptimized": true
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "**1. Jaká nepříjemná nebo rušivá myšlenka se vám často vrací?** \n \n „Co když někoho bodnu?“ \n \n **2. Jak se při tom cítíte?** \n \n Strach, odpor, napětí \n \n **3. Jak na tuto nepříjemnou myšlenku obvykle reagujete?** \n \n Většinou hned nůž odložím a rychle odejdu z místnosti. \n \n **4. Jaká klidnější nebo věcnější věta by na tuto myšlenku mohla reagovat?** \n \n Vtíravé myšlenky neříkají nic o skutečných úmyslech. Lidé s OCD se jich bojí právě proto, že jdou proti jejich hodnotám. \n \n Je to jen nápad mozku. Mám strach právě proto, že bych to nikdy neudělala. \n \n **5. Jak se cítíte, když si tuto větu řeknete nahlas?** \n \n Jsem trochu klidnější a cítím méně sevření v těle."
+                    }
+                  ]
+                },
+                {
+                  "id": "David",
+                  "title": "David",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Icon_David_8fccefb11a.svg",
+                  "contentCard": [
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/David_modal_c2247c95c4.svg",
+                      "width": "100%",
+                      "alt": "Obrázek Davida: Muž s krátkými černými vlasy v bílé košili a hnědé pletené vestě",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/David_modal_c2247c95c4.svg",
+                      "widthMobile": "100%",
+                      "align": "center",
+                      "unoptimized": true
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "**1. Jaká nepříjemná nebo rušivá myšlenka se vám často vrací?** \n \n „Když knihy na stole nejsou přesně zarovnané, máma bude mít nehodu a umře.“ \n \n **2. Jak se při tom cítíte?** \n \n Nervozita, strach, úzkost, pocení se, zrychlený tep \n \n **3. Jak na tuto nepříjemnou myšlenku obvykle reagujete?** \n \n Knihy musím hned srovnat, a pak ještě hledám, co jiného není v místnosti zarovnané. \n \n **4. Jaká klidnější nebo věcnější věta by na tuto myšlenku mohla reagovat?** \n \n Myšlenky nejsou fakta ani důkazy. To, že mám takovou obavu neznamená, že se to opravdu stane. \n \n I když něco kolem není zarovnané, neznamená to hned něco špatného. Je to jen projev mé úzkosti. \n \n **5. Jak se cítíte, když si tuto větu řeknete nahlas?** \n \n Dodává mi to od původní myšlenky trochu odstup. Nutkání mám i tak, ale dokážu to vydržet."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
               "type": "stepByStep",
               "required": true,
               "steps": [
                 {
-                  "title": "Krok 1: Výběr expozice",
+                  "title": "Krok 1: Vyberte vtíravou myšlenku",
                   "contentSections": [
                     {
-                      "type": "pictureAndNote",
-                      "image": {
-                        "isExpandable": true,
-                        "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_1_Vyber_expozice_9c05fe8196.svg",
-                        "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_1_Vyber_expozice_mobile_3742bd5adc.svg",
-                        "alt": "Menu se čtyřmi možnostmi, jedna je vybraná",
-                        "width": "100px",
-                        "widthMobile": "100%",
-                        "align": "center"
-                      },
-                      "note": {
-                        "title": "**Zvolte si expozici, která na začátku nepřekračuje míru nepříjemných pocitů 6/10.**",
-                        "rows": 2,
-                        "placeholder": "Popis expozice",
-                        "required": false
-                      }
+                      "type": "note",
+                      "placeholder": "Moje vtíravá myšlenka",
+                      "title": "**Jaká nepříjemná nebo rušivá myšlenka se vám často vrací?**",
+                      "instruction": "Zapište myšlenku nebo představu přesně tak, jak se vám objevila v mysli.",
+                      "rows": 1,
+                      "maxLength": 200,
+                      "lengthValidationMessage": "Maximální délka odpovědi je 200 znaků.",
+                      "required": true
                     }
                   ]
                 },
                 {
-                  "title": "Krok 2: Plán expozice a odolání kompulzi",
+                  "title": "Krok 2: Popište, jak se při tom cítíte",
                   "contentSections": [
                     {
-                      "type": "pictureAndNote",
-                      "image": {
-                        "isExpandable": true,
-                        "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_2_Plan_expozice_a185c6cd9a.svg",
-                        "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_2_Plan_expozice_mobile_1e9543b05f.svg",
-                        "alt": "Ruka sahající na kliku od dveří",
-                        "width": "100px",
-                        "widthMobile": "100%",
-                        "align": "center"
-                      },
-                      "note": {
-                        "title": "**Co přesně udělám? (např. cestou domů sáhnu na kliku veřejných dveří)**",
-                        "rows": 2,
-                        "placeholder": "Plán expozice",
-                        "required": false
-                      }
+                      "type": "checkBoxList",
+                      "title": "**Jaké emoce při tom cítíte?**",
+                      "instruction": "vyberte ze seznamu níže:",
+                      "required": true,
+                      "isSingleColumn": false,
+                      "options": [
+                        {
+                          "name": "Rozčílení",
+                          "value": "Upset"
+                        },
+                        {
+                          "name": "Smutek",
+                          "value": "Sad"
+                        },
+                        {
+                          "name": "Nervozita",
+                          "value": "Nervous"
+                        },
+                        {
+                          "name": "Lítost",
+                          "value": "Regret"
+                        },
+                        {
+                          "name": "Osamělost",
+                          "value": "Lonely"
+                        },
+                        {
+                          "name": "Strach",
+                          "value": "Fear"
+                        },                        
+                        {
+                          "name": "Úzkost",
+                          "value": "Anxiety"
+                        },                        
+                        {
+                          "name": "Znechucení",
+                          "value": "Disgust"
+                        },
+                        {
+                          "name": "Stud",
+                          "value": "Shame"
+                        },
+                        {
+                          "name": "Ukřivděnost",
+                          "value": "Wronged"
+                        },
+                        {
+                          "name": "Zklamání",
+                          "value": "Disappointment"
+                        },                        {
+                          "name": "Beznaděj",
+                          "value": "Hopelessness"
+                        },
+                        {
+                          "name": "Nespokojenost",
+                          "value": "Uncontempt"
+                        },
+                        {
+                          "name": "Pocit viny",
+                          "value": "Guilt"
+                        },
+                        {
+                          "name": "Zlost na sebe",
+                          "value": "SelfAnger"
+                        }
+                      ]
                     },
                     {
-                      "type": "pictureAndNote",
-                      "image": {
-                        "isExpandable": true,
-                        "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_2_Odolani_kompulzi_913a294810.svg",
-                        "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_2_Odolani_kompulzi_mobile_08294682c7.svg",
-                        "alt": "Ruce pod tekoucí vodou s mýdlem s červeným křízkem",
-                        "width": "100px",
-                        "widthMobile": "100%",
-                        "align": "center"
-                      },
-                      "note": {
-                        "title": "**Co tentokrát neudělám? (např. neumyji si ruce, neujistím se u partnera)**",
-                        "rows": 2,
-                        "placeholder": "Popis odolání kompulzi",
-                        "required": false
-                      }
+                      "type": "checkBoxList",
+                      "title": "**Jaké tělesné pocity při tom cítíte?**",
+                      "instruction": "vyberte ze seznamu níže:",
+                      "required": true,
+                      "isSingleColumn": false,
+                      "options": [
+                        {
+                          "name": "Zrychlený tep",
+                          "value": "Palpitations"
+                        },
+                        {
+                          "name": "Třes",
+                          "value": "Tremours"
+                        },
+                        {
+                          "name": "Svalové napětí",
+                          "value": "MusclePain"
+                        },
+                        {
+                          "name": "Ztížené dýchání",
+                          "value": "HardBreathing"
+                        },
+                        {
+                          "name": "Pocení se",
+                          "value": "Sweat"
+                        },
+                        {
+                          "name": "Nevysvětlitelné bolesti",
+                          "value": "Pains"
+                        },                        
+                        {
+                          "name": "Únava",
+                          "value": "Tiredness"
+                        },                        
+                        {
+                          "name": "Bolest hlavy",
+                          "value": "Headpain"
+                        },
+                        {
+                          "name": "Malátnost",
+                          "value": "Dizziness"
+                        },
+                        {
+                          "name": "Potíže s trávením",
+                          "value": "Indigestion"
+                        }
+                      ]
                     }
                   ]
                 },
                 {
-                  "title": "Krok 3: Odměna",
+                  "title": "Krok 3: Popište svou reakci",
                   "contentSections": [
                     {
-                      "type": "pictureAndNote",
-                      "image": {
-                        "isExpandable": true,
-                        "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_3_Odmena_c1d47088f0.svg",
-                        "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_3_Odmena_mobile_c80b76012c.svg",
-                        "alt": "Zabalený růžový dárek",
-                        "width": "100px",
-                        "widthMobile": "100%",
-                        "align": "center"
-                      },
-                      "note": {
-                        "title": "**Zvolte si expozici, která na začátku nepřekračuje míru nepříjemných pocitů 6/10.**",
-                        "rows": 2,
-                        "placeholder": "Popis expozice",
-                        "required": false
-                      }
+                      "type": "note",
+                      "placeholder": "Popis vaší reakce",
+                      "title": "**Jak na tuto nepříjemnou myšlenku obvykle reagujete?**",
+                      "instruction": "např. vyhýbání, kontrola, uklidňování, kompulze…",
+                      "rows": 2,
+                      "maxLength": 500,
+                      "lengthValidationMessage": "Maximální délka odpovědi je 500 znaků.",
+                      "required": true
+                    }
+                  ]
+                },
+                {
+                  "title": "Krok 4: Napište vyváženější pohled",
+                  "contentSections": [
+                    {
+                      "type": "note",
+                      "placeholder": "Vyváženější pohled",
+                      "title": "**Jaká klidnější nebo věcnější věta by na tuto myšlenku mohla reagovat?**",
+                      "instruction": "Co jste se o takových myšlenkách dozvěděl/a v programu?",
+                      "rows": 2,
+                      "maxLength": 500,
+                      "lengthValidationMessage": "Maximální délka odpovědi je 500 znaků.",
+                      "required": true
+                    }
+                  ]
+                },
+                {
+                  "title": "Krok 5: Popište vliv vyváženého pohledu",
+                  "contentSections": [
+                    {
+                      "type": "note",
+                      "placeholder": "Jak se cítím",
+                      "title": "**Jak se cítíte, když si tuto větu řeknete nahlas?**",
+                      "instruction": "zmírnila se úroveň vaší nepohody?",
+                      "rows": 1,
+                      "maxLength": 250,
+                      "lengthValidationMessage": "Maximální délka odpovědi je 250 znaků.",
+                      "required": true
+                    }
+                  ]
+                },
+                {
+                  "title": "Krok 6: Opakujte si to",
+                  "contentSections": [
+                    {
+                      "type": "note",
+                      "placeholder": "Moje připomínky",
+                      "title": "**Jak si to můžete připomenout v běžném dni?**",
+                      "instruction": "např. poznámka, obrázek",
+                      "rows": 1,
+                      "maxLength": 250,
+                      "lengthValidationMessage": "Maximální délka odpovědi je 250 znaků.",
+                      "required": true
                     }
                   ]
                 }
@@ -1111,35 +1299,54 @@
               "title": "**Co jste se dozvěděli:**",
               "color": "#27637C",
               "items": [
-                "Při expozicích si můžete vést zápisník se záznamy o tom, jaké to bylo.",
-                "Expozice je dobré dělat často, protože s opakováním se snižuje úroveň nepříjemných pocitů, které v nás vyvolávají.",
-                "Expozice nemusí jít perfektně. I když nevydržíte bez kompulze, je to lepší, než to vůběc nezkusit."
+                "Jak postavy z příběhů pracovaly s vtíravými myšlenkami a hledaly k nim vyváženější pohledy.",
+                "Jak si zpracovat nepříjemnou myšlenku a získat k ní odstup."
               ]
             }
           ]
         },
         {
-          "title": "Petrova nejistota",
+          "title": "Práce s katastrofickým scénářem",
+          "icon": "video",
+          "contentSections": [
+            {
+              "type": "markdown",
+              "content": "Katastrofický scénář pracuje s myšlenkami a přináší úlevu, ale jde na to zase trochu jinak. Ve videu se dozvíte víc."
+            },
+            {
+              "type": "video",
+              "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M6_3_743416c19e.mp4",
+              "captionsUrl": "xx"
+            },
+            {
+              "type": "collapse",
+              "content": "V předchozí části modulu jsme vám ukázali, jak si od vtíravých myšlenek najít **odstup**. Třeba pomocí připomínek nebo mindfulness cvičení. Teď se na myšlenky podíváme z jiného úhlu. Zkusíme je rozpracovat až do konce. \n \n Říká se tomu **práce s katastrofickým scénářem**. V tomto cvičení se učíte zůstat s představou a nic proti ní nepodnikat. Mozek si postupně zvykne, že nepříjemná myšlenka není hrozba ani varování. Funguje to podobně jako expozice v představě. \n \n Jak na to? Nejprve si sepište ten **nejhorší možný scénář**, který vás napadá. Popište ho **konkrétně** a můžete jít i do **detailu**. Pak si ho čtěte nahlas, klidně každý den. Nebojujte s ním, nesnažte se uklidnit, ani hledat jistotu. Jen zůstaňte u příběhu a všímejte si, jak se při tom cítíte. \n \n Možná si všimnete **strachu**, **tlaku** na hrudi nebo **napětí**. A přesto vytrvejte. To je klíč. Vydržíte ten moment a zjistíte, že i silné obavy se dají unést. A svět se nezbořil. \n \n Podívejme se na příklad Veroniky. Často ji trápila myšlenka, že má vážnou nemoc, kterou přehlédne. Sepsala si scénář: „Nevšimla jsem si příznaků. A teď už je pozdě. Je to moje vina.“ Každý den si ho nahlas četla. Nevolala doktorům, nehledala si příznaky na internetu. Postupně si všimla, že nic z jejího scénáře se nestalo. A i kdyby ano, věděla by, jak to zvládnout. \n \n Když **vydržíte s obavou**, získáte novou zkušenost. Nepřijde panika ani katastrofa. **Otužíte se** a objevíte v sobě *áodvahu** a **klid**. Ne proto, že jste si dokázali, že se nic nestane, ale protože jste si ověřili, že to unesete. \n \n To je pravý cíl tohoto cvičení: schopnost unést nejistotu.",
+              "title": "Radši si přečtu"
+            }
+          ]
+        },
+        {
+          "title": "Veroničin katastrofický scénář",
           "icon": "Story",
           "contentSections": [
             {
               "type": "markdown",
-              "content": "Petra často trápí nejistota. Uklidňuje se častým kontrolováním a ujišťováním. Ale nejistota nikdy nezmizí. Točí se v bludném kruhu. Cesta ven vede tím, že se naučí nejistotu přijmout a zůstat s ní."
+              "content": "Veroniku trápí neodbytné obavy o zdraví. Každé píchnutí nebo bolest ji nutí vyhledávat příznaky na internetu a ujišťovat se. Veronika se rozhodla, že si sepíše, čeho se vlastně obává a jak by vypadala ta nejhorší možná situace."
             },
             {
               "type": "stories",
               "stories": [
                 {
-                  "name": "Petr",
-                  "toggleImageUrl": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Ikonka_Petr_11de1d0549.svg",
+                  "name": "Veronika",
+                  "toggleImageUrl": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Ikonka_Veronika_0bc72e7934.svg",
                   "contentSections": [
                     {
                       "type": "image",
                       "isExpandable": false,
-                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Petrova_nejistota_5dcef441af.svg",
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Veronicin_katastroficky_scenar_03000d68e3.svg",
                       "width": "100%",
-                      "alt": "Komiks o tom, jak Petr vyzkoušel odeslat fakturu po jedné kontrole",
-                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Petrova_nejistota_mobile_45a75fa195.svg",
+                      "alt": "Komiks o tom, jak Veronika našla odstup od svých obav o zdraví",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Veronika_a_vtirave_myslenky_f267f57f34.svg",
                       "widthMobile": "100%",
                       "align": "center"
                     }
@@ -1150,32 +1357,12 @@
           ]
         },
         {
-          "title": "Potřeba naprosté jistoty",
-          "icon": "video",
-          "contentSections": [
-            {
-              "type": "markdown",
-              "content": "Ve videu se dozvíte, jak OCD souvisí s potřebou naprosté jistoty a proč je důležité začít přijímat nejistotu."
-            },
-            {
-              "type": "video",
-              "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M5_2_b30cd5185b.mp4",
-              "captionsUrl": "xx"
-            },
-            {
-              "type": "collapse",
-              "content": "Možná jste si u sebe všimli nadměrné potřeby sledovat okolí i vlastní myšlenky. Vaše pozornost se zaměřuje na hrozby, nejasnosti nebo možné chyby. Něco znepokojivého se vždy objeví. Třeba si všimnete, že jste se dotkli kliky a hned vás napadne: „Co když na tom byly bakterie?“ \n \n I běžné situace pak mohou působit jako rizikové a vyvolat nutkání zasáhnout. Vidíte nůž v kuchyni a probleskne vám hlavou: „Co když ublížím někomu blízkému?“ To jen posiluje přesvědčení, že musíte mít naprostou kontrolu. \n \n Potřeba absolutní jistoty je ale past. Každá kontrola přinese úlevu jen na chvíli. Vrátíte se zkontrolovat, že jsou dveře zamčené - a ano, jsou. Cítíte se lépe. Ale za pár minut přijde nová obava: „Opravdu jsem to důkladně zamkl?“ \n \n Hlas pochybností se vždy vrátí. A s ním nutkání znovu ověřovat. Obsedantně-kompulzivní porucha tak vytváří bludný kruh. Jistotu v něm nikdy nenajdete. Jen další a další pochybnosti. „Ten zámek dneska zacvaknul nějak jinak,“ nebo „Co když jsem klíč otočil omylem zpátky?“ \n \n Čím víc se snažíte mít 100% kontrolu, tím více si všímáte nejistoty. Pak ve vás narůstá napětí a úzkost. Je to začarovaná spirála, která se sama posiluje. \n \n Když vynecháte kompulzi, nejprve je to velmi nepříjemné. Srdce bije rychleji, v hlavě se vám honí obavy. \n \n Ale s každou expozicí roste vaše schopnost unést nejistotu. Po týdnu to vidíte jinak. „Ano, nevím na 100 %, jestli mám ruce čisté, ale nic se neděje.“ \n \n Jak jsme si už řekli, mozek se mění zkušeností, ne logikou. Můžete si tisíckrát říkat „To je nesmysl, sporák jsem vypnul,“ ale dokud nezkusíte odejít bez kontroly a neuvidíte, že se nic nestalo, změna nepřijde. A každý den, kdy nehledáte jistotu a vydržíte bez ní, je den, kdy jste udělali něco pro sebe.",
-              "title": "Radši si přečtu"
-            }
-          ]
-        },
-        {
           "title": "Příběhy",
           "icon": "Story",
           "contentSections": [
             {
               "type": "markdown",
-              "content": "Níže si můžete přečíst o tom, jak se s nejistotou snažily vypořádat postavy z příběhů."
+              "content": "Podívejte se, jak si s **katastrofickým scénářem** poradily postavy z příběhů."
             },
             {
               "type": "noteBox",
@@ -1212,7 +1399,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Jana** \n \n xx"
+                      "content": "**Jana** \n \n **Katastrofický scénář:** \n \n Šla jsem do obchodu a nevydezinfikovala jsem si ruce. Dotkla jsem se jablka, a někdo si ho potom koupil a snědl. Bylo to dítě, které kvůli tomu dostalo vážnou infekci a skončilo v nemocnici. \n \n Na sociálních sítích se začalo psát, že jsem to způsobila já. Novináři zveřejnili záznamy z kamery z obchodu a venku mě začali poznávat cizí lidé. Někdo na mě plivl v tramvaji. Byla jsem propuštěna z práce. Moje máma řekla, že mě nepoznává. A já jsem si řekla, že kdybych byla pořádná, nikdy by se to nestalo. \n \n **Co jsem si uvědomila po opakovaném čtení:** \n \n Moje myšlenky ukazují na strach. Ne realitu. Vždy dělám to nejlepší, co dokážu. A žádný člověk nemůže mít absolutní kontrolu nad světem."
                     }
                   ]
                 },
@@ -1237,7 +1424,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Petr** \n \n xx"
+                      "content": "**Petr** \n \n **Katastrofický scénář:** \n \n Nezavřel jsem okno, a zároveň jsem nechal zapnutý sporák. Vítr převrhl záclonu na hořák, začal požár. Vyhořelo celé patro a sousedům uhořel pes. Hasiči řekli, že to byla moje nedbalost. Sousedi mě nenávidí, někdo na dveře nastříkal slovo „vrah“. Musel jsem si najít jiné bydlení. \n \n Rodiče se mnou odmítli mluvit. V televizi běžela reportáž o požáru, a pod mým jménem se objevilo slovo „viník“. Našel jsem si práci ve skladu, kde jsem sám. S nikým se nestýkám. Každý den si opakuju, že všechno začalo tím, že jsem neposlechl myšlenku a nevrátil jsem se. \n \n **Co jsem si uvědomil po opakovaném čtení:** \n \n Nadměrně se straším. To proto, že nemám v ničem 100% jistotu. Úzkost mě tlačí k hledání jistoty, ale to v životě prostě nejde. Jsem jen člověk, a i když udělám chybu, můj život tím nekončí."
                     }
                   ]
                 },
@@ -1262,7 +1449,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Eva** \n \n xx"
+                      "content": "**Eva** \n \n **Katastrofický scénář:** \n \n Vařím večeři, a přitom mě napadne, že bych mohla bodnout partnera. V tu chvíli se směje. A já ho opravdu bodnu. Je to nečekané a brutální. Krev je všude. On na mě jen kouká a nechápe, co se stalo. Umírá. \n \n Zavolám záchranku, ale je pozdě. Policie mě zatkne. V televizi běží záběry z domu. Lidé říkají, že to bylo plánované. Psychologové mě označí za nebezpečnou. Nikdo už nikdy neuvěří, že jsem ho měla ráda. Nejhorší je ale to, že si řeknu: „Možná jsi to chtěla. Možná jsi to vždycky měla v sobě.“ \n \n **Co jsem si uvědomila po opakovaném čtení:** \n \n To, co mě nejvíc děsí, není čin, ale jen můj nápad. Bojím se toho a nic takového nechci udělat. Kdybych něco takového chtěla, neměla bych z toho strach. Kdybych byla nebezpečná, tahle myšlenka by mě neděsila. Doopravdy nic takového udělat nechci, mám ho ráda."
                     }
                   ]
                 },
@@ -1287,7 +1474,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**David** \n \n xx"
+                      "content": "**David** \n \n **Katastrofický scénář:** \n \n Odešel jsem z domu, aniž bych narovnal knihy. Pár kolegů přijde na návštěvu, uvidí rozházenou knihovnu a řeknou: „Vždyť on se rozpadá.“ Začnou mě přehlížet, v práci se mi nikdo nedívá do očí. Šéf mě pošle na „delší dovolenou“. \n \n Máma mi řekne, že jsem byl vždycky problémový. Přitom to všechno začalo tím, že jsem nezarovnal věci do pravého úhlu. Zpětně se nenávidím za to, že jsem to dopustil. \n \n **Co jsem si uvědomil po opakovaném čtení:** \n \n To, jak mám věci uspořádané, neříká nic o tom, kdo jsem. Má hodnota není v udržování pořádku, ale v tom, jak se chovám k sobě a k druhým."
                     }
                   ]
                 },
@@ -1312,14 +1499,14 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Klára** \n \n xx"
+                      "content": "**Klára** \n \n **Katastrofický scénář:** \n \n Jdu po ulici a zahlédnu dítě. V tu chvíli mi hlavou probleskne nepříjemná myšlenka a najednou mám pocit, že jsem se usmála. Lidé si toho všimnou. Někdo mě vyfotí. Objeví se na internetu spekulace, že jsem pedofil. \n \n Někdo najde, kde pracuju. Dostávám výpověď. Rodiče se mě zřeknou. Lidé, které mám ráda, se na mě přestanou dívat jako na člověka. A já si začnu myslet, že je to moje vina, že jsem divná. Protože kdybych nebyla, nic takového by mě nenapadlo. \n \n **Co jsem si uvědomila po opakovaném čtení:** \n \n Moje mysl je citlivá a vnímá strach. Zbytečně se straším. Myšlenky však nejsou důkazem, že jsem špatný člověk. Vlastně to, jak moc mě děsí, ukazuje, že mi na druhých záleží."
                     }
                   ]
                 },
                 {
                   "title": "LUKÁŠ",
                   "subtitle": "elektrikář, 30 let",
-                  "description": "Lukáš se bojí hřešit a neustále se modlí kvůli rouhavým myšlenkám. Cítí vnitřní rozpor.",
+                  "description": "Lukáš se bojí hříchu a neustále se modlí kvůli rouhavým myšlenkám. Cítí vnitřní rozpor.",
                   "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lukas_karta_40be25b691.svg",
                   "pictureMobileBackground": "#FFF3EF",
                   "pictureMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lukas_karta_mobile_543f887105.svg",
@@ -1337,7 +1524,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Lukáš** \n \n xx"
+                      "content": "**Lukáš** \n \n **Katastrofický scénář:** \n \n Během modlitby mě napadne rouhavá myšlenka. Nedokážu ji vytěsnit. Mám pocit, že jsem právě urazil Boha, že jsem všechno znesvětil. Celý den se trápím. Můj kněz pozná, že se něco změnilo. Při zpovědi se rozpláču, ale mám pocit, že to stejně nestačí. \n \n Lidé v kostele si všimnou, že jsem jiný. Někdo o mně začne šířit pomluvy. Řeknou, že jsem opustil víru. Já sám se cítím zkažený, nečistý, nehodný odpuštění. A když si večer lehám do postele, říkám si: „Už nikdy nebudu v Božích očích přijatelný.“ \n \n **Co jsem si uvědomil po opakovaném čtení:** \n \n Víra není bezchybnost. Je to vztah, který se obnovuje. Rouhavá myšlenka není hřích. Je to jen výboj mé mysli, která se bojí selhání. A Bůh mě zná lépe než tahle myšlenka."
                     }
                   ]
                 },
@@ -1362,14 +1549,14 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Veronika** \n \n xx"
+                      "content": "**Veronika** \n \n **Katastrofický scénář:** \n \n Ráno mě píchlo v podbřišku. Nevěnovala jsem tomu pozornost. Řekla jsem si, že to přejde. Ale odpoledne mi začalo být zle. K večeru už jsem měla horečku. Odložila jsem vyšetření. \n \n Druhý den mě přijali do nemocnice. Lékaři řekli, že to bylo vážné a že kdybych přišla dřív, dalo se to léčit. Teď už je pozdě. Musím na operaci. V nemocnici ležím sama, dívám se do stropu a mám výčitky svědomí, že jsem si nevyhledala včas příznaky. Mamka pláče. Ségra říká: „Klasická Verča. Řeší kraviny, a když jde do tuhého, nic neudělá.“ A já si říkám, že má pravdu. \n \n **Co jsem si uvědomila po opakovaném čtení:** \n \n Mám citlivý vztah ke svému tělu, ale ne každá myšlenka znamená hrozbu. To, že mě napadají katastrofické scénáře, ještě neznamená, že jsou pravdivé. Můžu reagovat s péčí, ne se strachem."
                     }
                   ]
                 },
                 {
                   "title": "MICHAL",
                   "subtitle": "učitel, 27 let",
-                  "description": "Michala trápí nutkavé pochybnosti o svém vztahu. Vyžaduje neustále ujišťování.",
+                  "description": "Michala trápí nutkavé pochybnosti o svém vztahu. Často se ujišťuje, že je vše v pořádku.",
                   "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Michal_karta_41e0daacdc.svg",
                   "pictureMobileBackground": "#dfe8eb",
                   "pictureMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Michal_karta_mobile_8530388119.svg",
@@ -1387,7 +1574,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Michal** \n \n xx"
+                      "content": "**Michal** \n \n **Katastrofický scénář:** \n \n Sedím naproti Mirce a hlavou mi běží: *„Možná ji nemiluju.“* Místo abych to nechal být, řeknu jí to. Ona zbledne. Cítí se zrazená. Sbalí si věci a odejde. Já jdu domů a zmocňuje se mě silná úzkost. \n \n Uvědomím si, že to bylo impulzivní. Že to byla jen myšlenka, ne pravda. Ale už je pozdě. Neodpovídá mi na zprávy. Kamarádi říkají, že jsem nikdy nevěděl, co chci. Cítím prázdno. Dívám se na společné fotky. A říkám si: *„Jedna věta. Jedna myšlenka. A všechno je pryč.“* \n \n **Co jsem si uvědomil po opakovaném čtení:** \n \n Pochybnosti neznamenají, že láska není skutečná. Láska je o tom, že na druhého myslím, že jsou pro mě důležité jeho potřeby a jak se k němu chovám. A to platí, i když mé myšlenky kolísají."
                     }
                   ]
                 },
@@ -1412,7 +1599,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Jirka** \n \n xx"
+                      "content": "**Jirka** \n \n **Katastrofický scénář** Na parkovišti u nemocnice jsem zaparkoval vedle auta se SPZ končící 17. Vidím to a okamžitě v hlavě naskočí: *„To je varování. Dnes něco pokazím.“* \n \n V ordinaci udělám chybu v záznamu. Omluvím se a snažím se to opravit, ale později se pacientce stav zhorší, dostane komplikace a odveze ji záchranka. V tisku se objeví zprávy o lékaři, který přehlédl důležitý údaj. \n \n Kolegové začnou pochybovat o mé kompetenci. Lucka se mě začne stydět, dcery se mě straní, v nemocnici už mě nechtějí. Nakonec přijdu o práci. Jsem zničený, ztratil jsem všechno: rodinu, respekt, smysl života... Jen proto, že jsem jednou neprovedl kompulzi. \n \n **Co jsem si uvědomil po opakovaném čtení:** \n \n Představa spojuje náhodné události do řetězce, který ve skutečnosti neexistuje. Fakt, že jsem neprovedl kompulzi, nijak nemění zdravotní okolnosti pacientů. Můj strach pramení z hlubší obavy: že nejsem dost dobrý lékař a že kvůli jedné chybě můžu jako lékař i jako člověk úplně ztratit hodnotu. To je přehnané."
                     }
                   ]
                 }
@@ -1421,7 +1608,7 @@
           ]
         },
         {
-          "title": "Kvíz o potřebě naprosté jistoty",
+          "title": "Kvíz o katastrofických scénářích",
           "icon": "Star",
           "contentSections": [
             {
@@ -1430,70 +1617,145 @@
               "questions": [
                 {
                   "name": "Question1",
-                  "question": ":::text--center \n Klára jde kolem dětského hřiště a v hlavě se jí objeví vtíravá myšlenka: „Co když těm dětem něco udělám?“ Cítí strach a zhnusení, ale neutíká pryč, ani se neuklidňuje opakováním vět. Co se Klára tímto krokem učí? \n :::",
+                  "question": ":::text--center \n Lukáš se obává, že rouhavé věty, které ho napadnou, mohou způsobit trest nebo prokletí. Napsal si katastrofický scénář a čte ho pravidelně. Co je hlavním účelem této metody? \n :::",
                   "options": [
                     {
-                      "label": "A) I s nepříjemnou myšlenkou může být přítomná a nic se nestane.",
+                      "label": "A) Unést úzkost z myšlenky a přestat na ni reagovat kompulzí.",
                       "value": 0
                     },
                     {
-                      "label": "B) Myšlenku musí potlačit, aby rychle zmizela.",
+                      "label": "B) Přesvědčit se, že jeho víra je silnější než myšlenky.",
                       "value": 1
                     },
                     {
-                      "label": "C) Je lepší riziko ignorovat, jako by neexistovalo.",
+                      "label": "C) Vyvrátit své pochybnosti pomocí racionální analýzy.",
                       "value": 2
                     }
                   ],
                   "correctAnswer": 0,
-                  "correctAnswerReason": "Správná odpověď je A). Klára nezastavuje myšlenku, ale svou reakci na ni. V expozici se ukazuje, že myšlenka není čin a strach není důkaz. Klára díky tomu posiluje svou schopnost snášet nejistotu a znovu objevuje vlastní hodnotu."
+                  "correctAnswerReason": "Správná odpověď je A). Při čtení scénáře nejde o to se uklidnit nebo najít „správnou“ odpověď, ale vydržet nepříjemný obsah bez kompulze a vytvořit nový zážitek, že myšlenka ≠ čin."
                 },
                 {
                   "name": "Question2",
-                  "question": ":::text--center \n Veronika cítí lehkou bolest v krku. Nutká ji to, aby zkontrolovala, jestli nejde o rakovinu. Místo toho si však řekla: „Vydržím nepříjemný pocit a nebudu to dneska řešit.“ Jaký postoj tím zvolila? \n :::",
+                  "question": ":::text--center \n Klára zažila vtíravou představu, kterou považuje za „zvrácenou“. Uvěřila, že už samotná myšlenka znamená, že je špatný člověk. Co by měla udělat? \n :::",
                   "options": [
                     {
-                      "label": "A) Pasivní přístup ke svému zdraví",
+                      "label": "A) Zanalyzovat, proč se myšlenka objevila, a snažit se ji pochopit.",
                       "value": 0
                     },
                     {
-                      "label": "B) Uvědomění, že kontrola není nutná",
+                      "label": "B) Okamžitě se rozptýlit a přestat na to myslet.",
                       "value": 1
                     },
                     {
-                      "label": "C) Smíření se s osudem",
+                      "label": "C) Říct si, že myšlenky nejsou důkaz a neukazují, jaká opravdu je.",
                       "value": 2
                     }
                   ],
-                  "correctAnswer": 1,
-                  "correctAnswerReason": "Správná odpověď je B). Veronika si dovolila žít, i když neví jistě, co se s ní děje. Je důležité odklonit se od neustálého ujišťování a důvěřovat, že není potřeba mít absolutní jistotu."
+                  "correctAnswer": 2,
+                  "correctAnswerReason": "Správná odpověď je C). Není potřeba myšlenku odstranit nebo ji rozebírat. Stačí si uvědomit, že je to jen automatická reakce mysli. To, jakou hodnotu má člověk, se neměří podle jeho myšlenek."
                 },
                 {
                   "name": "Question3",
-                  "question": ":::text--center \n Lukáš si četl knihu, když vtom mu proběhla myslí rouhavá představa. Cítil nutkání se hned „očistit“ modlitbou, ale rozhodl se zůstat v tichu a jen dýchat. Co Lukáš projevil? \n :::",
+                  "question": ":::text--center \n Veroniku často děsí tělesné pocity, například tlak v hrudi. Když si psala katastrofický scénář, vyvolalo to silnou úzkost, ale postupně se učí s ní být. Jaká věta by jí mohla nejlépe pomoci během čtení? \n :::",
                   "options": [
                     {
-                      "label": "A) Lhostejnost k víře",
+                      "label": "A) „Musím si být jistá, že to nic není.“",
                       "value": 0
                     },
                     {
-                      "label": "B) Nezájem o duchovní život",
+                      "label": "B) „Moje myšlenky a pocity nejsou hrozba. Můžu je nechat být.“",
                       "value": 1
                     },
                     {
-                      "label": "C) Schopnost unést nejistotu",
+                      "label": "C) „Když mě to napadlo, musím to ověřit a nejlépe u několika zdrojů.“",
                       "value": 2
                     }
                   ],
                   "correctAnswer": 1,
-                  "correctAnswerReason": "Správná odpověď je C). Lukáš se učí, že víra není o dokonalých slovech, ale o důvěře přes pochybnost. V expozici se zábranou odpovědi to znamená, že neprovádí kompulzi a ví, že tím nezrazuje svou víru."
+                  "correctAnswerReason": "Správná odpověď je B). Cílem není okamžitě se uklidnit, ale naučit se být přítomný i ve chvílích, kdy je úzkost silná. Tím si Veronika postupně uvědomí, že i nepříjemné pocity nejsou nebezpečné a že je zvládne."
                 }
               ]
             }
           ]
         },
         {
-          "title": "Cvičení: Moje potřeba jistoty",
+          "title": "Jak pracovat s katastrofickým scénářem",
+          "icon": "text",
+          "contentSections": [
+            {
+              "type": "image",
+              "isExpandable": false,
+              "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jak_pracovat_s_katastrofickym_scenarem_6856233467.svg",
+              "width": "100%",
+              "alt": "Postavička, která se připravuje na různé překážky",
+              "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jak_pracovat_s_katastrofickym_scenarem_mobile_e48294671e.svg",
+              "widthMobile": "100%",
+              "align": "center",
+              "unoptimized": true
+            },
+            {
+              "type": "markdown",
+              "content": "Než se pustíte do cvičení, ve kterém si sepíšete vlastní katastrofický scénář, pomůžeme vám připravit se na možné nesnáze. Stejně jako u expozic může být náročné u tohoto cvičení vytrvat. Ale my vám ukážeme způsoby, jak na to!"
+            },
+            {
+              "type": "markdown",
+              "content": "**Myšlenka: Nedokážu to napsat, je to moc děsivé.** \n \n - Odpověď: Tisíce lidí přede mnou tento krok zvládly. I já to můžu zvládnout. \n \n **Myšlenka: Co když se to kvůli tomu opravdu stane?** \n \n - Odpověď: Myšlenka není přání, scénář není zaklínadlo. \n \n **Myšlenka: Když to napíšu, potvrzuju, že jsem špatný člověk.** \n \n -  Odpověď: Nejste špatný člověk, ale odvážný člověk. Napsat scénář není lehké. Může vám pomoci, když to uděláte postupně. Zkuste napsat scénář nejprve bez detailů a postupně je přidávejte."
+            }
+          ]
+        },
+        {
+          "title": "Cvičení: Příprava katastrofického scénáře",
+          "icon": "exercise",
+          "isEvaluable": true,
+          "contentSections": [
+            {
+              "type": "image",
+              "isExpandable": false,
+              "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Cviceni_Priprava_katastrofickeho_scenare_6f430f61c5.svg",
+              "width": "100%",
+              "alt": "Postavička sedící se skříženýma nohama, představující si dům v plamenech",
+              "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Cviceni_Priprava_katastrofickeho_scenare_mobile_22b4755e63.svg",
+              "widthMobile": "100%",
+              "align": "center",
+              "unoptimized": true
+            },
+            {
+              "type": "markdown",
+              "content": "V tomto cvičení si vytvoříte svůj katastrofický scénář. Zaměřte se jen na jednu obsesi. Na poprvé vám doporučujeme vybrat si lehčí scénář, abyste si to vyzkoušeli."
+            },
+            {
+              "type": "note",
+              "placeholder": "Moje obsese",
+              "title": "**Vypište jednu konkrétní obsedantní myšlenku.**",
+              "instruction": "můžete se inspirovat příběhy postav",
+              "rows": 1,
+              "tooltipInfo": "**Příklady:** <br> - „Co když někomu ublížím?“ <br> - „Co když kvůli mně někdo zemře?“",
+              "required": false
+            },
+            {
+              "type": "note",
+              "placeholder": "Můj katastrofický scénář",
+              "title": "**Popište detailně katastrofický scénář.**",
+              "instruction": "Představte si, že se rozhodnete neřídit se nutkáním. Co nejhoršího by se podle vás mohlo stát?",
+              "rows": 6,
+              "required": false
+            },
+            {
+              "type": "noteBox",
+              "desktopImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Cteni_scenare_4a2c2a6b94.svg",
+              "mobileImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Cteni_scenare_4a2c2a6b94.svg",
+              "backgroundColor": "#EFE9EC",
+              "textColor": "#3F1024",
+              "text": "Scénář si nyní **přečtěte**. Zkuste si představovat, jaké by to **skutečně bylo**. Odolejte při tom nutkání přestat, ujišťovat se nebo zmírňovat nepříjemné pocity kompulzemi. Na další stránce si vyhodnotíte, jak se vyvíjela míra nepohody i s delším odstupem.",
+              "desktopImageWidth": "70px",
+              "mobileImageWidth": "70px",
+              "isWrapping": true
+            }
+          ]
+        },
+        {
+          "title": "Cvičení: Vyhodnocení představy katastrofického scénáře",
           "icon": "exercise",
           "isEvaluable": true,
           "finalScreen": {
@@ -1502,188 +1764,93 @@
               {
                 "type": "image",
                 "isExpandable": true,
-                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Headphones_99764f4bf6.svg",
-                "width": "246px",
-                "alt": "Postavička se zavřenýma očima se sluchátky na hlavě",
-                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Headphones_99764f4bf6.svg",
-                "widthMobile": "246px",
+                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Relax_e24051df56.svg",
+                "width": "280px",
+                "alt": "Relaxující postava sedící se skříženýma nohama",
+                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Relax_e24051df56.svg",
+                "widthMobile": "280px",
                 "align": "center"
               },
               {
                 "type": "markdown",
-                "content": ":::text--center \n #### Nejistota je běžná součást života \n \n Absolutní jistoty nelze nikdy dosáhnout. Každá kontrola nejistotu paradoxně zvyšuje. \n :::"
+                "content": ":::text--center \n #### Toto cvičení není snadné, ale je mocné! \n \n Tím, že myšlenku opakujeme bez kompulzí, naučíme mozek, že není nebezpečná. \n :::"
               }
             ]
           },
           "contentSections": [
             {
-              "type": "markdown",
-              "content": "Díky těmto otázkám lépe porozumíte své potřebě jistoty. Uvědomíte si, že život bez nejistoty neexistuje a že to jde zvládnout."
-            },
-            {
-              "type": "decider",
-              "description": "**Je možné mít naprostou jistotu ve všem, co se v životě děje?**",
-              "items": [
+              "type": "stepByStep",
+              "required": true,
+              "steps": [
                 {
-                  "title": "Ano"
+                  "title": "Krok 1: Míra nepříjemných pocitů před představou",
+                  "contentSections": [
+                    { 
+                      "type": "slider", 
+                      "title": "**Jak silná byla vaše nepohoda před představou?**", 
+                      "min": 0, 
+                      "max": 10,
+                      "step": 1, 
+                      "defaultValue": 0, 
+                      "labelStart": "Slabá nepohoda",
+                      "labelEnd": "Silná nepohoda",
+                      "variant": "gradient",
+                      "required": false
+                    }
+                  ]
                 },
                 {
-                  "title": "Ne"
-                }
-              ]
-            },
-            {
-              "type": "pictureAndNote",
-              "image": {
-                "isExpandable": true,
-                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/V_cem_vam_pomaha_potreba_mit_ve_vsem_jistotu_b21ccbc343.svg",
-                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/V_cem_vam_pomaha_potreba_mit_ve_vsem_jistotu_mobile_4765608a37.svg",
-                "alt": "ilustrace kompasu",
-                "width": "100px",
-                "widthMobile": "100%",
-                "align": "center"
-              },
-              "note": {
-                "title": "**V čem vám pomáhá potřeba mít ve všem jistotu?**",
-                "instruction": "Jaký přínos to pro vás má v současnosti nebo mělo v minulosti?",
-                "rows": 2,
-                "placeholder": "Výhody",
-                "tooltipInfo": "**Příklady:** <br> - měl/a jsem pocit kontroly <br> - byl/a jsem dobře připravený/á na všechny okolnosti <br> - měl/a jsem dobrý plán  <br> - nemusel/a jsem se spoléhat na náhodu <br> - cítil/a jsem se bezpečně <br> - vyhnul/a jsem se zbytečným chybám <br> - měl/a jsem jistotu, že to zvládnu",
-                "required": false
-              }
-            },
-            {
-              "type": "pictureAndNote",
-              "image": {
-                "isExpandable": true,
-                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/V_cem_vas_omezuje_potreba_mit_ve_vsem_jistotu_ecb9650a62.svg",
-                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/V_cem_vas_omezuje_potreba_mit_ve_vsem_jistotu_mobile_fc468bea40.svg",
-                "alt": "Ilustrace klece",
-                "width": "100px",
-                "widthMobile": "100%",
-                "align": "center"
-              },
-              "note": {
-                "title": "**V čem vás omezuje potřeba mít ve všem jistotu?**",
-                "instruction": "Jaké nevýhody to pro vás má v současnosti nebo mělo v minulosti?",
-                "rows": 2,
-                "placeholder": "Nevýhody",
-                "tooltipInfo": "**Příklady:** <br> - ztratil/a jsem spoustu času přípravou <br> - nedokázal/a jsem se rozhodnout nebo něco udělat <br> - nedokázal/a jsem se uvolnit a byl/a jsem vyčerpaný/á <br> - pořád jsem se ujišťoval/a <br> - druzí mi vyčítali, že je omezuji <br> - byl/a jsem v práci pomalý/á",
-                "required": false
-              }
-            },
-            {
-              "type": "pictureAndNote",
-              "image": {
-                "isExpandable": true,
-                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Existuji_situace_ve_kterych_si_nejste_uplne_jisti_a_dari_se_vam_to_zvladat_1d9705246d.svg",
-                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Existuji_situace_ve_kterych_si_nejste_uplne_jisti_a_dari_se_vam_to_zvladat_mobile_5b1609c2a1.svg",
-                "alt": "Ilustrace váhy",
-                "width": "100px",
-                "widthMobile": "100%",
-                "align": "center"
-              },
-              "note": {
-                "title": "**Existují situace, ve kterých si nejste úplně jistí, a daří se vám to zvládat?**",
-                "instruction": "Jak to děláte? Můžete to využít i v situacích, ve kterých nejistotu snášíte hůře?",
-                "rows": 2,
-                "placeholder": "Kdy a jak přijímám nejistotu",
-                "tooltipInfo": "**Příklady:** <br> - řekl/a jsem si, že to nemusí být dokonalé <br> - zaměřil/a jsem se na to, co můžu ovlivnit <br> - připomněl/a jsem si, že už jsem podobné situace zvládl <br> - promluvil/a jsem o tom s někým, komu důvěřuji <br> - šel/šla jsem do toho, i když jsem si nebyl jistý/á",
-                "required": false
-              }
-            }
-          ]
-        },
-        {
-          "title": "Jak začít přijímat nejistotu",
-          "icon": "text",
-          "contentSections": [
-            {
-              "type": "markdown",
-              "content": "Osvobodit se od potřeby absolutní jistoty a přijmout určitou míru nejistoty jako přirozenou součást života není jednoduché. Může vám pomoci metoda pěti kroků, kterou vám ukážeme níže."
-            },
-            {
-              "type": "pictureAndMarkdown",
-              "items": [
+                  "title": "Krok 2: Míra nepříjemných pocitů po představě",
+                  "contentSections": [
+                    { 
+                      "type": "slider", 
+                      "title": "**Jak silná byla vaše nepohoda hned po představě?**", 
+                      "min": 0, 
+                      "max": 10,
+                      "step": 1, 
+                      "defaultValue": 0, 
+                      "labelStart": "Slabá nepohoda",
+                      "labelEnd": "Silná nepohoda",
+                      "variant": "gradient",
+                      "required": false
+                    },
+                    {
+                      "type": "note",
+                      "placeholder": "Moje zkušenost",
+                      "title": "**Jaké to bylo?**",
+                      "instruction": "co jste si uvědomili? co se stalo nebo naopak nestalo?",
+                      "rows": 2,
+                      "required": false
+                    }
+                  ]
+                },
                 {
-                  "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_1_Vsimejte_si_jak_se_citite_535266e9a7.svg",
-                  "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_1_Vsimejte_si_jak_se_citite_mobile_6936474b78.svg",
-                  "alt": "Postava držící balónky s otazníky",
-                  "width": "180px",
-                  "widthMobile": "100%",
-                  "isReversed": false,
-                  "isExpandable": false,
-                  "content": "**Krok 1: Všímejte si, jak se cítíte** \n \n Prvním krokem je všimnout si okamžiku, kdy cítíte potřebu jistoty. \n \n **Jak to může vypadat?** \n \n - Hledáte ujištění. \n \n - Cítíte se podrážděně nebo neklidně, protože nevíte, co přijde. \n \n - Máte potíže udělat rozhodnutí, protože nevíte, jak to dopadne.",
-                  "direction": "row",
-                  "gutter": 24
-                }
-              ]
-            },
-            {
-              "type": "pictureAndMarkdown",
-              "items": [
-                {
-                  "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_2_Nereagujte_46e6f5321c.svg",
-                  "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_2_Nereagujte_mobile_7ca366f098.svg",
-                  "alt": "Postava zamyšleně se dívající na balónky s otazníky",
-                  "width": "180px",
-                  "widthMobile": "100%",
-                  "isReversed": false,
-                  "isExpandable": false,
-                  "content": "**Krok 2: Nereagujte** \n \n V takovou chvíli můžete udělat vědomou volbu a na tuto potřebu nereagovat. \n \n **Co si můžete říct?** \n \n - Je zajímavé, že mám v této situaci potřebu mít absolutní jistotu. \n \n - Potřeba jistoty ve mě posiluje obavy. To posiluje nutkání dělat kompulze. \n \n - Chvíli s těmi s pocity vydržím. Budu je vnímat a sledovat, jak se mění.",
-                  "direction": "row",
-                  "gutter": 24
-                }
-              ]
-            },
-            {
-              "type": "pictureAndMarkdown",
-              "items": [
-                {
-                  "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_3_Nechte_to_byt_21a48cd06e.svg",
-                  "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_3_Nechte_to_byt_mobile_5c4a4d5164.svg",
-                  "alt": "Ruka vypouštějící balónky na oblohu",
-                  "width": "180px",
-                  "widthMobile": "100%",
-                  "isReversed": false,
-                  "isExpandable": false,
-                  "content": "**Krok 3: Nechte to být** \n \n S tímto pocitem chvíli zůstaňte a nechte ho odeznít. \n \n **Co si můžete říct?** \n \n - Moje potřeba absolutní jistoty není nezbytná. \n \n - Nejistota je součást života. Není třeba mít všechno zajištěné a ohlídané. \n \n - Představuji si, jak potřeba jistoty odlétá pryč, mezi mraky na obloze.",
-                  "direction": "row",
-                  "gutter": 24
-                }
-              ]
-            },
-            {
-              "type": "pictureAndMarkdown",
-              "items": [
-                {
-                  "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_4_Zamerte_pozornost_na_pritomnost_cacced34d1.svg",
-                  "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_4_Zamerte_pozornost_na_pritomnost_mobile_73a0aa6e24.svg",
-                  "alt": "Postava se slovy nádech a výdech",
-                  "width": "180px",
-                  "widthMobile": "100%",
-                  "isReversed": false,
-                  "isExpandable": false,
-                  "content": "**Krok 4: Zaměřte pozornost na přítomnost** \n \n Může vám pomoci věnovat pozornost přítomnému okamžiku. \n \n **Co si můžete říct?** \n \n - Všímám si, co vidím, slyším a cítím. \n \n - Věnuji pozornost svému dýchání. Nádech... Výdech... \n \n - Vnímám své tělo na židli. Cítím, jak se opírám a jak se mé nohy dotýkají podlahy.",
-                  "direction": "row",
-                  "gutter": 24
-                }
-              ]
-            },
-            {
-              "type": "pictureAndMarkdown",
-              "items": [
-                {
-                  "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_5_Vracejte_svou_mysl_zpet_526581f8a3.svg",
-                  "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_5_Vracejte_svou_mysl_zpet_mobile_93ac5afe8a.svg",
-                  "alt": "Zamyšlená postava vedle které je smyčka s emocemi",
-                  "width": "180px",
-                  "widthMobile": "100%",
-                  "isReversed": false,
-                  "isExpandable": false,
-                  "content": "**Krok 5: Vracejte svou mysl zpět** \n \n Když se vaše myšlenky stočí zpět k potřebě jistoty, zopakujte kroky výše. \n \n **Co si můžete říct?** \n \n - Myšlenky se zase stočily k tomu, jak mít úplnou jistotu. To je v pořádku. \n \n - Nic se nestalo. Vrátím své myšlenky zpět do přítomného okamžiku. \n \n - Jak se právě teď cítím? Nádech... Výdech...",
-                  "direction": "row",
-                  "gutter": 24
+                  "title": "Krok 3: Míra nepříjemných pocitů s odstupem času",
+                  "contentSections": [
+                    {
+                      "type": "noteBox",
+                      "desktopImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Cetnost_expozic_59d2f345a5.svg",
+                      "mobileImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Cetnost_expozic_59d2f345a5.svg",
+                      "backgroundColor": "#EDF4F6",
+                      "textColor": "#27637C",
+                      "text": "Počkejte **30 minut**. Dejte si pauzu, udělejte si třeba čaj. Ale vydržte bez kompulze. Poté označte, jak se cítíte s **odstupem času.**",
+                      "desktopImageWidth": "78px",
+                      "mobileImageWidth": "78px",
+                      "isWrapping": true
+                    },
+                    { 
+                      "type": "slider", 
+                      "title": "**Jak silná byla vaše nepohoda 30 minut po představě katastrofického scénáře?**", 
+                      "min": 0, 
+                      "max": 10,
+                      "step": 1, 
+                      "defaultValue": 0, 
+                      "labelStart": "Slabá nepohoda",
+                      "labelEnd": "Silná nepohoda",
+                      "variant": "gradient",
+                      "required": false
+                    }
+                  ]
                 }
               ]
             }
@@ -1695,7 +1862,7 @@
           "contentSections": [
             {
               "type": "markdown",
-              "content": "V imaginaci si vyzkoušíte, jak získat odstup od myšlenek."
+              "content": "Nakonec vám nabízíme řízenou imaginaci, která vám při pravidelném procvičování může také přinést úlevu."
             },
             {
               "type": "video",
@@ -1704,7 +1871,7 @@
             },
             {
               "type": "collapse",
-              "content": "Najděte si klidné místo a pohodlnou pozici. Můžete sedět nebo ležet. Nechte své tělo chvíli spočinout, bez nutnosti něco měnit. Jen buďte. \n \n Zaměřte se na svůj dech. Vnímejte nádech… a výdech. Nemusíte dýchat jinak než obvykle. Jen pozorujte. \n \n Pokud přijdou myšlenky, jen si jich všimněte. Nepotlačujte je. Nepřikládejte jim význam. Řekněte si: „To je jen myšlenka. Tohle je můj dech.“ \n \n A vraťte se k vnímání dechu. \n \n Nyní si představte, že se ve vaší mysli objeví něco zneklidňujícího – myšlenka, obraz, nejistota. Neutíkejte před ní. Jen ji pozorujte, jako byste sledovali mrak na obloze. Přichází… a odchází. \n \n Řekněte si: „Nevím to jistě, a mohu i tak dýchat dál.“ \n \n „Cítím úzkost – a přesto zůstávám.“ \n \n Vnímejte dech…a klidně pomalu zakončete cvičení tím, že si poděkujete. Za to, že jste tu byli – a že jste zůstali. I když to nebylo snadné.",
+              "content": "Najděte si pohodlnou pozici vsedě nebo vleže. Zavřete oči, pokud vám to je příjemné. A dovolte svému tělu, aby se uvolnilo. \n \n Zaměřte pozornost na svůj dech. Není potřeba ho nijak měnit. Jen si uvědomte, jak vdechujete a jak vydechujete. Všimněte si, jak se při nádechu zvedá hrudník... a jak při výdechu klesá. \n \n Pokud přichází myšlenky, nevytlačujte je. Jen si řekněte: „To je v pořádku. I myšlenky sem patří.“ A pak se jemně vraťte k dechu. Vnímejte, jak vás vaše tělo drží. Že jste právě teď tady. Živí. Přítomní. \n \n Představte si, že vaše myšlenky jsou jako mraky na obloze. Přicházejí. Mění se. A zase mizí. \n \n Vybavte si jednu myšlenku, která vás v posledních dnech zneklidnila. Možná byla děsivá. Nebo nechtěná. Možná jste se kvůli ní cítili provinile. Nebo jste si řekli: „Co když je to pravda?“ \n \n Nehodnoťte ji. Jen si ji představte jako větu napsanou na plátně před vámi. Podívejte se na ni. Bez boje. Bez útěku. \n \n A pomalu si v duchu řekněte: „Tohle je jen myšlenka.“ - „Myšlenka není skutečnost.“ - „Mysl vytváří stovky vět. Já si vybírám, které budu brát vážně.“ \n \n Zhluboka se nadechněte. A při výdechu si řekněte: „Dnes tuto myšlenku nechávám být. Nemusím na ni reagovat.“ \n \n Představte si, jak se vaše myšlenka mění v obláček. A jak se vzdaluje na obzoru. Ještě chvíli pozorujte dech. Klid. Prostor. \n \n Pomalu se začněte vracet zpět. Vnímejte tělo, které vás nese. Možná cítíte lehkost. Možná nic. Obojí je v pořádku. Řekněte si na závěr: „Děkuji svému tělu, že se mnou zůstalo.“ - „Děkuji své mysli, že mě chrání, i když někdy přehání.“ - „Děkuji sobě, že jsem tu zůstal/a a věnoval/a jsem této imaginaci.“ \n \n Až budete připraveni, otevřete oči. Všimněte si svého okolí. A připomeňte si: „Jsem víc než moje myšlenky. Jsem ten, kdo je pozoruje.“",
               "title": "Radši si přečtu"
             }
           ]
@@ -1721,7 +1888,7 @@
               "type": "audio",
               "audioSrc": "xx",
               "title": "Bonusový příběh",
-              "imageSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Bonusovy_pribeh_8a0da6b068.svg"
+              "imageSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Bonusovy_pribeh_84c905724f.svg"
             },
             {
               "type": "collapse",
@@ -1731,7 +1898,7 @@
           ]
         },
         {
-          "title": "Dokončili jste druhý modul!",
+          "title": "Dokončili jste šestý modul!",
           "isEvaluable": true,
           "icon": "Exercise",
           
@@ -1752,9 +1919,9 @@
               "title": "**V tomto modulu jste se dozvěděli:**",
               "color": "#27637C",
               "items": [
-                "Při OCD vzniká nadměrná potřeba sledovat okolí i vlastní myšlenky. Pozornost se zaměřuje na hrozby, nejasnosti nebo možné chyby.",
-                "Absolutní jistoty nelze dosáhnout a každá kontrola přinese úlevu jen na chvíli. Obavy a nejistota se vrací.",
-                "Děláním expozic roste naše schopnost unést nejistotu."
+                "Katastrofický scénář je metoda, ve které se vědomě a opakovaně vystavujeme tomu, čeho se nejvíce bojíme.",
+                "Smyslem tohoto cvičení je zůstat u představy, a přitom se nezačít uklidňovat.",
+                "Tím, že myšlenku opakujeme bez kompulzí, naučíme mozek, že není nebezpečná, jak se obáváme."
               ]
             },
             {
@@ -1778,12 +1945,12 @@
             },
             {
               "type": "video",
-              "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M4_3_08a3a5ea06.mp4",
+              "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M6_4_15e2168b2f.mp4",
               "captionsUrl": "xx"
             },
             {
               "type": "collapse",
-              "content": "Gratulujeme vám k dokončení dalšího modulu! V následujících dnech bychom vás chtěli podpořit v tom, abyste zkoušeli expozice se zábranou odpovědi. Je to jeden z nejúčinnějších způsobů, jak se vymanit z pasti OCD. \n \n Začněte pomalu. Vyberte si situaci z vaší hierarchie, která má nízkou až střední obtížnost. Něco, co vyvolá napětí kolem 3 až 5 z 10. Nechceme vás hned na začátku přetížit. \n \n Pak si napište scénář expozice. Co uděláte? Čeho se nedotknete? Co neověříte? Co si nezopakujete? Mějte jasný plán. \n \n Když pak přijde moment samotné expozice, pamatujte - nepotlačujte své myšlenky. Prostě si jich všímejte, nechte je odejít. \n \n A pozorujte, jak se cítíte. Nepříjemné pocity nejprve porostou, možná i prudce. Ucítíte napětí. Ale pak se něco změní. Míra nepohody začne klesat. \n \n Nepospíchejte. Když je nám něco nepříjemné, můžeme mít sklony utéct nebo se rychle „zachránit“ kompulzí. Místo toho zhluboka dýchejte. Řekněte si: „Tohle je jen pocit. Přejde to.“ \n \n A pokud to nezvládnete napoprvé - není to selhání. Vůbec ne. Je to první krok. Každý pokus vás posouvá dál, i když se to možná nezdá. \n \n Po expozici si vždycky zaznamenejte, co se dělo. Co jste udělali? Jaká byla úzkost na začátku - řekněme 7 z 10? A jaká byla na konci - možná jen 3 z 10? \n \n Ptejte se sami sebe: Co mi pomohlo vytrvat? Co jsem si o sobě uvědomil? Třeba že jsem silnější, než jsem myslel? \n \n A co když to nešlo? Možná jste nakonec přece jen sáhli po kompulzi? Neobviňujte se. Místo toho se zeptejte: Co se stalo a co by mi příště pomohlo? Můžete se vrátit ke snazší expozici. Nebo si k tomu vyhraďte více času, ať na sobě nemáte zbytečný tlak. \n \n Cílem není být dokonalý. Cílem je začít budovat novou zkušenost. Zkušenost, která vašemu mozku řekne: „Vidíš? Zvládl jsem to bez kompulze. A nic se nestalo.“ \n \n První krok je vždy nejtěžší. Ale právě tím prvním krokem, první expozicí, se začínáme měnit. A každý další krok je pak o trochu snazší.",
+              "content": "Skvělá práce, došli jste na konec dalšího modulu. Už jste **za půlkou programu!** \n \n Doufáme, že si průběžně zkoušíte **dělat expozice**. Možná jste už pokročili k těm náročnějším. Expozice vyžadují **odvahu** a tu si můžete ukotvit pomocí práce s **katastrofickým scénářem.** \n \n Právě o tom bude vaše nová **týdenní výzva**! Zkuste si každý den najít chvíli a **představit si katastrofický scénář**, který jste si sepsali v tomto modulu. Je důležité si ho opakovat. \n \n Možná **odkládáte** těžší expozice, protože **strach** z nich je moc silný. Práce s katastrofickým scénářem je právě v takových chvílích velice užitečná. Pomůže vám vidět, že i to nejhorší, co se může stát, jde zvládnout. \n \n Nezapomínejte sledovat, jak se cítíte. **Klesají nepříjemné pocity** po tom, co si opakujete expozice? Jak dlouho nepohoda přetrvává? Zvyká si váš mozek na nové zkušenosti? \n \n Držíme vám palce a těšíme se na vás v dalším modulu!",
               "title": "Radši si přečtu"
             }
           ]
@@ -1808,9 +1975,9 @@
               "title": "**V příštím modulu se dozvíte:**",
               "color": "#27637C",
               "items": [
-                "Proč mohou mít lidé s OCD potíže rozlišovat mezi myšlenkami a skutečnými hrozbami.",
-                "Jak si můžete zpracovat nepříjemné myšlenky a získat nad nimi nadhled.",
-                "Co je práce s katastrofickým scénářem a jak vám pomůže čelit obavám."
+                "Jak rozpoznat hlas svého Vnitřního Kritika.",
+                "Jak nás Vnitřní Kritik ovlivňuje a proč posiluje nutkání dělat kompulze.",
+                "Jak posilovat zdravější a laskavější pohled na situace."
               ]
             }
           ]

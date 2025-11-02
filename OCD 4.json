@@ -6,7 +6,8 @@
           "contentSections": [
             {
               "type": "video",
-              "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M4_1_e0169cf6bd.mp4"
+              "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M4_1_e0169cf6bd.mp4",
+              "captionsUrl": "xx"
             },
             {
               "type": "collapse",
@@ -275,7 +276,8 @@
             },
             {
               "type": "video",
-              "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Petruv_Experiment_c_b590ee0fce.mp4"
+              "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Petruv_Experiment_c_b590ee0fce.mp4",
+              "captionsUrl": "xx"
             },
             {
               "type": "collapse",
@@ -354,7 +356,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Jana** \n \n **Problém:** Mám silnou potřebu mýt si ruce po každém kontaktu s předměty. Bojím se, že nakazím syna. \n \n **Experiment:** Dotknout se kliky u vchodových dveří a neumýt si hned ruce. \n \n **Předpoklad:** Budu mít nutkání si je jít okamžitě umýt. Pokud to neudělám, budu se celý den cítit znečištěná a nebezpečná pro ostatní. Úzkost bude stále horší. \n \n **Průběh:** Před obědem jsem otevřela dveře z bytu a pak šla rovnou za synem do obýváku. V hlavě mi běželo: „Dotkla ses kliky. Jsou tam bakterie.“ Ale nešla jsem se umýt. Zůstala jsem s ním a četla jsem mu pohádku. \n \n **Zhodnocení:** Úzkost byla asi na 6 z 10. Do půl hodiny klesla na 3. Večer jsem se cítila klidnější. \n \n **Poučení:** Moje obava se nenaplnila. Nebylo to tak nebezpečné, jak jsem si myslela."
+                      "content": "**Jana** \n \n **Problém:** Mám silnou potřebu mýt si ruce po každém kontaktu s předměty. Bojím se, že nakazím syna. \n \n **Experiment:** Dotknout se kliky u vchodových dveří a neumýt si hned ruce. \n \n **Předpoklad:** Budu mít nutkání si je jít okamžitě umýt. Pokud to neudělám, budu se celý den cítit znečištěná a nebezpečná pro ostatní. Úzkost bude stále horší. \n \n **Průběh:** Před obědem jsem otevřela dveře z bytu, a pak šla rovnou za synem do obýváku. V hlavě mi běželo: „Dotkla ses kliky. Jsou tam bakterie.“ Ale nešla jsem se umýt. Zůstala jsem s ním a četla jsem mu pohádku. \n \n **Zhodnocení:** Úzkost byla asi na 6 z 10. Do půl hodiny klesla na 3. Večer jsem se cítila klidnější. \n \n **Poučení:** Moje obava se nenaplnila. Nebylo to tak nebezpečné, jak jsem si myslela."
                     }
                   ]
                 },
@@ -379,7 +381,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Petr** \n \n **Problém:** Často opakovaně kontroluji zámek dveří. Bojím se, že nezamknu, vykradou nás a bude to moje chyba. \n \n **Experiment:** Odejít z bytu bez toho, abych si nahlas řekl „zamčeno“, což obvykle dělám jako kompulzi. \n \n **Předpoklad:** Když to neudělám, budu mít silný pocit, že jsem nechal dveře odemčené. Vrátím se, nebo mě přepadne panika. Možná někdo vnikne dovnitř. Strach budu mít celý den. \n \n **Průběh:** Připravil jsem si plán: prostě odejdu a nic si neřeknu. Jen se podívám, jestli je klíč otočený, a půjdu. Udělal jsem to. Na chodbě mě sevřelo napětí, ale šel jsem dál. Po pěti minutách jsem měl chuť se otočit. Místo toho jsem si řekl: „Tohle je součást plánu. Věř si.“  \n \n **Zhodnocení:** Byl jsem nervózní asi třicet minut. Úzkost klesala z 9 na 4. Pak mě zaměstnal telefonát z práce a přestal jsem na to myslet. Když jsem se večer vrátil domů, bylo všechno v pořádku.  \n \n **Poučení:** Zamknul jsem i bez nahlas vyslovené věty a nevracel jsem se. Nezávisí to na slovech, ale na mém rozhodnutí. Nevykradli nás."
+                      "content": "**Petr** \n \n **Problém:** Často opakovaně kontroluji zámek u vchodových dveří. Bojím se, že nezamknu, vykradou nás a bude to moje chyba. \n \n**Experiment:** Odejít z bytu bez toho, abych si nahlas řekl „zamčeno“, což obvykle dělám jako kompulzi. \n \n **Předpoklad:** Když to neudělám, budu mít silný pocit, že jsem nechal dveře odemčené. Vrátím se, nebo mě přepadne panika. Možná někdo vnikne dovnitř. Strach budu mít celý den. \n \n **Průběh:** Připravil jsem si plán: Prostě odejdu a nic si neřeknu. Jen se podívám, jestli je klíč otočený, a půjdu. Udělal jsem to. Na chodbě mě sevřelo napětí, ale šel jsem dál. Po pěti minutách jsem měl chuť se otočit. Místo toho jsem si řekl: „Tohle je součást plánu. Věř si.“ \n \n **Zhodnocení:** Byl jsem nervózní asi třicet minut. Úzkost klesala z 9 na 4. Pak mě zaměstnal telefonát z práce a přestal jsem na to myslet. Když jsem se večer vrátil domů, bylo všechno v pořádku. \n \n **Poučení:** Zamknul jsem i bez nahlas vyslovené věty a nevracel jsem se. Nezávisí to na slovech, ale na mém rozhodnutí. Nevykradli nás."
                     }
                   ]
                 },
@@ -454,14 +456,14 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Klára** \n \n **Problém:** Bojím se, že nevhodným dotykem ublížím dítěti. Vyhýbám se kontaktu, i když vím, že by byl přirozený. \n \n **Experiment:** Předat dítěti omalovánky a krátce se přitom dotknout jeho ruky. \n \n **Předpoklad:** Okamžitě mě zaplaví děsivé myšlenky. Budu se cítit jako špatný člověk. Možná zpanikařím a uteču. Dokud tam budu, budu cítít napětí a strach. \n \n **Průběh:** Byla jsem s kamarádkou a jejím synem. Přinesla jsem Honzíkovi omalovánky a předala jsem je tak, že jsem se dotkla jeho ruky. V tu chvíli se mi sevřelo srdce. Ale řekla jsem si: „Tohle je experiment. Dýchej. Neuhýbej.“ \n \n **Zhodnocení:** Myšlenky přišly, ale nezůstaly. Honzík se usmál a začal si kreslit. Já jsem si všimla, že zůstávám a že to jde. \n \n **Poučení:** Dotek neznamená nebezpečí. Ne všechny myšlenky jsou pravdivé. Udělala jsem krok k normálnímu kontaktu."
+                      "content": "**Klára** \n \n **Problém:** Bojím se, že nevhodným dotykem ublížím dítěti. Vyhýbám se kontaktu, i když vím, že by byl přirozený. \n \n **Experiment:** Předat dítěti omalovánky a krátce se přitom dotknout jeho ruky. \n \n **Předpoklad:** Okamžitě mě zaplaví děsivé myšlenky. Budu se cítit jako špatný člověk. Možná zpanikařím a uteču. Dokud tam budu, budu cítit napětí a strach. \n \n **Průběh:** Byla jsem s mojí nejlepší kamarádkou Maruškou a jejím synem Matýskem. Přinesla jsem omalovánky a předala jsem je tak, že jsem se dotkla Matýskovi ruky. V tu chvíli se mi sevřelo srdce. Ale řekla jsem si: „Tohle je experiment. Dýchej. Neuhýbej.“ \n \n **Zhodnocení:** Myšlenky přišly, ale nezůstaly. Matýsek se usmál a začal si kreslit. Já jsem si všimla, že zůstávám a že to jde. \n \n **Poučení:** Dotek neznamená nebezpečí. Ne všechny myšlenky jsou pravdivé. Udělala jsem krok k normálnímu kontaktu."
                     }
                   ]
                 },
                 {
                   "title": "LUKÁŠ",
                   "subtitle": "elektrikář, 30 let",
-                  "description": "Lukáš se bojí hřešit a neustále se modlí kvůli rouhavým myšlenkám. Cítí vnitřní rozpor.",
+                  "description": "Lukáš se bojí hříchu a neustále se modlí kvůli rouhavým myšlenkám. Cítí vnitřní rozpor.",
                   "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lukas_karta_40be25b691.svg",
                   "pictureMobileBackground": "#FFF3EF",
                   "pictureMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lukas_karta_mobile_543f887105.svg",
@@ -504,14 +506,14 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Veronika** \n \n **Problém:** Mám nutkání vyhledávat zdravotní informace na internetu. Každý neobvyklý pocit v těle mě vede k obavám. \n \n **Experiment:** Celý den nevkládat příznak do vyhledávače a neptat se nikoho, co by to mohlo být. \n \n **Předpoklad:** Pokud to neověřím, budu celý den ve stresu. Možná přehlédnu vážné onemocnění. \n \n **Průběh:** Píchlo mě v levém boku. První impuls byl otevřít telefon. Ale vzpomněla jsem si na plán a neudělala jsem to. Položila jsem telefon a šla jsem si sednout k oknu. Dýchala jsem a čekala. \n \n **Zhodnocení:** Úzkost byla vysoká, tak na 9 po dobu asi 15 minut. Pak ustoupila na 3. Bolest přestala. Nikomu jsem o tom neřekla a pořád jsem tady. \n \n **Poučení:** Nemusím znát všechno hned. Nepotřebuju všechno kontrolovat. Tělo se čas od času ozve, ale to neznamená, že volá o pomoc. Nebyla jsem ve stresu celý den."
+                      "content": "**Veronika** \n \n **Problém:** Mám nutkání vyhledávat zdravotní informace na internetu. Každý neobvyklý pocit v těle mě vede k obavám. \n \n **Experiment:** Celý den nevkládat příznak do vyhledávače a neptat se nikoho, co by to mohlo být. \n \n **Předpoklad:** Pokud to neověřím, budu celý den ve stresu. Možná přehlédnu vážné onemocnění. \n \n **Průběh:** Píchlo mě v levém boku. První impuls byl otevřít telefon. Ale vzpomněla jsem si na plán a neudělala jsem to. Položila jsem telefon a šla jsem si sednout k oknu. Dýchala jsem a čekala. \n \n **Zhodnocení:** Úzkost byla vysoká, tak na 9 po dobu asi 15 minut. Pak ustoupila na 3. Bolest přestala. Nikomu jsem o tom neřekla a pořád jsem tady. \n \n **Poučení:** Nemusím znát všechno hned. Nepotřebuju všechno kontrolovat. Tělo se čas od času ozve, ale to neznamená, že volá o pomoc. Nebyla jsem ve stresu celý den."
                     }
                   ]
                 },
                 {
                   "title": "MICHAL",
                   "subtitle": "učitel, 27 let",
-                  "description": "Michala trápí nutkavé pochybnosti o svém vztahu. Vyžaduje neustále ujišťování.",
+                  "description": "Michala trápí nutkavé pochybnosti o svém vztahu. Často se ujišťuje, že je vše v pořádku.",
                   "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Michal_karta_41e0daacdc.svg",
                   "pictureMobileBackground": "#dfe8eb",
                   "pictureMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Michal_karta_mobile_8530388119.svg",
@@ -529,7 +531,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Michal** \n \n **Problém:** Mám potřebu ověřovat, jestli mě partnerka opravdu miluje a jestli miluji já ji. Ptám se na různé věci znovu a znovu a hodnotím, co a jak řekla. \n \n **Experiment:** Zeptat se jen jednou, jaký měla den, a už se k tomu nevracet. \n \n **Předpoklad:** Pokud se nezeptám znovu, nebudu mít jistotu, že je všechno v pořádku. Budu celý veřer nervózní a možná to nevydržím. \n \n **Průběh:** Večer jsem se Lenky zeptal, jak se měla. Odpověděla stručně: „Celkem dobře.“ Normálně bych se doptával. Tentokrát jsem mlčel. Cítil jsem se napjatý, ale zároveň jsem si všímal, co dělá. Byla uvolněná. Usmála se. \n \n **Zhodnocení:** Myšlenky na to, že je něco špatně, postupně zeslábly. Neptal jsem se znovu. \n \n **Poučení:** Někdy méně znamená víc. Důvěra se nebuduje otázkami, ale přijetím. A nervozita časem klesá, i když s tím nic nedělám."
+                      "content": "**Michal** \n \n **Problém:** Mám potřebu ověřovat, jestli mě Mirka opravdu miluje a jestli miluji já ji. Ptám se na různé věci znovu a znovu a hodnotím, co a jak řekla. \n \n **Experiment:** Zeptat se jen jednou, jaký měla den, a už se k tomu nevracet. \n \n **Předpoklad:** Pokud se nezeptám znovu, nebudu mít jistotu, že je všechno v pořádku. Budu celý večer nervózní a možná to nevydržím. \n \n **Průběh:** Večer jsem se Mirky zeptal, jak se měla. Odpověděla stručně: „Celkem dobře.“ Normálně bych se doptával. Tentokrát jsem mlčel. Cítil jsem se napjatý, ale zároveň jsem si všímal, co dělá. Byla uvolněná. Usmála se. \n \n **Zhodnocení:** Myšlenky na to, že je něco špatně, postupně zeslábly. Neptal jsem se znovu. \n \n **Poučení:** Někdy méně znamená víc. Důvěra se nebuduje otázkami, ale přijetím. A nervozita časem klesá, i když s tím nic nedělám."
                     }
                   ]
                 },
@@ -554,7 +556,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Jirka** \n \n **Problém:** Musím sčítat čísla, na která s podívám, aby jejich počet nebyl prvočíslo. Pokud je to prvočíslo, musím hledat další čísla nebo počítat předměty, dokud nenajdu násobek čtyř. \n \n **Experiment:** Napíšu si na papír velkým písmem řadu čísel 3-5-2-1, dám si je na palubní desku, podívám se na ně opakovaně během jízdy do práce. Nebudu během jízdy počítat žádné předměty. \n \n **Předpoklad:** Budu cítit velké napětí, protože mě napadne, že se stane nehoda Lucce nebo některému z mých pacientů. \n \n **Průběh:** Dal jsem si papír s čísly na palubní desku. Bylo to nepříjemné, protože mně napadlo, že Lucku srazí auto a ochrne. Napětí trvalo celou cestu do práce. Pak, když jsem dojel a mluvil se sestřičkou, postupně to opadlo. Lucce se nic nestalo. \n \n **Zhodnocení:** Napětí stouplo na 8/10, bylo vysoké asi 20 minut. Po příchodu do práce kleslo na 5/10 po dalších 10 minut. Pak jsem mluvil se sestrou a pokleslo na 2/10. Když jsem začal pracovat, zapomněl jsem na to úplně. \n \n **Poučení:** Napětí i obavy zmizí i když je neřeším hledáním násobků čtyř."
+                      "content": "**Jirka** \n \n **Problém:** Musím sčítat čísla, na která s podívám, aby jejich počet nebyl prvočíslo. Pokud je to prvočíslo, musím hledat další čísla nebo počítat předměty, dokud nenajdu násobek čtyř. \n \n **Experiment:** Napíšu si na papír velkým písmem řadu čísel 3-5-2-1, dám si je na palubní desku, podívám se na ně opakovaně během jízdy do práce. Nebudu během jízdy počítat žádné předměty. \n \n **Předpoklad:** Budu cítit velké napětí, protože mě napadne, že se stane nehoda Lucce nebo některému z mých pacientů. \n \n **Průběh:** Dal jsem si papír s čísly na palubní desku. Bylo to nepříjemné, protože mně napadlo, že Lucku srazí auto a ochrne. Napětí trvalo celou cestu do práce. Pak, když jsem dojel a mluvil se sestřičkou, postupně to opadlo. Lucce se nic nestalo. \n \n **Zhodnocení:** Napětí stouplo na 8/10, bylo vysoké asi 20 minut. Po příchodu do práce kleslo na 5/10 po dalších 10 minut. Pak jsem mluvil se sestrou a pokleslo na 2/10. Když jsem začal pracovat, zapomněl jsem na to úplně. \n \n **Poučení:** Napětí i obavy zmizí, i když je neřeším hledáním násobků čtyř."
                     }
                   ]
                 }
@@ -794,7 +796,8 @@
           "contentSections": [
             {
               "type": "video",
-              "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M4_2_08789c7ff6.mp4"
+              "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M4_2_08789c7ff6.mp4",
+              "captionsUrl": "xx"
             },
             {
               "type": "collapse",
@@ -881,7 +884,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Petr** \n \n Dřív jsem chodil rád do kaváren. Bylo to místo, kde jsem si četl, pozoroval lidi a přemýšlel. Ale s nástupem OCD se z každého takového výletu stalo minové pole. Co když jsem nezamkl? Co když jsem něco zapomněl? Co když jsem někde nechal důležitý dokument? \n \n Kvůli tomu jsem se často vracel a všechno jsem kontroloval. Byl jsem z toho vyčerpaný. A nakonec jsem přestal chodit úplně. Stejně jsem si ten „volný čas“ neužil. Hlava mi pořád jela. Seznamy, kontroly, výčitky svědomí... \n \n V modulu jsem se dostal k tématu příjemných aktivit. Nejdřív mi to připadalo hloupé. Jak se mám bavit, když nestíhám ani základní věci? Ale pak jsem pochopil, že právě proto musím. A tak jsem si zapsal do diáře: úterý, 15:00 – kavárna. Sám. Bez notebooku. Bez úkolů. \n \n To ráno jsem byl napjatý. Před odchodem jsem třikrát kontroloval zámek. A přesto jsem měl předtuchu, že se něco stane. V kavárně jsem si objednal cappuccino a sedl jsem si k oknu. Napřed jsem kontroloval telefon. Pak mě to unavilo. Schoval jsem ho do kapsy a začal jsem vnímat, co se děje okolo. Lidi venku. Zvuky kávovaru. Hřejivý porcelán v dlaních. \n \n A najednou, jen na chvilku, se ve mně něco uvolnilo. Přišel klid. Pomalý, tichý, nečekaný. Byl jsem tam. Nic jsem neřešil. Jen jsem uvolněně dýchal a popíjel kávu. Zvládnul jsem to. A nejen zvládnul – dokonce jsem si to i užil."
+                      "content": "**Petr** \n \n Dřív jsem chodil rád do kaváren. Bylo to místo, kde jsem si četl, pozoroval lidi a přemýšlel. Ale s nástupem OCD se z každého takového výletu stalo minové pole. Co když jsem nezamkl? Co když jsem něco zapomněl? Co když jsem někde nechal důležitý dokument? \n \n Kvůli tomu jsem se často vracel a všechno jsem kontroloval. Byl jsem z toho vyčerpaný. A nakonec jsem přestal chodit úplně. Stejně jsem si ten volný čas neužil. Hlava mi pořád jela. Seznamy, kontroly, výčitky svědomí... \n \n V modulu jsem se dostal k tématu příjemných aktivit. Nejdřív mi to připadalo hloupé. Jak se mám bavit, když nestíhám ani základní věci? Ale pak jsem pochopil, že právě proto musím. A tak jsem si zapsal do diáře: úterý, 15:00 – kavárna. Sám. Bez notebooku. Bez úkolů. \n \n To ráno jsem byl napjatý. Před odchodem jsem třikrát kontroloval zámek. A přesto jsem měl předtuchu, že se něco stane. V kavárně jsem si objednal cappuccino a sedl jsem si k oknu. Napřed jsem kontroloval telefon. Pak mě to unavilo. Schoval jsem ho do kapsy a začal jsem vnímat, co se děje okolo. Lidi venku. Zvuky kávovaru. Hřejivý porcelán v dlaních. \n \n A najednou, jen na chvilku, se ve mně něco uvolnilo. Přišel klid. Pomalý, tichý, nečekaný. Byl jsem tam. Nic jsem neřešil. Jen jsem uvolněně dýchal a popíjel kávu. Zvládnul jsem to. A nejen zvládnul – dokonce jsem si to i užil."
                     }
                   ]
                 },
@@ -906,7 +909,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Eva** \n \n Být mezi lidmi je pro mě těžké. Dlouho jsem byla ve spolenosti jako na jehlách. Vtíravé obrazy mi bránily užít si jakýkoli společenský kontakt. A ne kvůli nim, ale kvůli tomu, co mi OCD předhazuje: Když se směješ, jsi necitlivá. Co když se právě teď děje něco strašného a ty se bavíš? Když jsem se náhodou zasmála, okamžitě mě přepadl vnitřní hlas: Ty se směješ? Teď? Když se může něco stát? \n \n Ale pak jsem mluvila na terapii o tom, jak moc mi chybí obyčejný lidský smích. Už jsem věděla, že potřebuji zažít něco jiného než ubíjející tlak. Vymysleli jsme proto plán: uspořádat malou večeři s přáteli. Nic formálního. Pozvala jsem partu kamarádů. Můj cíl byl, abych se zkusila smát, když se mi bude chtít. Nebojovat s tím, nepotlačovat to. Jen být. \n \n Seděli jsme venku na terase, bylo hezky. Povídali jsme si o všem možném – o práci, dětech, počasí. Mluvilo se o banálních věcech. A pak někdo řekl vtip. Zasmála jsem se. Nahlas. Normálně bych přinutila úsměv zmizet, přepnula bych se do „ostražité“ polohy. Ale tentokrát jsem se zasmála. Spontánně. A na chvíli jsem zapomněla, že bych měla být na vážná a pozoru. \n \n Ve vteřině mě napadlo: Co když teď někdo někde trpí? Tohle si nesmíš dovolit. Ale já už jsem se zasmála. Vnímala jsem, jak mi cukají koutky, jak mě hřeje obličej, jak se mi uvolňují ramena. Po dlouhé době jsem se cítila součástí. A nejen pozorovatelem. Bylo to moc fajn."
+                      "content": "**Eva** \n \n Být mezi lidmi je pro mě těžké. Dlouho jsem byla ve společnosti jako na jehlách. Vtíravé obrazy mi bránily užít si jakýkoli společenský kontakt. A ne kvůli nim, ale kvůli tomu, co mi OCD předhazuje: *„Když se směješ, jsi necitlivá. Co když se právě teď děje něco strašného a ty se bavíš? Když jsem se náhodou zasmála, okamžitě mě přepadl vnitřní hlas: Ty se směješ? Teď? Když se může něco stát?“* \n \n Ale pak jsem mluvila na terapii o tom, jak moc mi chybí obyčejný lidský smích. Už jsem věděla, že potřebuji zažít něco jiného než ubíjející tlak. Vymysleli jsme proto plán: uspořádat malou večeři s přáteli. Nic formálního. Pozvala jsem partu kamarádů. Můj cíl byl, abych se zkusila smát, když se mi bude chtít. Nebojovat s tím, nepotlačovat to. Jen být. \n \n Seděli jsme venku na terase, bylo hezky. Povídali jsme si o všem možném – o práci, dětech, počasí. Mluvilo se o banálních věcech. A pak někdo řekl vtip. Zasmála jsem se. Nahlas. Normálně bych přinutila úsměv zmizet, přepnula bych se do „ostražité“ polohy. Ale tentokrát jsem se zasmála. Spontánně. A na chvíli jsem zapomněla, že bych měla být na vážná a pozoru. \n \n Ve vteřině mě napadlo: *„Co když teď někdo někde trpí? Tohle si nesmíš dovolit.”* Ale já už jsem se zasmála. Vnímala jsem, jak mi cukají koutky, jak mě hřeje obličej, jak se mi uvolňují ramena. Po dlouhé době jsem se cítila součástí. A nejen pozorovatelem. Bylo to moc fajn."
                     }
                   ]
                 },
@@ -931,7 +934,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**David** \n \n Hudba mě provázela od dětství. Hra na klavír mě bavila a často jsem při ní ztratil přehled o čase. Ale OCD všechno překroutilo. Každá nota musela být správná. Každá chyba znamenala selhání. Nakonec jsem raději nehrál vůbec. Bylo to moc náročné. A přitom mi to tolik chybí. \n \n V modulu jsem se zamyslel nad tím, co mi dělávalo radost. Připravil jsem si plán: 20 minut hraní na klavír týdně. Připadalo mi to nesplnitelné. Stejně jsem si ale doplnil podrobnosti: čtvrtek 19:00, bez opravování chyb, jen tak hrát. Den předtím jsem měl chuť se na to vykašlat. Ale pamatoval jsem si, jak jsem si to dříve užíval. Šel jsem do toho. \n \n Sedl jsem si. Ruce byly ztuhlé, prsty nejisté. Vybral jsem si starou skladbu, kterou jsem hrával mámě. Hlava jela: „Zase to pokazíš.“ Ale začal jsem. Uprostřed jsem se spletl. Automaticky jsem se chtěl vrátit, ale tentokrát jsem pokračoval. A i když jsem se spletl, neopravil jsem se. Nezastavil. Dohrál jsem.  \n \n V tu chvíli jsem cítil, jak se ve mně něco pohnulo. Nešlo o výkon. Bylo to o tom pocitu. O tom okamžiku, kdy se prsty dotkly kláves a hlava se na chvíli ztišila. Ke konci jsem si všiml, že se mi klepou prsty – ne z úzkosti, ale z dojetí. Hudba mě nesla. A já byl po dlouhé době opravdu tady a teď, v přítomnosti."
+                      "content": "**David** \n \n Hudba mě provázela od dětství. Hra na klavír mě bavila a často jsem při ní ztratil přehled o čase. Ale OCD všechno překroutilo. Každá nota musela být správná. Každá chyba znamenala selhání. Nakonec jsem raději nehrál vůbec. Bylo to moc náročné. A přitom mi to tolik chybí. \n \n V modulu jsem se zamyslel nad tím, co mi dělávalo radost. Připravil jsem si plán: 20 minut hraní na klavír týdně. Připadalo mi to nesplnitelné. Stejně jsem si ale doplnil podrobnosti: čtvrtek 19:00, bez opravování chyb, jen tak hrát. Den předtím jsem měl chuť se na to vykašlat. Ale pamatoval jsem si, jak jsem si to dříve užíval. Šel jsem do toho. \n \n Sedl jsem si. Ruce byly ztuhlé, prsty nejisté. Vybral jsem si starou skladbu, kterou jsem hrával mámě. Hlava jela: „Zase to pokazíš.“ Ale začal jsem. Uprostřed jsem se spletl. Automaticky jsem se chtěl vrátit, ale tentokrát jsem pokračoval. A i když jsem se spletl, neopravil jsem se. Nezastavil. Dohrál jsem. \n \n V tu chvíli jsem cítil, jak se ve mně něco pohnulo. Nešlo o výkon. Bylo to o tom pocitu. O tom okamžiku, kdy se prsty dotkly kláves a hlava se na chvíli ztišila. Ke konci jsem si všiml, že se mi klepou prsty – ne z úzkosti, ale z dojetí. Hudba mě nesla. A já byl po dlouhé době opravdu tady a teď, v přítomnosti."
                     }
                   ]
                 },
@@ -956,14 +959,14 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Klára** \n \n Zpívání jsem milovala. Jako malá jsem si zpívala pořád. Písničky z pohádek, vymyšlené melodie, cokoli, co mě napadlo. Ale jak mi přibývala pravidla v hlavě, zpěv se postupně vytratil. OCD mi z něj udělalo něco hloupého. Začala jsem si říkat, že zpívání je zbytečné a že tím ostatní jen ruším. Když jsem zpívala, připadala jsem si dětinsky. \n \n „Už nejsi dítě,“ říkala jsem si. Tak jsem utichla. \n \n Bavila jsem se s kamarádkou o tom, co mi dřív přinášelo radost. Hned mě napadl zpěv, ale zároveň s ním pocit studu. Měla jsem dojem, že bych se měla stydět za to, že jsem i hravá. Ale zkusila jsem malý krok.  \n \n Rozhodla jsem se, že si zazpívám doma. Ne pro výkon. Jen pro sebe. Jedno ráno jsem si napsala do mobilu: Zazpívej si při mytí nádobí, aspoň 3 minuty. Nemusíš znít perfektně. \n \n Když jsem pak myla nádobí, v hlavě mi zněla písnička z dětství. Začala jsem broukat. Nejprve potichu. Pak celou sloku. Pak jsem si ji zazpívala celou písničku. Nejistě. Potichu. Možná falešně. Ale byla to chvíle jen pro mě. A v hrudi mi zůstalo něco hřejivého. Jako světlo."
+                      "content": "**Klára** \n \n Zpívání jsem milovala. Jako malá jsem si zpívala pořád. Písničky z pohádek, vymyšlené melodie, cokoli, co mě napadlo. Ale jak mi přibývala pravidla v hlavě, zpěv se postupně vytratil. OCD mi z něj udělalo něco hloupého. Začala jsem si říkat, že zpívání je zbytečné a že tím ostatní jen ruším. Když jsem zpívala, připadala jsem si dětinsky. \n \n *„Už nejsi dítě,“* říkala jsem si. Tak jsem utichla. \n \n Bavily jsme se s Maruškou o tom, co nám dřív přinášelo radost. Hned mě napadl zpěv. Ale hned mě napadlo, že bych se měla stydět za to, že jsem i hravá. Ale zkusila jsem malý krok. \n \n Rozhodla jsem se, že si zazpívám doma. Ne pro výkon. Jen pro sebe. Jedno ráno jsem si napsala do mobilu: Zazpívej si při mytí nádobí, aspoň 3 minuty. Nemusíš znít perfektně. \n \n Když jsem pak myla nádobí, v hlavě mi zněla písnička z dětství. Začala jsem broukat. Nejprve potichu. Pak celou sloku. Pak jsem si ji zazpívala celou písničku. Nejistě. Potichu. Možná falešně. Ale byla to chvíle jen pro mě. A v hrudi mi zůstalo něco hřejivého."
                     }
                   ]
                 },
                 {
                   "title": "LUKÁŠ",
                   "subtitle": "elektrikář, 30 let",
-                  "description": "Lukáš se bojí hřešit a neustále se modlí kvůli rouhavým myšlenkám. Cítí vnitřní rozpor.",
+                  "description": "Lukáš se bojí hříchu a neustále se modlí kvůli rouhavým myšlenkám. Cítí vnitřní rozpor.",
                   "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lukas_karta_40be25b691.svg",
                   "pictureMobileBackground": "#FFF3EF",
                   "pictureMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lukas_karta_mobile_543f887105.svg",
@@ -981,7 +984,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Lukáš** \n \n Odmala jsem si užíval hudbu. Ale s časem, jak OCD přebíralo vládu, jsem si vytvořil striktní pravidla - co je „čisté“, co je „dovolené“, co je „duchovní“. I Mozart se ocitl na černé listině. A já se bál, že když si pustím skladbu, znesvětím něco důležitého. Držel jsem se toho roky.  \n \n Jednou večer jsem byl doma sám, tak jsem si sepsal krátký plán: Pustit si Mozartův klavírní koncert. Deset minut. Jen tak. Tlačil se mi do hlavy hlas: „Máš se věnovat duchovním věcem!“ nebo „Zradíš své hodnoty.“ Ale stiskl jsem přehrát. \n \n Hudba začala. Seděl jsem na posteli, zavřel oči. Napřed to šlo jen napůl. Naslouchal jsem víc hlasům v hlavě než tónům klavíru. Uvnitř mi běžel hlásek, který mi říkal, že se to nesmí. Ale pak přišla moje oblíbená pasáž. A něco ve mně povolilo. Zavřel jsem oči. Nechal jsem to hrát a dál jsem poslouchal. \n \n Cítil jsem jemné chvění podél páteře. Teplo v břiše. Plynutí. Přítomnost. Hudba mě nesla jako řeka. A já se v ní dovolil uvolnit. Bez výčitek. \n \n Po doznění posledního tónu jsem chvíli seděl v tichu. A svět se nezbořil. A já taky ne. Hudba ve mně něco rozezněla. Ne provinění, ale krásu. A ta zůstala i potom, co hudba utichla."
+                      "content": "**Lukáš** \n \n Odmala jsem si užíval hudbu. Ale s časem, jak OCD přebíralo vládu, jsem si vytvořil striktní pravidla - co je „čisté“, co je „dovolené“, co je „duchovní“. I Mozart se ocitl na černé listině. A já se bál, že když si pustím skladbu, znesvětím něco důležitého. Držel jsem se toho roky. \n \n Jednou večer jsem byl doma sám, tak jsem si sepsal krátký plán: Pustit si Mozartův klavírní koncert. Deset minut. Jen tak. Tlačil se mi do hlavy hlas: *„Máš se věnovat duchovním věcem!“* nebo *„Zradíš své hodnoty.“* Ale stiskl jsem přehrát. \n \n Hudba začala. Seděl jsem na posteli, zavřel oči. Napřed to šlo jen napůl. Naslouchal jsem víc hlasům v hlavě než tónům klavíru. Uvnitř mi běžel hlásek, který mi říkal, že se to nesmí. Ale pak přišla moje oblíbená pasáž. A něco ve mně povolilo. Zavřel jsem oči. Nechal jsem to hrát a dál jsem poslouchal. \n \n Cítil jsem jemné chvění podél páteře. Teplo v břiše. Plynutí. Přítomnost. Hudba mě nesla jako řeka. A já se v ní dovolil uvolnit. Bez výčitek. \n \n Po doznění posledního tónu jsem chvíli seděl v tichu. A svět se nezbořil. A já taky ne. Hudba ve mně něco rozezněla. Ne provinění, ale krásu. A ta zůstala i potom, co hudba utichla."
                     }
                   ]
                 },
@@ -1006,14 +1009,14 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Veronika** \n \n Ve chvílích úzkosti jsem vždycky sahala po telefonu. Sociální sítě. Zdravotnické stránky. Zprávy v novinách. Chtěla jsem se rozptýlit. Místo úlevy přicházelo ještě větší napětí. Začala jsem hledat jiné možnosti, jak úzkost ustát, aniž bych se chránila kontrolou. \n \n V terapii jsem si stanovila plán: Zůstat s pocitem úzkosti v těle. A zkusit si to namalovat. Když přijde vlna úzkosti, nakreslit si, co cítím. V barvách, tvarech a bez hodnocení, jestli se mi to povedlo. Jeden večer, když mě sevřel tlak na hrudi, jsem vzala akvarely a sedla jsem si k oknu. \n \n Zavřela jsem oči a zeptala se: Jak by vypadala tahle úzkost, kdyby byla barva? Objevil se vír. Fialový, s tmavými čarami. Vzala jsem si akvarely. Malovala jsem ho pomalu, vrstvila jsem barvy a pozorovala, jak se vpíjí do papíru. \n \n A něco se změnilo. Tlak se jakoby přelil z hrudi do ruky. Do štětce. Do barev. Když jsem skončila, byl to nový pocit. Neobjevila se panika. Dívala jsem se na obraz a zůstala v přítomnosti. Nepotřebovala jsem si nic vyhledávat. Úzkost jsem zklidnila barvami a tvary na plátně."
+                      "content": "**Veronika** \n \n Ve chvílích úzkosti jsem vždycky sahala po telefonu. Sociální sítě. Zdravotnické stránky. Zprávy v novinách. Chtěla jsem se rozptýlit. Místo úlevy přicházelo ještě větší napětí. Začala jsem hledat jiné možnosti, jak úzkost ustát, aniž bych se chránila kontrolou. \n \n V terapii jsem si stanovila plán: Zůstat s pocitem úzkosti v těle. A zkusit si to namalovat. Když přijde vlna úzkosti, nakreslit si, co cítím. V barvách, tvarech a bez hodnocení, jestli se mi to povedlo. Jeden večer, když mě sevřel tlak na hrudi, jsem vzala akvarely a sedla jsem si k oknu. \n \nZavřela jsem oči a zeptala se: Jak by vypadala tahle úzkost, kdyby byla barva? Objevil se vír. Fialový, s tmavými čarami. Vzala jsem si akvarely. Malovala jsem ho pomalu, vrstvila jsem barvy a pozorovala, jak se vpíjí do papíru. \n \n A něco se změnilo. Tlak se jakoby přelil z hrudi do ruky. Do štětce. Do barev. Když jsem skončila, byl to nový pocit. Neobjevila se panika. Dívala jsem se na obraz a zůstala v přítomnosti. Nepotřebovala jsem si nic vyhledávat. Úzkost jsem zklidnila barvami a tvary na plátně."
                     }
                   ]
                 },
                 {
                   "title": "MICHAL",
                   "subtitle": "učitel, 27 let",
-                  "description": "Michala trápí nutkavé pochybnosti o svém vztahu. Vyžaduje neustále ujišťování.",
+                  "description": "Michala trápí nutkavé pochybnosti o svém vztahu. Často se ujišťuje, že je vše v pořádku.",
                   "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Michal_karta_41e0daacdc.svg",
                   "pictureMobileBackground": "#dfe8eb",
                   "pictureMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Michal_karta_mobile_8530388119.svg",
@@ -1031,7 +1034,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Michal** \n \n Vztahy jsou pro mě těžké a intimita složitá. OCD mi neustále našeptává: „Zeptej se, ujisti se, jinak ji ztratíš.“ OCD ve mně vytvořilo představu, že musím mít naprostou jistotu, jinak přijde katastrofa. Kvůli tomu jsem dusil vztah, který jsem si přál udržet. Tak jsem se pořád ptal. Tlačil. Přesvědčoval se. \n \n Mluvil jsem se svým terapeutem o důvěře. O tom, jak intimita může vznikat i bez slov. Tentokrát jsem si řekl, že zkusím něco jiného. Napsal jsem si: Budu vedle Mirky aspoň 10 minut bez otázek. Budu vedle ní ležet jen tak, v tichu. Budu vnímat přítomnost. \n \n Chtěl jsem vědět, jaké to bude, jen být vedle sebe. Znělo to jednoduše. Ale už při té myšlence jsem cítil jsem tlak, skoro paniku. \n \n Večer jsem do toho šel. Leželi jsme na gauči vedle sebe. Dýchali. Rameno na rameni. V hlavě mi naskakovaly otázky jako na běhacím pásu. Ale snažil jsem se jim nevěnovat pozornost. \n \n Chtěl jsem se Mirky zeptat, jak se cítí. Chtěl jsem slyšet ujištění. Ale zůstal jsem zticha. A pak jsem si všiml jejího dechu. Její vůně. Zaměřil jsem se na teplo její kůže. Po chvíli jsem si uvědomil, že i mé tělo se zklidňuje. \n \n Uvolnil jsem ramena. Dýchání se mi zpomalilo. Ticho už nebylo prázdné a plné nejistoty. Bylo příjemné, intimní a pohodlné. Pocítil jsem vděčnost. Že tu jsme. Že nemusím nic dokazovat. A že to nemusím mít pořád pod kontrolou. Že někdy stačí jen být."
+                      "content": "**Michal** \n \n Vztahy jsou pro mě těžké a blízkost složitá. OCD mi neustále našeptává: *„Zeptej se, ujisti se, jinak ji ztratíš.“* OCD ve mně vytvořilo představu, že musím mít naprostou jistotu, jinak přijde katastrofa. Kvůli tomu jsem dusil vztah, který jsem si přál udržet. Tak jsem se pořád ptal. Tlačil. Přesvědčoval se. \n \n Mluvil jsem se svým terapeutem o důvěře. O tom, jak intimita může vznikat i bez slov. Tentokrát jsem si řekl, že zkusím něco jiného. Napsal jsem si: Budu vedle Mirky aspoň 10 minut bez otázek. Budu vedle ní ležet jen tak, v tichu. Budu vnímat přítomnost. \n \n Chtěl jsem vědět, jaké to bude, jen být vedle sebe. Znělo to jednoduše. Ale už při té myšlence jsem cítil jsem tlak, skoro paniku. \n \n Večer jsem do toho šel. Leželi jsme na gauči vedle sebe. Rameno na rameni. V hlavě mi naskakovaly otázky jako na běhacím pásu. Ale snažil jsem se jim nevěnovat pozornost. \n \n Chtěl jsem se Mirky zeptat, jak se cítí. Chtěl jsem slyšet ujištění. Ale zůstal jsem zticha. A pak jsem si všiml jejího dechu. Její vůně. Zaměřil jsem se na teplo její kůže. Po chvíli jsem si uvědomil, že i mé tělo se zklidňuje. \n \n Uvolnil jsem ramena. Dýchání se mi zpomalilo. Ticho už nebylo prázdné a plné nejistoty. Bylo příjemné, intimní a pohodlné. Pocítil jsem vděčnost. Že tu jsme. Že nemusím nic dokazovat. A že to nemusím mít pořád pod kontrolou. Že někdy stačí jen být."
                     }
                   ]
                 },
@@ -1056,7 +1059,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Jirka** \n \n Když jsem byl mladší, trávil jsem v přírodě často celé víkendy. Miloval jsem hory. Na zádech svůj starý vysloužilý batoh a pod nohama oblíbenou trasu přes hřebeny s výhledem na řeku. Turistika mi dávala pocit klidu, pohybu, volnosti. Ale pak se všechno změnilo. \n \n Nejdřív nenápadně. Jen pár čísel na poznávacích značkách. Jen pár součtů. Ale najednou jsem si už nedokázal představit jet na výlet. Znamenalo by to minout desítky aut. A co kdyby bylo na některém prvočíslo? Co kdybych nestihl počítat dost předmětů, aby to „vyvážilo“? \n \n Začal jsem se řízení vyhýbat. Prosil jsem Lucku, aby jela místo mě. Když jsem se přece jen odhodlal, přestal jsem se dívat z okna. Byl jsem v přírodě, ale jako by duchem nepřítomen. \n \n V modulu o příjemných aktivitách jsem si napsal, co mi kdy dělalo radost. Turistika byla první věc, na kterou jsem si vzpomněl. Chtěl jsem to zkusit znovu. S ohledem na to, jak silná může být úzkost, ale taky s odvahou udělat malý krok. \n \n Nejdřív jen krátká procházka po okolí. Lucka řídila. Díval jsem se z okna a viděl čísla. Součty. Ale počítání jsem odložil. Vědomě jsem dýchal. Vnímal jsem stromy. Pak jsme dojeli do lesa za městem. Dvě hodiny venku. Kolem projelo několik aut se značkami, které mě vyplašily. Ale tentokrát jsem nepřepnul do režimu „počítání pro záchranu světa“. Místo toho jsem počítal kroky. Jen tak. Pro sebe. \n \n A když jsme došli k vyhlídce, sedl jsem si na lavičku a mlčel. V hlavě ticho. Nebo aspoň menší hluk.Pak přišlo něco nečekaného: úleva. Ne protože bylo všechno v pořádku. Ale protože jsem tam byl. Bez výmluv. Bez výčitek. A s výhledem, který mi chyběl. \n \n Napsal jsem si plán: jednou týdně jít s Luckou na výlet. A jednou měsíčně sám. S autem. S rizikem, že uvidím prvočísla. Ale také s vědomím, že mi stojí za to jít dál. \n \n Ještě to není bez námahy. Ale po letech poprvé vnímám, že mě hory zase volají."
+                      "content": "**Jirka** \n \n Když jsem byl mladší, trávil jsem v přírodě často celé víkendy. Miloval jsem hory. Na zádech svůj starý vysloužilý batoh a pod nohama oblíbenou trasu přes hřebeny s výhledem na řeku. Turistika mi dávala pocit klidu, pohybu, volnosti. Ale pak se všechno změnilo. \n \n Nejdřív nenápadně. Jen pár čísel na poznávacích značkách. Jen pár součtů. Ale najednou jsem si už nedokázal představit, že bych zase jel na výlet. Znamenalo by to minout desítky aut. A co kdyby bylo na některém prvočíslo? Co kdybych nestihl počítat dost předmětů, aby to „vyvážilo“? \n \n Začal jsem se řízení vyhýbat. Prosil jsem Lucku, aby jela místo mě. Když jsem se přece jen odhodlal, přestal jsem se dívat z okna. Byl jsem v přírodě, ale jako by duchem nepřítomen. \n \n V modulu o příjemných aktivitách jsem si napsal, co mi kdy dělalo radost. Turistika byla první věc, na kterou jsem si vzpomněl. Chtěl jsem to zkusit znovu. S ohledem na to, jak silná může být úzkost, ale taky s odvahou udělat malý krok. \n \n Nejdřív jen krátká procházka po okolí. Lucka řídila. Díval jsem se z okna a viděl čísla. Součty. Ale počítání jsem odložil. Vědomě jsem dýchal. Vnímal jsem stromy. Pak jsme dojeli do lesa za městem. Dvě hodiny venku. Kolem projelo několik aut se značkami, které mě vyplašily. Ale tentokrát jsem nepřepnul do režimu „počítání pro záchranu světa“. Místo toho jsem počítal kroky. Jen tak. Pro sebe. \n \nA když jsme došli k vyhlídce, sedl jsem si na lavičku a mlčel. V hlavě ticho. Nebo aspoň menší hluk.Pak přišlo něco nečekaného: úleva. Ne protože bylo všechno v pořádku. Ale protože jsem tam byl. Bez výmluv. Bez výčitek. A s výhledem, který mi chyběl. \n \n Ještě to není bez námahy. Ale po letech poprvé vnímám, že mě hory zase volají."
                     }
                   ]
                 }
@@ -1277,7 +1280,8 @@
             },
             {
               "type": "video",
-              "url": "xx"
+              "url": "xx",
+              "captionsUrl": "xx"
             },
             {
               "type": "collapse",
@@ -1308,7 +1312,7 @@
           ]
         },
         {
-          "title": "Dokončili jste druhý modul!",
+          "title": "Dokončili jste čtvrtý modul!",
           "isEvaluable": true,
           "icon": "Exercise",
           
@@ -1355,7 +1359,8 @@
             },
             {
               "type": "video",
-              "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M4_3_08a3a5ea06.mp4"
+              "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M4_3_08a3a5ea06.mp4",
+              "captionsUrl": "xx"
             },
             {
               "type": "collapse",

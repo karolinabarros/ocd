@@ -7,7 +7,7 @@
             {
               "type": "video",
               "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M4_1_e0169cf6bd.mp4",
-              "captionsUrl": "xx"
+              "captionsUrl": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M4_1_ces_f00df981d7.vtt"
             },
             {
               "type": "collapse",
@@ -277,7 +277,7 @@
             {
               "type": "video",
               "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Petruv_Experiment_c_b590ee0fce.mp4",
-              "captionsUrl": "xx"
+              "captionsUrl": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Petruv_Experiment_c_ces_e6cd83d4d8.vtt"
             },
             {
               "type": "collapse",
@@ -797,7 +797,7 @@
             {
               "type": "video",
               "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M4_2_08789c7ff6.mp4",
-              "captionsUrl": "xx"
+              "captionsUrl": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M4_1_ces_f00df981d7.vtt"
             },
             {
               "type": "collapse",
@@ -1360,7 +1360,7 @@
             {
               "type": "video",
               "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M4_3_08a3a5ea06.mp4",
-              "captionsUrl": "xx"
+              "captionsUrl": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M4_3_ces_4eda6e34d4.vtt"
             },
             {
               "type": "collapse",

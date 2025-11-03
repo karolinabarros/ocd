@@ -92,7 +92,7 @@
             {
               "type": "video",
               "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Obsese_A_Kompulze_1_c64e9e4031.mp4",
-              "captionsUrl": "xx"
+              "captionsUrl": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Obsese_A_Kompulze_1_ces_e1e3391662.vtt"
             },
             {
               "type": "collapse",
@@ -1043,7 +1043,7 @@
             {
               "type": "video",
               "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jana_A_OCD_c_1_81a6308c15.mp4",
-              "captionsUrl": "xx"
+              "captionsUrl": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jana_A_OCD_c_1_ces_dc2a44b1a0.vtt"
             },
             {
               "type": "collapse",
@@ -2131,7 +2131,7 @@
             {
               "type": "video",
               "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/OCD_M1_c64ccdf790.mp4",
-              "captionsUrl": "xx"
+              "captionsUrl": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/OCD_M1_ces_5165ef1bb5.vtt"
             },
             {
               "type": "collapse",
@@ -2219,7 +2219,7 @@
             {
               "type": "video",
               "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M1_3_0f22d4fa01.mp4",
-              "captionsUrl": "xx"
+              "captionsUrl": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M1_3_ces_9e41dc0c40.vtt"
             },
             {
               "type": "collapse",

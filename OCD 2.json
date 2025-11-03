@@ -7,7 +7,7 @@
             {
               "type": "video",
               "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M2_1_8e100a0f68.mp4",
-              "captionsUrl": "xx"
+              "captionsUrl": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M2_1_ces_184e5773c1.vtt"
             },
             {
               "type": "collapse",
@@ -154,7 +154,7 @@
             {
               "type": "video",
               "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M2_2_2a867e84b5.mp4",
-              "captionsUrl": "xx"
+              "captionsUrl": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M2_2_ces_edfc8476dd.vtt"
             },
             {
               "type": "collapse",
@@ -496,7 +496,7 @@
             {
               "type": "video",
               "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M2_3_f11b690f3d.mp4",
-              "captionsUrl": "xx"
+              "captionsUrl": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M2_3_ces_f99126d9b2.vtt"
             },
             {
               "type": "collapse",
@@ -621,7 +621,7 @@
             {
               "type": "video",
               "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/petr_a_jeho_filtry_mysleni_1_ed8cee7c24.mp4",
-              "captionsUrl": "xx"
+              "captionsUrl": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/petr_a_jeho_filtry_mysleni_1_ces_23cdf033ce.vtt"
             },
             {
               "type": "collapse",
@@ -1109,7 +1109,7 @@
             {
               "type": "video",
               "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M2_4_021f044500.mp4",
-              "captionsUrl": "xx"
+              "captionsUrl": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M2_4_ces_8c97a6cbec.vtt"
             },
             {
               "type": "collapse",
@@ -1492,7 +1492,7 @@
             {
               "type": "video",
               "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/OCD_M2_9ee0b57d16.mp4",
-              "captionsUrl": "xx"
+              "captionsUrl": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Meditace_M2_ces_93c35898ea.vtt"
             },
             {
               "type": "collapse",
@@ -1571,7 +1571,7 @@
             {
               "type": "video",
               "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M2_5_05726e38b7.mp4",
-              "captionsUrl": "xx"
+              "captionsUrl": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M2_5_ces_7ab42181a8.vtt"
             },
             {
               "type": "collapse",
@@ -1581,7 +1581,7 @@
             {
               "type": "download",
               "title": "stáhnout záznamový list",
-              "downloadLink": "xx"
+              "downloadLink": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Zaznamovy_list_M2_c25020c463.pdf"
             }
           ]
         },

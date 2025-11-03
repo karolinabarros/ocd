@@ -7,7 +7,7 @@
             {
               "type": "video",
               "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M3_1_12c3d62b76.mp4",
-              "captionsUrl": "xx"
+              "captionsUrl": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M3_1_ces_9c1c04e240.vtt"
             },
             {
               "type": "collapse",
@@ -134,7 +134,7 @@
             {
               "type": "video",
               "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M3_2_6f6abef253.mp4",
-              "captionsUrl": "xx"
+              "captionsUrl": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M3_2_ces_7861c73bc4.vtt"
             },
             {
               "type": "collapse",
@@ -159,7 +159,7 @@
             },
             {
               "type": "collapse",
-              "content": "yy",
+              "content": "xx",
               "title": "Radši si přečtu"
             }
           ]
@@ -175,7 +175,7 @@
             {
               "type": "video",
               "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Expozice_v_predstave_v2_1_3638274029.mp4",
-              "captionsUrl": "xx"
+              "captionsUrl": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Expozice_v_predstave_v2_1_ces_1d03edcfeb.vtt"
             },
             {
               "type": "collapse",
@@ -484,7 +484,7 @@
             {
               "type": "video",
               "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M3_3_a4c1089482.mp4",
-              "captionsUrl": "xx"
+              "captionsUrl": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M3_3_ces_3c7f572ddf.vtt"
             },
             {
               "type": "collapse",
@@ -1100,16 +1100,16 @@
           "contentSections": [
             {
               "type": "markdown",
-              "content": "Tuto **imaginaci** si můžete pustit, když vás zasáhne **nepříjemná myšlenka** nebo **představa**. Pomůže ji pozorovat a změnit její význam. \n \n Při pravidelném procvičování může být velmi účinná a může se hodit, když zrovna neprovádíte expozice. To by vám totiž od nich odvádělo pozornost."
+              "content": "Tuto imaginaci si můžete pustit, když vás zasáhne **nepříjemná myšlenka** nebo **představa**. Pomůže ji pozorovat a změnit její význam. \n \n Při pravidelném procvičování může být velmi účinná a může se hodit, když zrovna neprovádíte expozice. To by vám totiž od nich odvádělo pozornost."
             },
             {
               "type": "video",
-              "url": "xx",
-              "captionsUrl": "xx"
+              "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/OCD_M3_komprimovane_256122cc97.mp4",
+              "captionsUrl": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M3_4_c547a17b19.mp4"
             },
             {
               "type": "collapse",
-              "content": "Najděte si klidné místo, posaďte se nebo si lehněte do pohodlné pozice. Zavřete oči, pokud je vám to příjemné. \n \n Začněte tím, že se párkrát zhluboka nadechnete… a pomalu vydechnete. Nádech… výdech…  Nyní si představte, že sedíte v bezpečné místnosti. Tichý prostor jen pro vás. Na stole před vámi leží papír.  \n \n Na tom papíru je vaše obava. Vtíravá myšlenka, která vás trápí. Může to být cokoli: „Někomu ublížím.“ „Způsobím nehodu.“ „Jsem špatný člověk.“ … Cokoli, co vám podsouvá vaše mysl.  \n \n Podívejte se na tu větu. V duchu si ji nahlas přečtěte… Všímejte si, co se děje ve vašem těle. Možná se objeví napětí. Možná pocit viny. Možná touha s tím něco udělat. Všimněte si toho. Jen pozorujte. Nemusíte reagovat.  \n \n A teď si představte, že tuto větu pomalu obracíte… a za ni přidáváte: „ale je to jen myšlenka.“  \n \n Řekněte si celý nový tvar v duchu: \n \n - „Všiml/a jsem si, že mám myšlenku, že někomu ublížím.. a je to jen myšlenka“ \n \n - „Všiml/a jsem si, že mám myšlenku, že způsobím nehodu… ale je to jen myšlenka.“ \n \n Vdechněte ten nový význam. Vydechněte napětí.  Představte si, že slova na papíře pomalu blednou… až mizí. Zůstává jen bílý list. A vy. A klid.  Váš mozek umí vytvářet silné obrazy. To neznamená, že jsou skutečné.  \n \n Opakujte si v duchu: \n \n - „Moje mysl je tvořivá a má mnoho myšlenek. Mohu si jich všech všímat. Nemusím žádnou odhánět.“ \n \n - „Myšlenky nemají moc mě ovládat.“ \n \n Je v pořádku, že přicházejí. A je v pořádku je nechat odejít. Zůstaňte ještě chvíli v tomto prostoru. Až budete připraveni, pomalu otevřete oči.",
+              "content": "Najděte si klidné místo, posaďte se nebo si lehněte do pohodlné pozice. Můžete zavřít oči, pokud je vám to příjemné. \n \n Párkrát se zhluboka nadechněte… a pomalu vydechněte. Nádech… výdech… Nádech... výdech... \n \n Představte si, že sedíte v bezpečné místnosti. Tichý prostor jen pro vás. Na stole před vámi leží papír. \n \n Na tom papíru je vaše obava. Vtíravá myšlenka, která vás trápí. Může to být cokoli. \n \n „Někomu ublížím.“ „Způsobím nehodu.“ „Jsem špatný člověk.“ … Cokoli, co vám podsouvá vaše mysl. \n \n Podívejte se na tu větu. V duchu si ji nahlas přečtěte… Všímejte si, co se děje ve vašem těle. Možná se objeví napětí. Možná pocit viny. Možná s tím chcete něco udělat. Všimněte si toho. Jen to pozorujte. Nemusíte reagovat. \n \n Představte si, že papír pomalu obracíte… a připisujete slova: „Je to jen myšlenka.“ \n \n Řekněte si v duchu: \n \n „Všiml jsem si, že mám myšlenku, že někomu ublížím.. ale je to jen myšlenka.“ \n \n „Všiml jsem si, že mám myšlenku, že způsobím nehodu… ale je to jen myšlenka.“ \n \n Zhluboka se nadechněte... Do těla pouštíte ten nový význam. A vydechujete napětí. Představte si, že slova na papíře pomalu blednou… až mizí. Zůstává jen bílý list. \n \n Cítíte klid. Váš mozek umí vytvářet silné obavy. To neznamená, že jsou skutečné. \n \n V duchu si řekněte: \n \n „Moje mysl je tvořivá. Myšlenek si mohu všímat. Nemusím je odhánět. Myšlenky nemají moc mě ovládat.“ \n \n Je v pořádku, že myšlenky přicházejí. A je v pořádku je nechat odejít. Zůstaňte ještě chvíli. Až budete připraveni, pomalu otevřete oči.",
               "title": "Radši si přečtu"
             }
           ]
@@ -1124,13 +1124,13 @@
             },
             {
               "type": "audio",
-              "audioSrc": "xx",
+              "audioSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M3_Bonusovy_pribeh_468f4ee350.wav",
               "title": "Bonusový příběh",
               "imageSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Bonusovy_pribeh_5cc113d11c.svg"
             },
             {
               "type": "collapse",
-              "content": "xx",
+              "content": "**VYPRAVĚČ:** Michal sedí na balkoně. Ranní světlo dopadá na jeho hrnek s kávou. Má den volna, ale v hlavě má zase rušno. \n \n **MICHAL:** Měl bych si to dneska přehrát... Ale co když to bude horší než včera? Co když ty obavy fakt něco znamenají...? \n \n **VYPRAVĚČ:** Michal bere do ruky mobil. Otevírá nahrávku expozice, kterou si připravil. Poslouchá ji už třetí den. Včera to bylo těžké. \n \n **NAHRÁVKA:** Sedíme spolu večer na gauči. Mirka mluví o práci. Já ji nevnímám. V hlavě mám pochybnosti. Možná ji už nemiluju. Cítím nepříjemné sevření. Ale nic nedělám. Jen sedím. A dýchám. \n \n **MICHAL:** Tohle mě přemůže. Proč bych měl riskovat, že jí ubližuju tím, že si nejsem jistý? Možná bych to měl radši vypnout... \n \n **VYPRAVĚČ:** Ale nahrávka běží dál. Michal dýchá. Dívá se na šálek v ruce. A poslouchá. \n \n **NAHRÁVKA:** V hlavě se mi znovu objeví myšlenka: „Možná to není láska.“ Ale já ji nechám být. Jen sleduji svůj dech. Nepotřebuju jistotu. Stačí, že jsem tady. \n \n **VYPRAVĚČ:** Nahrávka skončila. Úzkost se neztratila, ale zeslabila. Michal zůstává sedět. Poprvé necítí potřebu se ptát, analyzovat, hledat důkaz. \n \n **MICHAL:** Možná to nikdy nebude stoprocentní. Ale i s tou nejistotou... tu pořád jsem. S Mirkou. Se sebou. \n \n **VYPRAVĚČ:** Tento příběh ukazuje, jak se Michal postupně učil zůstávat s nejistotou. Expozice v představě mu nedodala jistotu, ale přinesla sílu. Nevyhýbat se. Nedělat kompulze. A žít dál.",
               "title": "Radši si přečtu"
             }
           ]
@@ -1182,8 +1182,8 @@
             },
             {
               "type": "video",
-              "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M2_5_05726e38b7.mp4",
-              "captionsUrl": "xx"
+              "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M3_4_c547a17b19.mp4",
+              "captionsUrl": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M3_4_ces_3a81484362.vtt"
             },
             {
               "type": "collapse",
@@ -1193,7 +1193,7 @@
             {
               "type": "download",
               "title": "stáhnout záznamový list",
-              "downloadLink": "xx"
+              "downloadLink": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Zaznamovy_list_M3_f49ad2ca9a.pdf"
             }
           ]
         },

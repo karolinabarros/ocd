@@ -1486,8 +1486,8 @@
             },
             {
               "type": "video",
-              "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M4_3_08a3a5ea06.mp4",
-              "captionsUrl": "xx"
+              "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M5_3_f5402f11cd.mp4",
+              "captionsUrl": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M5_3_ces_7a9393bf7d.vtt"
             },
             {
               "type": "collapse",

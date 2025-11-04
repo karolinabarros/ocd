@@ -153,13 +153,13 @@
             },
             {
               "type": "audio",
-              "audioSrc": "xx",
+              "audioSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M3_Expozice_v_predstave_podcast_0dc88d8b91.wav",
               "title": "Expozice v představě",
               "imageSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Expozice_v_predstave_e5b7f8aaab.svg"
             },
             {
               "type": "collapse",
-              "content": "xx",
+              "content": "**Moderátorka:** V minulém modulu jste si sestavili hierarchii expozic. Ty spočívají v tom, že se vědomě vystavíte situaci, která vyvolává nepříjemné pocity. To může být docela hrozivé. Existuje nějaký šetrný způsob, jak udělat první krok? \n \n **Terapeut:** Výborná otázka! Než začneme s expozicemi ve skutečných situacích, můžeme si to nejprve vyzkoušet v představě. To je bezpečný a méně odstrašující způsob, jak začít. \n \n **Moderátorka:** Expozice v představě? Jak to funguje? \n \n **Terapeut:** Je to metoda, kterou můžeme použít jako první krok expoziční terapie. Nebo když je reálná situace moc náročná. Sepíšeme si, jak by expozice probíhala. Tomu říkáme scénář. Ten si pak opakovaně představujeme. \n \n **Moderátorka:** A má představa vůbec nějaký efekt? Přeci jen je to v hlavě... \n \n **Terapeut:** To je zajímavá věc! Mozek reaguje na představu podobně jako na skutečnost. Takže když si představíme třeba dotyk špinavé kliky nebo odchod z domu bez kontroly, mozek na takové obrazy reaguje podobně jako na skutečnost. Je to účinné, ale bez skutečného rizika. \n \n **Moderátorka:** A co když se během té představy objeví nepříjemné pocity a nutkání? \n \n **Terapeut:** To je naprosto normální. Během expozice se mohou vynořit různé emoce - úzkost, znechucení, stud nebo i hněv na sebe. Cílem není se jich zbavit, ale naučit se s nimi vydržet. Opakováním se je učíme zvládat, a bez kompulzí. Půjde to snadněji a snadněji. \n \n **Moderátorka:** Někoho možná i tak trápí, že jsou představy nějak nebezpečné. \n \n **Terapeut:** Je důležité si připomenout, že představa není skutečný čin. Není nebezpečná. Není to realita. Je to jen bezpečný způsob, jak trénovat náš mozek a připravit se na skutečné situace. \n \n **Moderátorka:** Jak byste na závěr podpořil naše posluchače, aby se do expozic v představě pustili? \n \n **Terapeut:** V každé obtížné situaci máme několik možností. Můžeme se jí plně vyhnout. Můžeme udělat kompulzi. Anebo můžeme s nepříjemnými emocemi chvíli zůstat a vydržet. Právě ta třetí možnost je léčivá. Stojí za to se do toho pustit.",
               "title": "Radši si přečtu"
             }
           ]

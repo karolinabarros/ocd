@@ -28,7 +28,7 @@
         },
         {
           "title": "Dotazník o příznacích OCD",
-          "icon": "check",
+          "icon": "Question",
           "isEvaluable": true,
           "finalScreen": {
             "buttonLabel": "Upravit odpovědi",
@@ -57,7 +57,7 @@
         },
         {
           "title": "Dotazník o příznacích deprese",
-          "icon": "check",
+          "icon": "Question",
           "isEvaluable": true,
           "finalScreen": {
             "buttonLabel": "Upravit odpovědi",

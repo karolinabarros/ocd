@@ -7,7 +7,7 @@
             {
               "type": "video",
               "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M5_1_26cee62ae6.mp4",
-              "captionsUrl": "xx"
+              "captionsUrl": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M5_1_ces_6dbdade7ef.vtt"
             },
             {
               "type": "collapse",
@@ -28,7 +28,7 @@
         },
         {
           "title": "Dotazník o příznacích OCD",
-          "icon": "check",
+          "icon": "Question",
           "isEvaluable": true,
           "finalScreen": {
             "buttonLabel": "Upravit odpovědi",
@@ -57,7 +57,7 @@
         },
         {
           "title": "Dotazník o příznacích deprese",
-          "icon": "check",
+          "icon": "Question",
           "isEvaluable": true,
           "finalScreen": {
             "buttonLabel": "Upravit odpovědi",
@@ -294,7 +294,7 @@
             },
             {
               "type": "video",
-              "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Petruv_Experiment_c_46b46f330a.mp4",
+              "url": "xx",
               "captionsUrl": "xx"
             },
             {

@@ -28,7 +28,7 @@
         },
         {
           "title": "Dotazník o příznacích OCD",
-          "icon": "check",
+          "icon": "Question",
           "isEvaluable": true,
           "finalScreen": {
             "buttonLabel": "Upravit odpovědi",
@@ -57,7 +57,7 @@
         },
         {
           "title": "Dotazník o příznacích deprese",
-          "icon": "check",
+          "icon": "Question",
           "isEvaluable": true,
           "finalScreen": {
             "buttonLabel": "Upravit odpovědi",
@@ -107,7 +107,7 @@
         },
         {
           "title": "Inventář obsesí",
-          "icon": "check",
+          "icon": "Question",
           "isEvaluable": true,
           "contentSections": [
             {
@@ -169,7 +169,7 @@
         },
         {
           "title": "Inventář kompulzí",
-          "icon": "check",
+          "icon": "Question",
           "isEvaluable": true,
           "contentSections": [
             {
@@ -235,7 +235,7 @@
         },
         {
           "title": "Dotazník o inventáři obsesí a kompulzí",
-          "icon": "check",
+          "icon": "Question",
           "isEvaluable": true,
           "finalScreen": {
             "buttonLabel": "Upravit odpovědi",

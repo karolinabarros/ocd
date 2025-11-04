@@ -888,7 +888,7 @@
             {
               "type": "video",
               "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M5_2_b30cd5185b.mp4",
-              "captionsUrl": "xx"
+              "captionsUrl": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M5_2_ces_fb87a0e3a1.vtt"
             },
             {
               "type": "collapse",

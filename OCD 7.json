@@ -6,7 +6,7 @@
           "contentSections": [
             {
               "type": "video",
-              "url": "xx",
+              "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M7_1_77c6407a47.mp4",
               "captionsUrl": "xx"
             },
             {
@@ -204,7 +204,7 @@
             },
             {
               "type": "video",
-              "url": "xx",
+              "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M7_1_77c6407a47.mp4",
               "captionsUrl": "xx"
             },
             {
@@ -1878,7 +1878,7 @@
             },
             {
               "type": "video",
-              "url": "xx",
+              "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M7_3_8b2d1c1ac1.mp4",
               "captionsUrl": "xx"
             },
             {

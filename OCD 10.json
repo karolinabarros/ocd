@@ -1,12 +1,12 @@
 {
   "pages": [
       {
-          "title": "Vítejte v jedenáctém modulu",
+          "title": "Vítejte v desátém modulu",
           "icon": "video",
           "contentSections": [
             {
               "type": "video",
-              "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M11_1_94cebef2d1.mp4",
+              "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M10_1_7ba012c09a.mp4",
               "captionsUrl": "xx"
             },
             {
@@ -2420,8 +2420,9 @@
               "title": "**Co jste se dozvěděli:**",
               "color": "#27637C",
               "items": [
-                "Jak hrdinové z příběhů vzdorovali svým kritickým hlasům a začali naslouchat laskavým a zdravým myšlenkám.",
-                "Jak se krok po kroku vymanit z moci vnitřního Kritika a uvědomit si, jaký na nás má jeho našeptávání dopad."
+                "Životní role jsou různé podoby, které během života zastáváme, např. rodič, kolega, kamarád nebo student.",
+                "Role ukazují, jak můžeme konkrétně naplňovat své hodnoty, třeba péčí o blízké, prací nebo budováním vztahů s rodinou.",
+                "Pokud se chceme v dané roli naplňovat své hodnoty, můžeme si naplánovat malé kroky ke změně."
               ]
             }
           ]
@@ -3037,7 +3038,7 @@
           ]
         },
         {
-          "title": "Dokončili jste jedenáctý modul!",
+          "title": "Dokončili jste desátý modul!",
           "isEvaluable": true,
           "icon": "Exercise",
           
@@ -3084,7 +3085,7 @@
             },
             {
               "type": "video",
-              "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M11_2_a845dbffa5.mp4",
+              "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M10_3_60f415333c.mp4",
               "captionsUrl": "xx"
             },
             {

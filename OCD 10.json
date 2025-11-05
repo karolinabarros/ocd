@@ -1,12 +1,12 @@
 {
   "pages": [
       {
-          "title": "Vítejte v desátém modulu",
+          "title": "Vítejte v jedenáctém modulu",
           "icon": "video",
           "contentSections": [
             {
               "type": "video",
-              "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M10_1_7ba012c09a.mp4",
+              "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M11_1_94cebef2d1.mp4",
               "captionsUrl": "xx"
             },
             {
@@ -219,6 +219,16 @@
           "icon": "text",
           "contentSections": [
             {
+              "type": "image",
+              "isExpandable": true,
+              "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Zprava_pro_terapeuta_22d2000e96.svg",
+              "width": "100%",
+              "alt": "Ruka držící dopis v obálce",
+              "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Zprava_pro_terapeuta_mobile_e785e38a53.svg",
+              "widthMobile": "100%",
+              "align": "center"
+            },
+            {
               "type": "markdown",
               "content": "**Když nás vede strach** \n \n **Při OCD** nás často žene dopředu hlavně **strach**. Bojíme se, že se stane něco hrozného a snažíme se **vyhnout** nepříjemným pocitům. Někdy to znamená utíkat od situací, které by mohly spustit úzkost, třeba se nedotýkat kliky, abychom nepřenášeli bakterie. Jindy se **schováváme za kompulze**, třeba opakovaně kontrolujeme, jestli jsou zamčené dveře. \n \n Strach nám velí „Co když…?“, a my posloucháme. Jenže i když se na chvíli cítíme bezpečněji, dlouhodobě nám strach bere svobodu a odvádí nás od života, který bychom chtěli žít."
             },
@@ -235,16 +245,6 @@
             {
               "type": "markdown",
               "content": "**Když nás vedou hodnoty** \n \n Hodnoty působí opačně. Neříkají: „Před tímhle uteč.“ Říkají: **„Tady je něco, na čem ti opravdu záleží. Pojď za tím.“** Například jako rodič chceme být blízko svým dětem a učit je poznávat svět, i když to znamená dotknout se špinavého hřiště. Nebo jako partner můžeme toužit po intimitě, i když se bojíme, že řekneme něco špatně. \n \n Hodnoty nám ukazují směr k věcem, které dělají náš život **smysluplným** a **radostným**. Neutíkáme od strachu, ale **jdeme za tím, co je pro nás důležité.**"
-            },
-            {
-              "type": "image",
-              "isExpandable": true,
-              "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Zprava_pro_terapeuta_22d2000e96.svg",
-              "width": "100%",
-              "alt": "Ruka držící dopis v obálce",
-              "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Zprava_pro_terapeuta_mobile_e785e38a53.svg",
-              "widthMobile": "100%",
-              "align": "center"
             }
           ]
         },
@@ -335,22 +335,32 @@
                         },
                         {
                           "title": "Spíše důležité",
-                          "items": [
+                          "content": [
+                           { 
+                            "type": "slider", 
+                            "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
+                            "min": 0, 
+                            "max": 100,
+                            "step": 10, 
+                            "defaultValue": 0, 
+                            "variant": "standard",
+                            "required": true
+                           }
                           ]
                         },
                         {
                           "title": "Velice důležité",
-                          "items": [
-                            { 
-                              "type": "slider", 
-                              "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
-                              "min": 0, 
-                              "max": 100,
-                              "step": 10, 
-                              "defaultValue": 0, 
-                              "variant": "standard",
-                              "required": true
-                            }
+                          "content": [
+                           { 
+                            "type": "slider", 
+                            "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
+                            "min": 0, 
+                            "max": 100,
+                            "step": 10, 
+                            "defaultValue": 0, 
+                            "variant": "standard",
+                            "required": true
+                           }
                           ]
                         }
                       ]
@@ -376,22 +386,32 @@
                         },
                         {
                           "title": "Spíše důležité",
-                          "items": [
+                          "content": [
+                           { 
+                            "type": "slider", 
+                            "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
+                            "min": 0, 
+                            "max": 100,
+                            "step": 10, 
+                            "defaultValue": 0, 
+                            "variant": "standard",
+                            "required": true
+                           }
                           ]
                         },
                         {
                           "title": "Velice důležité",
-                          "items": [
-                            { 
-                              "type": "slider", 
-                              "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
-                              "min": 0, 
-                              "max": 100,
-                              "step": 10, 
-                              "defaultValue": 0, 
-                              "variant": "standard",
-                              "required": true
-                            }
+                          "content": [
+                           { 
+                            "type": "slider", 
+                            "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
+                            "min": 0, 
+                            "max": 100,
+                            "step": 10, 
+                            "defaultValue": 0, 
+                            "variant": "standard",
+                            "required": true
+                           }
                           ]
                         }
                       ]
@@ -417,22 +437,32 @@
                         },
                         {
                           "title": "Spíše důležité",
-                          "items": [
+                          "content": [
+                           { 
+                            "type": "slider", 
+                            "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
+                            "min": 0, 
+                            "max": 100,
+                            "step": 10, 
+                            "defaultValue": 0, 
+                            "variant": "standard",
+                            "required": true
+                           }
                           ]
                         },
                         {
                           "title": "Velice důležité",
-                          "items": [
-                            { 
-                              "type": "slider", 
-                              "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
-                              "min": 0, 
-                              "max": 100,
-                              "step": 10, 
-                              "defaultValue": 0, 
-                              "variant": "standard",
-                              "required": true
-                            }
+                          "content": [
+                           { 
+                            "type": "slider", 
+                            "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
+                            "min": 0, 
+                            "max": 100,
+                            "step": 10, 
+                            "defaultValue": 0, 
+                            "variant": "standard",
+                            "required": true
+                           }
                           ]
                         }
                       ]
@@ -458,22 +488,32 @@
                         },
                         {
                           "title": "Spíše důležité",
-                          "items": [
+                          "content": [
+                           { 
+                            "type": "slider", 
+                            "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
+                            "min": 0, 
+                            "max": 100,
+                            "step": 10, 
+                            "defaultValue": 0, 
+                            "variant": "standard",
+                            "required": true
+                           }
                           ]
                         },
                         {
                           "title": "Velice důležité",
-                          "items": [
-                            { 
-                              "type": "slider", 
-                              "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
-                              "min": 0, 
-                              "max": 100,
-                              "step": 10, 
-                              "defaultValue": 0, 
-                              "variant": "standard",
-                              "required": true
-                            }
+                          "content": [
+                           { 
+                            "type": "slider", 
+                            "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
+                            "min": 0, 
+                            "max": 100,
+                            "step": 10, 
+                            "defaultValue": 0, 
+                            "variant": "standard",
+                            "required": true
+                           }
                           ]
                         }
                       ]
@@ -499,22 +539,32 @@
                         },
                         {
                           "title": "Spíše důležité",
-                          "items": [
+                          "content": [
+                           { 
+                            "type": "slider", 
+                            "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
+                            "min": 0, 
+                            "max": 100,
+                            "step": 10, 
+                            "defaultValue": 0, 
+                            "variant": "standard",
+                            "required": true
+                           }
                           ]
                         },
                         {
                           "title": "Velice důležité",
-                          "items": [
-                            { 
-                              "type": "slider", 
-                              "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
-                              "min": 0, 
-                              "max": 100,
-                              "step": 10, 
-                              "defaultValue": 0, 
-                              "variant": "standard",
-                              "required": true
-                            }
+                          "content": [
+                           { 
+                            "type": "slider", 
+                            "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
+                            "min": 0, 
+                            "max": 100,
+                            "step": 10, 
+                            "defaultValue": 0, 
+                            "variant": "standard",
+                            "required": true
+                           }
                           ]
                         }
                       ]
@@ -540,22 +590,32 @@
                         },
                         {
                           "title": "Spíše důležité",
-                          "items": [
+                          "content": [
+                           { 
+                            "type": "slider", 
+                            "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
+                            "min": 0, 
+                            "max": 100,
+                            "step": 10, 
+                            "defaultValue": 0, 
+                            "variant": "standard",
+                            "required": true
+                           }
                           ]
                         },
                         {
                           "title": "Velice důležité",
-                          "items": [
-                            { 
-                              "type": "slider", 
-                              "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
-                              "min": 0, 
-                              "max": 100,
-                              "step": 10, 
-                              "defaultValue": 0, 
-                              "variant": "standard",
-                              "required": true
-                            }
+                          "content": [
+                           { 
+                            "type": "slider", 
+                            "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
+                            "min": 0, 
+                            "max": 100,
+                            "step": 10, 
+                            "defaultValue": 0, 
+                            "variant": "standard",
+                            "required": true
+                           }
                           ]
                         }
                       ]
@@ -581,22 +641,32 @@
                         },
                         {
                           "title": "Spíše důležité",
-                          "items": [
+                          "content": [
+                           { 
+                            "type": "slider", 
+                            "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
+                            "min": 0, 
+                            "max": 100,
+                            "step": 10, 
+                            "defaultValue": 0, 
+                            "variant": "standard",
+                            "required": true
+                           }
                           ]
                         },
                         {
                           "title": "Velice důležité",
-                          "items": [
-                            { 
-                              "type": "slider", 
-                              "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
-                              "min": 0, 
-                              "max": 100,
-                              "step": 10, 
-                              "defaultValue": 0, 
-                              "variant": "standard",
-                              "required": true
-                            }
+                          "content": [
+                           { 
+                            "type": "slider", 
+                            "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
+                            "min": 0, 
+                            "max": 100,
+                            "step": 10, 
+                            "defaultValue": 0, 
+                            "variant": "standard",
+                            "required": true
+                           }
                           ]
                         }
                       ]
@@ -653,22 +723,32 @@
                         },
                         {
                           "title": "Spíše důležité",
-                          "items": [
+                          "content": [
+                           { 
+                            "type": "slider", 
+                            "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
+                            "min": 0, 
+                            "max": 100,
+                            "step": 10, 
+                            "defaultValue": 0, 
+                            "variant": "standard",
+                            "required": true
+                           }
                           ]
                         },
                         {
                           "title": "Velice důležité",
-                          "items": [
-                            { 
-                              "type": "slider", 
-                              "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
-                              "min": 0, 
-                              "max": 100,
-                              "step": 10, 
-                              "defaultValue": 0, 
-                              "variant": "standard",
-                              "required": true
-                            }
+                          "content": [
+                           { 
+                            "type": "slider", 
+                            "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
+                            "min": 0, 
+                            "max": 100,
+                            "step": 10, 
+                            "defaultValue": 0, 
+                            "variant": "standard",
+                            "required": true
+                           }
                           ]
                         }
                       ]
@@ -694,22 +774,32 @@
                         },
                         {
                           "title": "Spíše důležité",
-                          "items": [
+                          "content": [
+                           { 
+                            "type": "slider", 
+                            "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
+                            "min": 0, 
+                            "max": 100,
+                            "step": 10, 
+                            "defaultValue": 0, 
+                            "variant": "standard",
+                            "required": true
+                           }
                           ]
                         },
                         {
                           "title": "Velice důležité",
-                          "items": [
-                            { 
-                              "type": "slider", 
-                              "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
-                              "min": 0, 
-                              "max": 100,
-                              "step": 10, 
-                              "defaultValue": 0, 
-                              "variant": "standard",
-                              "required": true
-                            }
+                          "content": [
+                           { 
+                            "type": "slider", 
+                            "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
+                            "min": 0, 
+                            "max": 100,
+                            "step": 10, 
+                            "defaultValue": 0, 
+                            "variant": "standard",
+                            "required": true
+                           }
                           ]
                         }
                       ]
@@ -735,22 +825,32 @@
                         },
                         {
                           "title": "Spíše důležité",
-                          "items": [
+                          "content": [
+                           { 
+                            "type": "slider", 
+                            "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
+                            "min": 0, 
+                            "max": 100,
+                            "step": 10, 
+                            "defaultValue": 0, 
+                            "variant": "standard",
+                            "required": true
+                           }
                           ]
                         },
                         {
                           "title": "Velice důležité",
-                          "items": [
-                            { 
-                              "type": "slider", 
-                              "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
-                              "min": 0, 
-                              "max": 100,
-                              "step": 10, 
-                              "defaultValue": 0, 
-                              "variant": "standard",
-                              "required": true
-                            }
+                          "content": [
+                           { 
+                            "type": "slider", 
+                            "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
+                            "min": 0, 
+                            "max": 100,
+                            "step": 10, 
+                            "defaultValue": 0, 
+                            "variant": "standard",
+                            "required": true
+                           }
                           ]
                         }
                       ]
@@ -776,22 +876,32 @@
                         },
                         {
                           "title": "Spíše důležité",
-                          "items": [
+                          "content": [
+                           { 
+                            "type": "slider", 
+                            "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
+                            "min": 0, 
+                            "max": 100,
+                            "step": 10, 
+                            "defaultValue": 0, 
+                            "variant": "standard",
+                            "required": true
+                           }
                           ]
                         },
                         {
                           "title": "Velice důležité",
-                          "items": [
-                            { 
-                              "type": "slider", 
-                              "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
-                              "min": 0, 
-                              "max": 100,
-                              "step": 10, 
-                              "defaultValue": 0, 
-                              "variant": "standard",
-                              "required": true
-                            }
+                          "content": [
+                           { 
+                            "type": "slider", 
+                            "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
+                            "min": 0, 
+                            "max": 100,
+                            "step": 10, 
+                            "defaultValue": 0, 
+                            "variant": "standard",
+                            "required": true
+                           }
                           ]
                         }
                       ]
@@ -817,22 +927,32 @@
                         },
                         {
                           "title": "Spíše důležité",
-                          "items": [
+                          "content": [
+                           { 
+                            "type": "slider", 
+                            "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
+                            "min": 0, 
+                            "max": 100,
+                            "step": 10, 
+                            "defaultValue": 0, 
+                            "variant": "standard",
+                            "required": true
+                           }
                           ]
                         },
                         {
                           "title": "Velice důležité",
-                          "items": [
-                            { 
-                              "type": "slider", 
-                              "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
-                              "min": 0, 
-                              "max": 100,
-                              "step": 10, 
-                              "defaultValue": 0, 
-                              "variant": "standard",
-                              "required": true
-                            }
+                          "content": [
+                           { 
+                            "type": "slider", 
+                            "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
+                            "min": 0, 
+                            "max": 100,
+                            "step": 10, 
+                            "defaultValue": 0, 
+                            "variant": "standard",
+                            "required": true
+                           }
                           ]
                         }
                       ]
@@ -889,22 +1009,32 @@
                         },
                         {
                           "title": "Spíše důležité",
-                          "items": [
+                          "content": [
+                           { 
+                            "type": "slider", 
+                            "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
+                            "min": 0, 
+                            "max": 100,
+                            "step": 10, 
+                            "defaultValue": 0, 
+                            "variant": "standard",
+                            "required": true
+                           }
                           ]
                         },
                         {
                           "title": "Velice důležité",
-                          "items": [
-                            { 
-                              "type": "slider", 
-                              "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
-                              "min": 0, 
-                              "max": 100,
-                              "step": 10, 
-                              "defaultValue": 0, 
-                              "variant": "standard",
-                              "required": true
-                            }
+                          "content": [
+                           { 
+                            "type": "slider", 
+                            "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
+                            "min": 0, 
+                            "max": 100,
+                            "step": 10, 
+                            "defaultValue": 0, 
+                            "variant": "standard",
+                            "required": true
+                           }
                           ]
                         }
                       ]
@@ -930,22 +1060,32 @@
                         },
                         {
                           "title": "Spíše důležité",
-                          "items": [
+                          "content": [
+                           { 
+                            "type": "slider", 
+                            "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
+                            "min": 0, 
+                            "max": 100,
+                            "step": 10, 
+                            "defaultValue": 0, 
+                            "variant": "standard",
+                            "required": true
+                           }
                           ]
                         },
                         {
                           "title": "Velice důležité",
-                          "items": [
-                            { 
-                              "type": "slider", 
-                              "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
-                              "min": 0, 
-                              "max": 100,
-                              "step": 10, 
-                              "defaultValue": 0, 
-                              "variant": "standard",
-                              "required": true
-                            }
+                          "content": [
+                           { 
+                            "type": "slider", 
+                            "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
+                            "min": 0, 
+                            "max": 100,
+                            "step": 10, 
+                            "defaultValue": 0, 
+                            "variant": "standard",
+                            "required": true
+                           }
                           ]
                         }
                       ]
@@ -971,22 +1111,32 @@
                         },
                         {
                           "title": "Spíše důležité",
-                          "items": [
+                          "content": [
+                           { 
+                            "type": "slider", 
+                            "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
+                            "min": 0, 
+                            "max": 100,
+                            "step": 10, 
+                            "defaultValue": 0, 
+                            "variant": "standard",
+                            "required": true
+                           }
                           ]
                         },
                         {
                           "title": "Velice důležité",
-                          "items": [
-                            { 
-                              "type": "slider", 
-                              "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
-                              "min": 0, 
-                              "max": 100,
-                              "step": 10, 
-                              "defaultValue": 0, 
-                              "variant": "standard",
-                              "required": true
-                            }
+                          "content": [
+                           { 
+                            "type": "slider", 
+                            "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
+                            "min": 0, 
+                            "max": 100,
+                            "step": 10, 
+                            "defaultValue": 0, 
+                            "variant": "standard",
+                            "required": true
+                           }
                           ]
                         }
                       ]
@@ -1012,22 +1162,32 @@
                         },
                         {
                           "title": "Spíše důležité",
-                          "items": [
+                          "content": [
+                           { 
+                            "type": "slider", 
+                            "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
+                            "min": 0, 
+                            "max": 100,
+                            "step": 10, 
+                            "defaultValue": 0, 
+                            "variant": "standard",
+                            "required": true
+                           }
                           ]
                         },
                         {
                           "title": "Velice důležité",
-                          "items": [
-                            { 
-                              "type": "slider", 
-                              "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
-                              "min": 0, 
-                              "max": 100,
-                              "step": 10, 
-                              "defaultValue": 0, 
-                              "variant": "standard",
-                              "required": true
-                            }
+                          "content": [
+                           { 
+                            "type": "slider", 
+                            "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
+                            "min": 0, 
+                            "max": 100,
+                            "step": 10, 
+                            "defaultValue": 0, 
+                            "variant": "standard",
+                            "required": true
+                           }
                           ]
                         }
                       ]
@@ -1084,22 +1244,32 @@
                         },
                         {
                           "title": "Spíše důležité",
-                          "items": [
+                          "content": [
+                           { 
+                            "type": "slider", 
+                            "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
+                            "min": 0, 
+                            "max": 100,
+                            "step": 10, 
+                            "defaultValue": 0, 
+                            "variant": "standard",
+                            "required": true
+                           }
                           ]
                         },
                         {
                           "title": "Velice důležité",
-                          "items": [
-                            { 
-                              "type": "slider", 
-                              "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
-                              "min": 0, 
-                              "max": 100,
-                              "step": 10, 
-                              "defaultValue": 0, 
-                              "variant": "standard",
-                              "required": true
-                            }
+                          "content": [
+                           { 
+                            "type": "slider", 
+                            "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
+                            "min": 0, 
+                            "max": 100,
+                            "step": 10, 
+                            "defaultValue": 0, 
+                            "variant": "standard",
+                            "required": true
+                           }
                           ]
                         }
                       ]
@@ -1125,22 +1295,32 @@
                         },
                         {
                           "title": "Spíše důležité",
-                          "items": [
+                          "content": [
+                           { 
+                            "type": "slider", 
+                            "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
+                            "min": 0, 
+                            "max": 100,
+                            "step": 10, 
+                            "defaultValue": 0, 
+                            "variant": "standard",
+                            "required": true
+                           }
                           ]
                         },
                         {
                           "title": "Velice důležité",
-                          "items": [
-                            { 
-                              "type": "slider", 
-                              "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
-                              "min": 0, 
-                              "max": 100,
-                              "step": 10, 
-                              "defaultValue": 0, 
-                              "variant": "standard",
-                              "required": true
-                            }
+                          "content": [
+                           { 
+                            "type": "slider", 
+                            "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
+                            "min": 0, 
+                            "max": 100,
+                            "step": 10, 
+                            "defaultValue": 0, 
+                            "variant": "standard",
+                            "required": true
+                           }
                           ]
                         }
                       ]
@@ -1166,22 +1346,32 @@
                         },
                         {
                           "title": "Spíše důležité",
-                          "items": [
+                          "content": [
+                           { 
+                            "type": "slider", 
+                            "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
+                            "min": 0, 
+                            "max": 100,
+                            "step": 10, 
+                            "defaultValue": 0, 
+                            "variant": "standard",
+                            "required": true
+                           }
                           ]
                         },
                         {
                           "title": "Velice důležité",
-                          "items": [
-                            { 
-                              "type": "slider", 
-                              "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
-                              "min": 0, 
-                              "max": 100,
-                              "step": 10, 
-                              "defaultValue": 0, 
-                              "variant": "standard",
-                              "required": true
-                            }
+                          "content": [
+                           { 
+                            "type": "slider", 
+                            "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
+                            "min": 0, 
+                            "max": 100,
+                            "step": 10, 
+                            "defaultValue": 0, 
+                            "variant": "standard",
+                            "required": true
+                           }
                           ]
                         }
                       ]
@@ -1207,22 +1397,32 @@
                         },
                         {
                           "title": "Spíše důležité",
-                          "items": [
+                          "content": [
+                           { 
+                            "type": "slider", 
+                            "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
+                            "min": 0, 
+                            "max": 100,
+                            "step": 10, 
+                            "defaultValue": 0, 
+                            "variant": "standard",
+                            "required": true
+                           }
                           ]
                         },
                         {
                           "title": "Velice důležité",
-                          "items": [
-                            { 
-                              "type": "slider", 
-                              "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
-                              "min": 0, 
-                              "max": 100,
-                              "step": 10, 
-                              "defaultValue": 0, 
-                              "variant": "standard",
-                              "required": true
-                            }
+                          "content": [
+                           { 
+                            "type": "slider", 
+                            "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
+                            "min": 0, 
+                            "max": 100,
+                            "step": 10, 
+                            "defaultValue": 0, 
+                            "variant": "standard",
+                            "required": true
+                           }
                           ]
                         }
                       ]
@@ -1279,22 +1479,32 @@
                         },
                         {
                           "title": "Spíše důležité",
-                          "items": [
+                          "content": [
+                           { 
+                            "type": "slider", 
+                            "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
+                            "min": 0, 
+                            "max": 100,
+                            "step": 10, 
+                            "defaultValue": 0, 
+                            "variant": "standard",
+                            "required": true
+                           }
                           ]
                         },
                         {
                           "title": "Velice důležité",
-                          "items": [
-                            { 
-                              "type": "slider", 
-                              "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
-                              "min": 0, 
-                              "max": 100,
-                              "step": 10, 
-                              "defaultValue": 0, 
-                              "variant": "standard",
-                              "required": true
-                            }
+                          "content": [
+                           { 
+                            "type": "slider", 
+                            "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
+                            "min": 0, 
+                            "max": 100,
+                            "step": 10, 
+                            "defaultValue": 0, 
+                            "variant": "standard",
+                            "required": true
+                           }
                           ]
                         }
                       ]
@@ -1320,22 +1530,32 @@
                         },
                         {
                           "title": "Spíše důležité",
-                          "items": [
+                          "content": [
+                           { 
+                            "type": "slider", 
+                            "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
+                            "min": 0, 
+                            "max": 100,
+                            "step": 10, 
+                            "defaultValue": 0, 
+                            "variant": "standard",
+                            "required": true
+                           }
                           ]
                         },
                         {
                           "title": "Velice důležité",
-                          "items": [
-                            { 
-                              "type": "slider", 
-                              "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
-                              "min": 0, 
-                              "max": 100,
-                              "step": 10, 
-                              "defaultValue": 0, 
-                              "variant": "standard",
-                              "required": true
-                            }
+                          "content": [
+                           { 
+                            "type": "slider", 
+                            "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
+                            "min": 0, 
+                            "max": 100,
+                            "step": 10, 
+                            "defaultValue": 0, 
+                            "variant": "standard",
+                            "required": true
+                           }
                           ]
                         }
                       ]
@@ -1361,22 +1581,32 @@
                         },
                         {
                           "title": "Spíše důležité",
-                          "items": [
+                          "content": [
+                           { 
+                            "type": "slider", 
+                            "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
+                            "min": 0, 
+                            "max": 100,
+                            "step": 10, 
+                            "defaultValue": 0, 
+                            "variant": "standard",
+                            "required": true
+                           }
                           ]
                         },
                         {
                           "title": "Velice důležité",
-                          "items": [
-                            { 
-                              "type": "slider", 
-                              "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
-                              "min": 0, 
-                              "max": 100,
-                              "step": 10, 
-                              "defaultValue": 0, 
-                              "variant": "standard",
-                              "required": true
-                            }
+                          "content": [
+                           { 
+                            "type": "slider", 
+                            "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
+                            "min": 0, 
+                            "max": 100,
+                            "step": 10, 
+                            "defaultValue": 0, 
+                            "variant": "standard",
+                            "required": true
+                           }
                           ]
                         }
                       ]
@@ -1402,22 +1632,32 @@
                         },
                         {
                           "title": "Spíše důležité",
-                          "items": [
+                          "content": [
+                           { 
+                            "type": "slider", 
+                            "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
+                            "min": 0, 
+                            "max": 100,
+                            "step": 10, 
+                            "defaultValue": 0, 
+                            "variant": "standard",
+                            "required": true
+                           }
                           ]
                         },
                         {
                           "title": "Velice důležité",
-                          "items": [
-                            { 
-                              "type": "slider", 
-                              "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
-                              "min": 0, 
-                              "max": 100,
-                              "step": 10, 
-                              "defaultValue": 0, 
-                              "variant": "standard",
-                              "required": true
-                            }
+                          "content": [
+                           { 
+                            "type": "slider", 
+                            "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
+                            "min": 0, 
+                            "max": 100,
+                            "step": 10, 
+                            "defaultValue": 0, 
+                            "variant": "standard",
+                            "required": true
+                           }
                           ]
                         }
                       ]
@@ -1474,22 +1714,32 @@
                         },
                         {
                           "title": "Spíše důležité",
-                          "items": [
+                          "content": [
+                           { 
+                            "type": "slider", 
+                            "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
+                            "min": 0, 
+                            "max": 100,
+                            "step": 10, 
+                            "defaultValue": 0, 
+                            "variant": "standard",
+                            "required": true
+                           }
                           ]
                         },
                         {
                           "title": "Velice důležité",
-                          "items": [
-                            { 
-                              "type": "slider", 
-                              "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
-                              "min": 0, 
-                              "max": 100,
-                              "step": 10, 
-                              "defaultValue": 0, 
-                              "variant": "standard",
-                              "required": true
-                            }
+                          "content": [
+                           { 
+                            "type": "slider", 
+                            "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
+                            "min": 0, 
+                            "max": 100,
+                            "step": 10, 
+                            "defaultValue": 0, 
+                            "variant": "standard",
+                            "required": true
+                           }
                           ]
                         }
                       ]
@@ -1515,22 +1765,32 @@
                         },
                         {
                           "title": "Spíše důležité",
-                          "items": [
+                          "content": [
+                           { 
+                            "type": "slider", 
+                            "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
+                            "min": 0, 
+                            "max": 100,
+                            "step": 10, 
+                            "defaultValue": 0, 
+                            "variant": "standard",
+                            "required": true
+                           }
                           ]
                         },
                         {
                           "title": "Velice důležité",
-                          "items": [
-                            { 
-                              "type": "slider", 
-                              "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
-                              "min": 0, 
-                              "max": 100,
-                              "step": 10, 
-                              "defaultValue": 0, 
-                              "variant": "standard",
-                              "required": true
-                            }
+                          "content": [
+                           { 
+                            "type": "slider", 
+                            "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
+                            "min": 0, 
+                            "max": 100,
+                            "step": 10, 
+                            "defaultValue": 0, 
+                            "variant": "standard",
+                            "required": true
+                           }
                           ]
                         }
                       ]
@@ -1556,22 +1816,32 @@
                         },
                         {
                           "title": "Spíše důležité",
-                          "items": [
+                          "content": [
+                           { 
+                            "type": "slider", 
+                            "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
+                            "min": 0, 
+                            "max": 100,
+                            "step": 10, 
+                            "defaultValue": 0, 
+                            "variant": "standard",
+                            "required": true
+                           }
                           ]
                         },
                         {
                           "title": "Velice důležité",
-                          "items": [
-                            { 
-                              "type": "slider", 
-                              "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
-                              "min": 0, 
-                              "max": 100,
-                              "step": 10, 
-                              "defaultValue": 0, 
-                              "variant": "standard",
-                              "required": true
-                            }
+                          "content": [
+                           { 
+                            "type": "slider", 
+                            "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
+                            "min": 0, 
+                            "max": 100,
+                            "step": 10, 
+                            "defaultValue": 0, 
+                            "variant": "standard",
+                            "required": true
+                           }
                           ]
                         }
                       ]
@@ -1597,22 +1867,32 @@
                         },
                         {
                           "title": "Spíše důležité",
-                          "items": [
+                          "content": [
+                           { 
+                            "type": "slider", 
+                            "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
+                            "min": 0, 
+                            "max": 100,
+                            "step": 10, 
+                            "defaultValue": 0, 
+                            "variant": "standard",
+                            "required": true
+                           }
                           ]
                         },
                         {
                           "title": "Velice důležité",
-                          "items": [
-                            { 
-                              "type": "slider", 
-                              "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
-                              "min": 0, 
-                              "max": 100,
-                              "step": 10, 
-                              "defaultValue": 0, 
-                              "variant": "standard",
-                              "required": true
-                            }
+                          "content": [
+                           { 
+                            "type": "slider", 
+                            "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
+                            "min": 0, 
+                            "max": 100,
+                            "step": 10, 
+                            "defaultValue": 0, 
+                            "variant": "standard",
+                            "required": true
+                           }
                           ]
                         }
                       ]
@@ -1638,22 +1918,32 @@
                         },
                         {
                           "title": "Spíše důležité",
-                          "items": [
+                          "content": [
+                           { 
+                            "type": "slider", 
+                            "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
+                            "min": 0, 
+                            "max": 100,
+                            "step": 10, 
+                            "defaultValue": 0, 
+                            "variant": "standard",
+                            "required": true
+                           }
                           ]
                         },
                         {
                           "title": "Velice důležité",
-                          "items": [
-                            { 
-                              "type": "slider", 
-                              "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
-                              "min": 0, 
-                              "max": 100,
-                              "step": 10, 
-                              "defaultValue": 0, 
-                              "variant": "standard",
-                              "required": true
-                            }
+                          "content": [
+                           { 
+                            "type": "slider", 
+                            "title": "**Nakolik se vám daří tuto hodnotu v životě v současnosti naplňovat?**", 
+                            "min": 0, 
+                            "max": 100,
+                            "step": 10, 
+                            "defaultValue": 0, 
+                            "variant": "standard",
+                            "required": true
+                           }
                           ]
                         }
                       ]
@@ -2329,7 +2619,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Jak Veronice bránilo OCD naplňovat její hodnoty \n \n Veronika si přála žít zdravý a naplněný život. Toužila mít blízký vztah s Filipem, užívat si chvíle s přáteli a věnovat se práci, která ji baví. Jenže většinu času jí zabíral strach z nemocí. \n \n Když ji zabolelo v zádech nebo v krku, okamžitě myslela na nejhorší diagnózy. Hledala příznaky na internetu nebo volala lékařům. I když vyšetření nic nepotvrdila, pocit hrozby se vracel. A pokaždé silnější. \n \n Filip se postupně odtahoval. Veronika s ním dokola probírala, jestli něco nepřehlédla a jestli by se neměla objednat na další vyšetření. Jejich vztah se točil kolem diagnóz, příznaků a prohlídek. Málokdy spolu strávili hezké chvíle.  \n \n Přátelé ji přestali zvát ven, protože pokaždé skončila u tématu nemocí. Veronika se začala cítit sama, nepochopená a ztracená ve víru obsesí a kompulzí. Čím víc hledala jistotu, tím víc ji ztrácela. \n \n **Jak se Veronika rozhodla pro změnu** \n \n Veronika seděla pozdě večeř u počítače a hledala další informace o příznacích rakoviny kůže. Najednou si všimla, že Filip šel spát a ani jí nepopřál dobrou noc. To jí zabolelo. Uvědomila si, že strach ji vzdaluje od toho, co je pro ni opravdu důležité. A že nechce o Filipa přijít. \n \n Rozhodla se udělat něco jinak. Když ji příště napadlo vyhledat příznaky, zkusila počkat. Nejistota byla nejprve skoro nesnesitelná, ale postupně se začala mírnit. Místo nekonečného vyhledávání se šla projít s Filipem. Byla to drobnost, ale cítila, že tím dělá krok k tomu, co je pro ni důležité. \n \n Postupně se učila odolávat nutkání hledat jistotu. Nebylo to snadné. Ale všimla si, že když nevěnuje hodiny kompulzím a ujišťování, nachází čas a energii být s Filipem a s přáteli. Najednou viděla jasně, o co jí OCD připravovalo. A s tím pocítila i naději, že může znovu žít život, který ji baví."
+                      "content": "**Jak Veronice bránilo OCD naplňovat její hodnoty** \n \n Veronika si přála žít zdravý a naplněný život. Toužila mít blízký vztah s Filipem, užívat si chvíle s přáteli a věnovat se práci, která ji baví. Jenže většinu času jí zabíral strach z nemocí. \n \n Když ji zabolelo v zádech nebo v krku, okamžitě myslela na nejhorší diagnózy. Hledala příznaky na internetu nebo volala lékařům. I když vyšetření nic nepotvrdila, pocit hrozby se vracel. A pokaždé silnější. \n \n Filip se postupně odtahoval. Veronika s ním dokola probírala, jestli něco nepřehlédla a jestli by se neměla objednat na další vyšetření. Jejich vztah se točil kolem diagnóz, příznaků a prohlídek. Málokdy spolu strávili hezké chvíle.  \n \n Přátelé ji přestali zvát ven, protože pokaždé skončila u tématu nemocí. Veronika se začala cítit sama, nepochopená a ztracená ve víru obsesí a kompulzí. Čím víc hledala jistotu, tím víc ji ztrácela. \n \n **Jak se Veronika rozhodla pro změnu** \n \n Veronika seděla pozdě večeř u počítače a hledala další informace o příznacích rakoviny kůže. Najednou si všimla, že Filip šel spát a ani jí nepopřál dobrou noc. To jí zabolelo. Uvědomila si, že strach ji vzdaluje od toho, co je pro ni opravdu důležité. A že nechce o Filipa přijít. \n \n Rozhodla se udělat něco jinak. Když ji příště napadlo vyhledat příznaky, zkusila počkat. Nejistota byla nejprve skoro nesnesitelná, ale postupně se začala mírnit. Místo nekonečného vyhledávání se šla projít s Filipem. Byla to drobnost, ale cítila, že tím dělá krok k tomu, co je pro ni důležité. \n \n Postupně se učila odolávat nutkání hledat jistotu. Nebylo to snadné. Ale všimla si, že když nevěnuje hodiny kompulzím a ujišťování, nachází čas a energii být s Filipem a s přáteli. Najednou viděla jasně, o co jí OCD připravovalo. A s tím pocítila i naději, že může znovu žít život, který ji baví."
                     }
                   ]
                 },
@@ -2497,11 +2787,11 @@
                     {
                       "type": "image",
                       "isExpandable": true,
-                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Flowers_0e031c2a29.svg",
-                      "width": "138px",
-                      "alt": "Kopretina v růžovém květináči",
-                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Flowers_0e031c2a29.svg",
-                      "widthMobile": "138px",
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Zprava_pro_terapeuta_22d2000e96.svg",
+                      "width": "100%",
+                      "alt": "Ruka držící dopis v obálce",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Zprava_pro_terapeuta_mobile_e785e38a53.svg",
+                      "widthMobile": "100%",
                       "align": "center"
                     },
                     {
@@ -2573,11 +2863,11 @@
                     {
                       "type": "image",
                       "isExpandable": true,
-                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Flowers_0e031c2a29.svg",
-                      "width": "138px",
-                      "alt": "Kopretina v růžovém květináči",
-                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Flowers_0e031c2a29.svg",
-                      "widthMobile": "138px",
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Zprava_pro_terapeuta_22d2000e96.svg",
+                      "width": "100%",
+                      "alt": "Ruka držící dopis v obálce",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Zprava_pro_terapeuta_mobile_e785e38a53.svg",
+                      "widthMobile": "100%",
                       "align": "center"
                     },
                     {
@@ -2612,11 +2902,11 @@
                     {
                       "type": "image",
                       "isExpandable": true,
-                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Flowers_0e031c2a29.svg",
-                      "width": "138px",
-                      "alt": "Kopretina v růžovém květináči",
-                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Flowers_0e031c2a29.svg",
-                      "widthMobile": "138px",
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Zprava_pro_terapeuta_22d2000e96.svg",
+                      "width": "100%",
+                      "alt": "Ruka držící dopis v obálce",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Zprava_pro_terapeuta_mobile_e785e38a53.svg",
+                      "widthMobile": "100%",
                       "align": "center"
                     },
                     {
@@ -2747,7 +3037,7 @@
           ]
         },
         {
-          "title": "Dokončili jste desátý modul!",
+          "title": "Dokončili jste jedenáctý modul!",
           "isEvaluable": true,
           "icon": "Exercise",
           
@@ -2768,10 +3058,9 @@
               "title": "**V tomto modulu jste se dozvěděli:**",
               "color": "#27637C",
               "items": [
-                "xx",
-                "xx",
-                "xx",
-                "xx"
+                "Hodnoty fungují jako kompas, který vám pomáhá držet směr i tehdy, když se objeví strach nebo nejistota.",
+                "V jakých oblastech života jsou vaše hodnoty nejdůležitější a jak jim OCD může stát v cestě.",
+                "Žít podle hodnot znamená dělat smysluplné kroky i přes nepohodlí, protože vás vedou k tomu, co je pro vás opravdu důležité."
               ]
             },
             {
@@ -2795,7 +3084,7 @@
             },
             {
               "type": "video",
-              "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M8_3_3cb7121831.mp4",
+              "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M11_2_a845dbffa5.mp4",
               "captionsUrl": "xx"
             },
             {

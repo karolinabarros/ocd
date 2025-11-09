@@ -1795,7 +1795,7 @@
             {
               "type": "download",
               "title": "stáhnout upomínkové kartičky",
-              "downloadLink": "xx"
+              "downloadLink": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Upominkove_karty_1c6808830b.pdf"
             }
           ]
         },

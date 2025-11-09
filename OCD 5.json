@@ -212,6 +212,17 @@
               "type": "collapse",
               "content": "xx",
               "title": "Radši si přečtu"
+            },
+            {
+              "type": "noteBox",
+              "desktopImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lightbulb_Icon_5bba92e832.svg",
+              "mobileImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lightbulb_Icon_5bba92e832.svg",
+              "backgroundColor": "#EDF4F6",
+              "textColor": "#27637C",
+              "text": "**Hlavní myšlenka:** Při terapii OCD je důležité nejen vystavit se nepříjemné situaci, ale zároveň odolat nutkání provést kompulzi. Tomu se říká zábrana odpovědi. Díky opakovaní mozek zjistí, že nepříjemné pocity samy přirozeně klesají a že situace není nebezpečná.",
+              "desktopImageWidth": "80px",
+              "mobileImageWidth": "80px",
+              "isWrapping": true
             }
           ]
         },
@@ -796,6 +807,10 @@
                   "title": "Krok 3: Odměna",
                   "contentSections": [
                     {
+                      "type": "markdown",
+                      "content": "Za provedení expozice si naplánujte odměnu. Odměnu si zasloužíte, I když možná expozice nepůjde úplně perfektně. je důležité, že jste do toho šli."
+                    },
+                    {
                       "type": "pictureAndNote",
                       "image": {
                         "isExpandable": true,
@@ -807,9 +822,9 @@
                         "align": "center"
                       },
                       "note": {
-                        "title": "**Zvolte si expozici, která na začátku nepřekračuje míru nepříjemných pocitů 6/10.**",
+                        "title": "**Naplánujte si něco, co vám udělá radost.**",
                         "rows": 2,
-                        "placeholder": "Popis expozice",
+                        "placeholder": "Moje odměna",
                         "required": false
                       }
                     }

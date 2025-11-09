@@ -393,21 +393,21 @@
           ]
         },
         {
-          "title": "Proč je Vnitřní Kritik tak přesvědčivý?",
+          "title": "Proč je vnitřní Kritik tak přesvědčivý?",
           "icon": "text",
           "contentSections": [
             {
               "type": "pictureAndMarkdown",
               "items": [
                 {
-                  "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_1_Vsimejte_si_jak_se_citite_535266e9a7.svg",
-                  "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_1_Vsimejte_si_jak_se_citite_mobile_6936474b78.svg",
-                  "alt": "Postava držící balónky s otazníky",
+                  "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/metakognice_30cde0007d.svg",
+                  "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/metakognice_mobile_b2fb0e53c1.svg",
+                  "alt": "Postava na pohovce, kterou napadá představa o nehodě v autě",
                   "width": "320px",
                   "widthMobile": "100%",
                   "isReversed": false,
                   "isExpandable": false,
-                  "content": "Už v předchozích modulech jsme mluvili o tom, že nejde jen o to, co si myslíme, ale také o to, jak o tom přemýšlíme, tedy o naše **metakognice**. Připomeňme si, že jde o přesvědčení typu: \n \n - „Musím kontrolovat všechny své myšlenky.“ \n \n - „Normální člověk má ve všem jasno.“ \n \n - „Dokud nevyřeším, co mi běží hlavou, musím se tím zabývat.“ \n \n Takové postoje dávají našim myšlenkám **neúměrnou váhu**, a právě Vnitřní Kritik je často jejich zdrojem. Varuje, vyčítá, straší nebo na nás klade nadměrné nároky a přesvědčuje nás, že bychom měli jednat okamžitě, abychom zabránili neštěstí.",
+                  "content": "Už v předchozích modulech jsme mluvili o tom, že nejde jen o to, co si myslíme, ale také o to, jak o tom přemýšlíme, tedy o naše **metakognice**. Připomeňme si, že jde o přesvědčení typu: \n \n - „Musím kontrolovat všechny své myšlenky.“ \n \n - „Normální člověk má ve všem jasno.“ \n \n - „Dokud nevyřeším, co mi běží hlavou, musím se tím zabývat.“ \n \n Takové postoje dávají našim myšlenkám **neúměrnou váhu**, a právě vnitřní Kritik je často jejich zdrojem. Varuje, vyčítá, straší nebo na nás klade nadměrné nároky a přesvědčuje nás, že bychom měli jednat okamžitě, abychom zabránili neštěstí.",
                   "direction": "row",
                   "gutter": 24
                 }
@@ -417,9 +417,9 @@
               "type": "pictureAndMarkdown",
               "items": [
                 {
-                  "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_1_Vsimejte_si_jak_se_citite_535266e9a7.svg",
-                  "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_1_Vsimejte_si_jak_se_citite_mobile_6936474b78.svg",
-                  "alt": "Postava držící balónky s otazníky",
+                  "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/splyvani_myslenek_se_skutecnosti_731b730227.svg",
+                  "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/splyvani_myslenek_se_skutecnost_mobile_96122552a1.svg",
+                  "alt": "Postavička s obsedantními myšlenkami",
                   "width": "320px",
                   "widthMobile": "100%",
                   "isReversed": true,
@@ -477,10 +477,10 @@
                     {
                       "type": "image",
                       "isExpandable": false,
-                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Veronika_a_vtirave_myslenky_f267f57f34.svg",
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/David_a_jeho_vnitrni_Kritik_66c579d6a1.svg",
                       "width": "100%",
                       "alt": "Komiks o tom, jak David odolal vnitřnímu kritickému hlasu a neudělal kompulzi",
-                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Veronika_a_vtirave_myslenky_mobile_7d7b4b8293.svg",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/David_a_jeho_vnitrni_Kritik_mobile_fe3e582be3.svg",
                       "widthMobile": "100%",
                       "align": "center"
                     }
@@ -846,14 +846,14 @@
               "required": true,
               "steps": [
                 {
-                  "title": "Krok 1: Co se stalo a co vám řekl Kritik ",
+                  "title": "Krok 1: Co se stalo a co vám řekl Kritik",
                   "contentSections": [
                     {
                       "type": "image",
                       "isExpandable": true,
-                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Falesny_radce_39d67fef19.svg",
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_1_d0e26bbc51.svg",
                       "width": "100%",
-                      "alt": "ddd",
+                      "alt": "Kritik s přísným výrazem a rukou v bok",
                       "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Falesny_radce_39d67fef19.svg",
                       "widthMobile": "100%",
                       "align": "center"
@@ -889,10 +889,10 @@
                     {
                       "type": "image",
                       "isExpandable": true,
-                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Falesny_radce_39d67fef19.svg",
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_2_b1e05f9163.svg",
                       "width": "100%",
-                      "alt": "ddd",
-                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Falesny_radce_39d67fef19.svg",
+                      "alt": "Postava Kritika křičící do megafonu",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_3_mobile_160f9bca80.svg",
                       "widthMobile": "100%",
                       "align": "center"
                     },
@@ -957,10 +957,10 @@
                     {
                       "type": "image",
                       "isExpandable": true,
-                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Falesny_radce_39d67fef19.svg",
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_3_0bcfbef3fe.svg",
                       "width": "100%",
-                      "alt": "ddd",
-                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Falesny_radce_39d67fef19.svg",
+                      "alt": "Kritik s pravítkem kreslící přesný návrh plánu",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_3_mobile_1_14f77eac18.svg",
                       "widthMobile": "100%",
                       "align": "center"
                     },
@@ -1026,10 +1026,10 @@
                     {
                       "type": "image",
                       "isExpandable": true,
-                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Falesny_radce_39d67fef19.svg",
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_4_7e4b6e90b9.svg",
                       "width": "100%",
-                      "alt": "ddd",
-                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Falesny_radce_39d67fef19.svg",
+                      "alt": "Kritik s bojovným postojem v pozadí, vedle něj kritik s úsměvem držící srdce v popředí",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_4_mobile_0629d29ee9.svg",
                       "widthMobile": "100%",
                       "align": "center"
                     },
@@ -1141,10 +1141,10 @@
                     {
                       "type": "image",
                       "isExpandable": true,
-                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Falesny_radce_39d67fef19.svg",
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_5_5153a9af76.svg",
                       "width": "100%",
-                      "alt": "ddd",
-                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Falesny_radce_39d67fef19.svg",
+                      "alt": "Kritik křeičící na muže, vedle něj to sleduje zamyšlená postava",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_5_mobile_eaa0c40bce.svg",
                       "widthMobile": "100%",
                       "align": "center"
                     },
@@ -1248,12 +1248,12 @@
           ]
         },
         {
-          "title": "Laskavý Rodič a Zdravý Dospělý",
-          "icon": "audio",
+          "title": "Laskavý rodič a Zdravý dospělý",
+          "icon": "text",
           "contentSections": [
             {
               "type": "markdown",
-              "content": "Už jste zjistili, jak poznat hlas vnitřního Kritika. Zároveň v sobě ale máme i jiné hlasy, které budou jeho opakem. V terapii takovým hlasům říkáme **Laskavý rodič** a **Zdravý dospělý**. Ty můžeme rozvíjet."
+              "content": "Už jste zjistili, jak poznat hlas vnitřního Kritika. Zároveň v sobě ale máme i jiné hlasy, které jsou jeho opakem. V terapii takovým hlasům říkáme **Laskavý rodič** a **Zdravý dospělý**. Ty můžeme  podporovat a dále rozvíjet."
             },
             {
               "type": "pictureAndMarkdown",
@@ -1262,7 +1262,7 @@
                   "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Zdravy_rodic_d69f7bc082.svg",
                   "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Zdravy_rodic_mobile_f0108d4d5c.svg",
                   "alt": "Postava Zdravého Dospělého, muž s brýlemi a knihou",
-                  "width": "240px",
+                  "width": "75%",
                   "widthMobile": "100%",
                   "isReversed": false,
                   "isExpandable": false,
@@ -1279,7 +1279,7 @@
                   "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Laskavy_rodic_0ac18d58a5.svg",
                   "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Laskavy_rodic_mobile_7080635ed8.svg",
                   "alt": "Postava Laskavého Rodiče, žena s otevřenou náručí a srdíčky kolem",
-                  "width": "240px",
+                  "width": "75%",
                   "widthMobile": "100%",
                   "isReversed": false,
                   "isExpandable": false,
@@ -1309,6 +1309,17 @@
               "type": "collapse",
               "content": "xx",
               "title": "Radši si přečtu"
+            },
+            {
+              "type": "noteBox",
+              "desktopImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lightbulb_Icon_5bba92e832.svg",
+              "mobileImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lightbulb_Icon_5bba92e832.svg",
+              "backgroundColor": "#EDF4F6",
+              "textColor": "#27637C",
+              "text": "**Hlavní myšlenka:** Vnitřního Kritika není třeba potlačovat. Je důležité reagovat na něj hlasem Zdravého dospělého a Laskavého rodiče. Ty přináší nadhled, klid a laskavost k sobě. Pravidelným opakováním se snižuje vliv Kritika, ubývá nutkání ke kompulzím a posiluje se sebedůvěra i zdravé myšlení.",
+              "desktopImageWidth": "80px",
+              "mobileImageWidth": "80px",
+              "isWrapping": true
             }
           ]
         },
@@ -1773,10 +1784,10 @@
             {
               "type": "image",
               "isExpandable": false,
-              "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Modul_dokoncen_1785f55c82.svg",
+              "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Karticka_a3f6788d28.svg",
               "width": "100%",
-              "alt": "Postava pouštějící papírovou vlaštovku",
-              "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Modul_dokoncen_mobile_00b1a7904d.svg",
+              "alt": "Ukázková upomínková kartička",
+              "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Karticka_a3f6788d28.svg",
               "widthMobile": "100%",
               "align": "center",
               "unoptimized": true

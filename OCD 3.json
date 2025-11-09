@@ -161,6 +161,17 @@
               "type": "collapse",
               "content": "**Moderátorka:** V minulém modulu jste si sestavili hierarchii expozic. Ty spočívají v tom, že se vědomě vystavíte situaci, která vyvolává nepříjemné pocity. To může být docela hrozivé. Existuje nějaký šetrný způsob, jak udělat první krok? \n \n **Terapeut:** Výborná otázka! Než začneme s expozicemi ve skutečných situacích, můžeme si to nejprve vyzkoušet v představě. To je bezpečný a méně odstrašující způsob, jak začít. \n \n **Moderátorka:** Expozice v představě? Jak to funguje? \n \n **Terapeut:** Je to metoda, kterou můžeme použít jako první krok expoziční terapie. Nebo když je reálná situace moc náročná. Sepíšeme si, jak by expozice probíhala. Tomu říkáme scénář. Ten si pak opakovaně představujeme. \n \n **Moderátorka:** A má představa vůbec nějaký efekt? Přeci jen je to v hlavě... \n \n **Terapeut:** To je zajímavá věc! Mozek reaguje na představu podobně jako na skutečnost. Takže když si představíme třeba dotyk špinavé kliky nebo odchod z domu bez kontroly, mozek na takové obrazy reaguje podobně jako na skutečnost. Je to účinné, ale bez skutečného rizika. \n \n **Moderátorka:** A co když se během té představy objeví nepříjemné pocity a nutkání? \n \n **Terapeut:** To je naprosto normální. Během expozice se mohou vynořit různé emoce - úzkost, znechucení, stud nebo i hněv na sebe. Cílem není se jich zbavit, ale naučit se s nimi vydržet. Opakováním se je učíme zvládat, a bez kompulzí. Půjde to snadněji a snadněji. \n \n **Moderátorka:** Někoho možná i tak trápí, že jsou představy nějak nebezpečné. \n \n **Terapeut:** Je důležité si připomenout, že představa není skutečný čin. Není nebezpečná. Není to realita. Je to jen bezpečný způsob, jak trénovat náš mozek a připravit se na skutečné situace. \n \n **Moderátorka:** Jak byste na závěr podpořil naše posluchače, aby se do expozic v představě pustili? \n \n **Terapeut:** V každé obtížné situaci máme několik možností. Můžeme se jí plně vyhnout. Můžeme udělat kompulzi. Anebo můžeme s nepříjemnými emocemi chvíli zůstat a vydržet. Právě ta třetí možnost je léčivá. Stojí za to se do toho pustit.",
               "title": "Radši si přečtu"
+            },
+            {
+              "type": "noteBox",
+              "desktopImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lightbulb_Icon_5bba92e832.svg",
+              "mobileImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lightbulb_Icon_5bba92e832.svg",
+              "backgroundColor": "#EDF4F6",
+              "textColor": "#27637C",
+              "text": "**Hlavní myšlenka:** Expozice v představě je bezpečný a účinný první krok expoziční terapie, při kterém si člověk v mysli přehrává obávané situace, aby se naučil zvládat úzkost bez kompulzí. Představy nejsou nebezpečné. Pomáhají mozku trénovat reakci na stres a posilují schopnost snášet nepříjemné pocity.",
+              "desktopImageWidth": "80px",
+              "mobileImageWidth": "80px",
+              "isWrapping": true
             }
           ]
         },
@@ -601,17 +612,28 @@
             },
             {
               "type": "markdown",
-              "content": "Připravte si svůj **scénář expozice v představě**. Pište v první osobě (vidím, jdu, napadá mě...) a napište, jak se v dané situaci cítíte, co se vám honí hlavou a jak na to reaguje vaše tělo. \n \n Pokud si nebudete jisti, jak na to, inspirujte se příběhy hrdinů z příběhů. \n \n Poté, co si scénář sepíšete, si ho přečtěte a situaci si při tom představujte. Zkuste se přitom nevyhýbat žádné části představy a nijak se v duchu neujišťovat. Scénář si můžete představovat opakovaně. Ideální je dělat expozici dokud se vaše napětí nesníží na 4/10."
+              "content": "Připravte si svůj **scénář expozice v představě**. Pište v první osobě (vidím, jdu, napadá mě...) a napište, jak se v dané situaci cítíte, co se vám honí hlavou a jak na to reaguje vaše tělo. Pokud si nebudete jisti, jak na to, inspirujte se příběhy hrdinů z příběhů."
             },
             {
               "type": "note",
-              "title": "**Expozice v představě**",
-              "instruction": "Sepište si scénář expozice v představě.",
+              "title": "**Scénář expozice v představě**",
+              "instruction": "Sepište si svůj scénář expozice v představě.",
               "placeholder": "Jdu po ulici...",
               "maxLength": 2000,
               "lengthValidationMessage": "Maximální délka odpovědi je 2000 znaků.",
               "rows": 6,
               "required": false
+            },
+            {
+              "type": "noteBox",
+              "desktopImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Cteni_scenare_4a2c2a6b94.svg",
+              "mobileImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Cteni_scenare_4a2c2a6b94.svg",
+              "backgroundColor": "#EFE9EC",
+              "textColor": "#3F1024",
+              "text": "Scénář si nyní **přečtěte**. Zkuste si představovat, jaké by to **skutečně bylo**. Odolejte při tom nutkání přestat, ujišťovat se nebo zmírňovat nepříjemné pocity kompulzemi. Na další stránce si vyhodnotíte, jak se vyvíjela míra nepohody i s delším odstupem.",
+              "desktopImageWidth": "70px",
+              "mobileImageWidth": "70px",
+              "isWrapping": true
             }
           ]
         },
@@ -662,6 +684,17 @@
               "type": "collapse",
               "content": "**Proč je imaginaci důležité opakovat** \n \n Možná máte za sebou první imaginaci a byla nepříjemná. Možná máte pocit, že to stačí. Ale změna přichází až s opakováním. Mozek potřebuje vícekrát zažít, že nepříjemnou představu ustál i bez kompulze. Proto doporučujeme provádět imaginaci nejlépe každý den, nebo alespoň čtyřikrát týdně. Každé opakování posiluje nový pohled a postupně oslabuje sílu původního návyku. \n \n Expozice v představách je jako trénink. Jednou většinou nestačí. Ani svaly neposílíme jedním klikem. Díky opakování mozek získává nový vztah k myšlenkám. Nemusí to být dlouhé, i 10 minut se počítá. Pravidelnost je důležitější než délka. \n \n **Jak zvládnout překážky** \n \n Je běžné mít chvíle, kdy se vám do expozice nechce. Úzkost, únava, pochybnosti... to vše může být překážkou. Ale i krátká imaginace stojí za to. Když to zkusíte, i když se vám nechce, posílíte tu část sebe, která se chce cítit lépe. \n \n Můžete se předem připravit. Odpovězte si na pár otázek: Kdy a kde budete expozici provádět? Co vám pomůže začít? A co si můžete říct, když se vám nebude chtít? \n \n Pokud si říkáte, že nemáte čas, najděte si během dne 10 minut. Třeba po snídani nebo odpoledne po práci. \n \n Pokud se vám nechce, připomeňte si důvod, proč s expozicemi začínáte. Nenechejte strach řídit vaše rozhodování. \n \n Pokud se na to dnes prostě necítíte, zkuste kratší scénář – i pár vět nahlas má smysl. \n \n A pokud pochybujete, jestli to děláte správně, pamatujte si, že důležité je to zkusit. Nejde o dokonalost, ale o odvahu. \n \n **Každý den je šancí na změnu** \n \n Možná si pokaždé říkáte, proč to vlastně děláte. Proč se znovu vystavovat nepříjemným pocitům? Ale právě díky opakování posilujete nový pohled. Zjišťujete, že myšlenky nejsou hrozby. Vaše odvaha má smysl. Každý den, kdy zůstanete s představou a nevykonáte kompulzi, měníte svůj mozek a tím i svou budoucnost. \n \n Každé čtení scénáře posiluje schopnost zůstat s myšlenkami a emocemi bez rituálu. Oslabuje sílu automatických reakcí jako kontrolování, mytí nebo ujišťování a zvyšuje důvěru v sebe. Uvidíte, že dokážete vydržet nepohodu. \n \n Nepotřebujete dokonalost, stačí pravidelnost. Ideální je, když napětí během expozice klesne na 5/10 nebo méně. Když se daří dosáhnout napětí na konci expozice pod 5/10, je na místě přejít na další krok v hierarchii a dělat expozici v imaginaci s další představou.",
               "title": "Radši si přečtu"
+            },
+            {
+              "type": "noteBox",
+              "desktopImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lightbulb_Icon_5bba92e832.svg",
+              "mobileImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lightbulb_Icon_5bba92e832.svg",
+              "backgroundColor": "#EDF4F6",
+              "textColor": "#27637C",
+              "text": "**Hlavní myšlenka:** Pravidelné opakování expozic v představách je důležité. Mozek si tak postupně zvyká zvládat nepříjemné pocity bez kompulzí a posiluje nový způsob myšlení. Důležitá je vytrvalost, nikoli dokonalost. I krátká a nedokonalá představa má smysl. Opakování posiluje odvahu i sebedůvěru.",
+              "desktopImageWidth": "80px",
+              "mobileImageWidth": "80px",
+              "isWrapping": true
             }
           ]
         },
@@ -1013,8 +1046,18 @@
           },
           "contentSections": [
             {
+              "type": "image",
+              "isExpandable": true,
+              "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Muj_plan_tydne_expozic_v_predstave_adfa2f79ca.svg",
+              "width": "100%",
+              "alt": "Obrázek postavičky plánující expozice v kalendáři",
+              "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Muj_plan_tydne_expozic_v_predstave_mobile_8516212038.svg",
+              "widthMobile": "100%",
+              "align": "center"
+            },
+            {
               "type": "markdown",
-              "content": "Každý z nás vnímá svět skrze **„filtry“** - způsoby, jak přemýšlíme o sobě, o světě a o tom, co se může stát. V tomto cvičení se pokusíme své filtry zachytit, pojmenovat a pochopit."
+              "content": "Každý z našich hrdinů čelil jinému typu obav, ale jedno měli společné. Rozhodli se **vydržet s nepříjemnou představou**, nesklouznout do kompulze a **zkusit něco nového**. Nyní si můžete **naplánovat**, jak se během týdne budete věnovat expozicím v představě."
             },
             {
               "type": "stepByStep",
@@ -1037,7 +1080,7 @@
                   "contentSections": [
                     {
                       "type": "note",
-                      "title": "**Jaká by mohly být vaše překážky?**",
+                      "title": "**Na jaké překážky byste mohli narazit?**",
                       "instruction": "potřeba jistoty, nutkání něco udělat, vyhýbání se",
                       "required": true,
                       "rows": 2,
@@ -1050,7 +1093,7 @@
                   "contentSections": [
                     {
                       "type": "note",
-                      "title": "**Jak můžete možné překážky překonat? Co vám pomůže vydržet?**",
+                      "title": "**Jak se můžete na překážky připravit? Co vám pomůže vydržet?**",
                       "required": true,
                       "rows": 2,
                       "placeholder": "Jak překonám překážky"

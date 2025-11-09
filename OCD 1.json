@@ -96,7 +96,7 @@
             },
             {
               "type": "collapse",
-              "content": "**Co jsou obsese a kompulze?** \n \n Lidé s **obsedantně-kompulzivní poruchou** (jinak také OCD) se trápí nutkavými myšlenkami, impulzy nebo představami. Těm se říká **obsese**. Objevují se automaticky, mimovolně, aniž by si je přáli. Navozují **nepohody**, nejčastěji úzkosti. Objevují se však i pocity znechucení, studu, viny nebo neklidu.   \n \n Aby se těchto pocitů člověk zbavil, nebo je zmírnil, provádí **kompulze**. Ty se mohou projevovat v **chování**, např. při opakovaném mytí rukou, nebo kontrolování, zda jsme vypnuli sporák. Mohou se také objevit v **myšlenkách**, např. opakováním určitých vět v hlavě, modlitbou, vyvoláváním představ snižujících napětí nebo počítáním v duchu. \n \n Obsese vždy něco spouští. Lidé s OCD se proto obvykle **vyhýbají situacím**, ve kterých je zažívají. Mohou se třeba vyhýbat jízdě hromadnou dopravou, kterou vnímá jako líheň nemocí. \n \n Jindy se **zabezpečují**, tedy snaží se předejít tomu, aby se obsese naplnila. Někdo u sebe u sebe třeba nosí rukavice, které si nasazuje pokaždé, když se má něčeho dotknout. A pak je doma vypere, nebo rovnou vyhodí. \n \n Dalším způsob, jak snížit nepříjemné pocity, je **ujišťování u druhých lidí**, že katastrofa, kterou ho straší jeho obsese, nenastane. \n \n V tomto modulu se podíváme na nejčastější témata, která lidi s OCD trápí. Projdeme si různé typy vtíravých myšlenek a kompulzí, které s nimi souvisí. Poznáte, že **nejste sami**. Mnoho lidí se potýká s podobnými problémy.",
+              "content": "**Co jsou obsese a kompulze?** \n \n Lidé s **obsedantně-kompulzivní poruchou** (jinak také OCD) se trápí nutkavými myšlenkami, impulzy nebo představami. Těm se říká **obsese**. Objevují se automaticky, mimovolně, aniž by si je přáli. Navozují **nepohody**, nejčastěji úzkosti. Objevují se však i pocity znechucení, studu, viny nebo neklidu.   \n \n Aby se těchto pocitů člověk zbavil, nebo je zmírnil, provádí **kompulze**. Ty se mohou projevovat v **chování**, např. při opakovaném mytí rukou, nebo kontrolování, zda jsme vypnuli sporák. Mohou se také objevit v **myšlenkách**, např. opakováním určitých vět v hlavě, modlitbou, vyvoláváním představ snižujících napětí nebo počítáním v duchu. \n \n Obsese vždy něco spouští. Lidé s OCD se proto obvykle **vyhýbají situacím**, ve kterých je zažívají. Mohou se třeba vyhýbat jízdě hromadnou dopravou, kterou vnímá jako líheň nemocí. \n \n Jindy se **zabezpečují**, tedy snaží se předejít tomu, aby se obsese naplnila. Někdo u sebe třeba nosí rukavice, které si nasazuje pokaždé, když se má něčeho dotknout. A pak je doma vypere, nebo rovnou vyhodí. \n \n Dalším způsob, jak snížit nepříjemné pocity, je **ujišťování u druhých lidí**, že katastrofa, kterou ho straší jeho obsese, nenastane. \n \n V tomto modulu se podíváme na nejčastější témata, která lidi s OCD trápí. Projdeme si různé typy vtíravých myšlenek a kompulzí, které s nimi souvisí. Poznáte, že **nejste sami**. Mnoho lidí se potýká s podobnými problémy.",
               "title": "Radši si přečtu"
             }
           ]
@@ -126,7 +126,7 @@
                   "contentCard": [
                     {
                       "type": "markdown",
-                      "content": "Obsahem těchto obsesí je nadměrný **strach ze znečištěn**. Někdy se lidé bojí nějaké určité látky, jindy se obávají obecně špíny nebo zdraví škodlivých věcí."
+                      "content": "Obsahem těchto obsesí je nadměrný **strach ze znečištění**. Někdy se lidé bojí nějaké určité látky, jindy se obávají obecně špíny nebo zdraví škodlivých věcí."
                     },
                     {
                       "type": "noteBox",
@@ -170,7 +170,7 @@
                   "contentCard": [
                     {
                       "type": "markdown",
-                      "content": "Obsese s tzv. **magických obsahem** připomínají staré **pověry**, které známe z běžného života, např. černá kočka přes ulici nebo kominík. Na rozdíl od nich však přinášejí opravdové utrpení a jejich porušení přináší pocit silného napětí a zlověstného očekávání. Často se objevují jako představy a obrazy."
+                      "content": "Obsese s tzv. **magickým obsahem** připomínají staré **pověry**, které známe z běžného života, např. černá kočka přes ulici nebo kominík. Na rozdíl od nich však přinášejí opravdové utrpení a jejich porušení přináší pocit silného napětí a zlověstného očekávání. Často se objevují jako představy a obrazy."
                     },
                     {
                       "type": "noteBox",
@@ -656,7 +656,7 @@
                   },
                   {
                     "name": "Opakování pohybů nebo doteků, aby se „něco nestalo“",
-                    "value": "RepeatingMovementsg"
+                    "value": "RepeatingMovements"
                   },
                   {
                     "name": "Zarovnávání a seřazování předmětů",
@@ -908,6 +908,17 @@
               "type": "collapse",
               "content": "**Moderátorka:** Dobrý den a vítám vás. Mé jméno je Lenka a společně s terapeutem Ondřejem vás budeme provázet programem v krátkých rozhovorech na různá témata spojená s OCD. \n \n **Terapeut:** Dnes si povíme o tom, co vlastně OCD způsobuje a proč se u někoho rozvine. \n \n **Moderátorka:** Ondřeji, mnoho lidí si v této situaci klade otázku: „Proč zrovna já? Proč se mi to děje?“ Jde na to vůbec nějak odpovědět? \n \n **Terapeut:** To je skutečně častá otázka. OCD vzniká kombinací různých vlivů a často se rozvíjí po náročném životním období, kdy cítíme nejistotu a ohrožení. \n \n **Moderátorka:** Aha, a o jaké vlivy se tedy jedná? \n \n **Terapeut:** Hlavní roli zde hrají vrozené a biologické faktory, například genetická zranitelnost, změny ve fungování mozku nebo nerovnováha nervových přenašečů - zejména serotoninu. Tyto faktory člověk nemůže ovlivnit svou vůlí. \n \n **Moderátorka:** Takže je to vlastně čistě biologická záležitost. \n \n **Terapeut:** Vlivy prostředí jsou také velmi důležité. Lidé s OCD často v dětství necítili dostatek bezpečí a podpory. Výchova byla zaměřená na výkon, pořádek nebo morálku. Za chyby byli trestáni. Aby se vyhnuli trestu a pocitu viny, začali kontrolovat vše kolem sebe - včetně vlastních myšlenek. \n \n **Moderátorka:** Takže OCD se může objevit už v dětství? \n \n **Terapeut:** Přesně tak. Děti můžou věřit, že jejich myšlenky se stanou skutečností. I když z toho vyrostou, v pozadí mysli zůstávají obavy, že se špatné myšlenky vyplní. Proto se v dospělosti snaží řídit nejen své chování, ale i myšlení. \n \n **Moderátorka:** Aha, takže u někoho se sklony k obsesím a kompulzím začaly budovat už v dětství. Jsou i jiná životní období, kdy jsme více náchylní k rozvoji OCD? \n \n **Terapeut:** Ano, hlavně během zranitelných období. Dospívání, odchod z domova nebo rodičovství přinášejí novou nejistotu a úzkost. Člověk pátrá po tom, kdo je, a co je pro něj důležité. Rozhoduje se o důležitých otázkách, na které neexistuje jedna správná odpověď. U lidí se sklonem k OCD se mohou objevit obsese a kompulze jako způsob, jak získat pocit kontroly a bezpečí. \n \n **Moderátorka:** Takže už víme, jak a proč OCD vzniká. Také by mě ale zajímalo, co ho udržuje. Proč jen tak nezmizí? \n \n **Terapeut:** OCD se udržuje chováním, které sice krátkodobě snižuje úzkost, ale dlouhodobě problém zhoršuje. OCD se udržuje chováním, které sice krátkodobě snižuje úzkost, ale dlouhodobě problém zhoršuje. Jde třeba o kompulze nebo vyhýbání se situacím spojenými s vtíravými myšlenkami. Také se různě ubezpečujeme, třeba opakovanými otázkami nebo vyhledáváním informací. \n \n **Moderátorka:** Může v tom hrát roli i naše okolí? Třeba naši blízcí, kamarádi nebo kolegové? \n \n **Terapeut:** Určitě ano. Lidé s OCD často vyhledávají ujištění. Jejich blízcí jim chtějí pomoct a tak opakovaně odpovídají na dotazy nebo pomáhají s kontrolami. Problém je, že tím potřebu ujišťování dále posilují. Negativní dopad má i zesměšňování nebo kritika. To může vyvolat pocit studu nebo viny a zvyšovat úzkost. Je důležité si uvědomit, že OCD není něčí vina. Je to komplexní porucha, která má své příčiny a kterou lze léčit. \n \n **Moderátorka:** Děkuji, Ondřeji. Na další stránce si ukážeme, jak se OCD rozvinulo u Jany, která bojuje s obsesemi o nákaze.",
               "title": "Radši si přečtu"
+            },
+            {
+              "type": "noteBox",
+              "desktopImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lightbulb_Icon_5bba92e832.svg",
+              "mobileImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lightbulb_Icon_5bba92e832.svg",
+              "backgroundColor": "#EDF4F6",
+              "textColor": "#27637C",
+              "text": "**Hlavní myšlenka:** OCD vzniká kombinací biologických a psychologických či výchovných vlivů. Často se rozvíjí v náročných životních obdobích. OCD udržuje chování, které krátkodobě snižuje úzkost (kompulze, vyhýbání se nebo ujišťování od okolí), ale dlouhodobě problém zhoršuje.",
+              "desktopImageWidth": "80px",
+              "mobileImageWidth": "80px",
+              "isWrapping": true
             }
           ]
         },
@@ -1461,7 +1472,7 @@
                       "isExpandable": false,
                       "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Obsese_7be7ffc373.svg",
                       "width": "100%",
-                      "alt": "Postava s myšlenkouvou bublinou: Zamknul jsem ty dveře?",
+                      "alt": "Postava s myšlenkovou bublinou: Zamknul jsem ty dveře?",
                       "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Obsese_mobile_9a482edac6.svg",
                       "widthMobile": "100%",
                       "align": "center",
@@ -1615,8 +1626,8 @@
               "backgroundColor": "#EDF4F6",
               "textColor": "#27637C",
               "text": "Pro inspiraci se můžete podívat i na příklady ostatních. Zkuste najít příklad, který se **nejvíce podobá vašemu prožívání** - podle typu myšlenek, emocí nebo chování. ",
-              "desktopImageWidth": "84px",
-              "mobileImageWidth": "84px",
+              "desktopImageWidth": "80px",
+              "mobileImageWidth": "80px",
               "isWrapping": true
             },
             {

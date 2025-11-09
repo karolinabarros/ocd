@@ -7,7 +7,7 @@
             {
               "type": "video",
               "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M10_1_7ba012c09a.mp4",
-              "captionsUrl": "xx"
+              "captionsUrl": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M10_1_ces_0eee5bef1e.vtt"
             },
             {
               "type": "collapse",
@@ -205,7 +205,7 @@
             {
               "type": "video",
               "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M10_2_12103c97af.mp4",
-              "captionsUrl": "xx"
+              "captionsUrl": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M10_2_ces_f52395f784.vtt"
             },
             {
               "type": "collapse",
@@ -3086,7 +3086,7 @@
             {
               "type": "video",
               "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M10_3_60f415333c.mp4",
-              "captionsUrl": "xx"
+              "captionsUrl": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M10_3_ces_086b1cdb0d.vtt"
             },
             {
               "type": "collapse",

@@ -240,13 +240,13 @@
             },
             {
               "type": "audio",
-              "audioSrc": "xx",
+              "audioSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M4_podcast_behavioralni_experimenty_22ce46cc23.wav",
               "title": "Jak můžeme experimentovat?",
               "imageSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jak_muzeme_experimentovat_21d6a8e237.svg"
             },
             {
               "type": "collapse",
-              "content": "xx",
+              "content": "**Moderátorka:** Dnes si vysvětlíme, co jsou behaviorální experimenty a v čem mohou být užitečné při terapii OCD. Vysvětlíte nám, prosím, o co jde? \n \n **Terapeut:** Určitě. Zní to možná složitě, ale ve skutečnosti jde o jednoduchý pokus. Změníme jednu věc a sledujeme, co se stane. Zkrátka testujeme pravdivost naší obavy nebo předpokladu. Místo toho, abychom se zasekli u různých „Co když...“ tak si řekneme: „Zkusím to a uvidím.“ \n \n **Moderátorka:** K čemu takové experimenty vlastně slouží? \n \n **Terapeut:** Pomáhají nám přestat slepě věřit strachu. Místo toho hledáme důkazy v reálném životě. Všichni máme nějaké předpoklady nebo obavy. Při OCD nám často říkají, že když neuděláme kompulzi, stane se něco špatného. Experiment je způsob, jak si to ověřit. \n \n **Moderátorka:** Jak to tedy vypadá? \n \n **Terapeut:** Každý experiment má předpoklad, to je třeba naše obava. Dále má akci, která nám pomáhá si to ověřit. Další částí je pozorování, kdy sledujeme, co se při akci děje. A na závěr hodnotíme, jak to celé dopadlo. Je to trochu jako při vědeckém pokusu. \n \n **Moderátorka:** A jaký je rozdíl mezi expozicí a behaviorálním experimentem? \n \n **Terapeut:** Cílem expozic je vydržet v situaci, která spouští nepříjemné pocity, a neudělat při tom kompulzi. Experiment může být jiný. Jeho cílem je ověřit nějaký předpoklad. Testujeme, co se stane, když něco uděláme jinak. Například se jednou nezeptáme partnera, jestli zamkl, a pak sledujeme, co to s námi udělá. Oba přístupy často propojujeme. Při expozici můžeme sledovat, jestli se naplní náš původní předpoklad. \n \n **Moderátorka:** Můžeme se do experimentu pustit rovnou? \n \n **Terapeut:** Behaviorální experimenty mohou být sice jednoduché, ale je potřeba se připravit. Nejdříve si ujasníme, čeho se konkrétně bojíme. Co si myslíme, že se stane? Poté se zamyslíme, jak to můžeme vyzkoušet. Co můžeme udělat, abychom si to ověřili? Až poté, co máme experiment naplánovaný, se do něj pustíme. Nakonec je velice důležité si výsledky uvědomit a zapsat. \n \n **Moderátorka:** Je opravdu důležité si to zapisovat? \n \n **Terapeut:** Ano, je to velice důležité. Nejen abychom nezapomněli, ale také jako důkaz, že se dá realitě věřit víc než obavám. \n \n **Moderátorka:** Děkuji za hezké shrnutí.",
               "title": "Radši si přečtu"
             },
             {
@@ -704,7 +704,8 @@
                   "contentSections": [
                     {
                       "type": "note",
-                      "title": "**Vypište si konkrétní situaci, ve které se cítíte přetížení obsesí, odpovědností, cítíte nutkání provést kompulzi nebo se ujistit.**",
+                      "title": "**Vypište si konkrétní situaci, ve které si chcete ověřit svůj předpoklad.**",
+                      "instruction": "možná se cítíte přetížení obsesí, odpovědností, cítíte nutkání provést kompulzi nebo se ujistit.",
                       "required": true,
                       "rows": 2,
                       "placeholder": "Popis situace"
@@ -1166,16 +1167,16 @@
             {
               "type": "image",
               "isExpandable": true,
-              "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Cviceni_Plan_experimentu_fcae8b4085.svg",
+              "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Cviceni_Muj_krok_k_radosti_1e4d03696d.svg",
               "width": "100%",
-              "alt": "Obrázek postavičky, která odchází ze dveří",
-              "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Cviceni_Plan_experimentu_mobile_c6a3f48733.svg",
+              "alt": "Obrázek postavičky, která si vychutnává šálek kávy",
+              "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Cviceni_Muj_krok_k_radosti_mobile_311a2f9ff4.svg",
               "widthMobile": "100%",
               "align": "center"
             },
             {
               "type": "markdown",
-              "content": "Toto cvičení vám pomůže vytvořit jednoduchý, ale odvážný **behaviorální experiment**, kterým si ověříte, zda se vaše obavy zakládají na realitě. Cílem je zjistit, co se doopravdy stane, když přestanete jednat podle nutkání, pravidla nebo strachu."
+              "content": "V tomto cvičení si **naplánujte příjemnou aktivitu**, kterou můžete brát jako experiment. Ne proto, abyste podali výkon nebo byli dobří. Ale abyste otevřeli prostor něčemu, co vám může udělat dobře. I kdyby jen trochu."
             },
             {
               "type": "stepByStep",
@@ -1200,7 +1201,7 @@
                     {
                       "type": "note",
                       "title": "**Naplánujte si konkrétně, kdy a kde tuto příjemnou aktivitu provedete.**",
-                      "instruction": "Nastavení konkrétního dne a času vám pomůže se do aktivity skutečně pustit.",
+                      "instruction": "Konkrétní plán vám pomůže se do aktivity skutečně pustit.",
                       "placeholder": "Akční plán",
                       "required": true,
                       "rows": 2
@@ -1213,7 +1214,7 @@
                     {
                       "type": "note",
                       "title": "**Zvažte, co by vám v tom mohlo bránit.**",
-                      "instruction": "Například: obsese, kompulze, únava, stud, pocit viny, obavy z neklidu nebo z nudy",
+                      "instruction": "Například: obsese, kompulze, únava, stud, pocit viny, obavy z neklidu nebo z nudy.",
                       "placeholder": "Možná překážka",
                       "required": true,
                       "rows": 2
@@ -1271,7 +1272,7 @@
           ]
         },
         {
-          "title": "Cvičení mindfulness",
+          "title": "Řízená imaginace",
           "icon": "video",
           "contentSections": [
             {
@@ -1280,8 +1281,8 @@
             },
             {
               "type": "video",
-              "url": "xx",
-              "captionsUrl": "xx"
+              "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/OCD_M4_416b655938.mp4",
+              "captionsUrl": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/OCD_M4_ces_f705e4ebd5.vtt"
             },
             {
               "type": "collapse",
@@ -1300,13 +1301,13 @@
             },
             {
               "type": "audio",
-              "audioSrc": "xx",
+              "audioSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M4_Bonusovy_pribeh_98618325bf.wav",
               "title": "Bonusový příběh",
               "imageSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Bonusovy_pribeh_bf051504b6.svg"
             },
             {
               "type": "collapse",
-              "content": "xx",
+              "content": "**VYPRAVĚČ:** Lukáš měl hudbu vždycky rád. Ale posledních pár let hudba ustoupila tichu. A ticho bylo plné napětí. \n \n **LUKÁŠ:** Hudbu jsem kdysi miloval. Pouštěl jsem si ji večer, když jsem pracoval, nebo když jsem vařil. Ale pak přišly ty myšlenky. „Co když během té hudby přehlédnu něco důležitého?“, „Co když hřeším? Poslouchám hudbu, místo abych se modlil...“ A tak jsem to radši vypnul. Hudbu. Sebe. Radost. \n \n **LUKÁŠ:** Ten večer jsem si to napsal do diáře. „Poslechnout si deset minut hudby. Bez kontrol, bez přerušení.“ Znělo to směšně. Ale pro mě to bylo jako výstup na osmitísícovku. Sedl jsem si. Bez modlitby. Bez seznamu věcí k řešení. A stiskl jsem „přehrát“. \n \n **LUKÁŠ:** Prvních pár minut to šlo těžce. Mozart zněl, ale v hlavě jelo rádio strachu: „Pomodli se. Mozart byl hříšník!“ „Jsi nezodpovědný a hříšný.“ Ale vydržel jsem. \n \n **LUKÁŠ:** Pak přišla jedna pasáž, která ve mně vzbudila vzpomínku z dětství. A já si uvědomil, že se usmívám. Bezdůvodně. Nebyl v tom žádný plán. Žádný úkol. Jen hudba. \n \n **LUKÁŠ:** Zůstalo ve mně teplo. A slzy v koutku oka. Tentokrát ne z vyčerpání. Ale z návratu. K sobě. K něčemu, co mi OCD vzalo – a co jsem si teď vzal zpátky. \n \n **VYPRAVĚČ:** Lukášův příběh je o tom, že příjemné činnosti mohou být krokem k návratu k sobě samému. K člověku, který je ochotný nacházet hezké chvíle, i když je život někdy náročný. Stejně jako Lukášovi, i vám mohou příjemné aktivity ukázat, že OCD nejste vystaveni napospas a že jste to právě vy, kdo může ovlivňovat ráz svého života.",
               "title": "Radši si přečtu"
             }
           ]

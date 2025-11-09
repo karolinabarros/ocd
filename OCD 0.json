@@ -1,0 +1,522 @@
+{
+  "pages": [
+    {
+      "title": "Vítejte v programu!",
+      "icon": "text",
+      "contentSections": [
+        {
+          "alt": "Postavičky Mindwell vítající v modulu",
+          "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Vitejte_v_programu_0e353a94b4.svg",
+          "type": "image",
+          "align": "center",
+          "width": "100%",
+          "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Vitejte_v_programu_mobile_9d9aee7195.svg",
+          "widthMobile": "100%",
+          "isExpandable": false
+        },
+        {
+          "type": "markdown",
+          "content": ":::text--center \n #### Jsme rádi, že jste tady. \n Blahopřejeme vám, že jste se rozhodli udělat krok na cestě k lepšímu duševnímu zdraví. Právě první krok bývá nejvýznamnější. Než se pustíme do programu, rádi bychom vám program lépe představili. \n :::"
+        }
+      ]
+    },
+    {
+      "title": "O projektu Mindwell",
+      "icon": "video",
+      "contentSections": [
+        {
+          "type": "markdown",
+          "content": "Ve videu vám autor programů, **Prof. MUDr. Ján Praško, CSc.**, představí projekt Mindwell."
+        },
+        {
+          "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Uvodni_video_c61ff3e77e.mp4",
+          "type": "video",
+          "captionsUrl": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Uvodni_video_ces_06cd3b17c4.vtt"
+        },
+        {
+          "type": "collapse",
+          "title": "Radši si přečtu",
+          "content": "Hlavním autorem a odborným garantem našich digitálních terapeutických programů je profesor Praško. Pane profesore, mohl byste se nám, prosím, představit? \n \n Já jsem psychiatr a psychoterapeut. Pracuju v oblasti čtyřicet jedna let a pracuji vlastně celý život denně s klienty buď s jednotlivci nebo se skupinami. A taky vedu výcviky v psychoterapii, a to vedu třicet let v pěti zemích Evropy. To je asi taková základní charakteristika. Dělám to moc rád. \n \n Jakému psychoterapeutickému směru se věnujete? \n \n Já se věnuji hlavně kognitivně-behaviorální terapii. Těch důvodů je několik. Asi ten základní, že velmi účinná u většiny psychických poruch a má o tom evidenci. To znamená, že je prozkoumána velmi dobře na rozdíl od jiných psychiatrických směrů. A dokonce ještě navíc je bonus to, že ten klient na konci cítí, že to dokázal sám. Zatímco u terapie tváří v tvář má pocit, že mu pomoh terapeut. A to je úplně jiný pocit, že jsem to dokázal sám. \n \n A dá se kognitivně -behaviorální terapie kvalitně zdigitalizovat? \n \n Bezpečně. To, že asi nejvíc programů na světě, které jsou digitalizovány KBT a tam dneska už stovky studií a metaanalýz o její účinnosti, je stejně účinná jako terapie tváří v tvář. \n \n Hodně tady zmiňujete samostatnost klienta. Já bych ráda zdůraznila, že naše terapeutické programy Mindwell jsou s asistencí psychoterapeuta. Pane profesore, mohl byste nám trošku přiblížit, jaké psychoterapeuty v aplikaci máme? \n \n V platformě jsou psychoterapeuti, kteří mají výcvik v kognitivně-behaviorální terapii, čili mají pět a půl let výcviku. Vycvičil jsem je já, takže vybírám šikovné terapeuty, kteří jsou schopní. Kromě toho ještě děláme supervize pravidelně, čili se díváme, jak a jakým způsobem doprovázejí toho klienta. A taky se společně scházíme a diskutujeme, jaké jsou problémy a jak je řešit. \n \n Děkuji, pane profesore. Budeme se na vás těšit v naší aplikaci Mindwell."
+        }
+      ]
+    },
+    {
+      "title": "Kdo stojí za programem Mindwell",
+      "icon": "text",
+      "contentSections": [
+        {
+          "type": "pictureAndMarkdown",
+          "items": [
+            {
+              "alt": "Profilový obrázek profesora Praška",
+              "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jan_Prasko_0aa1ca1c31.png",
+              "width": "175px",
+              "gutter": 24,
+              "content": "**Prof. MUDr. Ján Praško, CSc.** \n \n Profesor Praško je přední český psychiatr a odborník na kognitivně-behaviorální terapii. Věnuje se psychoterapii pacientů s různými psychickými poruchami již 43 let. Vede psychoterapeutické a supervizní výcviky v 5 zemích Evropy. Je předsedou České psychoterapeutické společnosti ČLS JEP.",
+              "direction": "row",
+              "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jan_Prasko_mobile_bb135eaee7.png",
+              "isReversed": false,
+              "widthMobile": "100%",
+              "isExpandable": false
+            }
+          ]
+        },
+        {
+          "type": "pictureAndMarkdown",
+          "items": [
+            {
+              "alt": "Profilový obrázek Marie Ociskové",
+              "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Marie_Ociskova_82a06630bb.png",
+              "width": "175px",
+              "gutter": 24,
+              "content": "**PhDr. Marie Ocisková, Ph.D.** \n \n Doktorka Ocisková je je klinická psycholožka a psychoterapeutka, věnující se kognitivně-behaviorální terapii. Jako spoluautorka a odborná garantka přispívá ke tvorbě terapeutických programů. Aktivně se věnuje supervizi terapeutů a dohlíží na kvalitu zpětných vazeb.",
+              "direction": "row",
+              "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Marie_Ociskova_mobile_a0e227ec1c.png",
+              "isReversed": true,
+              "widthMobile": "100%",
+              "isExpandable": false
+            }
+          ]
+        },
+        {
+          "type": "pictureAndMarkdown",
+          "items": [
+            {
+              "alt": "Profilový obrázek Jeleny Holomany",
+              "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jelena_Holomany_5e5f79dfc7.png",
+              "width": "175px",
+              "gutter": 24,
+              "content": "**Jelena Holomany, MSc.** \n \n Zakladatelkou a CEO společnosti Mindwell je Jelena Holomany, MSc. Po letech studia v zahraničí se rozhodla přenést ověřené terapeutické metody do digitálního prostředí, aby zpřístupnila péči o duševní zdraví co nejširšímu okruhu lidí.",
+              "direction": "row",
+              "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jelena_Holomany_mobile_60aaaa0417.png",
+              "isReversed": false,
+              "widthMobile": "100%",
+              "isExpandable": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Řekněte nám něco o sobě",
+      "icon": "check",
+      "finalScreen": {
+        "buttonLabel": "Upravit odpovědi",
+        "contentSections": [
+          {
+            "alt": "Dvě postavičky, které mávají",
+            "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_DQ_1_e922c3f44f.svg",
+            "type": "image",
+            "align": "center",
+            "width": "350px",
+            "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_DQ_1_e922c3f44f.svg",
+            "widthMobile": "90%",
+            "isExpandable": true
+          },
+          {
+            "type": "markdown",
+            "content": ":::text--center \n #### Děkujeme vám za sdílnost! \n \n  Jsme rádi, že o vás víme víc! \n :::"
+          }
+        ]
+      },
+      "isEvaluable": true,
+      "contentSections": [
+        {
+          "alt": "Usmívající se postavička s květinami",
+          "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Reknete_nam_neco_o_sobe_822d356443.svg",
+          "type": "image",
+          "align": "center",
+          "width": "100%",
+          "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Reknete_nam_neco_o_sobe_mobile_d9f5c12b4b.svg",
+          "widthMobile": "100%",
+          "isExpandable": false
+        },
+        {
+          "type": "markdown",
+          "content": "**Už víte, kdo stojí za projektem Mindwell. Rádi bychom se dozvěděli něco více o vás!**"
+        },
+        {
+          "part": 1,
+          "tool": "demographicSurvey3",
+          "type": "tool"
+        }
+      ]
+    },
+    {
+      "title": "Kognitivně-behaviorální terapie",
+      "icon": "video",
+      "contentSections": [
+        {
+          "type": "markdown",
+          "content": "Ve videu vám představíme **kognitivně-behaviorální terapii**, na jejíž principech jsou postaveny terapeutické programy Mindwell."
+        },
+        {
+          "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Co_je_KBT_5d31a5481f.mp4",
+          "type": "video",
+          "captionsUrl": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Kbt_c_ces_1_6c76e0f670.vtt"
+        },
+        {
+          "type": "collapse",
+          "title": "Radši si přečtu",
+          "content": "**Co je to KBT?** \n \n Vítejte! V tomto videu vám představíme kognitivně-behaviorální terapii, zkráceně KBT, a poradíme vám, jak si z programu odnést co nejvíce. \n \nKBT je moderní a vědecky podložený psychoterapeutický směr. Vychází z toho, že se klient v životě naučil určité vzorce myšlení, prožívání a chování. Tyto vzorce se může odnaučit nebo je změnit. \n \n KBT si všímá toho, co si klient myslí, jaké emoce a tělesné pocity cítí a jak se chová. Předpokládá, že jednotlivé části prožívání na sebe vzájemně působí a že změna jedné části může ovlivnit i ty další. \n \n Klient se dozvídá, jak rozpoznávat myšlenky, které negativně ovlivňují prožívání, a nahradit je takovými, které mu více pomáhají. \n \n KBT se obvykle zaměřuje hlavně na přítomnost a na konkrétní problémy, které klienta v současnosti trápí. \n \n Klient si zkouší praktické metody, které může ihned začít používat v každodenním životě. Jde například o hledání vyváženého pohledu, systematické řešení problémů nebo relaxace. \n \n V Mindwell se podíváme také trochu hlouběji - na to, jak vaše životní zkušenosti ovlivnily vaše hluboká vnitřní přesvědčení o sobě. Prozkoumáme, jak to ovlivňuje vaše prožívání a co se s tím dá dělat. \n \n **Co dělat mezi moduly?** \n \n Nejlepších výsledků dosáhnete, když budete aktivní i mezi moduly. To, co se dozvíte v modulech, si totiž můžete zkoušet a procvičovat. \n \n To vám pomůže dosáhnout skutečných změn. Navíc pocítíte, že jste změny dosáhli vy sami, díky vlastní aktivitě. \n \n **Za jak dlouho to zvládnete?** \n \n Pravidelné vyplňování modulů hraje důležitou roli na cestě k úspěchu. Postupovat můžete svým tempem, ale dlouhé rozestupy mezi moduly mohou snížit efektivitu terapie. Když se programu budete věnovat týdně, zvládnete ho pohodlně do 4-6 měsíců. \n \n Pravidelný postup vám pomůže lépe porozumět metodám z modulů a využít je v různých situacích. Postupně tak můžete proměnit to, jak se cítíte a jak přemýšlíte o sobě, o druhých a o světě. \n \n Jsme rádi, že jste udělali první krok na cestě ke změně. Program je tu pro vás, aby vás provázel na cestě ke spokojenějšímu životu."
+        }
+      ]
+    },
+    {
+      "title": "Přibližte nám svou zkušenost s terapií",
+      "icon": "check",
+      "finalScreen": {
+        "buttonLabel": "Upravit odpovědi",
+        "contentSections": [
+          {
+            "alt": "Dvě postavičky, které mávají",
+            "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_DQ_2_d28a42190c.svg",
+            "type": "image",
+            "align": "center",
+            "width": "350px",
+            "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_DQ_2_d28a42190c.svg",
+            "widthMobile": "90%",
+            "isExpandable": false
+          },
+          {
+            "type": "markdown",
+            "content": ":::text--center \n #### Rádi jsme vás lépe poznali. \n \n  Terapeut vám teď může připravit zpětnou vazbu na míru! \n :::"
+          }
+        ]
+      },
+      "isEvaluable": true,
+      "contentSections": [
+        {
+          "alt": "Dvě postavičky sedící naproti sobě v křeslech",
+          "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Priblizte_nam_svou_zkusenost_s_terapii_226f69cddd.svg",
+          "type": "image",
+          "align": "center",
+          "width": "100%",
+          "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Priblizte_nam_svou_zkusenost_s_terapii_mobile_2339275c00.svg",
+          "widthMobile": "100%",
+          "isExpandable": false
+        },
+        {
+          "type": "markdown",
+          "content": "**Zajímá nás, jaké jsou vaše zkušenosti s psychoterapií!**"
+        },
+        {
+          "part": 2,
+          "tool": "demographicSurvey3",
+          "type": "tool"
+        }
+      ]
+    },
+    {
+      "title": "Co vás čeká v programu",
+      "icon": "video",
+      "contentSections": [
+        {
+          "type": "markdown",
+          "content": "Ve videu se dozvíte, co vás během programu čeká a co najdete v platformě Mindwell."
+        },
+        {
+          "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Co_vas_ceka_890676f1be.mp4",
+          "type": "video",
+          "captionsUrl": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Co_Vas_Ceka_c_ces_41efa943a3.vtt"
+        },
+        {
+          "type": "collapse",
+          "title": "Radši si přečtu",
+          "content": "**Co vás čeká?** \n \n V tomto videu se podíváme na to, jak bude terapie probíhat – a co všechno vás během programu čeká. Věříme, že se máte na co těšit! \n \n Programem budete procházet postupně – část po části. Těmto částem říkáme moduly. V každém z nich najdete užitečné informace a poznáte konkrétní metody, které vycházejí z principů kognitivně behaviorální terapie. \n \n V modulech na vás čekají také cvičení, která vám pomohou využít nové znalosti v praxi. Vyzkoušíte si zaznamenávat své myšlenky a pracovat s nimi. \n \n Po dokončení každého modulu má váš terapeut 7 dní na to, aby pro vás připravil zpětnou vazbu. Celým programem vás provází jeden terapeut, takže budete mít čas vybudovat si příjemný vztah. \n \n Terapeut si projde vše, co jste v modulu vyplnili. Zhodnotí, jestli je vše jasné a porádí vám, jak nové dovednosti využít ve vašem životě. \n \n Čím víc toho do modulu napíšete, tím lépe vás terapeut pozná – a tím víc vám může pomoci. Pokud bude potřebovat něco upřesnit, může vám položit doplňující otázky. Odpovědět na ně můžete v dalším modulu. \n \n **Co dělat, když čekám na zprávu?** \n \n Období mezi jednotlivými moduly je skvělá příležitost k tomu, abyste si vyzkoušeli nové znalosti v praxi. Ale tím to nekončí! \n \n Mindwell pro vás připravil řadu zajímavých videí na různá témata týkající se duševního zdraví. Můžete si je pustit kdykoliv, když budete mít chuť se dozvědět víc. \n \n K dispozici jsou i profesionálně zpracované relaxace. Pomůžou vám zpomalit, uvolnit se a zklidnit mysl. Relaxační techniky jsou skvělým doplňkem k modulům. \n \n Pokud vás v programu zaujme nějaké cvičení, můžete se k němu kdykoliv vrátit. Opakováním si cvičení lépe osvojíte a postupně se v nich budete cítit jistější. Krok po kroku si tak vybudujete vlastní sbírku užitečných nástrojů. \n \n Teď už víte, co vás čeká. Věříme, že se vám bude s programem pracovat dobře. Pamatujte, že na to nejste sami – váš terapeut je tu pro vás."
+        }
+      ]
+    },
+    {
+      "title": "Vy a váš terapeut",
+      "icon": "text",
+      "contentSections": [
+        {
+          "alt": "Koláž s fotografiemi terapeutů Mindwell",
+          "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Vy_a_vas_terapeut_6ec6682937.png",
+          "type": "image",
+          "align": "center",
+          "width": "100%",
+          "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Vy_a_vas_terapeut_6ec6682937.png",
+          "unoptimized": true,
+          "widthMobile": "100%",
+          "isExpandable": false
+        },
+        {
+          "type": "list",
+          "color": "#27637C",
+          "items": [
+            "Celým programem vás bude doprovázet **stejný terapeut.**",
+            "Můžete se na něj obrátit s **otázkami,** **nejasnostmi** nebo **potížemi.**",
+            "Terapeut prochází vyplněné moduly a připravuje vám **zpětnou vazbu na míru.**"
+          ],
+          "title": "**Váš terapeut je tu pro vás!**"
+        },
+        {
+          "type": "list",
+          "color": "#27637C",
+          "items": [
+            "Terapeuti Mindwell prochází **akreditovaným pětiletým KBT výcvikem.**",
+            "Terapeuti jsou pravidelně **supervidováni** prof. MUDr. Jánem Praškem, CSc., PhDr. Marií Ociskovovou, Ph.D a jejich týmem.",
+            "Terapeuti Mindwell při psaní zpětných vazeb nevyužívají umělou inteligenci."
+          ],
+          "title": "**Kdo jsou naši terapeuti?**"
+        }
+      ]
+    },
+    {
+      "title": "Vaše cesta programem OCD",
+      "icon": "text",
+      "contentSections": [
+        {
+          "type": "pictureAndMarkdown",
+          "items": [
+            {
+              "content": "**1. Porozumíte obsesím a kompulzím** \n \n Naplánujete si expozice, které jsou ověřenou metodou, jak postupně oslabovat vliv OCD. Naučíte se vytrvat v nepohodě bez kompulzí. Zjistíte, že při pravidelném opakování expozic začnou nepříjemné pocity přirozeně odeznívat.",
+              "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_1_52e8e0e976.svg",
+              "width": "400px",
+              "alt": "postavička s bločkem zpracovávající své myšlenky",
+              "gutter": 40,
+              "direction": "row",
+              "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_1_mobile_da0a58dfae.svg",
+              "isReversed": false,
+              "widthMobile": "100%",
+              "isExpandable": false
+            }
+          ]
+        },
+        {
+          "type": "pictureAndMarkdown",
+          "items": [
+            {
+              "content": "**2. Naučíte se čelit obavám krok za krokem** \n \n Zjistíte, kdy se objevují vtíravé myšlenky nejčastěji a co je udržuje v chodu. Zjistíte, že se s nimi dá zacházet i jinak než pomocí kompulzí a vyhýbání. Objevíte nový pohled, který vám ukáže, že myšlenky vždy neodráží skutečnost a neukazují na naši hodnotu.",
+              "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_2_acbfe92a85.svg",
+              "width": "400px",
+              "alt": "postavička se seznamem",
+              "gutter": 40,
+              "direction": "row",
+              "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_2_mobile_8b24d08d65.svg",
+              "isReversed": true,
+              "widthMobile": "100%",
+              "isExpandable": false
+            }
+          ]
+        },
+        {
+          "type": "pictureAndMarkdown",
+          "items": [
+            {
+              "content": "**3. Získáte větší nadhled a laskavost k sobě** \n \n Rozpoznáte svůj vnitřní kritický hlas a naučíte se, jak na něj reagovat klidněji. Posílíte sebedůvěru, soucit k sobě i schopnost zvládat nejistotu bez sebeobviňování. Zjistíte, jak se postavit i zdánlivě neřešitelným problémům a neuvíznout u obav z nedokonalosti.",
+              "alt": "postavička, které z hlavy rozkvétají květiny",
+              "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_3_37ea1db410.svg",
+              "width": "400px",
+              "gutter": 40,
+              "direction": "row",
+              "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_3_mobile_fdb977d010.svg",
+              "isReversed": false,
+              "widthMobile": "100%",
+              "isExpandable": false
+            }
+          ]
+        },
+        {
+          "type": "pictureAndMarkdown",
+          "items": [
+            {
+              "content": "**4. Začnete žít podle podle sebe, ne podle OCD** \n \n Objevíte, co je pro vás skutečně důležité, a naučíte se rozhodovat podle svých hodnot. Také zjistíte, jak udržovat zdravější vztahy. OCD bude méně řídit váš život.",
+              "alt": "postavička dívající se na vrchol hory",
+              "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_4_e8e17fc67c.svg",
+              "width": "400px",
+              "gutter": 40,
+              "direction": "row",
+              "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_4_mobile_91f57533a3.svg",
+              "isReversed": true,
+              "widthMobile": "100%",
+              "isExpandable": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Co vás aktuálně trápí?",
+      "icon": "check",
+      "isEvaluable": true,
+      "contentSections": [
+        {
+          "alt": "Postavička dívající se do zrcadla",
+          "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Co_vas_aktualne_trapi_118ece039d.svg",
+          "type": "image",
+          "align": "center",
+          "width": "100%",
+          "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Co_vas_aktualne_trapi_mobile_fb637b6ddb.svg",
+          "widthMobile": "100%",
+          "isExpandable": false
+        },
+        {
+          "type": "markdown",
+          "content": "**Naše problémy nás mohou omezovat v každodenních činnostech. Zajímá nás, jak to máte vy!**"
+        },
+        {
+          "part": 3,
+          "tool": "demographicSurvey3",
+          "type": "tool"
+        }
+      ]
+    },
+    {
+      "title": "Jak na tom aktuálně jsem",
+      "icon": "exercise",
+      "finalScreen": {
+        "buttonLabel": "Upravit odpovědi",
+        "contentSections": [
+          {
+            "alt": "Terapeutka sedící u počítače, vyhodnocující modul",
+            "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Therapist_84844fe845.svg",
+            "type": "image",
+            "align": "center",
+            "width": "320px",
+            "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Therapist_84844fe845.svg",
+            "widthMobile": "90%",
+            "isExpandable": false
+          },
+          {
+            "type": "markdown",
+            "content": "#### Pro vašeho terapeuta je důležité porozumět tomu, jak vás psychické potíže ovlivňují."
+          }
+        ]
+      },
+      "isEvaluable": true,
+      "contentSections": [
+        {
+          "alt": "Dvě postavičky, které si mávají přes počítač",
+          "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jak_na_tom_aktualne_jste_aebd15b4f7.svg",
+          "type": "image",
+          "align": "center",
+          "width": "100%",
+          "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jak_na_tom_aktualne_jste_mobile_c0cd9eb4ba.svg",
+          "widthMobile": "100%",
+          "isExpandable": true
+        },
+        {
+          "type": "markdown",
+          "content": "**Zamyslete se, do jaké míry vás vaše psychické potíže omezují v následujích oblastech.**"
+        },
+        {
+          "type": "sofasSurvey"
+        }
+      ]
+    },
+    {
+      "title": "Vaše odhodlání",
+      "icon": "exercise",
+      "isEvaluable": true,
+      "contentSections": [
+        {
+          "alt": "`Postavička mířící lukem na terč`",
+          "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Vase_odhodlani_8798ad17f5.svg",
+          "type": "image",
+          "align": "center",
+          "width": "100%",
+          "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Vase_odhodlani_mobile_93d19ed91a.svg",
+          "widthMobile": "100%",
+          "isExpandable": false
+        },
+        {
+          "type": "markdown",
+          "content": "Každý má k rozhodnutí začít terapii své důvody. **Chuť a odhodlání** věcí změnit jsou při řešení psychických potíží důležité. Rádi bychom věděli, jak je to u vás."
+        },
+        {
+          "type": "checkBoxList",
+          "title": "Co vás vedlo k vyhledání programu?",
+          "options": [
+            {
+              "name": "Dlouhodobě se necítím psychicky dobře",
+              "value": "option 1"
+            },
+            {
+              "name": "Chci změnit, jak přemýšlím",
+              "value": "option 2"
+            },
+            {
+              "name": "Přemáhají mě silné emoce",
+              "value": "option 3"
+            },
+            {
+              "name": "Mám nízké sebevědomí",
+              "value": "option 4"
+            },
+            {
+              "name": "Chci se lépe poznat",
+              "value": "option 5"
+            },
+            {
+              "name": "Mám opakované vztahové potíže",
+              "value": "option 6"
+            },
+            {
+              "name": "Čeká mě životní změna",
+              "value": "option 7"
+            },
+            {
+              "name": "Lékař mi doporučil terapii",
+              "value": "option 8"
+            },
+            {
+              "name": "Blízcí mě navedli k terapii",
+              "value": "option 9"
+            },
+            {
+              "name": "Inspiroval mě někdo blížký",
+              "value": "option 10"
+            }
+          ],
+          "required": true,
+          "maxChecked": 3,
+          "instruction": "Vyberte ze seznamu až 3 položky:"
+        },
+        {
+          "rows": 1,
+          "type": "note",
+          "required": false,
+          "maxLength": 150,
+          "instruction": "Můžete vypsat i jiný důvod:",
+          "placeholder": "Důvod k pořízení programu",
+          "lengthValidationMessage": "Maximální délka odpovědi je 150 znaků."
+        },
+        {
+          "max": 10,
+          "min": 0,
+          "step": 1,
+          "type": "slider",
+          "title": "**Jak moc se cítíte odhodlaní pracovat na svém psychickém zdraví?**",
+          "variant": "gradient",
+          "labelEnd": "Velmi silně",
+          "required": true,
+          "labelStart": "Vůbec",
+          "defaultValue": 0
+        }
+      ]
+    },
+    {
+      "title": "Konec uvítacího modulu",
+      "icon": "text",
+      "contentSections": [
+        {
+          "alt": "Usmívající se postavička ležící na pohovce s laptopem",
+          "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Konec_uvitaciho_modulu_2b08f5dc59.svg",
+          "type": "image",
+          "align": "center",
+          "width": "100%",
+          "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Konec_uvitaciho_modulu_mobile_d6402db278.svg",
+          "widthMobile": "100%",
+          "isExpandable": false
+        },
+        {
+          "type": "markdown",
+          "content": ":::text--center \n #### Rádi jsme vás poznali! \n Těšíme se na společnou cestu programem. \n :::"
+        }
+      ]
+    }
+  ]
+}

@@ -183,6 +183,17 @@
               "title": "Radši si přečtu"
             },
             {
+              "type": "noteBox",
+              "desktopImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lightbulb_Icon_5bba92e832.svg",
+              "mobileImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lightbulb_Icon_5bba92e832.svg",
+              "backgroundColor": "#EDF4F6",
+              "textColor": "#27637C",
+              "text": "**Hlavní myšlenka:** Kognitivní omyly jsou zkreslené způsoby myšlení, které mohou zveličovat hrozby či pocity viny a přispívat k úzkosti u OCD. I když tyto myšlenky nemůžeme ovlivnit, uvědomění si jejich zkreslení nám umožňuje s nimi lépe pracovat.",
+              "desktopImageWidth": "80px",
+              "mobileImageWidth": "80px",
+              "isWrapping": true
+            },
+            {
               "type": "markdown",
               "content": "**Časté druhy kognitivních omylů:**"
             },
@@ -335,7 +346,7 @@
                       "isExpandable": true,
                       "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Magicke_mysleni_106f357e5a.svg",
                       "width": "100%",
-                      "alt": "Postava, otevírající dveře a u toho počítající čísla",
+                      "alt": "Postava otevírající dveře a u toho počítající čísla",
                       "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Magicke_mysleni_mobile_c4cb02df8b.svg",
                       "widthMobile": "100%",
                       "align": "center"
@@ -352,7 +363,7 @@
                         "„Když teď nezaklepu na dřevo, někdo z rodiny umře.“",
                         "„Musím se dotknout kliky přesně třikrát, jinak se dceři stane něco hrozného ve škole.“",
                         "„Když si teď neodplivnu, babička dostane infarkt a bude to kvůli mně.“",
-                        "„Musím projít po chodník jen přes liché dlaždice, protože pokud šlápnu na sudé, ségra neudělá zkoušku.“"
+                        "„Musím projít po chodníku jen přes liché dlaždice, protože pokud šlápnu na sudé, ségra neudělá zkoušku.“"
                       ]
                     },
                     {
@@ -436,7 +447,7 @@
                       "color": "#27637C",
                       "items": [
                         "„Jitka mě nepozdravila. Nemá mě ráda.“",
-                        "„Kolegům z vedlejšího oddělení se pokazila tiskárna. Určitě za to můžu..“",
+                        "„Kolegům z vedlejšího oddělení se pokazila tiskárna. Určitě za to můžu.“",
                         "„Kolemjdoucí paní přešla na druhou stranu chodníku. Udělala to kvůli tomu, že jsem odpudivý.“",
                         "„Číšník se mi nedíval do očí, určitě se mě bojí.“"
                       ]
@@ -500,12 +511,12 @@
             },
             {
               "type": "collapse",
-              "content": "Všechny nás někdy napadnou nepříjemné nebo strašidelné myšlenky. Co nás ale často děsí víc, je samotná **existence takových myšlenek**. „Jak mě to mohlo vůbec nepadnout?“ Říkáme si, že to o nás musí vypovídat něco hrozného. \n \n Ukážeme si to na příkladu. Petrovy obsese se často týkají strachu, že udělá chybu a způsobí vážné následky. „Co když jsem nevypnul sporák a vyhoří celý dům?“ Tím to ale nekončí. Začne si říkat: „Proč mě to vůbec napadá? To asi znamená, že chci, abychom vyhořeli. Jsem nebezpečný.“ Petr začne **hodnotit**, co o něm takové myšlenky **vypovídají**. Říká si: „Tohle by sis neměl myslet! Jsi hrozný člověk!“ \n \n Říkáme tomu **metakognice**, nebo také **myšlenky o myšlenkách**. Jsou to vlastně názory na to, co znamená naše přemýšlení. A právě ty často spouští největší úzkost. \n \n Metakognice hlavně **hodnotí**, jaké naše myšlenky jsou. Jsou dobré nebo špatné? Co o nás vypovídají? Jsou důležité? Nejsou náhodou nebezpečné? \n \n Někdy nám našeptávají, že když nás něco napadne, **musí to být pravda**. Nebo že se to kvůli tomu určitě stane. \n \n Na následující stránce se seznámíte se základními druhy metakognic.",
+              "content": "Všechny nás někdy napadnou nepříjemné nebo strašidelné myšlenky. Co nás ale často děsí víc, je samotná **existence takových myšlenek**. „Jak mě to mohlo vůbec napadnout?“ Říkáme si, že to o nás musí vypovídat něco hrozného. \n \n Ukážeme si to na příkladu. Petrovy obsese se často týkají strachu, že udělá chybu a způsobí vážné následky. „Co když jsem nevypnul sporák a vyhoří celý dům?“ Tím to ale nekončí. Začne si říkat: „Proč mě to vůbec napadá? To asi znamená, že chci, abychom vyhořeli. Jsem nebezpečný.“ Petr začne **hodnotit**, co o něm takové myšlenky **vypovídají**. Říká si: „Tohle by sis neměl myslet! Jsi hrozný člověk!“ \n \n Říkáme tomu **metakognice**, nebo také **myšlenky o myšlenkách**. Jsou to vlastně názory na to, co znamená naše přemýšlení. A právě ty často spouští největší úzkost. \n \n Metakognice hlavně **hodnotí**, jaké naše myšlenky jsou. Jsou dobré nebo špatné? Co o nás vypovídají? Jsou důležité? Nejsou náhodou nebezpečné? \n \n Někdy nám našeptávají, že když nás něco napadne, **musí to být pravda**. Nebo že se to kvůli tomu určitě stane. \n \n Na následující stránce se seznámíte se základními druhy metakognic.",
               "title": "Radši si přečtu"
             },
             {
               "type": "markdown",
-              "content": "Metakogice můžeme rozdělit na **pozitivní** a **negativní**. Níže si přečtěte, jak se tyto druhy liší."
+              "content": "Metakognice můžeme rozdělit na **pozitivní** a **negativní**. Níže si přečtěte, jak se tyto druhy liší."
             },
             {
               "type": "tool",
@@ -580,8 +591,14 @@
                       ]
                     },
                     {
-                      "type": "markdown",
-                      "content": "**Ve skutečnosti ale platí:** \n \n - Myšlenky nejsou činy. \n \n - Mozek vytváří různé nápady, ale to neznamená, že jsou pravdivé. \n \n - To, co nás napadne, nevypovídá o naší povaze."
+                      "type": "list",
+                      "title": "**Ve skutečnosti ale platí:**",
+                      "color": "#27637C",
+                      "items": [
+                        "Myšlenky nejsou činy.",
+                        "Mozek vytváří různé nápady, ale to neznamená, že jsou pravdivé.",
+                        "To, co nás napadne, nevypovídá o naší povaze."
+                      ]
                     }
                   ]
                 }
@@ -607,6 +624,17 @@
               "type": "collapse",
               "content": "**Moderátorka:** Dnes se budeme bavit o tom, jaký vliv má potřeba jistoty na myšlení lidí s obsedantně-kompulzivní poruchou. Je touha po jistotě něco specifického pro OCD? \n \n **Terapeut:** Ba naopak. Každý člověk chce mít pocit bezpečí a možnost řídit vlastní život. Když to ale přeroste v nutkání mít naprostou kontrolu, začne nás to svazovat. \n \n **Moderátorka:** A jakou to má souvislost s obsedantně-kompulzivní poruchou? \n \n **Terapeut:** OCD často pramení ze snahy zbavit se nejistoty. Naše mysl hledá záruku, že se nestane nic hrozného, že jsme neudělali nic špatně a že máme vše pod kontrolou. To vede k opakovanému ověřování, přemýšlení a kontrolování. \n \n **Moderátorka:** A co se děje, když se tak urputně snažíme zbavit nejistoty? \n \n **Terapeut:** Čím více se snažíme nejistotu odstranit, tím více ji cítíme. V tom je právě ten problém. Ustavičné kontroly a analýzy nás vtahují do kola pochybností. Říkáme si, že musíme vědět, že se nic nestane, nebo že se musíme zbavit pochybností. Ale absolutní jistotu mít v životě prostě nemůžeme. \n \n **Moderátorka:** Napadá vás příklad toho, jak nás to může ovlivňovat? \n \n **Terapeut:** Určitě. Představte si, že odjíždíte na dovolenou. Chcete se vyvarovat tomu, že se stane něco špatného nebo že na něco zapomenete. Tak si sepíšete dlouhý seznam úkolů. Vypnout spotřebiče, zavřít okna, zamknout sklep, vypnout vodu... Celý seznam si odškrtáte. Ale někde v hloubi stále cítíte nejistotu. Co když jste na něco zapomněli? Nebo co když jste něco nezkontrolovali pořádně? Přes veškerou snahu nás i nadále sužují pochybnosti. \n \n **Moderátorka:** A co tedy můžeme dělat, abychom se cítili lépe? \n \n **Terapeut:** Skutečná úleva přichází, když se naučíme nejistotu přijmout. Při terapii se proto postupně učíme žít s nejistotou, bez potřeby věci stále kontrolovat. Věnujeme pozornost jen tomu nezbytnému, třeba jestli máme dost benzínu, když se chystáme na chatu. Stoprocentní kontrolu mít nebudeme nikdy. Je to běžná součást života. Přijmout neznámé je dobrý krok ke svobodě a klidu.",
               "title": "Radši si přečtu"
+            },
+            {
+              "type": "noteBox",
+              "desktopImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lightbulb_Icon_5bba92e832.svg",
+              "mobileImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lightbulb_Icon_5bba92e832.svg",
+              "backgroundColor": "#EDF4F6",
+              "textColor": "#27637C",
+              "text": "**Hlavní myšlenka:** Snaha o naprostou jistotu a kontrolu je přirozená, ale u OCD se stává zdrojem úzkosti a nutkavého chování. Skutečná úleva přichází, když se člověk učí nejistotu přijímat a nevyžadovat stoprocentní kontrolu nad vším.",
+              "desktopImageWidth": "80px",
+              "mobileImageWidth": "80px",
+              "isWrapping": true
             }
           ]
         },
@@ -673,7 +701,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Jana** \n \n Jana je administrativní pracovnice a maminka malého Toníka. Pokaždé, když přijde z venku, dezinfikuje sebe i věci kolem sebe, převléká se a umývá ruce. \n \n Její strach se zaměřuje na možnost, že by mohla ublížit svému dítěti. Často ji napadá: \n \n - **Katastrofizace:** „Na každé klice mohou být smrtelné bakterie.“ \n \n - **Přehnaná odpovědnost:** „Musím udělat všechno, abych ochránila své dítě. I kdyby mě to mělo zničit.“ \n \n - **Metakognice:** „Když mám úzkost, znamená to, že jsme opravdu v nebezpečí.“"
+                      "content": "**Jana** \n \n Jana je administrativní pracovnice a maminka malého Toníka. Pokaždé, když přijde zvenku, dezinfikuje sebe i věci kolem sebe, převléká se a umývá ruce. \n \n Její strach se zaměřuje na možnost, že by mohla ublížit svému dítěti. Často ji napadá: \n \n - **Katastrofizace:** „Na každé klice mohou být smrtelné bakterie.“ \n \n - **Přehnaná odpovědnost:** „Musím udělat všechno, abych ochránila své dítě. I kdyby mě to mělo zničit.“ \n \n - **Metakognice:** „Když mám úzkost, znamená to, že jsme opravdu v nebezpečí.“"
                     }
                   ]
                 },
@@ -891,7 +919,7 @@
               "questions": [
                 {
                   "name": "Question1",
-                  "question": ":::text--center \n Klára uviděla na pískovišti malého chlapečka a napadla vtíravá myšlenka, že by ho mohla zneužít. Potom jí proběhlou hlavou, že to znamená, že se to kdykoliv může stát. \n \n Co to bylo za myšlenku?  \n :::",
+                  "question": ":::text--center \n Klára uviděla na pískovišti malého chlapečka a napadla vtíravá myšlenka, že by ho mohla zneužít. Potom jí proběhlo hlavou, že to znamená, že se to kdykoliv může stát. \n \n Co to bylo za myšlenku? \n :::",
                   "options": [
                     {
                       "label": "A) Perfekcionismus",
@@ -907,7 +935,7 @@
                     }
                   ],
                   "correctAnswer": 2,
-                  "correctAnswerReason": "Správná odpověď je C) Splynutí myšlení a skutečnosti. Jana o své obsesí přemýšlí a splývá jí to, co ji napadá, se skutečností. To, že ji něco napadne, ale neznamená, že to opravdu udělá. Je to jen myšlenka."
+                  "correctAnswerReason": "Správná odpověď je C) Splynutí myšlení a skutečnosti. Klára o své obsesi přemýšlí a splývá jí to, co ji napadá, se skutečností. To, že ji něco napadne, ale neznamená, že to opravdu udělá. Je to jen myšlenka."
                 },
                 {
                   "name": "Question2",
@@ -965,7 +993,7 @@
                 "isExpandable": true,
                 "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Relax_e24051df56.svg",
                 "width": "280px",
-                "alt": "Relaxující postava sedící se skříženýma nohama",
+                "alt": "Relaxující postava sedící se zkříženýma nohama",
                 "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Relax_e24051df56.svg",
                 "widthMobile": "280px",
                 "align": "center"

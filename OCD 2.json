@@ -1499,12 +1499,12 @@
             },
             {
               "type": "video",
-              "url": "xx",
-              "captionsUrl": "xx"
+              "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Explainer_expozice_c4fd252f1a.mp4",
+              "captionsUrl": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Explainer_expozice_ces_7c4e8d0560.vtt"
             },
             {
               "type": "collapse",
-              "content": "Zkuste se na chvilku jen zastavit. Nemusíte nic měnit. Nemusíte nic řešit. Nemusíte být jiní, než jste právě teď.“ \n \n „Možná právě sedíte. Možná ležíte. Možná vás něco tlačí. Možná cítíte úzkost… a možná klid. Ať je to jakkoli – jste tady. A to stačí.“ \n \n „Zkuste vnímat, jak se vaše tělo dotýká podložky. Kde se opíráte? Které místo cítíte jako těžší?  \n \n Které je uvolněné? Nemusíte to hodnotit. Jen pozorujte.“  \n \n „Možná si všimnete svého dechu. Vchází dovnitř… a ven. Nemusíte ho měnit. Jen sledujte, jak vás dech spojuje s přítomným okamžikem.“  \n \n „Když přijde myšlenka… můžete si jí všimnout. A pak ji nechat jít. Stejně jako list, který proud odnese dál po vodě.“  \n \n „Ať se dnes cítíte jakkoli – není to navždy. Vaše emoce, vaše myšlenky, vaše tělo… jsou živé. Mění se.  \n \n A právě teď se učíte být s tím vším – trochu jemněji.“  \n \n „Možná vám to přijde zvláštní. Možná hezké. Možná nudné. Všechno je v pořádku. Tohle je prostor, ve kterém nemusíte o nic usilovat.“  \n \n „Zůstaňte ještě chvíli… nebo se pomalu vraťte. Do dnešního dne. K sobě. S dechem. S vědomím, že i chvíle ticha je krok na cestě ke klidu a pohodě.“ ",
+              "content": "**Hierarchie expozic** je jedním z nejdůležitějších cvičení během terapie OCD. Pravidelné opakování expozic vám pomůže čelit nepříjemným pocitům a odolávat kompulzím. \n \n **Jak to funguje v digitálu?** \n \n Na platformě Mindwell jsme pro vás připravili **sekci Expozice**. V ní si můžete vytvořit svůj seznam expozic, na kterých budete pracovat během programu. \n \n Nejprve si vyberte obavu, která vás aktuálně trápí. Bojíte se nákazy? Máte myšlenky s agresivními tématy? Obáváte se, že něco není vypnuté? Během programu budete pracovat jen na **jedné obavě**, abyste netříštili svou pozornost. Až program dokončíte, můžete se pustit do dalších hierarchií. \n \n Když máte vybrané téma, je na čase připravit si **seznam expozic**. U každé expozice krátce popište, co při ní konkrétně uděláte, nebo neuděláte. Poté si označte, jakou míru nepříjemných pocitů při tom očekáváte. Expozice si můžete **seřadit** od nejsnazší po nejnáročnější kliknutím na tlačítko “seřadit”. \n \n Ke každé expozici si můžete přidávat **záznamy** o tom, jak vám šlo její provedení. Váš terapeut uvidí, co jste vyplnili mezi jednotlivými moduly a bude na to reagovat ve zpětné vazbě. \n \n **Než odešlete tento modul**, vyplňte si v této sekci svou obavu a seznam expozic. Váš terapeut ji prohlédne a napíše, pokud by bylo vhodné ji nějak upravit. \n \n Nemusíte zatím přidávat záznamy. Stačí, když si hierarchii **připravíte**. Pracovat na ní začnete až od příštího modulu. \n \n Je důležité do této sekce **chodit mezi moduly** a zaznamenávat si, jak se vám daří expozice dělat. Protože skutečná změna přijde díky tomu, že budete znalosti a dovednosti z modulů využívat v běžném životě. \n \n Doufáme, že se vám bude dařit postupovat svou hierarchií expozic!",
               "title": "Radši si přečtu"
             }
           ]
@@ -1650,9 +1650,45 @@
               "omitTherapistHelpsQuestion": false
             },
             {
+              "type": "decider",
+              "description": "**Vyplnili jste si hierarchii expozic v sekci Expozice?**",
+              "items": [
+                {
+                  "title": "Ano",
+                  "content": [
+                    {
+                      "type": "noteBox",
+                      "desktopImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Flower_Icon_f90bf2faeb.svg",
+                      "mobileImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Flower_Icon_f90bf2faeb.svg",
+                      "backgroundColor": "#E5EBE3",
+                      "textColor": "#24615A",
+                      "text": "**Dobrá práce!** \n \n Tím, že jste si vytvořili svou hierarchii expozic, jste udělali důležitý krok směrem k překonání OCD. Každá expozice, kterou si naplánujete a zkusíte, pomáhá učit se, že úzkost časem sama klesá a že ji zvládnete bez kompulzí.",
+                      "desktopImageWidth": "80px",
+                      "mobileImageWidth": "80px",
+                      "isWrapping": true
+                    }
+                  ]
+                },
+                {
+                  "title": "Ne",
+                  "content": [
+                    {
+                      "type": "note",
+                      "title": "**Co vám zatím brání vytvořit si hierarchii expozic? Váš terapeut vám může poradit.**",
+                      "placeholder": "Např. nevím, jak začít...",
+                      "rows": 2,
+                      "maxLength": 500,
+                      "lengthValidationMessage": "Maximální délka odpovědi je 500 znaků.",
+                      "required": false
+                    }
+                  ]
+                }
+              ]
+            },
+            {
               "type": "note",
-              "placeholder": "Co máte na srdci?",
               "title": "**Napadá vás, jak bychom mohli program vylepšit?**",
+              "placeholder": "Co máte na srdci?",
               "rows": 2,
               "required": false
             }

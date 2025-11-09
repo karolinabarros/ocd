@@ -905,27 +905,26 @@
                       "items": [
                         {
                           "title": "Ano",
-                          "items": [
+                          "content": [
                             {
                               "type": "note",
                               "title": "**S kým se to stává? Jak často a za jakých okolností?**",
                               "placeholder": "Kdy se to opakuje?",
-                              "maxLength": 250,
-                              "lengthValidationMessage": "Maximální délka odpovědi je 250 znaků.",
+                              "rows": 2,
                               "required": false
                             }
                           ]
                         },
                         {
                           "title": "Ne",
-                          "items": [
+                          "content": [
                             {
                               "type": "noteBox",
                               "desktopImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lightbulb_Icon_5bba92e832.svg",
                               "mobileImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lightbulb_Icon_5bba92e832.svg",
                               "backgroundColor": "#EDF4F6",
                               "textColor": "#27637C",
-                              "text": "**Zdá se, že se to neopakuje. ** \n \n Přesto může být užitečné pozorovat, jestli se podobné vzorce neobjevují i v jiných vztazích nebo situacích.",
+                              "text": "**Je dobře, že si to uvědomujete.** \n \n Přesto může být užitečné pozorovat, jestli se podobné vzorce neobjevují i v jiných vztazích nebo situacích.",
                               "desktopImageWidth": "55px",
                               "mobileImageWidth": "55px",
                               "isWrapping": true

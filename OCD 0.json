@@ -233,11 +233,11 @@
       "contentSections": [
         {
           "alt": "Koláž s fotografiemi terapeutů Mindwell",
-          "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Vy_a_vas_terapeut_6ec6682937.png",
+          "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Terapeuti_large_5126b5f310.png",
           "type": "image",
           "align": "center",
           "width": "100%",
-          "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Vy_a_vas_terapeut_6ec6682937.png",
+          "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Terapeuti_large_5126b5f310.png",
           "unoptimized": true,
           "widthMobile": "100%",
           "isExpandable": false

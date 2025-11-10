@@ -204,13 +204,13 @@
             },
             {
               "type": "audio",
-              "audioSrc": "xx",
+              "audioSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M5_podcast_Expozice_se_zabranou_odpovedi_5f7821923d.wav",
               "title": "Expozice se zábranou odpovědi",
               "imageSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Expozice_se_zabranou_odpovedi_4304ccb392.svg"
             },
             {
               "type": "collapse",
-              "content": "xx",
+              "content": "**Moderátorka:** Vítám vás u dalšího rozhovoru. Dnes nás čeká téma expozic se zábranou odpovědi. Já se nejprve zeptám, využívají se expozice i v jiných případech, než je terapie OCD? \n \n **Terapeut:** Dobrý den, děkuji za otázku. Ano, expozice se využívají u celé řady poruch, například při léčbě fóbií nebo panické poruchy. V takových případech se postupně vystavujeme nepříjemným situacím, a tím snižujeme úzkost, kterou vyvolávají. \n \n **Moderátorka:** A čím se to liší u OCD? \n \n **Terapeut:** U OCD hrají zásadní roli kompulze. Když se někdo s OCD vystaví nepříjemné situaci, třeba se dotkne zašpiněného povrchu, ale pak se uklidní kompulzí, tak že si třeba ruce třikrát vydezinfikuje, nedojde k žádanému výsledku . Naopak se obsese dále upevňuje. Čím více děláme kompulzí, tím více bude obsesí. \n \n **Moderátorka:** Aha, takže u OCD je důležité nejen se vystavit nepříjemné věci, ale také pak neudělat kompulzi. \n \n **Terapeut:** Přesně tak. Je to nezbytná část expozic. Zábrana odpovědí je právě to, že neuděláme kompulzi. \n \n **Moderátorka:** A jaký efekt mají takové expozice dlouhodobě? \n \n **Terapeut:** Když se člověk vystaví situaci, která v něm vyvolává úzkost, nejdřív to může být dost nepříjemné. Ale pokud odolá nutkání uklidnit se pomocí  , úzkost začne přirozeně klesat. Učíme se, že kompulze není potřeba dělat, protože nebezpečí ve skutečnosti nehrozí. Mozek nepřesvědčíme logikou, ale zkušenostmi. \n \n **Moderátorka:** Mohl byste to vysvětlit na příkladu? \n \n **Terapeut:** Určitě. Představte si, že se dotknete něčeho, co může být špinavé. Třeba kliky na úřadě, které se dotklo mnoho lidí. Napadne vás, že se můžete nakazit. Ucítíte příval nepříjemných emocí. Mozek spustil poplach. Běžně v této chvíli uděláte kompulzi: jdete si umýt ruce. Úzkost sice klesne, ale mozek se tím nenaučí, že nepříjemné pocity ustojí. Pokud však kompulzi neuděláte, nepohoda chvíli zůstane a možná i zesílí. Pak ale začne pomalu klesat. Váš mozek si všimne, že se nestalo nic zlého. A s každým opakováním si na to zvyká. Tomu říkáme habituace. Mozek se učí, že situace je zvládnutelná a už se tolik nebojí. \n \n **Moderátorka:** Aha, takže asi nějakou dobu trvá, než pocítíme úlevu? \n \n **Terapeut:** To je různé. Může to trvat minuty, ale i hodiny. Terapie OCD není sprint. Je to jako horská túra. První výšlapy trochu bolí, ale časem začnete cítit, že se vám dýchá volněji. První expozice je těžká. Druhá o něco jednodušší. Po jednom, dvou týdnech už stejná situace tolik netrápí. \n \n **Moderátorka:** A začne to být časem snazší? \n \n **Terapeut:** Ano. Kromě toho, že se sníží nepříjemné prožívání, si také začnete více věřit. Váš mozek se učí, že to není nebezpečné. Je to jen signál, který nemusí poslouchat. Získáváte větší sebedůvěru a prostor k normálnímu životu. \n \n **Moderátorka:** Děkuji za rozhovor. Na dalších stránkách zjistíte, jak mohou expozice se zábranou odpovědi přerušit bludný kruh OCD a jak si takové expozice naplánovat.",
               "title": "Radši si přečtu"
             },
             {
@@ -241,10 +241,10 @@
             {
               "type": "image",
               "isExpandable": false,
-              "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Janin_bludny_kruh_2_9d3cc6e1f9.svg",
+              "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Bludny_kruh_317513dae0.svg",
               "width": "80%",
               "alt": "Bludný kruh Jany",
-              "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Janin_bludny_kruh_2_9d3cc6e1f9.svg",
+              "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Bludny_kruh_317513dae0.svg",
               "widthMobile": "100%",
               "align": "center",
               "unoptimized": true
@@ -260,10 +260,10 @@
             {
               "type": "image",
               "isExpandable": false,
-              "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Janin_novy_kruh_zdraveho_zvladani_613e4565a2.svg",
+              "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Novy_kruh_7b67da6433.svg",
               "width": "80%",
               "alt": "Zdravý kruh Jany",
-              "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Janin_novy_kruh_zdraveho_zvladani_613e4565a2.svg",
+              "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Novy_kruh_7b67da6433.svg",
               "widthMobile": "100%",
               "align": "center",
               "unoptimized": true
@@ -310,7 +310,7 @@
             },
             {
               "type": "collapse",
-              "content": "**VYPRAVĚČ:** xx",
+              "content": "**VYPRAVĚČ:** Jana si jde dnes na úřad vyzvednout nový pas. Rozhodla se to využít jako příležitost k expozici. Chce holou rukou otevřít dveře úřadu, aniž by si ji pak vydezinfikovala. \n \n **JANA:** Na to držadlo sahají stovky lidí. Co když na tom je nějaký virus? Jen z té představy se mi dělá zle… Ale tentokrát se tomu postavím. \n \n **JANA:** „Sáhnu na držadlo na dveřích. Vydržím bez dezinfekce. Budu sledovat svojí nepohodu, dokud neklesne na polovinu. Neudělám nic pro uklidnění.” Je to o cviku. Když se do toho nepustím, nikdy se to nezlepší. \n \n **JANA:** Ty jo, tohle je děsný. Úzkost mám tak na 8 z 10. Co když jsem něco chytla? Cítím, jak mi buší srdce. Ale vydržím to. Nepotřebuji si očistit ruce. Nádech... Výdech... \n \n **VYPRAVĚČ:** Uplynulo 30 minut. Jana si sedla v parku před úřadem a sleduje, jak klesá její úroveň úzkosti. \n \n **JANA:** Teď bych řekla, že jsem na 4 z 10. Pořád to není příjemné. Ale zvládla jsem to. A neudělala jsem nic, abych to zahnala. Nevěřila jsem, že úzkost klesne i bez dezinfekce. \n \n **JANA:** Dotkla jsem se kliky, nevydezinfikovala jsem si ruce, a přesto jsem v pořádku. Můj první úspěch. Malý krok, ale veliký pocit. Zvládla jsem to. \n \n **VYPRAVĚČ:** Na příběhu Jany jsme viděli, že její úzkost během expozice nejprve narostla... a pak postupně klesala. Když si expozice opakujeme, naše úzkost začne klesat rychleji a rychleji. Posilujeme tak svou odolnost. S časem se začne snižovat i to, jak silnou úzkost v nás expozice vůbec vyvolá. Tomuto procesu říkáme habituace.",
               "title": "Radši si přečtu"
             }
           ]
@@ -1422,12 +1422,12 @@
             },
             {
               "type": "video",
-              "url": "xx",
-              "captionsUrl": "xx"
+              "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/OCD_M5_a59ca05f35.mp4",
+              "captionsUrl": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/OCD_M5_ces_4ad1e04a49.vtt"
             },
             {
               "type": "collapse",
-              "content": "Najděte si klidné místo a pohodlnou pozici. Můžete sedět nebo ležet. Nechte své tělo chvíli spočinout, bez nutnosti něco měnit. Jen buďte. \n \n Zaměřte se na svůj dech. Vnímejte nádech… a výdech. Nemusíte dýchat jinak než obvykle. Jen pozorujte. \n \n Pokud přijdou myšlenky, jen si jich všimněte. Nepotlačujte je. Nepřikládejte jim význam. Řekněte si: „To je jen myšlenka. Tohle je můj dech.“ \n \n A vraťte se k vnímání dechu. \n \n Nyní si představte, že se ve vaší mysli objeví něco zneklidňujícího – myšlenka, obraz, nejistota. Neutíkejte před ní. Jen ji pozorujte, jako byste sledovali mrak na obloze. Přichází… a odchází. \n \n Řekněte si: „Nevím to jistě, a mohu i tak dýchat dál.“ \n \n „Cítím úzkost – a přesto zůstávám.“ \n \n Vnímejte dech…a klidně pomalu zakončete cvičení tím, že si poděkujete. Za to, že jste tu byli – a že jste zůstali. I když to nebylo snadné.",
+              "content": "Najděte si klidné místo a pohodlnou pozici. Můžete sedět nebo ležet. Nechte své tělo chvíli spočinout, bez nutnosti něco měnit. \n \n Zaměřte se na svůj dech. Vnímejte nádech… a výdech. Nemusíte dýchat jinak než obvykle. Jen pozorujte. \n \n Pokud přijdou myšlenky, jen si jich všimněte. Nepotlačujte je. Nepřikládejte jim význam. Řekněte si: „To je jen myšlenka. Tohle je můj dech.“ \n \n A vraťte se k vnímání dechu. \n \n Nyní si představte, že se ve vaší mysli objeví něco zneklidňujícího – myšlenka, obraz, nejistota. Neutíkejte před ní. Jen ji pozorujte, jako byste sledovali mrak na obloze. Přichází… a odchází. \n \n Řekněte si: „Nevím to jistě, a mohu i tak dýchat dál.“ \n \n „Cítím úzkost – a přesto zůstávám.“ \n \n Vnímejte dech…a klidně pomalu zakončete cvičení tím, že si poděkujete. Za to, že jste tu byli – a že jste zůstali. I když to nebylo snadné.",
               "title": "Radši si přečtu"
             }
           ]
@@ -1442,14 +1442,14 @@
             },
             {
               "type": "audio",
-              "audioSrc": "xx",
+              "audioSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M5_Bonusovy_pribeh_5ebc078035.wav",
               "title": "Bonusový příběh",
               "imageSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Bonusovy_pribeh_8a0da6b068.svg"
             },
             {
               "type": "collapse",
-              "content": "xx",
-              "title": "Radši si přečtu"
+              "title": "Radši si přečtu",
+              "content": "**VYPRAVĚČ:** Klára stojí na tramvajové zastávce. Lidé vystupují a mezi nimi je i maminka s malou holčičkou. Ta se na Kláru stydlivě usměje. V Klářině hlavě se mihne děsivá myšlenka. \n \n **KLÁRA:** „Co když jí ublížím? Jsem zrůda. Neměla bych chodit mezi lidi.“ \n \n **VYPRAVĚČ:** Klára cítí tlak na hrudi a tíhu v žaludku. Nepříjemná myšlenka jí v hlavě utkvěla. A s ní i stud. Klára vyrůstala v tichu. O emocích se doma nikdy nemluvilo. A o tělesných pocitech už vůbec ne. Klářina máma takovými věcmi opovrhovala. \n \n **MATKA:** „No vidělas to?! To slušný lidi nedělají. Taková špína...“ \n \n **VYPRAVĚČ:** Když bylo Kláře dvanáct, máma jí roztrhala romantickou knížku. To jí v paměti zanechalo jasné poselství: Je v ní něco špinavého. Něco, co nesmí ukázat. Když jí bylo 18, zamilovala se do Honzy. Ale jeho doteky ji zneklidňovaly. Když ji Honza pohladil, stáhla se. \n \n **KLÁRA:** „Promiň… jen… teď nemám náladu.“ \n \n **HONZA:** „Klári, to je v pohodě. Nemusíme to tlačit.“ \n \n **KLÁRA:** „Mám ho ráda, ale tyhle věci mi nejdou přirozeně. Proč nemůžu být normální?“ \n \n **VYPRAVĚČ:** Klára šla před pár týdny na návštěvu ke kamarádce, která má malého syna. Vydržela u ní jen půl hodiny a pak se doma sesypala. Vtíravé představy se valily jedna za druhou. \n \n **KLÁRA:** „Jsem zrůda. Musím se držet dál. Nesmím se k lidem přibližovat.“ \n \n **VYPRAVĚČ:** Začala se vyhýbat dětem. I Honzovi. Noci probděla. Přes den nasadila masku klidu, ale srdce měla na dně. \n \n **VYPRAVĚČ:** Jednoho večera si Klára začala psát deník. \n \n **KLÁRA:** „Mám vtíravé myšlenky. Děsí mě to. Nikdy bych nic z toho, co mě napadá, neudělala. Ale… už to nezvládám.“ \n \n **VYPRAVĚČ:** V terapeutickém programu se Klára dozvěděla, jak ji obsese ovlivňují. A že kvůli OCD ji někdy splývá, co je skutečnost a co jsou jen myšlenky. \n \n **KLÁRA:** „To, co mě napadne, neurčuje, kdo jsem. Moje myšlenky jsou jen pomíjivé chvilky. To, na čem záleží, je, jak s tím naložím.“ \n \n **VYPRAVĚČ:** Klára si dále vedla deník. Pozorovala, co cítí a jak na to reaguje. Přestávala se bát sama sebe. \n \n **KLÁRA:** „Začnu dělat expozice. Chci se tomu postavit čelem.“ \n \n **VYPRAVĚČ:** Klára se dívá na fotky s dětmi. Představuje si scénáře, které ji dříve paralyzovaly. Vytrvává. \n \n **KLÁRA:** „Další myšlenka... Ale já vím, že to je jen myšlenka. Pouštím ji pryč. Výdech... Nádech.“ \n \n **VYPRAVĚČ:** Klára si vypsala, co je pro ni důležité. \n \n **KLÁRA:** „Chci být lidem blízko. Chci milovat. Chci důvěřovat. Druhým i sama sobě.“ \n \n **VYPRAVĚČ:** A poprvé řekla nahlas, to co už roky schovávala hluboko uvnitř. \n \n **KLÁRA:** „Honzo, někdy mě napadají takové myšlenky. O tom, že bych mohla ublížit dětem. Děsí mě to… Ale nikdy bych to neudělala.“ \n \n **HONZA:** „To mě mrzí, Klári. Ale myslím, že právě to, že tě to děsí, ukazuje, kdo opravdu jsi.“ \n \n **VYPRAVĚČ:** Začali si povídat. O tom, co drželi v sobě. O dotecích. O tom, co je možné změnit. \n \n **KLÁRA:** „Honzo, dnes chci být s tebou. Ne s myšlenkami. Ne s výčitkami svědomí. Jen s tebou.“ \n \n **VYPRAVĚČ:** Klára dále pracuje na terapeutickém programu. Cvičí denně expozice a učí se být se svými myšlenkami bez kompulzí. Dnes sedí s Honzou na pohovce a dívají se na film. Na obrazovce se směje dítě. \n \n **KLÁRA:** „Dřív bych se na takovou scénu nemohla dívat. Teď to dokážu. Dýchám a vnímám, co se ve mně děje.“ \n \n **VYPRAVĚČ:** Klára se svého stínu nezbavila. Ale naučila se ho unést. A díky tomu si mohla dovolit blízkost, s druhými, i sama se sebou. A vy? Možná právě teď začínáte. Možná se bojíte. Ale nejste sami. Každý krok, když neutečete… je krok ke svobodě."
             }
           ]
         },

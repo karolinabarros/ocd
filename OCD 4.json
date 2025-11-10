@@ -1371,7 +1371,7 @@
             {
               "type": "download",
               "title": "stáhnout záznamový list",
-              "downloadLink": "xx"
+              "downloadLink": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Zaznamovy_list_M4_72fd13fb40.pdf"
             }
           ]
         },

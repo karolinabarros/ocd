@@ -85,6 +85,72 @@
           ]
         },
         {
+          "title": "Ohlédnutí za minulým týdnem",
+          "icon": "exercise",
+          "isEvaluable": true,
+          "finalScreen": {
+            "buttonLabel": "Upravit odpovědi",
+            "contentSections": [
+              {
+                "type": "image",
+                "isExpandable": true,
+                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Relax_e24051df56.svg",
+                "width": "280px",
+                "alt": "Relaxující postava sedící se skříženýma nohama",
+                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Relax_e24051df56.svg",
+                "widthMobile": "280px",
+                "align": "center"
+              },
+              {
+                "type": "markdown",
+                "content": ":::text--center \n #### Jděte na to postupně. \n \n I malý krok je úspěch, pokud se na něj díváme očima odvahy. \n :::"
+              }
+            ]
+          },
+          "contentSections": [
+            {
+              "type": "markdown",
+              "content": "Týdenní výzva spočívala v pozorování a zaznamenávání myšlenkových filtrů, jako **kognitivní omyly** nebo **metakognice**. Zajímá nás, jak se vám dařilo!"
+            },
+            {
+              "type": "pictureAndNote",
+              "image": {
+                "isExpandable": true,
+                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Ohlednuti_za_minulym_tydnem_c823b34a4c.svg",
+                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Ohlednuti_za_minulym_tydnem_mobile_1df75171e5.svg",
+                "alt": "Zápisník se zakroužkovaným textem",
+                "width": "164px",
+                "widthMobile": "100%",
+                "align": "center"
+              },
+              "note": {
+                "title": "**Stručně popište, zda nebo jak jste se pozorovali kognitivní omyly a metakognice.**",
+                "rows": 2,
+                "placeholder": "Čemu jste se věnovali?",
+                "required": false
+              }
+            },
+            {
+              "type": "pictureAndNote",
+              "image": {
+                "isExpandable": true,
+                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Novy_pohled_2ee4153b6b.svg",
+                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Novy_pohled_mobile_367cf25a29.svg",
+                "alt": "Srdce rozděléné do čtyř puzzle dílků",
+                "width": "164px",
+                "widthMobile": "100%",
+                "align": "center"
+              },
+              "note": {
+                "title": "**Co jste o sobě během výzvy zjistili?**",
+                "rows": 2,
+                "placeholder": "Můj nový pohled",
+                "required": false
+              }
+            }
+          ]
+        },
+        {
           "title": "Zpráva pro terapeuta",
           "icon": "exercise",
           "isEvaluable": true,
@@ -124,7 +190,7 @@
           ]
         },
         {
-          "title": "Expozice při terapii",
+          "title": "Expozice v terapii OCD",
           "icon": "video",
           "contentSections": [
             {
@@ -227,7 +293,7 @@
               "color": "#27637C",
               "items": [
                 "Zhodnotili jste, jak vám šla týdenní výzva a napsali jste vzkaz terapeutovi.",
-                "Zopakovali jste si, co jsou to expozice a jak pomáhají terapii OCD.",
+                "Zopakovali jste si, co jsou to expozice a jak pomáhají v terapii OCD.",
                 "Dozvěděli jste se, co jsou expozice v představě."
               ]
             }
@@ -326,7 +392,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Eva** \n \n Eva se rozhodla, že zkusí první expozici v představě. Vybrala si situaci, která v ní sice spouští nepříjemné myšlenky, ale není až tak děsivá. Nejkatastrofičtější scénáře si zatím netroufne ani představovat. Chce si představit běžný oběd s kolegyní, kdy si všimne nože na stole. \n \n **Scénář expozice v představě** \n \n Sedím s Maruškou v kuchyňce u oběda. Povídáme si, smějeme se. Na stole u dřezu leží nůž, kterým Maruška krájela zeleninu. Najednou mi hlavou proběhne myšlenka: *„Co když jí tím nožem pořežu?“* Sevře se mi břicho. Je to jen představa, ale moje tělo reaguje, jako by to byla skutečná hrozba.  \n \n Dívám na nůž, ale nic s ním nedělám. Jen ho tam nechávám ležet. V hlavě se ozývá panika: *„Co když jsem nebezpečná? Co když jsem zlá a udělám to?“* Ale zůstávám sedět. Neuhýbám pohledem. Dýchám.  \n \n V hlavě se mi znovu proběhne ta myšlenka, že bych mohla ztratit kontrolu. Ale zůstávám sedět. Neodcházím. Nevyhýbám se. Jen sleduji, co se ve mně děje.  \n \n Chvíli je to těžké. Cítím napětí v hrudi, úzkost stoupá. Ale pak, asi po minutě, si všímám, že myšlenka už není tak silná. Trochu se mi ulevuje. Pořád sedím a koukám na nůž. Maruška sedí naproti. A všechno je v pořádku. \n \n **Jaké to pro Evu bylo** \n \n V Evině představě zůstal nůž na dosah ruky. Neodešla. Nezahladila nijak situaci. Zůstala v nepříjemné představě a vydržela, dokud úzkost nezačala sama od sebe slábnout. To pro ni bylo nové. Dříve by se snažila zbavit myšlenky co nejrychleji.  \n \n Po představě si uvědomila, jak moc se jí myšlenky snaží přesvědčit, že něco znamenají. Ale je to jen myšlenka. Ne skutečnost. Je to jen obsah hlavy, kterého se nemusí bát. A hlavně: když před tím neutíká, začne to ztrácet sílu. \n \n **Uvědomění myšlenkového filtru** \n \n  Dřív si Eva myslela, že když jí něco takového napadne, znamená to, že je nebezpečná nebo zlá.  Ale to je omyl. Je to splynutí myšlenky a skutečnosti. Jako by samotná představa byla stejná jako čin. Teď už ví, že jen proto, že jí něco napadne, neznamená, že je to pravda. A už vůbec ne, že by podle toho musela jednat."
+                      "content": "**Eva** \n \n Eva se rozhodla, že zkusí první expozici v představě. Vybrala si situaci, která v ní sice spouští nepříjemné myšlenky, ale není až tak děsivá. Nejkatastrofičtější scénáře si zatím netroufne ani představovat. Chce si představit běžný oběd s kolegyní, kdy si všimne nože na stole. \n \n **Scénář expozice v představě** \n \n Sedím s Maruškou v kuchyňce u oběda. Povídáme si, smějeme se. Na stole u dřezu leží nůž, kterým Maruška krájela zeleninu. Najednou mi hlavou proběhne myšlenka: *„Co když jí tím nožem pořežu?“* Sevře se mi břicho. Je to jen představa, ale moje tělo reaguje, jako by to byla skutečná hrozba.  \n \n Dívám na nůž, ale nic s ním nedělám. Jen ho tam nechávám ležet. V hlavě se ozývá panika: *„Co když jsem nebezpečná? Co když jsem zlá a udělám to?“* Ale zůstávám sedět. Neuhýbám pohledem. Dýchám.  \n \n V hlavě se mi znovu proběhne ta myšlenka, že bych mohla ztratit kontrolu. Ale zůstávám sedět. Neodcházím. Nevyhýbám se. Jen sleduji, co se ve mně děje.  \n \n Chvíli je to těžké. Cítím napětí v hrudi, úzkost stoupá. Ale pak, asi po minutě, si všímám, že myšlenka už není tak silná. Trochu se mi ulevuje. Pořád sedím a koukám na nůž. Maruška sedí naproti. A všechno je v pořádku. \n \n **Jaké to pro Evu bylo** \n \n V Evině představě zůstal nůž na dosah ruky. Neodešla. Nezahladila nijak situaci. Zůstala v nepříjemné představě a vydržela, dokud úzkost nezačala sama od sebe slábnout. To pro ni bylo nové. Dříve by se snažila zbavit myšlenky co nejrychleji.  \n \n Po představě si uvědomila, jak moc se jí myšlenky snaží přesvědčit, že něco znamenají. Ale je to jen myšlenka. Ne skutečnost. Je to jen obsah hlavy, kterého se nemusí bát. A hlavně: když před tím neutíká, začne to ztrácet sílu. \n \n **Uvědomění myšlenkového filtru** \n \n  Dřív si Eva myslela, že když jí něco takového napadne, znamená to, že je nebezpečná nebo zlá.  Ale to je omyl. Je to jen metakognice. Jako by samotná představa byla stejná jako čin. Teď už ví, že jen proto, že jí něco napadne, neznamená, že je to pravda. A už vůbec ne, že by podle toho musela jednat."
                     }
                   ]
                 },
@@ -537,7 +603,7 @@
                   "question": ":::text--center \n Jaký je nejlepší způsob, jak číst svůj scénář v představách? \n :::",
                   "options": [
                     {
-                      "label": "A) Číst si scénář a zároveň se uklidňovat pozitivními větami.",
+                      "label": "A) Číst si scénář, a zároveň se uklidňovat pozitivními větami.",
                       "value": 0
                     },
                     {
@@ -580,25 +646,6 @@
           "title": "Cvičení: Expozice v představě",
           "icon": "exercise",
           "isEvaluable": true,
-          "finalScreen": {
-            "buttonLabel": "Upravit odpovědi",
-            "contentSections": [
-              {
-                "type": "image",
-                "isExpandable": true,
-                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Watering_Can_488f075007.svg",
-                "width": "280px",
-                "alt": "Obrázek postavičky, která s úsměvem zalévá pokojové rostliny",
-                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Watering_Can_488f075007.svg",
-                "widthMobile": "280px",
-                "align": "center"
-              },
-              {
-                "type": "markdown",
-                "content": ":::text--center \n #### Je důležité vytrvat! \n \n Expozice v představě jsou užitečnou metodou, jak se bezpečně postavit strachu. \n :::"
-              }
-            ]
-          },
           "contentSections": [
             {
               "type": "image",
@@ -630,10 +677,112 @@
               "mobileImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Cteni_scenare_4a2c2a6b94.svg",
               "backgroundColor": "#EFE9EC",
               "textColor": "#3F1024",
-              "text": "Scénář si nyní **přečtěte**. Zkuste si představovat, jaké by to **skutečně bylo**. Odolejte při tom nutkání přestat, ujišťovat se nebo zmírňovat nepříjemné pocity kompulzemi. Na další stránce si vyhodnotíte, jak se vyvíjela míra nepohody i s delším odstupem.",
+              "text": "Scénář si nyní **přečtěte**. Zkuste si představovat, jaké by to **skutečně bylo**. Odolejte při tom nutkání přestat, ujišťovat se nebo zmírňovat nepříjemné pocity kompulzemi. Na další stránce si vyhodnotíte, jaké to bylo.",
               "desktopImageWidth": "70px",
               "mobileImageWidth": "70px",
               "isWrapping": true
+            }
+          ]
+        },
+        {
+          "title": "Cvičení: Vyhodnocení expozice v představě",
+          "icon": "exercise",
+          "isEvaluable": true,
+          "finalScreen": {
+            "buttonLabel": "Upravit odpovědi",
+            "contentSections": [
+              {
+                "type": "image",
+                "isExpandable": true,
+                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Watering_Can_488f075007.svg",
+                "width": "280px",
+                "alt": "Obrázek postavičky, která s úsměvem zalévá pokojové rostliny",
+                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Watering_Can_488f075007.svg",
+                "widthMobile": "280px",
+                "align": "center"
+              },
+              {
+                "type": "markdown",
+                "content": ":::text--center \n #### Je důležité vytrvat! \n \n Expozice v představě jsou užitečnou metodou, jak se bezpečně postavit strachu. \n :::"
+              }
+            ]
+          },
+          "contentSections": [
+            {
+              "type": "stepByStep",
+              "required": true,
+              "steps": [
+                {
+                  "title": "Krok 1: Míra nepříjemných pocitů před představou",
+                  "contentSections": [
+                    { 
+                      "type": "slider", 
+                      "title": "**Jak silná byla vaše nepohoda před představou?**", 
+                      "min": 0, 
+                      "max": 10,
+                      "step": 1, 
+                      "defaultValue": 0, 
+                      "labelStart": "Slabá nepohoda",
+                      "labelEnd": "Silná nepohoda",
+                      "variant": "gradient",
+                      "required": false
+                    }
+                  ]
+                },
+                {
+                  "title": "Krok 2: Míra nepříjemných pocitů po představě",
+                  "contentSections": [
+                    { 
+                      "type": "slider", 
+                      "title": "**Jak silná byla vaše nepohoda hned po představě?**", 
+                      "min": 0, 
+                      "max": 10,
+                      "step": 1, 
+                      "defaultValue": 0, 
+                      "labelStart": "Slabá nepohoda",
+                      "labelEnd": "Silná nepohoda",
+                      "variant": "gradient",
+                      "required": false
+                    },
+                    {
+                      "type": "note",
+                      "placeholder": "Moje zkušenost",
+                      "title": "**Jaké to bylo?**",
+                      "instruction": "co jste si uvědomili? co se stalo nebo naopak nestalo?",
+                      "rows": 2,
+                      "required": false
+                    }
+                  ]
+                },
+                {
+                  "title": "Krok 3: Míra nepříjemných pocitů s odstupem času",
+                  "contentSections": [
+                    {
+                      "type": "noteBox",
+                      "desktopImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Cetnost_expozic_59d2f345a5.svg",
+                      "mobileImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Cetnost_expozic_59d2f345a5.svg",
+                      "backgroundColor": "#EDF4F6",
+                      "textColor": "#27637C",
+                      "text": "Počkejte **30 minut**. Dejte si pauzu, udělejte si třeba čaj. Ale vydržte bez kompulze. Poté označte, jak se cítíte s **odstupem času.**",
+                      "desktopImageWidth": "78px",
+                      "mobileImageWidth": "78px",
+                      "isWrapping": true
+                    },
+                    { 
+                      "type": "slider", 
+                      "title": "**Jak silná byla vaše nepohoda 30 minut po přečtení expozice v představě?**", 
+                      "min": 0, 
+                      "max": 10,
+                      "step": 1, 
+                      "defaultValue": 0, 
+                      "labelStart": "Slabá nepohoda",
+                      "labelEnd": "Silná nepohoda",
+                      "variant": "gradient",
+                      "required": false
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -695,6 +844,22 @@
               "desktopImageWidth": "80px",
               "mobileImageWidth": "80px",
               "isWrapping": true
+            }
+          ]
+        },
+        {
+          "title": "Cvičení: Naplánujte si odměny",
+          "icon": "exercise",
+          "isEvaluable": true,
+          "contentSections": [
+            {
+              "type": "markdown",
+              "content": "Vytvrvat v dělání expozic chce **motivaci**. Důležité je se za svou snahu odměňovat! Níže si můžete vybrat, jaké **odměny** vás na vaší cestě podpoří. Nezapoměňte, že to nemusí jít dokonale. I tak si zasloužíte odměny."
+            },
+            {
+              "type": "tool",
+              "tool": "rewardList",
+              "required": true
             }
           ]
         },

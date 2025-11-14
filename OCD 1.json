@@ -164,94 +164,6 @@
                   ]
                 },
                 {
-                  "id": "Magical Thinking",
-                  "title": "Magický obsah",
-                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Icon_Magicky_obsah_bc2e16dcfd.svg",
-                  "contentCard": [
-                    {
-                      "type": "markdown",
-                      "content": "Obsese s tzv. **magickým obsahem** připomínají staré **pověry**, které známe z běžného života, např. černá kočka přes ulici nebo kominík. Na rozdíl od nich však přinášejí opravdové utrpení a jejich porušení přináší pocit silného napětí a zlověstného očekávání. Často se objevují jako představy a obrazy."
-                    },
-                    {
-                      "type": "noteBox",
-                      "desktopImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Obsese_Magicky_obsah_3715306bde.svg",
-                      "mobileImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Obsese_Magicky_obsah_mobile_bfcedeff4d.svg",
-                      "backgroundColor": "#DFE8EB",
-                      "textColor": "#27637C",
-                      "text": "**Obvyklé nutkavé myšlenky (obsese)** \n \n - Když se něco neudělá podle určité představy, nebo v konkrétním pořadí, stane se něco hrozného \n \n - Když zahlédnu nějaké číslo nebo kombinaci čísel, stane se něco špatného",
-                      "desktopImageWidth": "110px",
-                      "mobileImageWidth": "110px",
-                      "isWrapping": true
-                    },
-                    {
-                      "type": "noteBox",
-                      "desktopImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Kompulze_Magicky_obsah_fe500a172f.svg",
-                      "mobileImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Kompulze_Magicky_obsah_mobile_50eb0c7791.svg",
-                      "backgroundColor": "#EFE9EC",
-                      "textColor": "#3F1024",
-                      "text": "**Obvyklé nutkavé chování (kompulze)** \n \n - Opakování běžných činností (např. oblékání, stolování, zapínání rádia) \n \n - Pověrčivé chování (např. chození jen po bílých kostkách kachliček, nepřekračování čar, počítání čísel, modlení se)",
-                      "desktopImageWidth": "110px",
-                      "mobileImageWidth": "110px",
-                      "isWrapping": true
-                    },
-                    {
-                      "type": "decider",
-                      "items": [
-                        {
-                          "title": "Poznávám se v tom"
-                        },
-                        {
-                          "title": "Nepoznávám se v tom"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "id": "Hoarding",
-                  "title": "Hromadění věcí",
-                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Icon_Hromadeni_veci_ca424272aa.svg",
-                  "contentCard": [
-                    {
-                      "type": "markdown",
-                      "content": "Základem těchto obsesí je obava, že věc, kterou navždy ztratím, či vyhodím, budu někdy **nutně potřebovat**. Někdy však může být hodně těžké uvědomit si **důvod k hromadění.**"
-                    },
-                    {
-                      "type": "noteBox",
-                      "desktopImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Obsese_Hromadeni_veci_mobile_4075ae2f6c.svg",
-                      "mobileImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Obsese_Hromadeni_veci_197eb860f5.svg",
-                      "backgroundColor": "#DFE8EB",
-                      "textColor": "#27637C",
-                      "text": "**Obvyklé nutkavé myšlenky (obsese)** \n \n - Strach ze ztráty \n \n - Strach z opomenutí něčeho důležitého \n \n - Strach, že něco budu potřebovat a už to nebudu mít \n \n - Strach, že budu litovat, že jsem přišel/a o něco důležitého",
-                      "desktopImageWidth": "110px",
-                      "mobileImageWidth": "110px",
-                      "isWrapping": true
-                    },
-                    {
-                      "type": "noteBox",
-                      "desktopImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Kompulze_Hromadeni_veci_04a24896fc.svg",
-                      "mobileImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Kompulze_Hromadeni_veci_mobile_418bbee204.svg",
-                      "backgroundColor": "#EFE9EC",
-                      "textColor": "#3F1024",
-                      "text": "**Obvyklé nutkavé chování (kompulze)** \n \n - Nadměrné hromadění informací, účtů, novin, časopisů... \n \n - Nadměrné hromadění zásob: čistících prostředků, trvanlivých potravin... \n \n - Nadměrné hromadění náhradních dílů, nářadí, věcí denní potřeby: tužky, nitě, látky, dráty...",
-                      "desktopImageWidth": "110px",
-                      "mobileImageWidth": "110px",
-                      "isWrapping": true
-                    },
-                    {
-                      "type": "decider",
-                      "items": [
-                        {
-                          "title": "Poznávám se v tom"
-                        },
-                        {
-                          "title": "Nepoznávám se v tom"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
                   "id": "Control",
                   "title": "Kontrolování",
                   "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Icon_Kontrolovani_3938245696.svg",
@@ -278,94 +190,6 @@
                       "backgroundColor": "#EFE9EC",
                       "textColor": "#3F1024",
                       "text": "**Obvyklé nutkavé chování (kompulze)** \n \n - Opakované kontroly vypínačů, zástrček, elektrického vedení \n \n - Opakované kontroly uzamčení dveří, oken, aut \n \n - Opakované kontroly popelníků, ohniště, zapalovače apod. \n \n - Opakované kontroly peněženky, dokladů apod.",
-                      "desktopImageWidth": "110px",
-                      "mobileImageWidth": "110px",
-                      "isWrapping": true
-                    },
-                    {
-                      "type": "decider",
-                      "items": [
-                        {
-                          "title": "Poznávám se v tom"
-                        },
-                        {
-                          "title": "Nepoznávám se v tom"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "id": "Rumination",
-                  "title": "Ruminace",
-                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Icon_Ruminace_ae24f788c8.svg",
-                  "contentCard": [
-                    {
-                      "type": "markdown",
-                      "content": "Podstatou těchto obsesí je nadměrný **důraz na zapamatování** všech domněle důležitých informací. Někdy zahrnuje i obavu, že neznalost těchto informací přinese nějakou újmu."
-                    },
-                    {
-                      "type": "noteBox",
-                      "desktopImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Obsese_Ruminace_34ab1645b5.svg",
-                      "mobileImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Obsese_Ruminace_mobile_9c4aae8f20.svg",
-                      "backgroundColor": "#DFE8EB",
-                      "textColor": "#27637C",
-                      "text": "**Obvyklé nutkavé myšlenky (obsese)** \n \n - Nutkavá potřeba sbírat, pamatovat si a vybavovat informace \n \n - Nutkavé zabývání se určitým tématem stále znovu a znovu",
-                      "desktopImageWidth": "110px",
-                      "mobileImageWidth": "110px",
-                      "isWrapping": true
-                    },
-                    {
-                      "type": "noteBox",
-                      "desktopImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Kompulze_Ruminace_a61080efd4.svg",
-                      "mobileImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Kompulze_Ruminace_mobile_697320a990.svg",
-                      "backgroundColor": "#EFE9EC",
-                      "textColor": "#3F1024",
-                      "text": "**Obvyklé nutkavé chování (kompulze)** \n \n - Opakované přeříkání si něčeho naučeného \n \n - Zjišťování zapomenutých informací u druhých \n \n - Podrobné vedení záznamů \n \n - Nutkavé vyhledávání informací \n \n - Psaní si lístečků s tématy a jejich hromadění",
-                      "desktopImageWidth": "110px",
-                      "mobileImageWidth": "110px",
-                      "isWrapping": true
-                    },
-                    {
-                      "type": "decider",
-                      "items": [
-                        {
-                          "title": "Poznávám se v tom"
-                        },
-                        {
-                          "title": "Nepoznávám se v tom"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "id": "Agressive themes",
-                  "title": "Agresivní témata",
-                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Icon_Agresivni_temata_20bff9e624.svg",
-                  "contentCard": [
-                    {
-                      "type": "markdown",
-                      "content": "Tyto obsese mají původ v docela **nevinných myšlenkách**, které se objevují u všech lidí. Jedná se o náhlé nápady, které zcela popírají naše **mravní zásady**. Může to být třeba nápad vykřikovat oplzlosti na veřejnosti nebo myšlenky o tom, že bychom někoho uhodili, bodli, udusili apod. \n \n Pokud se tyto myšlenky spojí se silným **strachem** a **výčitkami svědomí**, může se rozvinout až do mučivých obsesí."
-                    },
-                    {
-                      "type": "noteBox",
-                      "desktopImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Obsese_Agresivni_temata_bfc842f57e.svg",
-                      "mobileImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Obsese_Agresivni_temata_mobile_d104f2ea63.svg",
-                      "backgroundColor": "#DFE8EB",
-                      "textColor": "#27637C",
-                      "text": "**Obvyklé nutkavé myšlenky (obsese)** \n \n - Nutkavý nápad, že někomu úmyslně fyzicky ublížím \n \n - Nutkavý nápad, že něco úmyslně poškodím, podpálím, zničím",
-                      "desktopImageWidth": "110px",
-                      "mobileImageWidth": "110px",
-                      "isWrapping": true
-                    },
-                    {
-                      "type": "noteBox",
-                      "desktopImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Kompulze_Agresivni_temata_6a51c0f950.svg",
-                      "mobileImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Kompulze_Agresivni_temata_mobile_2505fb6870.svg",
-                      "backgroundColor": "#EFE9EC",
-                      "textColor": "#3F1024",
-                      "text": "**Obvyklé nutkavé chování (kompulze)** \n \n - Odříkávání (často jen v myšlenkách) uklidňujících myšlenek, vět, slov nebo „zaklínadel“ \n \n - Vybavování si ochranných představ",
                       "desktopImageWidth": "110px",
                       "mobileImageWidth": "110px",
                       "isWrapping": true
@@ -428,6 +252,50 @@
                   ]
                 },
                 {
+                  "id": "Agressive themes",
+                  "title": "Agresivní témata",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Icon_Agresivni_temata_20bff9e624.svg",
+                  "contentCard": [
+                    {
+                      "type": "markdown",
+                      "content": "Tyto obsese mají původ v docela **nevinných myšlenkách**, které se objevují u všech lidí. Jedná se o náhlé nápady, které zcela popírají naše **mravní zásady**. Může to být třeba nápad vykřikovat oplzlosti na veřejnosti nebo myšlenky o tom, že bychom někoho uhodili, bodli, udusili apod. \n \n Pokud se tyto myšlenky spojí se silným **strachem** a **výčitkami svědomí**, může se rozvinout až do mučivých obsesí."
+                    },
+                    {
+                      "type": "noteBox",
+                      "desktopImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Obsese_Agresivni_temata_bfc842f57e.svg",
+                      "mobileImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Obsese_Agresivni_temata_mobile_d104f2ea63.svg",
+                      "backgroundColor": "#DFE8EB",
+                      "textColor": "#27637C",
+                      "text": "**Obvyklé nutkavé myšlenky (obsese)** \n \n - Nutkavý nápad, že někomu úmyslně fyzicky ublížím \n \n - Nutkavý nápad, že něco úmyslně poškodím, podpálím, zničím",
+                      "desktopImageWidth": "110px",
+                      "mobileImageWidth": "110px",
+                      "isWrapping": true
+                    },
+                    {
+                      "type": "noteBox",
+                      "desktopImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Kompulze_Agresivni_temata_6a51c0f950.svg",
+                      "mobileImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Kompulze_Agresivni_temata_mobile_2505fb6870.svg",
+                      "backgroundColor": "#EFE9EC",
+                      "textColor": "#3F1024",
+                      "text": "**Obvyklé nutkavé chování (kompulze)** \n \n - Odříkávání (často jen v myšlenkách) uklidňujících myšlenek, vět, slov nebo „zaklínadel“ \n \n - Vybavování si ochranných představ",
+                      "desktopImageWidth": "110px",
+                      "mobileImageWidth": "110px",
+                      "isWrapping": true
+                    },
+                    {
+                      "type": "decider",
+                      "items": [
+                        {
+                          "title": "Poznávám se v tom"
+                        },
+                        {
+                          "title": "Nepoznávám se v tom"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
                   "id": "Religious themes",
                   "title": "Náboženská témata",
                   "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Icon_Nabozenska_temata_1f1f8ee4eb.svg",
@@ -454,6 +322,50 @@
                       "backgroundColor": "#EFE9EC",
                       "textColor": "#3F1024",
                       "text": "**Obvyklé nutkavé chování (kompulze)** \n \n - Opakované modlitby nebo rituály k „očištění“ \n \n - Opakované ujišťování u duchovních autorit \n \n - Neustálé zpytování svědomí a vzpomínání na minulé činy",
+                      "desktopImageWidth": "110px",
+                      "mobileImageWidth": "110px",
+                      "isWrapping": true
+                    },
+                    {
+                      "type": "decider",
+                      "items": [
+                        {
+                          "title": "Poznávám se v tom"
+                        },
+                        {
+                          "title": "Nepoznávám se v tom"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "Rumination",
+                  "title": "Ruminace",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Icon_Ruminace_ae24f788c8.svg",
+                  "contentCard": [
+                    {
+                      "type": "markdown",
+                      "content": "Podstatou těchto obsesí je nadměrný **důraz na zapamatování** všech domněle důležitých informací. Někdy zahrnuje i obavu, že neznalost těchto informací přinese nějakou újmu."
+                    },
+                    {
+                      "type": "noteBox",
+                      "desktopImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Obsese_Ruminace_34ab1645b5.svg",
+                      "mobileImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Obsese_Ruminace_mobile_9c4aae8f20.svg",
+                      "backgroundColor": "#DFE8EB",
+                      "textColor": "#27637C",
+                      "text": "**Obvyklé nutkavé myšlenky (obsese)** \n \n - Nutkavá potřeba sbírat, pamatovat si a vybavovat informace \n \n - Nutkavé zabývání se určitým tématem stále znovu a znovu",
+                      "desktopImageWidth": "110px",
+                      "mobileImageWidth": "110px",
+                      "isWrapping": true
+                    },
+                    {
+                      "type": "noteBox",
+                      "desktopImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Kompulze_Ruminace_a61080efd4.svg",
+                      "mobileImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Kompulze_Ruminace_mobile_697320a990.svg",
+                      "backgroundColor": "#EFE9EC",
+                      "textColor": "#3F1024",
+                      "text": "**Obvyklé nutkavé chování (kompulze)** \n \n - Opakované přeříkání si něčeho naučeného \n \n - Zjišťování zapomenutých informací u druhých \n \n - Podrobné vedení záznamů \n \n - Nutkavé vyhledávání informací \n \n - Psaní si lístečků s tématy a jejich hromadění",
                       "desktopImageWidth": "110px",
                       "mobileImageWidth": "110px",
                       "isWrapping": true
@@ -542,6 +454,94 @@
                       "backgroundColor": "#EFE9EC",
                       "textColor": "#3F1024",
                       "text": "**Obvyklé nutkavé chování (kompulze)** \n \n - Neustálé probírání vlastních pocitů k partnerovi \n \n - Opakované ujišťování u partnera nebo u jiných lidí \n \n - Opakované rozebírání vlastností a chování partnera \n \n - Porovnávání vztahu s jinými páry",
+                      "desktopImageWidth": "110px",
+                      "mobileImageWidth": "110px",
+                      "isWrapping": true
+                    },
+                    {
+                      "type": "decider",
+                      "items": [
+                        {
+                          "title": "Poznávám se v tom"
+                        },
+                        {
+                          "title": "Nepoznávám se v tom"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "Magical Thinking",
+                  "title": "Magický obsah",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Icon_Magicky_obsah_bc2e16dcfd.svg",
+                  "contentCard": [
+                    {
+                      "type": "markdown",
+                      "content": "Obsese s tzv. **magickým obsahem** připomínají staré **pověry**, které známe z běžného života, např. černá kočka přes ulici nebo kominík. Na rozdíl od nich však přinášejí opravdové utrpení a jejich porušení přináší pocit silného napětí a zlověstného očekávání. Často se objevují jako představy a obrazy."
+                    },
+                    {
+                      "type": "noteBox",
+                      "desktopImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Obsese_Magicky_obsah_3715306bde.svg",
+                      "mobileImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Obsese_Magicky_obsah_mobile_bfcedeff4d.svg",
+                      "backgroundColor": "#DFE8EB",
+                      "textColor": "#27637C",
+                      "text": "**Obvyklé nutkavé myšlenky (obsese)** \n \n - Když se něco neudělá podle určité představy, nebo v konkrétním pořadí, stane se něco hrozného \n \n - Když zahlédnu nějaké číslo nebo kombinaci čísel, stane se něco špatného",
+                      "desktopImageWidth": "110px",
+                      "mobileImageWidth": "110px",
+                      "isWrapping": true
+                    },
+                    {
+                      "type": "noteBox",
+                      "desktopImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Kompulze_Magicky_obsah_fe500a172f.svg",
+                      "mobileImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Kompulze_Magicky_obsah_mobile_50eb0c7791.svg",
+                      "backgroundColor": "#EFE9EC",
+                      "textColor": "#3F1024",
+                      "text": "**Obvyklé nutkavé chování (kompulze)** \n \n - Opakování běžných činností (např. oblékání, stolování, zapínání rádia) \n \n - Pověrčivé chování (např. chození jen po bílých kostkách kachliček, nepřekračování čar, počítání čísel, modlení se)",
+                      "desktopImageWidth": "110px",
+                      "mobileImageWidth": "110px",
+                      "isWrapping": true
+                    },
+                    {
+                      "type": "decider",
+                      "items": [
+                        {
+                          "title": "Poznávám se v tom"
+                        },
+                        {
+                          "title": "Nepoznávám se v tom"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "Hoarding",
+                  "title": "Hromadění věcí",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Icon_Hromadeni_veci_ca424272aa.svg",
+                  "contentCard": [
+                    {
+                      "type": "markdown",
+                      "content": "Základem těchto obsesí je obava, že věc, kterou navždy ztratím, či vyhodím, budu někdy **nutně potřebovat**. Někdy však může být hodně těžké uvědomit si **důvod k hromadění.**"
+                    },
+                    {
+                      "type": "noteBox",
+                      "desktopImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Obsese_Hromadeni_veci_mobile_4075ae2f6c.svg",
+                      "mobileImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Obsese_Hromadeni_veci_197eb860f5.svg",
+                      "backgroundColor": "#DFE8EB",
+                      "textColor": "#27637C",
+                      "text": "**Obvyklé nutkavé myšlenky (obsese)** \n \n - Strach ze ztráty \n \n - Strach z opomenutí něčeho důležitého \n \n - Strach, že něco budu potřebovat a už to nebudu mít \n \n - Strach, že budu litovat, že jsem přišel/a o něco důležitého",
+                      "desktopImageWidth": "110px",
+                      "mobileImageWidth": "110px",
+                      "isWrapping": true
+                    },
+                    {
+                      "type": "noteBox",
+                      "desktopImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Kompulze_Hromadeni_veci_04a24896fc.svg",
+                      "mobileImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Kompulze_Hromadeni_veci_mobile_418bbee204.svg",
+                      "backgroundColor": "#EFE9EC",
+                      "textColor": "#3F1024",
+                      "text": "**Obvyklé nutkavé chování (kompulze)** \n \n - Nadměrné hromadění informací, účtů, novin, časopisů... \n \n - Nadměrné hromadění zásob: čistících prostředků, trvanlivých potravin... \n \n - Nadměrné hromadění náhradních dílů, nářadí, věcí denní potřeby: tužky, nitě, látky, dráty...",
                       "desktopImageWidth": "110px",
                       "mobileImageWidth": "110px",
                       "isWrapping": true
@@ -781,8 +781,8 @@
                     ]
                   },
                   {
-                    "name": "excessiveConcernsAboutVariousThings",
-                    "question": "Nadměrné obavy týkající se různých věcí",
+                    "name": "compulsionsIntensity",
+                    "question": "Jak náročné pro vás bylo odolávat kompulzím?",
                     "options": [
                       {
                         "label": "Snadné",
@@ -939,7 +939,7 @@
             },
             {
               "type": "markdown",
-              "content": "Jana se **bojí nákazy**, a proto se často umývá a ujišťuje se, že je všechno v pořádku. V rozvoji jejího OCD hrálo roli několik vlivů, o kterých si můžete přečíst víc níže."
+              "content": "Jana se **bojí nákazy**, a proto se často umývá a ujišťuje se, že je všechno v pořádku. V rozvoji jejího OCD hrálo roli několik vlivů, o kterých si můžete přečíst víc níže."
             },
             {
               "type": "tool",
@@ -949,7 +949,6 @@
               "disabled": false,
               "buttonLabel": "Zavřít",
               "icon": "ArrowRight",
-              "description": "**Přečtěte si, jak se u Jany OCD rozvinulo a dále udržuje:**",
               "cards": [
                 {
                   "id": "Genetic and biological influence",
@@ -1013,7 +1012,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Nová životní role** \n \n Když se Jana stala matkou, ocitla se v úplně nové situaci plné nejistot. Neměla zkušenosti s péčí o novorozeně a nevěděla, zda vše dělá správně. \n \n Uvědomila si, že je nyní plně odpovědná za život a zdraví svého dítěte. Tíha této odpovědnosti byla pro ni velmi stresující. Každé její rozhodnutí nebo chyba mohly mít vážné následky. \n \n **Strach z ublížení** \n \n U Jany se rozvinul intenzivní strach, že by svému dítěti mohla neúmyslně ublížit. Tento strach byl umocněn její vrozenou citlivostí a zkušenostmi z dětství, kdy ji maminka často upozorňovala na možné nebezpečí. \n \n **Spouštěč OCD** \n \n Kombinace biologické zranitelnosti, naučených vzorců z dětství a aktuálního stresu z mateřství vytvořila ideální podmínky pro rozvoj OCD. Strach z kontaminace a ublížení dítěti se stal ústředním tématem jejích vtíravých myšlenek. \n \n V situacích, kdy se cítila nejistá, se Jana snažila získat pocit kontroly a bezpečí pomocí nadměrného mytí a kontrolování. To se postupně rozvinulo v plnohodnotné OCD."
+                      "content": "**Nová životní role** \n \n Když se Jana stala matkou, ocitla se v úplně nové situaci plné nejistot. Neměla zkušenosti s péčí o novorozeně a nevěděla, zda vše dělá správně. \n \n Uvědomila si, že je nyní plně odpovědná za život a zdraví svého dítěte. Tíha této odpovědnosti byla pro ni velmi stresující. Každé její rozhodnutí nebo chyba mohly mít vážné následky. \n \n **Strach z ublížení** \n \n U Jany se rozvinul silný strach, že by svému dítěti mohla neúmyslně ublížit. Tento strach byl umocněn její vrozenou citlivostí a zkušenostmi z dětství, kdy ji maminka často upozorňovala na možné nebezpečí. \n \n **Spouštěč OCD** \n \n Vrozená zranitelnost, zážitky z dětství a současný stres z mateřství vytvořily podmínky pro rozvoj OCD. Strach z nákazy a ublížení dítěti se stal ústředním tématem jejích vtíravých myšlenek. \n \n V situacích, kdy se cítila nejistá, se Jana snažila získat pocit kontroly a bezpečí pomocí nadměrného mytí a kontrolování. To se postupně rozvinulo v plnohodnotné OCD."
                     }
                   ]
                 },
@@ -1106,7 +1105,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Jana** \n \n Jana je maminka, která pracuje v administrativě. Každý den je pro ni soubojem s neviditelnými hrozbami: bakteriemi, viry a dotýkání se cizích předmětů. \n \n Po každé cestě hromadnou dopravou se musí převléct, vydezinfikovat mobil, kabelku, klíče a několikrát si umýt ruce. V práci si tajně čistí ruce dezinfekcí pod stolem. Doma otevírá dveře loktem, a než se přiblíží ke svému synovi Toníkovi, musí si být jistá, že je čistá. \n \n Její partner Šimon ji nejdřív uklidňoval, ale po letech opakování je z toho unavený. „Už nevím, co ti na to říct,“ opakuje s povzdechem. \n \n Jana se stydí a připadá si v tom osamělá. Po příchodu z práce by chtěla Touží hned obejmout a sednout si s ním na gauč, ale místo toho běží rovnou do sprchy. V hloubi duše ví, že to není dobré. A že tím přichází o chvíle, které už se nevrátí."
+                      "content": "**Jana** \n \n Jana je maminka, která pracuje v administrativě. Každý den je pro ni soubojem s neviditelnými hrozbami: bakteriemi, viry a dotýkání se cizích předmětů. \n \n Po každé cestě hromadnou dopravou se musí převléct, vydezinfikovat mobil, kabelku, klíče a několikrát si umýt ruce. V práci si tajně čistí ruce dezinfekcí pod stolem. Doma otevírá dveře loktem, a než se přiblíží ke svému synovi Toníkovi, musí si být jistá, že je čistá. \n \n Její partner Šimon ji nejdřív uklidňoval, ale po letech opakování je z toho unavený. „Už nevím, co ti na to říct,“ opakuje s povzdechem. \n \n Jana se stydí a připadá si v tom osamělá. Po příchodu z práce by chtěla hned obejmout svého syna a sednout si s ním na gauč. Ale místo toho běží rovnou do sprchy. V hloubi duše ví, že to není dobré. A že tím přichází o chvíle, které už se nevrátí."
                     }
                   ]
                 },
@@ -1231,7 +1230,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Lukáš** \n \n Lukáš v pubertě po rozvodu rodičů konvertoval ke křesťanství. Víra mu tehdy pomohla najít řád a útočiště. Časem se však proměnila v trápení. \n \n Každá rouhavá myšlenka, každý nevhodný obraz v hlavě v něm vyvolává pocit, že hřeší. Modlí se opakovaně, někdy i hodiny. Má strach, že zklame Boha, že nebude spasen. Naopak za rouhání přijde trest. \n \n Rouhavé myšlenky se objevují samy. Třeba když vidí kříž, kostel, čte něco o církvi nebo potká kněze či jeptišku. Musí se vždy zastavit a pomodlit. \n \n Lukáš je laskavý a citlivý člověk. Ale když přátelé vtipkují, raději odchází. Má dojem, že jsou jejich řeči povrchní a nábožensky nevhodné. Špatně snáší zejména černý humor. Svým smíchem se mohou rouhat. \n \n Lukáš má potíže i s intimitou. Bojí se hříchu, znečištění mysli a pokušení. Vídal se chvíli s několika ženami, ale nikdy z toho nebyl vztah. Někdy si přeje být jako ostatní, ale zároveň nechce zradit svou víru. Tento vnitřní rozpor ho ničí."
+                      "content": "**Lukáš** \n \n Lukáš v pubertě po rozvodu rodičů konvertoval ke křesťanství. Víra mu tehdy pomohla najít řád a útočiště. Časem se však proměnila v trápení. \n \n Každá rouhavá myšlenka, každý nevhodný obraz v hlavě v něm vyvolává pocit, že hřeší. Modlí se opakovaně, někdy i hodiny. Má strach, že zklame Boha, že nebude spasen. Naopak za rouhání přijde trest. \n \n Rouhavé myšlenky se objevují samy. Třeba když vidí kříž, kostel, čte něco o církvi nebo potká kněze či jeptišku. Musí se vždy zastavit a pomodlit. \n \n Lukáš je laskavý a citlivý člověk. Ale když přátelé vtipkují, raději odchází. Má dojem, že jsou jejich řeči povrchní a nábožensky nevhodné. Špatně snáší zejména černý humor. Svým smíchem se mohou rouhat. \n \n Lukáš má potíže i s blízkostí ve vztahu. Bojí se hříchu, znečištění mysli a pokušení. Vídal se chvíli s několika ženami, ale nikdy z toho nebyl vztah. Někdy si přeje být jako ostatní, ale zároveň nechce zradit svou víru. Tento vnitřní rozpor ho ničí."
                     }
                   ]
                 },
@@ -1281,7 +1280,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Michal** \n \n Michal je inteligentní a přemýšlivý. V práci má velkou odpovědnost a jedná s přirozeným odstupem a respektem. Ale v blízkých vztazích je to pro něj těžší. Neustále se ptá přítelkyně Mirky, jestli ho miluje. Jestli si je jistá. Jestli je „dost dobrý“. Když mu odpoví ano, nevěří jí. Když s odpovědí váhá, Michal propadá panice. \n \n Otázky ho napadají i opačně: Co když on nemiluje ji? Je pro něj ta pravá? Vybral si správně? V hlavě mu běží různé obsedantní otázky: *„Milujeme se dost? Neexistuje někdo lepší? Zasloužím si být šťastný?“* \n \n Často se srovnává s ostatními. Přemýšlí, jestli je dost atraktivní, dost silný, dost mužný. Sleduje každý detail svého vzhledu, hodnotí, jestli by Mirka mohla hledat někoho „lepšího“. \n \n Už se mu to dělo i v předešlých vztazích. Raději je ukončil, ale pak toho litoval. Mirka ho miluje. Cítí se však pod tlakem jeho otázek a ujišťování. \n \n Michal se stydí. Má ale strach, že kdyby to nedělal, všechno by se rozpadlo. Jakoby otázkami a ujišťováním bděl nad vztahem. Ale zároveň ví, že právě tím vztah ohrožuje."
+                      "content": "**Michal** \n \n Michal je inteligentní a přemýšlivý. V práci má velkou odpovědnost a jedná s přirozeným odstupem a respektem. Ale v blízkých vztazích je to pro něj těžší. Neustále se ptá přítelkyně Mirky, jestli ho miluje. Jestli si je jistá. Jestli je „dost dobrý“. Když mu odpoví ano, nevěří jí. Když s odpovědí váhá, Michal propadá panice. \n \n Otázky ho napadají i opačně: Co když on nemiluje ji? Je pro něj ta pravá? Vybral si správně? V hlavě mu běží různé obsedantní otázky: *„Milujeme se dost? Neexistuje někdo lepší? Zasloužím si být šťastný?“* \n \n Často se srovnává s ostatními. Přemýšlí, jestli je dost přitažlivý, dost silný, dost mužný. Sleduje každý detail svého vzhledu, hodnotí, jestli by Mirka mohla hledat někoho „lepšího“. \n \n Už se mu to dělo i v předešlých vztazích. Raději je ukončil, ale pak toho litoval. Mirka ho miluje. Cítí se však pod tlakem jeho otázek a ujišťování. \n \n Michal se stydí. Má ale strach, že kdyby to nedělal, všechno by se rozpadlo. Jakoby otázkami a ujišťováním bděl nad vztahem. Ale zároveň ví, že právě tím vztah ohrožuje."
                     }
                   ]
                 },
@@ -1306,7 +1305,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Jirka** \n \n Jirkovi je 58 let. Je uznávaný gynekolog, pracuje na klinice, a zároveň školí mladší kolegy. Žije s manželkou Lucií a má dvě dospělé dcery: Magdu a Ivanu. Ivana má dceru Vanesu, jeho první vnouče. Magda se s manželem neúspěšně snaží o dítě. \n \n Jirka jako lékař vždy cítil zvýšenou zodpovědnost za zdraví svých blízkých. Magdininy potíže s otěhotněním u něj spustily kompulze. \n \n Když jde po ulici nebo vychází z práce, musí se podívat na každé auto a spočítat čísla na poznávacích značkách. V duchu si je sčítá, dělí, někdy hledá známky „příznivých kombinací“. Když součet dá dohromady prvočíslo, musí hledat v okolí předměty, které počítá, dokud nenajde počet dělitelný čtyřmi. \n \n Podobně, jako to má s počítáním čísel na poznávacích značkách, počítá čísla na fakturách nebo čísla na úředních dokumentech. Pokud rituál neudělá včas, obává se, že se stane něco hrozného jeho rodině. \n \n Jirka ví, že to nedává smysl. Ale pocit neklidu a odpovědnosti je silnější než logika. Když čísla nespočítá, cítí intenzivní napětí, které ustoupí až po splnění kompulze. Opakuje se to několikrát denně. \n \n Začal se proto vyhýbat řízení auta. Raději žádá Lucii, aby řídila ona. Po cestě se kouká do mobilu, aby se vyhnul pohledu na poznávací značky. Lucce to už začíná vadit. \n \n Jirka se za své nutkání stydí a raději o tom nikomu neříká. Vtíravé myšlenky ho ale dále vyčerpávají. Rozhodl se zapojit do terapeutického programu. Doufá, že najde způsob, jak se vymanit z nutkání k rituálům."
+                      "content": "**Jirka** \n \n Jirkovi je 58 let. Je uznávaný gynekolog, pracuje na klinice, a zároveň školí mladší kolegy. Žije s manželkou Lucií a má dvě dospělé dcery: Magdu a Ivanu. Ivana má dceru Vanesu, jeho první vnouče. Magda se s manželem neúspěšně snaží o dítě. \n \n Jirka jako lékař vždy cítil velkou zodpovědnost za zdraví svých blízkých. Magdininy potíže s otěhotněním u něj spustily kompulze. \n \n Když jde po ulici nebo vychází z práce, musí se podívat na každé auto a spočítat čísla na poznávacích značkách. V duchu si je sčítá, dělí, někdy hledá známky „příznivých kombinací“. Když součet dá dohromady prvočíslo, musí hledat v okolí předměty, které počítá, dokud nenajde počet dělitelný čtyřmi. \n \n Podobně, jako to má s počítáním čísel na poznávacích značkách, počítá čísla na fakturách nebo čísla na úředních dokumentech. Pokud rituál neudělá včas, obává se, že se stane něco hrozného jeho rodině. \n \n Jirka ví, že to nedává smysl. Ale pocit neklidu a odpovědnosti je silnější než logika. Když čísla nespočítá, cítí intenzivní napětí, které ustoupí až po splnění kompulze. Opakuje se to několikrát denně. \n \n Začal se proto vyhýbat řízení auta. Raději žádá Lucii, aby řídila ona. Po cestě se kouká do mobilu, aby se vyhnul pohledu na poznávací značky. Lucce to už začíná vadit. \n \n Jirka se za své nutkání stydí a raději o tom nikomu neříká. Vtíravé myšlenky ho ale dále vyčerpávají. Rozhodl se zapojit do terapeutického programu. Doufá, že najde způsob, jak se vymanit z nutkání k rituálům."
                     }
                   ]
                 }
@@ -1336,7 +1335,7 @@
               "items": [
                 "Lidé s OCD se trápí nutkavými myšlenkami, impulzy nebo představami, kterým říkáme **obsese.**",
                 "Lidé s OCD provádí **kompulze**, aby se těchto pocitů zbavili, nebo je zmírnili. Ty se mohou objevovat v chování, např. jako opakované důkladné mytí rukou, nebo v myšlenkách, např. jako počítání v duchu. ",
-                "OCD vzniká kombinací **genetické zranitelnosti**, změn ve **fungování mozku** a vlivem **raných zážitků.**",
+                "OCD vzniká kombinací **vrozené zranitelnosti**, změn ve **fungování mozku** a vlivem **raných zážitků.**",
                 "OCD se často rozvíjí v **nejistých životních obdobích** a udržuje **kompulzemi a vyhýbavým chováním.**"
               ]
             }
@@ -1408,7 +1407,7 @@
                     },
                     {
                       "type": "collapse",
-                      "content": "**Strach z nákazy** \n \n - dotknutí se kliky, jízda hromadnou dopravou, na ulici kolem projde špinavý pes \n \n **Strach z vážné nemoci** \n \n - přečtení článku o onemocnění, zjištění, že někdo blízký či známý zemřel \n \n **Obavy o možném nebezpečí** \n \n - vaření na plynovém sporáku, průjezd autem pod dráty vysokého napětí \n \n **Obavy o vážných důsledcích běžných pochybení** \n \n - odchod z domu, odjezd na dovolenou \n \n **Myšlenky o nedostatku symetrie a chaosu** \n \n - nepořádek v pokoji, špatně roztříděné prádlo \n \n **Hledání znamení o vážném nebezpečí** \n \n - černá kočka jdoucí přes ulici, šlápnutí na kanál nebo na spáru mezi dlaždicemi \n \n **Obavy o vlastní nebezpečnosti** \n \n - pohled na trám, přes který by se dalo přehodit lano, číšník položil na stůl steakový nůž \n \n **Obavy s náboženskými tématy** \n \n - pohled na kostel, sledování filmu, ve kterém vystupují démoni \n \n **Obavy se sexuálními tématy** \n \n - lechtivá scéna ve filmu, situace, kdy někdo vyhledá vaši blízkost \n \n **Obavy o partnerském vztahu** \n \n - pohled na šťastný pár, sledování filmu, v němž se řeší problémy v partnerském vztahu",
+                      "content": "**Strach z nákazy** \n \n - dotknutí se kliky, jízda hromadnou dopravou, na ulici kolem projde špinavý pes \n \n **Strach z vážné nemoci** \n \n - přečtení článku o onemocnění, zjištění, že někdo blízký či známý zemřel \n \n **Obsese o možném nebezpečí** \n \n - vaření na plynovém sporáku, průjezd autem pod dráty vysokého napětí \n \n **Obsese o vážných důsledcích běžných pochybení** \n \n - odchod z domu, odjezd na dovolenou \n \n **Obsese o nedostatku symetrie a chaosu** \n \n - nepořádek v pokoji, špatně roztříděné prádlo \n \n **Hledání znamení o vážném nebezpečí** \n \n - černá kočka jdoucí přes ulici, šlápnutí na kanál nebo na spáru mezi dlaždicemi \n \n **Obsese o vlastní nebezpečnosti** \n \n - pohled na trám, přes který by se dalo přehodit lano, číšník položil na stůl steakový nůž \n \n **Obsese s náboženskými tématy** \n \n - pohled na kostel, sledování filmu, ve kterém vystupují démoni \n \n **Obsese se sexuálními tématy** \n \n - lechtivá scéna ve filmu, situace, kdy někdo vyhledá vaši blízkost \n \n **Obsese o partnerském vztahu** \n \n - pohled na šťastný pár, sledování filmu, v němž se řeší problémy v partnerském vztahu",
                       "title": "Příklady vnějších spouštěčů"
                     },
                     {
@@ -1417,7 +1416,7 @@
                     },
                     {
                       "type": "collapse",
-                      "content": "**Strach z nákazy** \n \n - vzpomínka na epidemii svrabu v okolí, svědění kůže \n \n **Strach z vážné nemoci** \n \n - vzpomínka na pandemii, škrábání v krku \n \n **Obavy o možném nebezpečí** \n \n - vzpomínka na zprávu o výbuchu plynu nebo o požáru, vzpomínka na něco, co jste kdysi četli nebo slyšeli o nějaké tragédii \n \n **Obavy o vážných důsledcích běžných pochybení** \n \n - vzpomínka na situaci, kdy si někdo zabouchl doma dveře, pocit, že v kapse nemáte klíče \n \n **Myšlenky o nedostatku symetrie a chaosu** \n \n - vzpomínka na nepřehlednou a stresující událost, vzpomínka na situaci spojenou s pocity bezmoci \n \n **Hledání znamení o vážném nebezpečí** \n \n - vzpomínka na situaci, kdy se objevilo znamení a došlo k nepříjemné události \n \n **Obavy o vlastní nebezpečnosti** \n \n - tělesné napětí, problém vzpomenout si, co jste zrovna dělali  \n \n **Obavy s náboženskými tématy** \n \n - vzpomínka na bohoslužbu, během které se mluvilo o konci světa nebo o Posledním soudu \n \n **Obavy se sexuálními tématy** \n \n - vzpomínka na odmítání sexuality v rodině, vzpomínka na sexuální selhání s partnerem, pocity tlaku nebo napětí v pánvi \n \n **Obavy o partnerském vztahu** \n \n - vzpomínka na předchozí vztah, vzpomínka na poslední hádku s partnerem, rozhovor o partnerovi",
+                      "content": "**Strach z nákazy** \n \n - vzpomínka na epidemii svrabu v okolí, svědění kůže \n \n **Strach z vážné nemoci** \n \n - vzpomínka na pandemii, škrábání v krku \n \n **Obsese o možném nebezpečí** \n \n - vzpomínka na zprávu o výbuchu plynu nebo o požáru, vzpomínka na něco, co jste kdysi četli nebo slyšeli o nějaké tragédii \n \n **Obsese o vážných důsledcích běžných pochybení** \n \n - vzpomínka na situaci, kdy si někdo zabouchl doma dveře, pocit, že v kapse nemáte klíče \n \n **Obsese o nedostatku symetrie a chaosu** \n \n - vzpomínka na nepřehlednou a stresující událost, vzpomínka na situaci spojenou s pocity bezmoci \n \n **Hledání znamení o vážném nebezpečí** \n \n - vzpomínka na situaci, kdy se objevilo znamení a došlo k nepříjemné události \n \n **Obsese o vlastní nebezpečnosti** \n \n - tělesné napětí, problém vzpomenout si, co jste zrovna dělali  \n \n **Obsese s náboženskými tématy** \n \n - vzpomínka na bohoslužbu, během které se mluvilo o konci světa nebo o Posledním soudu \n \n **Obsese se sexuálními tématy** \n \n - vzpomínka na odmítání sexuality v rodině, vzpomínka na sexuální selhání s partnerem, pocity tlaku nebo napětí v pánvi \n \n **Obsese o partnerském vztahu** \n \n - vzpomínka na předchozí vztah, vzpomínka na poslední hádku s partnerem, rozhovor o partnerovi",
                       "title": "Příklady vnitřních spouštěčů"
                     }
                   ]
@@ -1444,11 +1443,11 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Opakované chování** - něco, co děláme nebo čemu se vyhýbáme."
+                      "content": "**Opakované chování** - něco, co děláme, abychom našli úlevu nebo předešli obávané situaci."
                     },
                     {
                       "type": "collapse",
-                      "content": "**Strach z nákazy** \n \n - opakované dezinfikování rukou; opakované mytí \n \n **Strach z vážné nemoci** \n \n - vyhledávání informací o nemoci na internetu; opakované absolvování lékařských vyšetření \n \n **Obavy o možném nebezpečí** \n \n - opakované kontrolování, zda jste vypnuli plyn nebo zhasli světlo \n \n **Obavy o vážných důsledcích běžných pochybení** \n \n - opakované kontrolování, jestli jste zamkli dveře nebo jestli jste něco nezapomněli \n \n **Myšlenky o nedostatku symetrie a chaosu** \n \n - rovnání knížek v poličce, namáhavé uklízení bytu \n \n **Hledání znamení o vážném nebezpečí** \n \n - klepání na dřevo, opakované vykládání tarotových karet \n \n **Obavy o vlastní nebezpečnosti** \n \n - opakované ujišťování se, že se nic nestalo, kontrolování, že jste nepohnuli s nebezpečným předmětem \n \n **Obavy s náboženskými tématy** \n \n - velmi časté návštěvy bohoslužeb, úporná snaha o vykonání dokonalých náboženských rituálů \n \n **Obavy se sexuálními tématy** \n \n - opakované ujišťování se, že jste neudělali nic špatného \n \n **Obavy o partnerském vztahu** \n \n - úporné hledání informací, které by pomohly v rozhodnutí, zda je partner ten pravý, ujišťování se u partnera nebo u ostatních, že se k sobě opravdu hodíte",
+                      "content": "**Strach z nákazy** \n \n - opakované dezinfikování rukou; opakované mytí \n \n **Strach z vážné nemoci** \n \n - vyhledávání informací o nemoci na internetu; opakované absolvování lékařských vyšetření \n \n **Obsese o možném nebezpečí** \n \n - opakované kontrolování, zda jste vypnuli plyn nebo zhasli světlo \n \n **Obsese o vážných důsledcích běžných pochybení** \n \n - opakované kontrolování, jestli jste zamkli dveře nebo jestli jste něco nezapomněli \n \n **Obsese o nedostatku symetrie a chaosu** \n \n - rovnání knížek v poličce, namáhavé uklízení bytu \n \n **Hledání znamení o vážném nebezpečí** \n \n - klepání na dřevo, opakované vykládání tarotových karet \n \n **Obsese o vlastní nebezpečnosti** \n \n - opakované ujišťování se, že se nic nestalo, kontrolování, že jste nepohnuli s nebezpečným předmětem \n \n **Obsese s náboženskými tématy** \n \n - velmi časté návštěvy bohoslužeb, úporná snaha o vykonání dokonalých náboženských rituálů \n \n **Obsese se sexuálními tématy** \n \n - opakované ujišťování se, že jste neudělali nic špatného \n \n **Obsese o partnerském vztahu** \n \n - úporné hledání informací, které by pomohly v rozhodnutí, zda je partner ten pravý, ujišťování se u partnera nebo u ostatních, že se k sobě opravdu hodíte",
                       "title": "Příklady opakovaného chování"
                     },
                     {
@@ -1457,7 +1456,7 @@
                     },
                     {
                       "type": "collapse",
-                      "content": "**Strach z nákazy** \n \n - představování mytí rukou \n \n **Strach z vážné nemoci** \n \n - pečlivé skenování toho, jak se člověk cítí ve svém těle - třeba, jestli ho něco nesvědí nebo nebolí \n \n **Obavy o možném nebezpečí** \n \n - usilovné vzpomínání na jízdu autem, aby se ujistil, že jste nikoho nesrazil/a \n \n **Obavy o vážných důsledcích běžných pochybení** \n \n - opakované vzpomínání na to, že jste opouštěli byt a všechno bylo v pořádku \n \n **Myšlenky o nedostatku symetrie a chaosu** \n \n - opakování série čísel nebo vět ve své mysli; zvažování, jestli jste cítili jako stejně „správné“, když jste něco rovnali levou i pravou rukou \n \n **Hledání znamení o vážném nebezpečí** \n \n - opakování ochranné mantry v mysli \n \n **Obavy o vlastní nebezpečnosti** \n \n - přemítání, jestli jste udělali něco špatného; opakování ujišťujících vět v mysli \n \n **Obavy s náboženskými tématy** \n \n - provádění dlouhých modliteb v mysli \n \n **Obavy se sexuálními tématy** \n \n - úporné zkoumání svých myšlenek a toho, jestli obsahují „zakázané“ obsahy a jestli vyvolávají vzrušení \n \n **Obavy o partnerském vztahu** \n \n - vyjmenovávání seznamu pro a proti vztahu v mysli",
+                      "content": "**Strach z nákazy** \n \n - představování mytí rukou \n \n **Strach z vážné nemoci** \n \n - pečlivé skenování toho, jak se člověk cítí ve svém těle - třeba, jestli ho něco nesvědí nebo nebolí \n \n **Obavy o možném nebezpečí** \n \n - usilovné vzpomínání na jízdu autem, aby se ujistil, že jste nikoho nesrazil/a \n \n **Obavy o vážných důsledcích běžných pochybení** \n \n - opakované vzpomínání na to, že jste opouštěli byt a všechno bylo v pořádku \n \n **Obsese o nedostatku symetrie a chaosu** \n \n - opakování série čísel nebo vět ve své mysli; zvažování, jestli jste cítili jako stejně „správné“, když jste něco rovnali levou i pravou rukou \n \n **Hledání znamení o vážném nebezpečí** \n \n - opakování ochranné mantry v mysli \n \n **Obavy o vlastní nebezpečnosti** \n \n - přemítání, jestli jste udělali něco špatného; opakování ujišťujících vět v mysli \n \n **Obavy s náboženskými tématy** \n \n - provádění dlouhých modliteb v mysli \n \n **Obavy se sexuálními tématy** \n \n - úporné zkoumání svých myšlenek a toho, jestli obsahují „zakázané“ obsahy a jestli vyvolávají vzrušení \n \n **Obavy o partnerském vztahu** \n \n - vyjmenovávání seznamu pro a proti vztahu v mysli",
                       "title": "Příklady mentálních činností"
                     }
                   ]
@@ -1484,7 +1483,7 @@
                     },
                     {
                       "type": "collapse",
-                      "content": "**Strach z nákazy** \n \n - představa toho, jak po vás lezou bakterie; myšlenka na to, že jste se nakazili \n \n **Strach z vážné nemoci** \n \n - představa nemoci u vás nebo u vašich blízkých; myšlenka na to, že jste nemocní \n \n **Obavy o možném nebezpečí** \n \n - představa toho, jak na vás padá drát probíjející elektřinu; myšlenka na to, že u vás doma vybuchne plyn \n \n **Obavy o vážných důsledcích běžných pochybení** \n \n - představa toho, že v kapse opravdu nemáte klíče; myšlenka na to, že jste si je zabouchli \n \n **Myšlenky o nedostatku symetrie a chaosu** \n \n - myšlenka na to, že je věc neuklizení nebo špatně uspořádaná; nutkání to okamžitě uklidit a srovnat \n \n **Hledání znamení o vážném nebezpečí** \n \n - myšlenka na to, že se stane neštěstí; představa toho, jak k neštěstí dochází \n \n **Obavy o vlastní nebezpečnosti** \n \n - myšlenka na to, že někomu ublížíte; představa, jak to děláte \n \n **Obavy s náboženskými tématy** \n \n - rouhavá myšlenka nebo představa \n \n **Obavy se sexuálními tématy** \n \n - sexuální představa zahrnující člověka, který vás nepřitahuje; myšlenka na to, že by vás mohl přitahovat \n \n **Obavy o partnerském vztahu** \n \n - myšlenka na to, že se k sobě s partnerem nehodíte nebo že si rozhodnutím zůstat s ním pokazíte život",
+                      "content": "**Strach z nákazy** \n \n - představa toho, jak po vás lezou bakterie; myšlenka na to, že jste se nakazili \n \n **Strach z vážné nemoci** \n \n - představa nemoci u vás nebo u vašich blízkých; myšlenka na to, že jste nemocní \n \n **Obsese o možném nebezpečí** \n \n - představa toho, jak na vás padá drát probíjející elektřinu; myšlenka na to, že u vás doma vybuchne plyn \n \n **Obsese o vážných důsledcích běžných pochybení** \n \n - představa toho, že v kapse opravdu nemáte klíče; myšlenka na to, že jste si je zabouchli \n \n **Obsese o nedostatku symetrie a chaosu** \n \n - myšlenka na to, že je věc neuklizení nebo špatně uspořádaná; nutkání to okamžitě uklidit a srovnat \n \n **Hledání znamení o vážném nebezpečí** \n \n - myšlenka na to, že se stane neštěstí; představa toho, jak k neštěstí dochází \n \n **Obsese o vlastní nebezpečnosti** \n \n - myšlenka na to, že někomu ublížíte; představa, jak to děláte \n \n **Obsese s náboženskými tématy** \n \n - rouhavá myšlenka nebo představa \n \n **Obsese se sexuálními tématy** \n \n - sexuální představa zahrnující člověka, který vás nepřitahuje; myšlenka na to, že by vás mohl přitahovat \n \n **Obsese o partnerském vztahu** \n \n - myšlenka na to, že se k sobě s partnerem nehodíte nebo že si rozhodnutím zůstat s ním pokazíte život",
                       "title": "Příklady obsesí"
                     }
                   ]
@@ -1846,7 +1845,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": ":::text--center \n **Bludný kruh v situaci, kdy si Michal všimnul, že je Lenka déle na mobilu a projíždí sociální sítě.** \n :::"
+                      "content": ":::text--center \n **Bludný kruh v situaci, kdy si Michal všiml, že je Lenka déle na mobilu a projíždí sociální sítě.** \n :::"
                     },
                     {
                       "type": "image",
@@ -2204,8 +2203,8 @@
               "placeholder": "Co vás zaujalo?",
               "title": "**Co pro vás bylo nejpřínosnější nebo nejzajímavější?**",
               "rows": 2,
-              "maxLength": 500,
-              "lengthValidationMessage": "Maximální délka odpovědi je 500 znaků.",
+              "maxLength": 250,
+              "lengthValidationMessage": "Maximální délka odpovědi je 250 znaků.",
               "required": false
             },
             {
@@ -2213,8 +2212,8 @@
               "placeholder": "Moje hodnocení příběhů",
               "title": "**Zaujaly vás příběhy lidí s OCD? Ve kterém z nich jste se nejvíce poznal/a?**",
               "rows": 2,
-              "maxLength": 500,
-              "lengthValidationMessage": "Maximální délka odpovědi je 500 znaků.",
+              "maxLength": 250,
+              "lengthValidationMessage": "Maximální délka odpovědi je 250 znaků.",
               "required": false
             }
           ]

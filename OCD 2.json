@@ -85,6 +85,72 @@
           ]
         },
         {
+          "title": "Ohlédnutí za minulým týdnem",
+          "icon": "exercise",
+          "isEvaluable": true,
+          "finalScreen": {
+            "buttonLabel": "Upravit odpovědi",
+            "contentSections": [
+              {
+                "type": "image",
+                "isExpandable": true,
+                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Relax_e24051df56.svg",
+                "width": "280px",
+                "alt": "Relaxující postava sedící se skříženýma nohama",
+                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Relax_e24051df56.svg",
+                "widthMobile": "280px",
+                "align": "center"
+              },
+              {
+                "type": "markdown",
+                "content": ":::text--center \n #### Jděte na to postupně. \n \n I malý krok je úspěch, pokud se na něj díváme očima odvahy. \n :::"
+              }
+            ]
+          },
+          "contentSections": [
+            {
+              "type": "markdown",
+              "content": "Během týdne jste mohli pozorovat a zaznamenávat si své prožívání. Všímali jste si svých **obsesí** a **kompulzí**? Zajímá nás, jak se vám dařilo!"
+            },
+            {
+              "type": "pictureAndNote",
+              "image": {
+                "isExpandable": true,
+                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Ohlednuti_za_minulym_tydnem_c823b34a4c.svg",
+                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Ohlednuti_za_minulym_tydnem_mobile_1df75171e5.svg",
+                "alt": "Zápisník se zakroužkovaným textem",
+                "width": "164px",
+                "widthMobile": "100%",
+                "align": "center"
+              },
+              "note": {
+                "title": "**Stručně popište, zda nebo jak jste se pustili do pozorování svých obsesí a kompulzí.**",
+                "rows": 2,
+                "placeholder": "Čemu jste se věnovali?",
+                "required": false
+              }
+            },
+            {
+              "type": "pictureAndNote",
+              "image": {
+                "isExpandable": true,
+                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Novy_pohled_2ee4153b6b.svg",
+                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Novy_pohled_mobile_367cf25a29.svg",
+                "alt": "Srdce rozděléné do čtyř puzzle dílků",
+                "width": "164px",
+                "widthMobile": "100%",
+                "align": "center"
+              },
+              "note": {
+                "title": "**Co jste o sobě během výzvy zjistili?**",
+                "rows": 2,
+                "placeholder": "Můj nový pohled",
+                "required": false
+              }
+            }
+          ]
+        },
+        {
           "title": "Zpráva pro terapeuta",
           "icon": "exercise",
           "isEvaluable": true,
@@ -98,19 +164,6 @@
               "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Zprava_pro_terapeuta_mobile_e785e38a53.svg",
               "widthMobile": "100%",
               "align": "center"
-            },
-            { 
-              "type": "slider", 
-              "title": "**Jak vám mezi moduly šlo vyplňovat bludné kruhy?**", 
-              "min": 0, 
-              "max": 10,
-              "step": 1, 
-              "defaultValue": 0, 
-              "labelStart": "Moc mi to nešlo",
-              "labelEnd": "Šlo mi to výborně",
-              "description": "Zamyslete se, jak se vám dařilo v týdenní výzvě. Všímali jste si svých obsesí a kompulzí?",
-              "variant": "gradient",
-              "required": false
             },
             {
               "type": "note",
@@ -169,7 +222,7 @@
           "contentSections": [
             {
               "type": "markdown",
-              "content": "Myšlenky, které vedou k nepříjemnému prožívání, často obsahují tzv. **kognitivní omyly**. Co to je a jak ovlivňují OCD? To se dozvíte v audiostopě."
+              "content": "Myšlenky, které zachytíme v bludném kruhu, často vedou k nepříjemnému prožívání. Je to kvůli tomu, že obsahují filtry, které zkreslují náš pohled na situaci. Častými myšlenkovými filtry jsou tzv. **kognitivní omyly.**"
             },
             {
               "type": "audio",
@@ -502,7 +555,7 @@
           "contentSections": [
             {
               "type": "markdown",
-              "content": "Někdy v nás mohou úzkost vyvolávat nejen myšlenky jako takové, ale také to, jak své myšlení hodnotíme. Říkáme tomu **metakognice**. Ve videu si blíže vysvětlíme, co to znamená."
+              "content": "Někdy v nás mohou úzkost vyvolávat nejen myšlenky jako takové, ale také to, jak své myšlení hodnotíme. Je to druhý typ myšlenkových filtrů. Říkáme tomu **metakognice**. Ve videu si blíže vysvětlíme, co to znamená."
             },
             {
               "type": "video",
@@ -513,7 +566,13 @@
               "type": "collapse",
               "content": "Všechny nás někdy napadnou nepříjemné nebo strašidelné myšlenky. Co nás ale často děsí víc, je samotná **existence takových myšlenek**. „Jak mě to mohlo vůbec napadnout?“ Říkáme si, že to o nás musí vypovídat něco hrozného. \n \n Ukážeme si to na příkladu. Petrovy obsese se často týkají strachu, že udělá chybu a způsobí vážné následky. „Co když jsem nevypnul sporák a vyhoří celý dům?“ Tím to ale nekončí. Začne si říkat: „Proč mě to vůbec napadá? To asi znamená, že chci, abychom vyhořeli. Jsem nebezpečný.“ Petr začne **hodnotit**, co o něm takové myšlenky **vypovídají**. Říká si: „Tohle by sis neměl myslet! Jsi hrozný člověk!“ \n \n Říkáme tomu **metakognice**, nebo také **myšlenky o myšlenkách**. Jsou to vlastně názory na to, co znamená naše přemýšlení. A právě ty často spouští největší úzkost. \n \n Metakognice hlavně **hodnotí**, jaké naše myšlenky jsou. Jsou dobré nebo špatné? Co o nás vypovídají? Jsou důležité? Nejsou náhodou nebezpečné? \n \n Někdy nám našeptávají, že když nás něco napadne, **musí to být pravda**. Nebo že se to kvůli tomu určitě stane. \n \n Na následující stránce se seznámíte se základními druhy metakognic.",
               "title": "Radši si přečtu"
-            },
+            }
+          ]
+        },
+        {
+          "title": "Druhy metakognic",
+          "icon": "text",
+          "contentSections": [
             {
               "type": "markdown",
               "content": "Metakognice můžeme rozdělit na **pozitivní** a **negativní**. Níže si přečtěte, jak se tyto druhy liší."
@@ -589,19 +648,19 @@
                         "„Když si myslím, že jsem něco udělal, tak jsem to asi opravdu udělal.“",
                         "„Když nemyslím na svou čistotu, tak to znamená, že jsem odporný.“"
                       ]
-                    },
-                    {
-                      "type": "list",
-                      "title": "**Ve skutečnosti ale platí:**",
-                      "color": "#27637C",
-                      "items": [
-                        "Myšlenky nejsou činy.",
-                        "Mozek vytváří různé nápady, ale to neznamená, že jsou pravdivé.",
-                        "To, co nás napadne, nevypovídá o naší povaze."
-                      ]
                     }
                   ]
                 }
+              ]
+            },
+            {
+              "type": "list",
+              "title": "**Ve skutečnosti ale platí:**",
+              "color": "#27637C",
+              "items": [
+                "Myšlenky nejsou činy.",
+                "Mozek vytváří různé nápady, ale to neznamená, že jsou pravdivé.",
+                "To, co nás napadne, nevypovídá o naší povaze."
               ]
             }
           ]
@@ -919,7 +978,7 @@
               "questions": [
                 {
                   "name": "Question1",
-                  "question": ":::text--center \n Klára uviděla na pískovišti malého chlapečka a napadla vtíravá myšlenka, že by ho mohla zneužít. Potom jí proběhlo hlavou, že to znamená, že se to kdykoliv může stát. \n \n Co to bylo za myšlenku? \n :::",
+                  "question": ":::text--center \n Klára uviděla na pískovišti malého chlapečka a napadla ji vtíravá myšlenka, že by ho mohla zneužít. Potom jí proběhlo hlavou, že to znamená, že se to kdykoliv může stát. \n \n Co to bylo za myšlenku? \n :::",
                   "options": [
                     {
                       "label": "A) Perfekcionismus",
@@ -930,12 +989,12 @@
                       "value": 1
                     },
                     {
-                      "label": "C) Splynutí myšlení a skutečnosti ",
+                      "label": "C) Metakognice",
                       "value": 2
                     }
                   ],
                   "correctAnswer": 2,
-                  "correctAnswerReason": "Správná odpověď je C) Splynutí myšlení a skutečnosti. Klára o své obsesi přemýšlí a splývá jí to, co ji napadá, se skutečností. To, že ji něco napadne, ale neznamená, že to opravdu udělá. Je to jen myšlenka."
+                  "correctAnswerReason": "Správná odpověď je C) Metakognice. Klára o své obsesi přemýšlí a splývá jí to, co ji napadá, se skutečností. To, že ji něco napadne, ale neznamená, že to opravdu udělá. Je to jen myšlenka."
                 },
                 {
                   "name": "Question2",
@@ -1495,7 +1554,7 @@
           "contentSections": [
             {
               "type": "markdown",
-              "content": "Na své hierarchii expozic budete pracovat mezi moduly. Cvičení najdete v sekci Expozice, ve které si můžete dělat záznamy kdykoli. Více informací o tom, jak cvičení funguje se dozvíte ve videu."
+              "content": "Na své hierarchii expozic budete pracovat mezi moduly. Cvičení najdete v sekci Expozice, ve které si můžete kdykoliv psát záznamy. Více informací o tom, jak cvičení funguje se dozvíte ve videu."
             },
             {
               "type": "video",
@@ -1641,13 +1700,12 @@
           ]
         },
         {
-          "title": "Jak se vám modul líbil?",
-          "icon": "Exercise",
-          "isEvaluable": true,
+          "title": "Cvičení expozic",
+          "icon": "text",
           "contentSections": [
             {
-              "type": "satisfactionQuestionnaire",
-              "omitTherapistHelpsQuestion": false
+              "type": "markdown",
+              "content": "Než modul odešlete, **připravte si svou hierarchii expozic** v sekci Expozice. Terapeut vám ve zpětné vazbě dá vědět, zda by nebylo vhodné něco upravit."
             },
             {
               "type": "decider",
@@ -1684,6 +1742,17 @@
                   ]
                 }
               ]
+            }
+          ]
+        },
+        {
+          "title": "Jak se vám modul líbil?",
+          "icon": "Exercise",
+          "isEvaluable": true,
+          "contentSections": [
+            {
+              "type": "satisfactionQuestionnaire",
+              "omitTherapistHelpsQuestion": false
             },
             {
               "type": "note",

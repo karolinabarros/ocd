@@ -1200,7 +1200,7 @@
                   "contentSections": [
                     {
                       "type": "note",
-                      "title": "**Naplánujte si konkrétně, kdy a kde tuto příjemnou aktivitu provedete.**",
+                      "title": "**Naplánujte si, kdy a kde tuto příjemnou aktivitu provedete.**",
                       "instruction": "Konkrétní plán vám pomůže se do aktivity skutečně pustit.",
                       "placeholder": "Akční plán",
                       "required": true,
@@ -1226,7 +1226,7 @@
                   "contentSections": [
                     {
                       "type": "note",
-                      "title": "**Zapište si, jak tyto překážky můžete zvládnout.**",
+                      "title": "**apište si, jak byste tyto překážky mohl/a zvládnout.**",
                       "instruction": "Co si můžete říct nebo udělat, abyste překážky překonali?",
                       "placeholder": "Jak překonám překážky",
                       "required": true,

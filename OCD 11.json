@@ -20,7 +20,7 @@
               "color": "#27637C",
               "items": [
                 "Jak využít to, co jste se v programu dozvěděli i po dokončení programu.",
-                "Jak předejít zhoršení příznaků OCD."
+                "Jak předejít opětovnému zesílení příznaků OCD."
               ]
             }
           ]
@@ -90,7 +90,7 @@
           "contentSections": [
             {
               "type": "markdown",
-              "content": "V předchozím modulu jste objevovali své **hodnoty** a **životní role**. Vaše týdenní výzva spočívala v hledání **motivace** skrze své hodnoty, obzvlášť při dělání expozic. Zajímá nás, jak to šlo!"
+              "content": "V předchozím modulu jste objevovali své **hodnoty** a **životní role**. Vaše týdenní výzva spočívala v hledání způsobů, jak ve svém životě můžete **naplňovat hodnoty**, které jsou pro vás důležité. Zajímá nás, jak to šlo!"
             },
             {
               "type": "pictureAndNote",
@@ -200,7 +200,7 @@
           "contentSections": [
             {
               "type": "markdown",
-              "content": "V programu jsme se věnovali různým **tématům** a **oblastem OCD**. Níže si můžete připomenout, co všechno jste se dozvěděli a zhodnotit, nakolik u daných oblastí vnímáte **vlastní posun.**"
+              "content": "V programu jsme se věnovali různým **tématům souvisejícím s OCD**. Níže si můžete připomenout, co všechno jste se dozvěděli a zhodnotit, nakolik u daných oblastí vnímáte **vlastní posun.**"
             },
             {
               "type": "tool",
@@ -230,7 +230,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "Na začátku programu jste se dozvěděli, jak při OCD souvisí vaše obsese, psychická i fyzická nepohoda, kompulze a krátkodobá úleva. Ukázali jsme si, že prováděním kompulzí posilujeme bludný kruh OCD. \n \n **Na škálách označte, jak jistí se vám daří v daných oblastech.**"
+                      "content": "Na začátku programu jste se dozvěděli, jak s OCD souvisí vaše obsese, psychická i fyzická nepohoda, kompulze a krátkodobá úleva. Ukázali jsme si, že prováděním kompulzí posilujeme bludný kruh OCD. \n \n **Označte, jak se vám daří v daných oblastech.**"
                     },
                     { 
                       "type": "slider", 
@@ -276,7 +276,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "Dozvěděli jste se, že lidé s OCD často přikládají svým myšlenkám přehnaný význam. Můžeme věřit, že naše myšlenky určují, jaký jsme člověk nebo že předvídají budoucnost. Také jste poznali filtry myšlení, které mohou zbarvovat, jak věci vnímáme. Jde např. o katastrofizaci, tunelové vidění nebo metakognice. \n \n **Na škálách označte, jak jistí se vám daří v daných oblastech.**"
+                      "content": "Dozvěděli jste se, že lidé s OCD často přikládají svým myšlenkám nadměrný význam. Můžeme věřit, že naše myšlenky určují, jaký jsme člověk nebo že předvídají budoucnost. Také jste poznali filtry myšlení, které mohou zbarvovat, jak věci vnímáme. Jde např. o katastrofizaci, tunelové vidění nebo metakognice. \n \n **Označte, jak se vám daří v daných oblastech.**"
                     },
                     { 
                       "type": "slider", 
@@ -334,7 +334,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "Během programu jste objevili sílu a význam expozic se zábranou odpovědi. Věnovali jste se jim i mezi moduly a svůj postup sdíleli se svým terapeutem. Také jste se dozvěděli o metodě expozic v představě, která může pomoci, pokud se necítíte na to udělat expozici ve skutečnosti nebo to z nějakého důvodu nejde. \n \n **Na škálách označte, jak jistí se vám daří v daných oblastech.**"
+                      "content": "Během programu jste objevili sílu a význam expozic se zábranou odpovědi. Věnovali jste se jim i mezi moduly a svůj postup sdíleli se svým terapeutem. Také jste se dozvěděli o metodě expozic v představě, která může pomoci, pokud se necítíte na to udělat expozici ve skutečnosti nebo to z nějakého důvodu nejde. \n \n **Označte, jak se vám daří v daných oblastech.**"
                     },
                     { 
                       "type": "slider", 
@@ -350,7 +350,7 @@
                     },
                     { 
                       "type": "slider", 
-                      "title": "**Reaguji na nepříjemné pocity bez provádění kompulzi.**",
+                      "title": "**Nedělám kompulze, i když se cítím nepříjemně.**",
                       "min": 0, 
                       "max": 10,
                       "step": 1, 
@@ -362,7 +362,7 @@
                     },
                     { 
                       "type": "slider", 
-                      "title": "**Věnuji se expozicím pravidelně a postupně se posouvám k obtížnějším.**",
+                      "title": "**Věnuji se expozicím pravidelně a odměňuji se za ně.**",
                       "min": 0, 
                       "max": 10,
                       "step": 1, 
@@ -392,7 +392,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "OCD nás někdy může vést k tomu, že zapadneme do rutiny, kdy se věnujeme jenom kompulzím nebo si urputně vyčítáme své obsese. Ve čtvrtém modulu jste se dozvěděli o tom, jak významnou roli mají příjemné aktivity. Vyhradili jste si čas pro něco, co vás baví nebo si to užíváte. \n \n **Na škálách označte, jak jistí se vám daří v daných oblastech.**"
+                      "content": "OCD nás někdy může vést k tomu, že zapadneme do rutiny, kdy se věnujeme jenom kompulzím nebo si urputně vyčítáme své obsese. Ve čtvrtém modulu jste se dozvěděli o tom, jak významnou roli mají příjemné aktivity. Vyhradili jste si čas pro něco, co vás baví nebo si to užíváte. \n \n **Označte, jak se vám daří v daných oblastech.**"
                     },
                     { 
                       "type": "slider", 
@@ -420,7 +420,7 @@
                     },
                     { 
                       "type": "slider", 
-                      "title": "**Pravidelně se věnuji metodám mindfulness nebo jiným relaxačním cvičením.**",
+                      "title": "**Pravidelně se věnuji mindfulness nebo relaxačním cvičením.**",
                       "min": 0, 
                       "max": 10,
                       "step": 1, 
@@ -450,7 +450,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "Seznámili jste s vnitřním Kritikem, který vás hodnotí, obviňuje a nastavuje často nedosažitelné cíle. Dozvěděli jste se, že mu nemusíte slepě důvěřovat. Můžete mu odpovědět hlasem Zdravého dospělého nebo Laskavého rodiče. \n \n **Na škálách označte, jak jistí se vám daří v daných oblastech.**"
+                      "content": "Seznámili jste s vnitřním Kritikem, který vás hodnotí, obviňuje a nastavuje často nedosažitelné cíle. Dozvěděli jste se, že ho nemusíte slepě poslouchat. Můžete mu odpovědět hlasem Zdravého dospělého nebo Laskavého rodiče. \n \n **Označte, jak se vám daří v daných oblastech.**"
                     },
                     { 
                       "type": "slider", 
@@ -508,7 +508,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "V modulu o komunikaci jste objevili různé způsoby, jak OCD může zasahovat do vztahů. Zjistili jste, že kvůli obsesím můžeme na druhé příliš tlačit nebo od nich opakovaně vyžadovat ujišťování. Může to pak vést ke konfliktům a k ochlazení vztahu. \n \n **Na škálách označte, jak jistí se vám daří v daných oblastech.**"
+                      "content": "V modulu o komunikaci jste objevili různé způsoby, jak OCD může zasahovat do vztahů. Zjistili jste, že kvůli obsesím můžeme na druhé příliš tlačit nebo od nich opakovaně vyžadovat ujišťování. Může to pak vést ke konfliktům a k ochlazení vztahu. \n \n **Označte, jak se vám daří v daných oblastech.**"
                     },
                     { 
                       "type": "slider", 
@@ -566,7 +566,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "V modulu o systematickém řešení problémů jste se naučili dívat na velké problémy jinak. Dozvěděli jste se, jak si rozebrat problém, nastavit konkrétní cíl, sestavit plán a vyhodnotit následující postup. \n \n **Na škálách označte, jak jistí se vám daří v daných oblastech.**"
+                      "content": "V modulu o systematickém řešení problémů jste se naučili dívat na velké problémy jinak. Dozvěděli jste se, jak si rozebrat problém, vymyslet dosažitelný cíl, sestavit plán a vyhodnotit následující postup. \n \n **Označte, jak se vám daří v daných oblastech.**"
                     },
                     { 
                       "type": "slider", 
@@ -594,7 +594,7 @@
                     },
                     { 
                       "type": "slider", 
-                      "title": "**Po dokončení plánu si vyhrazuji čas na vyhodnocení a poučení pro příště.**",
+                      "title": "**Po dokončení plánu si vyhrazuji čas na vyhodnocení a zamyšlení pro příště.**",
                       "min": 0, 
                       "max": 10,
                       "step": 1, 
@@ -624,7 +624,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "V minulém modulu jste objevovali své hodnoty a životní role. Ty jsou důležité nejen proto, abyste se cítili šťastně a naplněně, ale také jako zdroj síly na cestě ven z bludného kruhu OCD. Hodnoty nám totiž pomáhají řídit svůj život následováním smyslu a ne utíkáním před strachem. \n \n **Na škálách označte, jak jistí se vám daří v daných oblastech.**"
+                      "content": "V minulém modulu jste objevovali své hodnoty a životní role. Ty jsou důležité nejen proto, abyste se cítili šťastně a naplněně, ale také jako zdroj síly na cestě ven z bludného kruhu OCD. Hodnoty nám totiž pomáhají řídit svůj život následováním smyslu a ne utíkáním před strachem. \n \n **Označte, jak se vám daří v daných oblastech.**"
                     },
                     { 
                       "type": "slider", 
@@ -692,7 +692,7 @@
             },
             {
               "type": "markdown",
-              "content": "Zamyslete se, co jste se v programu **naučili**. Může to být terapeutická metoda, strategie nebo nový pohled na věc. Vypište si **konkrétní situace**, kdy jste to použili."
+              "content": "Zamyslete se, co jste se v programu **naučili**. Může to být něco důležitého, co jste si uvědomili, některá z **terapeutických metod** nebo třeba nový přístup k věcem. Zapište si, kdy jste to použili."
             },
             {
               "type": "repeater",
@@ -738,7 +738,7 @@
             },
             {
               "type": "list",
-              "title": "**Co jste dokázali:**",
+              "title": "**Nad čím jste se zamysleli**",
               "color": "#27637C",
               "items": [
                 "Jak se vám daří zapojovat dovednosti a znalosti z programu v běžném životě.",
@@ -775,13 +775,13 @@
           "contentSections": [
             {
               "type": "markdown",
-              "content": "**Dopis sobě** je cvičení, které vám pomůže ukotvit tyto změny. Píšete ho sami sobě, jako **připomínku**, že jste na své cestě udělali kus práce, že máte hodnotu a že umíte naplňovat své emocionální potřeby vlastní silou. \n \n **Oblasti dopisu sobě:**"
+              "content": "**Dopis sobě** vám pomůže ukotvit změny, kterých jste dosáhli. Píšete ho sami sobě, jako **připomínku**, že jste na své cestě udělali kus práce, že máte hodnotu a že umíte naplňovat své emocionální potřeby vlastní silou. \n \n **Oblasti dopisu sobě:**"
             },
             {
               "type": "pictureAndMarkdown",
               "items": [
                 {
-                  "content": "**Bezpečí** \n \n Připomeňte si momenty, kdy jste se cítili v bezpečí, třeba když jste zvládli úzkost bez rituálu, nebo jste si dovolili odpočinout. \n \n „Děkuji si, že jsem to vydržel/a, i když bylo těžké to vydržet.“",
+                  "content": "**Bezpečí** \n \n Připomeňte si momenty, kdy jste se cítili v bezpečí, třeba když jste zvládli úzkost bez kompulze, nebo jste si dovolili odpočinout. \n \n „Děkuji si, že jsem to vydržel/a, i když bylo těžké to vydržet.“",
                   "isReversed": false,
                   "direction": "row",
                   "gutter": 24,
@@ -798,7 +798,7 @@
               "type": "pictureAndMarkdown",
               "items": [
                 {
-                  "content": "**Přijetí** \n \n Připomeňte si okamžiky, kdy jste se přijali takoví, jací jste. Třeba když jste zvládli těžkou situaci bez přehnané sebekritiky, nebo když jste si dovolili být sami sebou, i když to nebylo perfektní. \n \n „Jsem rád, že jsem mámě vysvětlil, že mám OCD. Nebylo to perfektní, ale netrestal jsem se za to.“",
+                  "content": "**Přijetí** \n \n Připomeňte si okamžiky, kdy jste se přijali takoví, jací jste. Třeba když jste zvládli těžkou situaci bez tvrdé sebekritiky, nebo když jste si dovolili být sami sebou, i když to nebylo perfektní. \n \n „Jsem rád, že jsem mámě vysvětlil, že mám OCD. Nebylo to perfektní, ale netrestal jsem se za to.“",
                   "isReversed": false,
                   "direction": "row",
                   "gutter": 24,
@@ -849,7 +849,7 @@
               "type": "pictureAndMarkdown",
               "items": [
                 {
-                  "content": "**Život v souladu s hodnotami** \n \n Popište si, jak jste se přiblížili tomu, kým chcete být, a jaké hodnoty vás k tomu vedly. Podpořily nějak vaši motivaci? \n \n „Vytrval jsem v expozici, protože mi záleží na rodině a společném čase.“",
+                  "content": "**Život v souladu s hodnotami** \n \n Popište si, jak jste se přiblížili tomu, kým chcete být, a jaké hodnoty vás k tomu vedly. Podpořily vaši chuť pustit se do věcí, které vám dávají smysl? \n \n „Vytrval jsem v expozici, protože mi záleží na rodině a společném čase.“",
                   "isReversed": false,
                   "direction": "row",
                   "gutter": 24,
@@ -1156,7 +1156,7 @@
             },
             {
               "type": "collapse",
-              "title": "Radši si přečtu",
+              "title": "Oblasti dopisu pro sebe",
               "content": "**Bezpečí:** „Vydržel jsem se svými obavami a moje napětí postupně kleslo. V řadě situací se už cítím klidně.“ \n \n **Přijetí:** „Přijímám své obsese a mám pochopení pro svou úzkost. Více si rozumím a přijímám se takový, jaký jsem.“ \n \n **Ocenění:** „Chci se ocenit za svou odvahu, vytrvalost a práci na sobě. Dokázala jsem...!“ \n \n **Autonomie:** „Rozhoduji se sám za sebe, neujišťuji se a žiji svobodně.“ \n \n **Život v souladu s hodnotami:** „Svůj život vedu v souladu se svými hodnotami.“"
             },
             {
@@ -1175,7 +1175,7 @@
                     },
                     {
                       "type": "note",
-                      "title": "**Kdy jste se cítili v bezpečí, i když bylo těžké?**",
+                      "title": "**Kdy jsem se cítil/a v bezpečí, i když bylo těžké?**",
                       "placeholder": "Cítil/a jsem se v bezpečí, když...",
                       "rows": 2,
                       "required": false
@@ -1187,7 +1187,7 @@
                   "contentSections": [
                     {
                       "type": "note",
-                      "title": "**Kdy jste se dokázali vcítit do sebe, být sobě oporou a přijmout se takoví, jací jste?**",
+                      "title": "**Kdy jsem se dokázal/a vcítit do sebe, být sobě oporou a přijmout se takový/á, jaký/á jsem?**",
                       "placeholder": "Přijmul/a jsem se, když...",
                       "rows": 2,
                       "required": false
@@ -1199,8 +1199,8 @@
                   "contentSections": [
                     {
                       "type": "note",
-                      "title": "**Co jste zvládli docela dobře? V čem jsem byli odvážní?**",
-                      "placeholder": "Přijmul/a jsem se, když...",
+                      "title": "**Co jsem zvládl/a docela dobře? V čem jsem byl/a odvážný/á?**",
+                      "placeholder": "Zvládl/a jsem...",
                       "rows": 2,
                       "required": false
                     }
@@ -1211,7 +1211,7 @@
                   "contentSections": [
                     {
                       "type": "note",
-                      "title": "**Kdy jste se rozhodovali sami za sebe? Kdy jste se neujišťovali?**",
+                      "title": "**Kdy jsem se rozhodoval/a sám/sama za sebe? Kdy jsem se neujišťoval/a?**",
                       "placeholder": "Neujišťoval/a jsem se, když...",
                       "rows": 2,
                       "required": false
@@ -1223,7 +1223,7 @@
                   "contentSections": [
                     {
                       "type": "note",
-                      "title": "**Kdy jste se rozhodli podle svých hodnot a ne podle strachu?**",
+                      "title": "**Kdy jsem se rozhodl/a podle svých hodnot a ne podle strachu?**",
                       "placeholder": "Popište to...",
                       "rows": 2,
                       "required": false
@@ -1286,13 +1286,13 @@
           "contentSections": [
             {
               "type": "markdown",
-              "content": "V průběhu programu jste se naučili mnoho různých **dovedností**. Teď je čas všechno spojit do jednoho **srozumitelného plánu**, který bude praktický, udržitelný a váš vlastní. \n \n Cílem je, aby se dovednosti z programu staly **přirozenou součástí vašeho života**. Nejen úkoly, které děláte během programu, ale běžnými kroky, které vám pomáhají žít svobodněji, spokojeněji a blíže vašim hodnotám. \n \n **Proč je tahle „CESTA“ důležitá?** \n \n - Bez jasného plánu se nové dovednosti snadno vytratí z každodenního života. \n \n - Pokud víte co, proč a jak chcete dělat, roste šance, že u toho zůstanete i v náročnějších obdobích. \n \n - Pojmenováním konkrétních kroků si zvyšujete motivaci a můžete sledovat, že se opravdu posouváte. \n \n **Akronym C-E-S-T-A**"
+              "content": "V průběhu programu jste se naučili mnoho různých **dovedností**. Teď je čas všechno spojit do jednoho **srozumitelného plánu**, který bude praktický, udržitelný a váš vlastní. \n \n Cílem je, aby se dovednosti z programu staly **přirozenou součástí vašeho života**. Nejen úkoly, které děláte během programu, ale běžnými kroky, které vám pomáhají žít svobodněji, spokojeněji a blíže vašim hodnotám. \n \n **Proč je tahle „CESTA“ důležitá?** \n \n - Bez plánu se nové dovednosti mohou postupně vytratit z každodenního života. \n \n - Pokud víte co, proč a jak chcete dělat, roste šance, že u toho zůstanete i v náročnějších obdobích. \n \n - Plán vám pomůže vytrvat, a i nadále sledovat, jak se posouváte. \n \n **A co C-E-S-T-A znamená?**"
             },
             {
               "type": "pictureAndMarkdown",
               "items": [
                 {
-                  "content": "**C - Cílená** \n \n Vyberte si jasný směr (oblast nebo situaci), ve které chcete dál růst. \n \n 💡 Příklad: „Chci dál jezdit tramvají bez vyhýbání se dotekům a bez kompulzí.“",
+                  "content": "**C - Cílená** \n \n Vyberte si oblast, ve které chcete dál růst. \n \n 💡 Příklad: „Chci dál jezdit tramvají bez kompulzí.“",
                   "isReversed": false,
                   "direction": "row",
                   "gutter": 24,
@@ -1304,7 +1304,7 @@
                   "isExpandable": false
                 },
                 {
-                  "content": "**E - Efektivní** \n \n Použijte postupy, které se vám osvědčily a fungují právě vám. \n \n 💡 Příklad: „Použiju dýchací metodu z programu a vědomou kontrolu.“",
+                  "content": "**E - Efektivní** \n \n Použijte postupy, které se vám osvědčily. \n \n 💡 Příklad: „Naplánuju si nějakou fajn odměnu, abych dál vydržel/a u expozic.“",
                   "isReversed": false,
                   "direction": "row",
                   "gutter": 24,
@@ -1316,7 +1316,7 @@
                   "isExpandable": false
                 },
                 {
-                  "content": "**S - Srozumitelná** \n \n Plán si napište jednoduše a konkrétně – aby byl jasný i po týdnu, kdy se k němu vrátíte. \n \n 💡 Příklad: „Tramvaj 2× týdně, vždy v úterý a pátek.“",
+                  "content": "**S - Srozumitelná** \n \n Napište si svůj plán jednoduše a konkrétně – abyste věděli i později, o co jde. \n \n 💡 Příklad: „Tramvaj č. 2, vždy v úterý a pátek.“",
                   "isReversed": false,
                   "direction": "row",
                   "gutter": 24,
@@ -1328,7 +1328,7 @@
                   "isExpandable": false
                 },
                 {
-                  "content": "**T - Trvalá** \n \n Vyberte kroky, které se dají udržet dlouhodobě, nejen když máte motivaci. \n \n 💡 Příklad: „Tři expozice týdně zůstanou součástí mého režimu.“",
+                  "content": "**T - Trvalá** \n \n Vyberte si kroky, které se dají udržet dlouhodobě, nejen když se vám chce. \n \n 💡 Příklad: „Tři expozice týdně zůstanou součástí mého režimu.“",
                   "isReversed": false,
                   "direction": "row",
                   "gutter": 24,
@@ -1340,7 +1340,7 @@
                   "isExpandable": false
                 },
                 {
-                  "content": "**A - Autentická** \n \n Plán by měl odrážet vaše hodnoty a to, kým chcete být. \n \n 💡 Příklad: „Chci trávit více času s rodinou, proto volím expozice, které mi umožní být s nimi přítomná.“",
+                  "content": "**A - Autentická** \n \n Plán by měl odrážet vaše hodnoty a to, kým chcete být. \n \n 💡 Příklad: „Chci trávit více času s rodinou, proto volím expozice, které mi umožní být s nimi a společně si to užít.“",
                   "isReversed": false,
                   "direction": "row",
                   "gutter": 24,
@@ -1398,7 +1398,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Jana** \n \n **C - Cílená** \n \n - **Konkrétní kroky:** Dvakrát týdně pojedu tramvají v době, kdy je více lidí, a vědomě se dotknu madla. \n \n - **Jak poznám, že se to daří:** Nebudu si muset hned po příjezdu mýt ruce. \n \n **E - Efektivní** \n \n - **Konkrétní kroky:** Během cesty si budu povídat s Toníčkem nebo pozorovat okolí. \n \n - **Jak poznám, že se to daří:** Sáhnu na madlo nebo tyč holou rukou a pak si neumyju doma ruce. \n \n **S - Srozumitelná** \n \n - **Konkrétní kroky:** Tramvají pojedu vždy v úterý a pátek cestou do školky a zpět. \n \n - **Jak poznám, že se to daří:** Budu přesně vědět, kdy mám udělat expozici, a nevymýšlet výmluvy. \n \n **T - Trvalá** \n \n - **Konkrétní kroky:** Jeden dotek tyče dvakrát týdně zůstane v mém režimu, i když se už budu cítit v pohodě.  \n \n - **Jak poznám, že se to daří:** Bude to pro mě normální součást cesty tramvají. \n \n **A - Autentická** \n \n - **Konkrétní kroky:** Vybírám expozici, která mi dovolí být s Toníčkem a sdílet společné chvíle.  \n \n - **Jak poznám, že se to daří:** Budu mít víc radosti z toho, že jsem s rodinou, i při běžných cestách."
+                      "content": "**Jana** \n \n **C - Cílená** \n \n - Konkrétní kroky: Dvakrát týdně pojedu tramvají v době, kdy je více lidí, a vědomě se dotknu madla. \n \n - Jak poznám, že se to daří: Nebudu si muset hned po příjezdu mýt ruce. \n \n **E - Efektivní** \n \n - Konkrétní kroky: Během cesty si budu povídat s Toníčkem nebo pozorovat okolí. \n \n - Jak poznám, že se to daří: Sáhnu na madlo nebo tyč holou rukou a pak si neumyju doma ruce. \n \n **S - Srozumitelná** \n \n - Konkrétní kroky: Tramvají pojedu vždy v úterý a pátek cestou do školky a zpět. \n \n - Jak poznám, že se to daří: Budu přesně vědět, kdy mám udělat expozici, a nevymýšlet výmluvy. \n \n **T - Trvalá** \n \n - Konkrétní kroky: Jeden dotek tyče dvakrát týdně zůstane v mém režimu, i když se už budu cítit v pohodě.  \n \n - Jak poznám, že se to daří: Bude to pro mě normální součást cesty tramvají. \n \n **A - Autentická** \n \n - Konkrétní kroky: Vybírám expozici, která mi dovolí být s Toníčkem a sdílet společné chvíle.  \n \n - Jak poznám, že se to daří: Budu mít víc radosti z toho, že jsem s rodinou, i při běžných cestách."
                     }
                   ]
                 },
@@ -1423,7 +1423,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Petr** \n \n **C – Cílená** \n \n **Konkrétní kroky:** Každé ráno před odchodem z bytu si udělám jen jednu kontrolu sporáku a dveří. \n \n **Jak poznám, že se to daří:** Nebudu se vracet po odchodu z bytu. \n \n **E - Efektivní** \n \n **Konkrétní kroky:** Po kontrole hned odcházím.  \n \n **Jak poznám, že se to daří:** Nutkání se znovu vracet bude slabší a méně časté. Jednoduše odejdu. \n \n **S - Srozumitelná** \n \n **Konkrétní kroky:** Každý den stejný sled: kontrola sporáku – kontrola dveří – odchod. Všechno jedním pohledem na půl vteřiny. \n \n **Jak poznám, že se to daří:** Bude to krátké a nevrátím se. \n \n **T - Trvalá** \n \n **Konkrétní kroky:** Budu si expozici trénovat i o víkendech a při cestách na dovolenou. \n \n **Jak poznám, že se to daří:** Zvládnu to vydržet i v jiném prostředí než doma. \n \n **A - Autentická** \n \n **Konkrétní kroky:** Před odchodem z bytu si připomenu, co chci ten den dělat s Alenou, místo abych řešil kontroly. \n \n **Jak poznám, že se to daří:** Budu mít víc času na společné ráno a méně hádek kvůli zdržení."
+                      "content": "**Petr** \n \n **C - Cílená** \n \n Konkrétní kroky: Každé ráno před odchodem z bytu si udělám jen jednu kontrolu sporáku a dveří. \n \n Jak poznám, že se to daří: Nebudu se vracet po odchodu z bytu. \n \n **E - Efektivní** \n \n Konkrétní kroky: Po kontrole hned odcházím. \n \n Jak poznám, že se to daří: Nutkání se znovu vracet bude slabší a méně časté. Jednoduše odejdu. \n \n **S - Srozumitelná** \n \n Konkrétní kroky: Každý den stejný sled: kontrola sporáku – kontrola dveří – odchod. Všechno jedním pohledem na půl vteřiny. \n \n Jak poznám, že se to daří: Bude to krátké a nevrátím se. \n \n **T - Trvalá** \n \n Konkrétní kroky: Budu si expozici trénovat i o víkendech a při cestách na dovolenou. \n \n Jak poznám, že se to daří: Zvládnu to vydržet i v jiném prostředí než doma. \n \n **A - Autentická** \n \n Konkrétní kroky: Před odchodem z bytu si připomenu, co chci ten den dělat s Alenou, místo abych řešil kontroly. \n \n Jak poznám, že se to daří: Budu mít víc času na společné ráno a méně hádek kvůli zdržení."
                     }
                   ]
                 },
@@ -1448,7 +1448,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Eva** \n \n **C – Cílená** \n \n **Konkrétní kroky:** Před rozhovorem s někým blízkým si krátce promyslím, co chci říct a proč. \n \n **Jak poznám, že se to daří:** Lidé na má slova budou reagovat spíš porozuměním než obranou. \n \n **E - Efektivní** \n \n **Konkrétní kroky:** Použiju větu „Já chci... Já si myslím... Já potřebuji...“ alespoň jednou denně, doma i v práci. \n \n **Jak poznám, že se to daří:** Vznikne méně konfliktů. \n \n **S - Srozumitelná** \n \n **Konkrétní kroky:** Použiju strukturu „Cítím…, protože…, ocenila bych…“  \n \n **Jak poznám, že se to daří:** Snáz si vybavím tento postup i při nepříjemných emocích. \n \n **T - Trvalá** \n \n **Konkrétní kroky:** Nastavím si připomínku v telefonu dvakrát týdně, abych zhodnotila, jestli jsem své potřeby vyjádřila. \n \n **Jak poznám, že se to daří:** Bude se to stávat přirozenou součástí mých rozhovorů. \n \n **A - Autentická** \n \n **Konkrétní kroky:** Při důležitých rozhovorech budu myslet na to, že chci být otevřená a laskavá. \n \n **Jak poznám, že se to daří:** Uvidím na druhých, že se na mně častěji usmívají a méně často se budu vracet k tomu, zda jsem někomu neřekla něco nepříjemného."
+                      "content": "**Eva** \n \n **C - Cílená** \n \n Konkrétní kroky: Před rozhovorem s někým blízkým si krátce promyslím, co chci říct a proč. \n \n Jak poznám, že se to daří: Lidé na má slova budou reagovat spíš porozuměním než obranou. \n \n **E - Efektivní** \n \n Konkrétní kroky: Použiju větu „Já chci... Já si myslím... Já potřebuji...“ alespoň jednou denně, doma i v práci. \n \n Jak poznám, že se to daří: Vznikne méně konfliktů. \n \n **S - Srozumitelná** \n \n Konkrétní kroky: Použiju strukturu „Cítím…, protože…, ocenila bych…“  \n \n Jak poznám, že se to daří: Snáz si vybavím tento postup i při nepříjemných emocích. \n \n **T - Trvalá** \n \n Konkrétní kroky: Nastavím si připomínku v telefonu dvakrát týdně, abych zhodnotila, jestli jsem své potřeby vyjádřila. \n \n Jak poznám, že se to daří: Bude se to stávat přirozenou součástí mých rozhovorů. \n \n **A - Autentická** \n \n Konkrétní kroky: Při důležitých rozhovorech budu myslet na to, že chci být otevřená a laskavá. \n \n Jak poznám, že se to daří: Uvidím na druhých, že se na mně častěji usmívají a méně často se budu vracet k tomu, zda jsem někomu neřekla něco nepříjemného."
                     }
                   ]
                 },
@@ -1473,7 +1473,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**David** \n \n **C – Cílená** \n \n **Konkrétní kroky:** V práci po první kontrole dokument odešlu bez dalších oprav. \n \n**Jak poznám, že se to daří:** Budu mít více volného času a energie na Toma a na koníčky. \n \n **E - Efektivní** \n \n **Konkrétní kroky:** Když budu mít nutkání něco znovu kontrolovat, nejdřív si dám minutu na zvážení, jestli je to nutné. \n \n **Jak poznám, že se to daří:** Budu trávit méně času opakováním a budu méně unavený. \n \n **S - Srozumitelná** \n \n **Konkrétní kroky:** Napíšu si seznam tří bodů pro finální kontrolu dokumentu a pak hotovo. \n \n **Jak poznám, že se to daří:** Budu si pamatovat a dodržovat tři body bez dalších kroků. \n \n **T - Trvalá** \n \n **Konkrétní kroky:** Každý týden si připomenu, kolik času jsem ušetřil díky omezení kontrol. \n \n **Jak poznám, že se to daří:** Postupně se bude zmenšovat potřeba vše kontrolovat, i ve stresu. \n \n **A - Autentická** \n \n **Konkrétní kroky:** Čas ušetřený na kontrolách věnuju aspoň jednou týdně rodině nebo přátelům. \n \n **Jak poznám, že se to daří:** Budu cítit větší spokojenost a méně frustrace, že nic nestíhám."
+                      "content": "**David** \n \n **C - Cílená** \n \n Konkrétní kroky: V práci po první kontrole dokument odešlu bez dalších oprav. \n \n Jak poznám, že se to daří: Budu mít více volného času a energie na Toma a na koníčky. \n \n **E - Efektivní** \n \n Konkrétní kroky: Když budu mít nutkání něco znovu kontrolovat, nejdřív si dám minutu na zvážení, jestli je to nutné. \n \n Jak poznám, že se to daří: Budu trávit méně času opakováním a budu méně unavený. \n \n **S - Srozumitelná** \n \n Konkrétní kroky: Napíšu si seznam tří bodů pro finální kontrolu dokumentu a pak hotovo. \n \n Jak poznám, že se to daří: Budu si pamatovat a dodržovat tři body bez dalších kroků. \n \n **T - Trvalá** \n \n Konkrétní kroky: Každý týden si připomenu, kolik času jsem ušetřil díky omezení kontrol. \n \n Jak poznám, že se to daří: Postupně se bude zmenšovat potřeba vše kontrolovat, i ve stresu. \n \n **A - Autentická** \n \n Konkrétní kroky: Čas ušetřený na kontrolách věnuju aspoň jednou týdně rodině nebo přátelům. \n \n Jak poznám, že se to daří: Budu cítit větší spokojenost a méně frustrace, že nic nestíhám."
                     }
                   ]
                 },
@@ -1498,7 +1498,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Klára** \n \n **C – Cílená** \n \n **Konkrétní kroky:** Každý týden minimálně ve dvou situacích vědomě sdělím Honzovi, co cítím nebo potřebuju. \n \n **Jak poznám, že se to daří:** Bude vznikat méně nedorozumění, více pocitu blízkosti a pochopení. \n \n **E - Efektivní** \n \n **Konkrétní kroky:** Než začnu náročný rozhovor, napíšu si dvě věty, které mi pomůžou držet směr. \n \n **Jak poznám, že se to daří:** Nenechám se strhnout emocemi ke tlaku nebo obviňování. \n \n **S - Srozumitelná** \n \n **Konkrétní kroky:** Při rozhovoru zůstanu u hlavní myšlenky a nebudu se zbytečně obhajovat. \n \n **Jak poznám, že se to daří:** Honza bude reagovat s větším porozuměním a méně obranně. \n \n **T - Trvalá** \n \n **Konkrétní kroky:** Každý týden si vyberu jednu situaci s jiným člověkem, kdy budu trénovat otevřenou komunikaci. \n \n **Jak poznám, že se to daří:** Postupně se budu méně bát vyjádřit názor, i u lidí, se kterými jsem dřív mlčela. \n \n **A - Autentická** \n \n **Konkrétní kroky:** Při sdílení pocitů budu myslet na to, jak být upřímná a zároveň respektující. \n \n **Jak poznám, že se to daří:** Budu vyjadřovat vlastní názory a potřeby. Nebudu se vracet k myšlenkách o tom, co jsem měla říct a jak."
+                      "content": "**Klára** \n \n **C - Cílená** \n \n Konkrétní kroky: Každý týden minimálně ve dvou situacích vědomě sdělím Honzovi, co cítím nebo potřebuju. \n \n Jak poznám, že se to daří: Bude vznikat méně nedorozumění, více pocitu blízkosti a pochopení. \n \n **E - Efektivní** \n \n Konkrétní kroky: Než začnu náročný rozhovor, napíšu si dvě věty, které mi pomůžou držet směr. \n \n Jak poznám, že se to daří: Nenechám se strhnout emocemi ke tlaku nebo obviňování. \n \n **S - Srozumitelná** \n \n Konkrétní kroky: Při rozhovoru zůstanu u hlavní myšlenky a nebudu se zbytečně obhajovat. \n \n Jak poznám, že se to daří: Honza bude reagovat s větším porozuměním a méně obranně. \n \n **T - Trvalá** \n \n Konkrétní kroky: Každý týden si vyberu jednu situaci s jiným člověkem, kdy budu trénovat otevřenou komunikaci. \n \n Jak poznám, že se to daří: Postupně se budu méně bát vyjádřit názor, i u lidí, se kterými jsem dřív mlčela. \n \n **A - Autentická** \n \n Konkrétní kroky: Při sdílení pocitů budu myslet na to, jak být upřímná a zároveň respektující. \n \n Jak poznám, že se to daří: Budu vyjadřovat vlastní názory a potřeby. Nebudu se vracet k myšlenkách o tom, co jsem měla říct a jak."
                     }
                   ]
                 },
@@ -1523,7 +1523,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Lukáš** \n \n **C – Cílená** \n \n **Konkrétní kroky:** Každý den věnuju 5–10 minut tiché kontemplaci nebo meditaci, bez kompulzivního opakování. \n \n **Jak poznám, že se to daří:** Modlitba pro mě bude uklidňující a nebudu mít pocit, že musím. \n \n **E - Efektivní** \n \n **Konkrétní kroky:** Při pokušení k opakování modlitby si ji vědomě řeknu jednou a pak se budu soustředit na dech. \n \n **Jak poznám, že se to daří:** Modlitbu si řeknu jenom jednou. \n \n **S - Srozumitelná** \n \n **Konkrétní kroky:** Každý večer si připomenu jednu věc, za kterou jsem vděčný, a zapíšu si ji. \n \n **Jak poznám, že se to daří:** Podle toho, že se pomodlím jenom jednou. \n \n **T - Trvalá** \n \n **Konkrétní kroky:** Jednou týdně si vyhradím čas na setkání s přáteli bez náboženského tématu. \n \n **Jak poznám, že se to daří:** Budu si užívat kontakt s lidmi i mimo kontext víry, bez sebeobviňování. \n \n **A - Autentická** \n \n **Konkrétní kroky:** Budu se ptát druhých na jejich názory a zkušenosti, místo abych jen předával ty své. \n \n **Jak poznám, že se to daří:** Lidé se mnou budou mluvit otevřeněji a nebudou mi říkat, že je poučuju nebo že moralizuju."
+                      "content": "**Lukáš** \n \n **C - Cílená** \n \n Konkrétní kroky: Každý den věnuju 5–10 minut tiché kontemplaci nebo meditaci, bez kompulzivního opakování. \n \n Jak poznám, že se to daří: Modlitba pro mě bude uklidňující a nebudu mít pocit, že musím. \n \n **E - Efektivní** \n \n Konkrétní kroky: Při pokušení k opakování modlitby si ji vědomě řeknu jednou a pak se budu soustředit na dech. \n \n Jak poznám, že se to daří: Modlitbu si řeknu jenom jednou. \n \n **S - Srozumitelná** \n \n Konkrétní kroky: Každý večer si připomenu jednu věc, za kterou jsem vděčný, a zapíšu si ji. \n \n Jak poznám, že se to daří: Podle toho, že se pomodlím jenom jednou. \n \n **T - Trvalá** \n \n Konkrétní kroky: Jednou týdně si vyhradím čas na setkání s přáteli bez náboženského tématu. \n \n Jak poznám, že se to daří: Budu si užívat kontakt s lidmi i mimo kontext víry, bez sebeobviňování. \n \n **A - Autentická** \n \n Konkrétní kroky: Budu se ptát druhých na jejich názory a zkušenosti, místo abych jen předával ty své. \n \n Jak poznám, že se to daří: Lidé se mnou budou mluvit otevřeněji a nebudou mi říkat, že je poučuju nebo že moralizuju."
                     }
                   ]
                 },
@@ -1548,7 +1548,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Veronika** \n \n **C – Cílená** \n \n **Konkrétní kroky:** Když se objeví nový příznak, zapíšu si ho a minimálně 24 hodin nebudu nic vyhledávat na internetu ani volat lékaři, pokud nepůjde o akutní stav. \n \n **Jak poznám, že se to daří:** Bude ubývat impulzů hledat informace. \n \n **E - Efektivní** \n \n **Konkrétní kroky:** Při obavě o zdraví si nastavím časovač na 15 minut a budu se věnovat se malování, vaření nebo procházce. \n \n **Jak poznám, že se to daří:** Nebudu hledat příznaky na internetu, nebudu o tom nikomu volat ani se nebudu objednávat k lékaři. \n \n **S - Srozumitelná** \n \n **Konkrétní kroky:** Při nutkání vyhledávat příznaky místo toho udělám příjemnou aktivitu ze svého seznamu. \n \n **Jak poznám, že se to daří:** Budu trávit méně času na telefonu. \n \n **T - Trvalá** \n \n **Konkrétní kroky:** Jednou týdně si projdu svůj deník a budu sledovat, kolik situací jsem zvládla bez ujišťování. \n \n **Jak poznám, že se to daří:** Většinu dnů zvládnu bez ujišťování. \n \n **A - Autentická** \n \n **Konkrétní kroky:** Budu naslouchat druhým, ptát se na jejich život a plány, místo abych mluvila o svých obavách o zdraví. \n \n **Jak poznám, že se to daří:** Moje vztahy budou otevřenější, přátelé se mi budou svěřovat a budeme spolu trávit více času."
+                      "content": "**Veronika** \n \n **C – Cílená** \n \n Konkrétní kroky: Když se objeví nový příznak, zapíšu si ho a minimálně 24 hodin nebudu nic vyhledávat na internetu ani volat lékaři, pokud nepůjde o akutní stav. \n \n Jak poznám, že se to daří: Bude ubývat impulzů hledat informace. \n \n **E - Efektivní** \n \n Konkrétní kroky: Při obavě o zdraví si nastavím časovač na 15 minut a budu se věnovat se malování, vaření nebo procházce. \n \n Jak poznám, že se to daří: Nebudu hledat příznaky na internetu, nebudu o tom nikomu volat ani se nebudu objednávat k lékaři. \n \n **S - Srozumitelná** \n \n Konkrétní kroky: Při nutkání vyhledávat příznaky místo toho udělám příjemnou aktivitu ze svého seznamu. \n \n Jak poznám, že se to daří: Budu trávit méně času na telefonu. \n \n **T - Trvalá** \n \n Konkrétní kroky: Jednou týdně si projdu svůj deník a budu sledovat, kolik situací jsem zvládla bez ujišťování. \n \n Jak poznám, že se to daří: Většinu dnů zvládnu bez ujišťování. \n \n **A - Autentická** \n \n Konkrétní kroky: Budu naslouchat druhým, ptát se na jejich život a plány, místo abych mluvila o svých obavách o zdraví. \n \n Jak poznám, že se to daří: Moje vztahy budou otevřenější, přátelé se mi budou svěřovat a budeme spolu trávit více času."
                     }
                   ]
                 },
@@ -1573,7 +1573,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Michal** \n \n **C – Cílená** \n \n **Konkrétní kroky:** Když pocítím nejistotu, řeknu si: „Zvládnu to i bez další otázky,“ a budu se věnovat jiné činnosti. \n \n **Jak poznám, že se to daří:** Ubyde mi potřeba opakovaně se ptát. \n \n **E - Efektivní** \n \n **Konkrétní kroky:** Každý týden si vědomě vyberu jednu situaci, kdy se Mirce svěřím s tím, co prožívám, bez ověřování její lásky. \n \n **Jak poznám, že se to daří:** Mirka se nebude ohrazovat, že se zase ujišťuji. \n \n **S - Srozumitelná** \n \n **Konkrétní kroky:** Místo pokládání otázek si řeknu: „Teď mám nejistotu, ale vydržím to.“ \n \n **Jak poznám, že se to daří:** Zvládnu více situací, aniž bych kontroloval reakce druhých. \n \n **T - Trvalá** \n \n **Konkrétní kroky:** Každý měsíc si zapíšu tři situace, kdy jsem zvládl nejistotu bez ujištění.  \n \n **Jak poznám, že se to daří:** Budu se bavit o jiných věcech než o vztahu. Nebudu se ujišťovat o tom, zda mně Mirka miluje ani zda ji miluji já. \n \n **A - Autentická** \n \n **Konkrétní kroky:** Naplánuji pravidelné společné aktivity, které máme oba rádi a navrhnu je Mirce. Zeptám se jí, co by ráda podnikala. Když nebude chtít, přijmu to, že nechce a nebudu se ptát, zda mě má ráda. \n \n **Jak poznám, že se to daří:** Budeme spolu trávit více času během různých aktivit. Ubyde rozhovorů o vzájemném vztahu."
+                      "content": "**Michal** \n \n **C - Cílená** \n \n Konkrétní kroky: Když pocítím nejistotu, řeknu si: „Zvládnu to i bez další otázky,“ a budu se věnovat jiné činnosti. \n \n Jak poznám, že se to daří: Ubyde mi potřeba opakovaně se ptát. \n \n **E - Efektivní** \n \n Konkrétní kroky: Každý týden si vědomě vyberu jednu situaci, kdy se Mirce svěřím s tím, co prožívám, bez ověřování její lásky. \n \n Jak poznám, že se to daří: Mirka se nebude ohrazovat, že se zase ujišťuji. \n \n **S - Srozumitelná** \n \n Konkrétní kroky: Místo pokládání otázek si řeknu: „Teď mám nejistotu, ale vydržím to.“ \n \n Jak poznám, že se to daří: Zvládnu více situací, aniž bych kontroloval reakce druhých. \n \n **T - Trvalá** \n \n Konkrétní kroky: Každý měsíc si zapíšu tři situace, kdy jsem zvládl nejistotu bez ujištění. \n \n Jak poznám, že se to daří: Budu se bavit o jiných věcech než o vztahu. Nebudu se ujišťovat o tom, zda mně Mirka miluje ani zda ji miluji já. \n \n **A - Autentická** \n \n Konkrétní kroky: Naplánuji pravidelné společné aktivity, které máme oba rádi a navrhnu je Mirce. Zeptám se jí, co by ráda podnikala. Když nebude chtít, přijmu to, že nechce a nebudu se ptát, zda mě má ráda. \n \n Jak poznám, že se to daří: Budeme spolu trávit více času během různých aktivit. Ubyde rozhovorů o vzájemném vztahu."
                     }
                   ]
                 },
@@ -1598,7 +1598,7 @@
                     },
                     {
                       "type": "markdown",      
-                      "content": "**Jirka** \n \n **C – Cílená** \n \n **Konkrétní kroky:** Když mě napadne nutkání spočítat čísla, zhluboka se nadechnu a řeknu si: „Nemusím to vědět, abych byl v bezpečí.“ Poté se vědomě zaměřím na to, co právě dělám. \n \n **Jak poznám, že se to daří:** Ubývá situací, kdy počítám automaticky, a více vnímám okolí i lidi kolem sebe. \n \n **E – Efektivní** \n \n **Konkrétní kroky:** Při rozhovoru s Luckou nebo s kolegy si řeknu, co cítím, místo abych se uzavíral do sebe a počítal čísla. \n \n **Jak poznám, že se to daří:** Rozhovory budou přirozenější. Nebudu při nich nic počítat. \n \n **S – Srozumitelná** \n \n **Konkrétní kroky:** Když mě napadne myšlenka „musím to spočítat, jinak se něco stane“, řeknu si: „Je to jen myšlenka, ne varování. \n \n **Jak poznám, že se to daří:** Obsese ztrácí sílu a já nebudu počítat ani sledovat čísla. \n \n **T – Trvalá** \n \n **Konkrétní kroky:** Dvakrát týdně si vyberu den bez jakéhokoli kontrolního rituálu. Vědomě si dovolím nepřepočítávat, neověřovat, neanalyzovat. \n \n **Jak poznám, že se to daří:** Mám víc klidu a myšlenky na počítání přicházejí stále méně často. \n \n **A – Autentická** \n \n **Konkrétní kroky:** Dopřeju si chvíle spontánnosti, například vyjedu s rodinou bez předem určeného cíle nebo si zahraju s dcerami bez sledování času a čísel. \n \n **Jak poznám, že se to daří:** Budu mít více příjemných aktivit s rodinou i sám."
+                      "content": "**Jirka** \n \n **C - Cílená** \n \n Konkrétní kroky: Když mě napadne nutkání spočítat čísla, zhluboka se nadechnu a řeknu si: „Nemusím to vědět, abych byl v bezpečí.“ Poté se vědomě zaměřím na to, co právě dělám. \n \n Jak poznám, že se to daří: Ubývá situací, kdy počítám automaticky, a více vnímám okolí i lidi kolem sebe. \n \n **E – Efektivní** \n \n Konkrétní kroky: Při rozhovoru s Luckou nebo s kolegy si řeknu, co cítím, místo abych se uzavíral do sebe a počítal čísla. \n \n Jak poznám, že se to daří: Rozhovory budou přirozenější. Nebudu při nich nic počítat. \n \n **S – Srozumitelná** \n \n Konkrétní kroky: Když mě napadne myšlenka „musím to spočítat, jinak se něco stane“, řeknu si: „Je to jen myšlenka, ne varování. \n \n Jak poznám, že se to daří: Obsese ztrácí sílu a já nebudu počítat ani sledovat čísla. \n \n **T – Trvalá** \n \n Konkrétní kroky: Dvakrát týdně si vyberu den bez jakéhokoli kontrolního rituálu. Vědomě si dovolím nepřepočítávat, neověřovat, neanalyzovat. \n \n Jak poznám, že se to daří: Mám víc klidu a myšlenky na počítání přicházejí stále méně často. \n \n **A – Autentická** \n \n Konkrétní kroky: Dopřeju si chvíle spontánnosti, například vyjedu s rodinou bez předem určeného cíle nebo si zahraju s dcerami bez sledování času a čísel. \n \n Jak poznám, že se to daří:** Budu mít více příjemných aktivit s rodinou i sám."
                     }
                   ]
                 }
@@ -1633,6 +1633,15 @@
             {
               "type": "markdown",
               "content": "Níže si můžete vyplnit plán své vlastní **CESTY**. Vyberte si oblast, kde chcete udržet nebo posílit svůj pokrok. Vypište si **konkrétní kroky**, co uděláte, kdy se do toho pustíte a jak často to budete opakovat. Poté si zapište, podle čeho poznáte, že se to **daří** (např. „dokončím expozici bez kompulze“ nebo „budu trávit více času s rodinou“)."
+            },
+            {
+              "type": "note",
+              "title": "**Oblast, kde si chci udržet nebo posílit svůj pokrok**",
+              "placeholder": "Např. komunikace s partnerem",
+              "rows": 1,
+              "maxLength": 150,
+              "lengthValidationMessage": "Maximální délka odpovědi je 150 znaků.",
+              "required": true
             },
             {
               "type": "stepByStep",
@@ -1730,7 +1739,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "Plán si napište jednoduše a konkrétně – aby byl jasný i po týdnu, kdy se k němu vrátíte."
+                      "content": "Napište si svůj jednoduše a konkrétně – abyste věděli i později, o co jde."
                     },
                     {
                       "type": "note",
@@ -1768,7 +1777,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "Vyberte kroky, které se dají udržet dlouhodobě, nejen když máte motivaci."
+                      "content": "Vyberte si kroky, které se dají udržet dlouhodobě, nejen když se vám chce."
                     },
                     {
                       "type": "note",
@@ -1833,7 +1842,7 @@
           ]
         },
         {
-          "title": "Opakovací kvíz",
+          "title": "Kvíz",
           "icon": "Star",
           "contentSections": [
             {
@@ -1842,47 +1851,47 @@
               "questions": [
                 {
                   "name": "Question1",
-                  "question": ":::text--center \n Jana se rozhodla, že při expozicích nebude hledat ujištění u partnera Šimona. Jak tuto strategii může zapojit do každodenního života? \n :::",
+                  "question": ":::text--center \n Jana se rozhodla, že se při expozicích nebude ujišťovat u Šimona. Jak na to ve svém plánu CESTY může jít? \n :::",
                   "options": [
                     {
-                      "label": "A) Když má nutkání se zeptat, zastaví se a připomene si své hodnoty.",
+                      "label": "A) Když bude mít nutkání se zeptat, zastaví se a připomene si, proč to nechce udělat.",
                       "value": 0
                     },
                     {
-                      "label": "B) Přesune ujišťovací otázky na později, až bude méně unavená.",
+                      "label": "B) Odloží ujišťování na později, až bude méně unavená.",
                       "value": 1
                     },
                     {
-                      "label": "C) Nahrazuje otázky jiným rituálem, například klepáním na stůl.",
+                      "label": "C) Nahradí otázky kompulzí, například klepáním na stůl.",
                       "value": 2
                     }
                   ],
                   "correctAnswer": 0,
-                  "correctAnswerReason": "Správná odpověď je A). Jana se naučila zastavit automatické chování a vědomě si připomenout, že její cílem je vztah založený na důvěře, ne na kontrole."
+                  "correctAnswerReason": "Správná odpověď je A). Jana si může připomenout, že její cílem je vztah založený na důvěře, ne na kontrole."
                 },
                 {
                   "name": "Question2",
                   "question": ":::text--center \n Petr si uvědomil, že dříve žil podle hesla „Musím mít jistotu.“ Co je znakem, že toto heslo úspěšně změnil? \n :::",
                   "options": [
                     {
-                      "label": "A) Řekne si „To stačí.“ po jedné kontrole a odejde, i když cítí lehkou nejistotu.",
+                      "label": "A) Požádá partnerku, aby mu jednou týdně potvrdila, že vše udělal správně.",
                       "value": 0
                     },
                     {
-                      "label": "B) Píše si poznámky o tom, co by měl ještě zkontrolovat.",
+                      "label": "B) Řekne si „To stačí.“ po jedné kontrole a odejde, i když cítí lehkou nejistotu.",
                       "value": 1
                     },
                     {
-                      "label": "C) Požádá partnerku, aby mu jednou týdně potvrdila, že vše udělal správně.",
+                      "label": "C) Píše si poznámky o tom, co by měl ještě zkontrolovat.",
                       "value": 2
                     }
                   ],
-                  "correctAnswer": 0,
-                  "correctAnswerReason": "Správná odpověď je A). Petr si osvojil schopnost tolerovat nejistotu a nevykonávat zbytečné kontroly, což je zásadní pro dlouhodobou změnu."
+                  "correctAnswer": 1,
+                  "correctAnswerReason": "Správná odpověď je B). Petr se naučil lépe snášet nejistotu a nevykonávat zbytečné kontroly. To mu pomůže udržet zlepšení, kterého už dosáhl."
                 },
                 {
                   "name": "Question3",
-                  "question": ":::text--center \n Klára chce být ve svých vztazích autentičtější a otevřenější. Jaký moment z poslední doby ukazuje, že se jí to daří? \n :::",
+                  "question": ":::text--center \n Klára chce být ve svých vztazích otevřenější a více svá. Která chvíle z poslední doby ukazuje, že se jí to daří? \n :::",
                   "options": [
                     {
                       "label": "A) Při rozhovoru s kolegyní mlčela, aby nevznikl konflikt, i když ji něco trápilo.",
@@ -1902,7 +1911,7 @@
                 },
                 {
                   "name": "Question4",
-                  "question": ":::text--center \n Michal dříve často analyzoval vztah a dokola kladl partnerce otázky. Co je pro něj důkazem, že má nyní více důvěry a spontaneity? \n :::",
+                  "question": ":::text--center \n Michal dříve často rozebíral svůj partnerský vztah a dokola se ptal, že je všechno v pořádku. Co pro něj může být důkazem, že má nyní více důvěry? \n :::",
                   "options": [
                     {
                       "label": "A) Klade partnerce jen „lehčí“ otázky, aby se necítila pod tlakem.",
@@ -1987,8 +1996,8 @@
               "title": "**V tomto modulu jste se dozvěděli:**",
               "color": "#27637C",
               "items": [
-                "Abychom nové dovednosti začali používat v každodenním životě, pomůže nám jasný plán.",
-                "Aby byl plán skutečně užitečný, můžeme využít anagram CESTA.",
+                "Plán je důležitou součástí přípravy na budoucnost.",
+                "Pomůže nám udržet pozitivní změnu, které jsme zatím dosáhli, a dále ji posilovat.",
                 "Plán by měl být cílený, efektivní, srozumitelný, trvalý a autentický."
               ]
             },
@@ -2048,9 +2057,9 @@
               "title": "**V příštím modulu se dozvíte:**",
               "color": "#27637C",
               "items": [
-                "Jaké jsou další kroky po dokončení programu.",
-                "Jaké jsou vaše cíle do budoucna.",
-                "Jak předejít návratu potíží."
+                "Co vás čeká po dokončení programu.",
+                "Jak předejít návratu potíží.",
+                "Jak si připomínat užitečné metody v těžších chvílích."
               ]
             }
           ]

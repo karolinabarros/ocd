@@ -19,10 +19,10 @@
               "title": "**V tomto modulu se dozvíte:**",
               "color": "#27637C",
               "items": [
-                "Ujasnit si, co vlastně řešíte a čeho chcete dosáhnout.",
-                "Nechat nápady volně plynout.",
-                "Vybrat realistické možnosti a naplánovat si konkrétní kroky.",
-                "Zhodnotit, co to přineslo a jak se z toho můžeme poučit."
+                "Jak si ujasnit problémy, které v životě řešíte, a čeho chcete dosáhnout.",
+                "Jak nechat nápady volně plynout a nalézt díky tomu účinné řešení.",
+                "Jak si vybrat realistické možnosti a naplánovat konkrétní kroky.",
+                "Jak zhodnotit, co to přineslo a co si z toho můžeme odnést."
               ]
             }
           ]
@@ -92,7 +92,7 @@
           "contentSections": [
             {
               "type": "markdown",
-              "content": "V minulém modulu jste se dozvěděli o tom, jak OCD může ovlivňovat vztahy. Jak se vám od minule dařilo pracovat na **komunikaci bez tlaku** a **hledání ujištění?**"
+              "content": "V minulém modulu jste se dozvěděli o tom, jak OCD může ovlivňovat vztahy. Jak se vám od minule dařilo pracovat na komunikaci **bez tlaku** a **ujišťování?**"
             },
             {
               "type": "pictureAndNote",
@@ -211,7 +211,7 @@
             },
             {
               "type": "markdown",
-              "content": "Někdy se můžeme cítit zahlceně, když **čelíme problémům**. Mohou se zdát neřešitelné. V tomto modulu se proto zaměříme na **systematický přístup** k řešení problémů. Ukážeme si užitečnou metodu sedmi kroků. \n \n **Metoda sedmi kroků** je praktický a ověřený nástroj, který pomáhá řešit běžné životní situace i komplexní problémy. Získáváme lepší **přehled**, vnitřní **klid** a **motivaci**. Lidem s OCD pomáhá nenechat úzkost, nutkání a kompulze převzít kontrolu a místo toho řešit problémy s **jasnou hlavou a cíleně.**"
+              "content": "Někdy se můžeme cítit zahlceně, když **čelíme problémům**. Některé se mohou zdát neřešitelné. V tomto modulu se proto zaměříme na **systematický přístup** k řešení problémů. Ukážeme si užitečnou metodu sedmi kroků. \n \n **Metoda sedmi kroků** je praktický a ověřený nástroj, který pomáhá řešit běžné životní situace i složitější problémy. Získáváme lepší **přehled**, vnitřní **klid** a chuť se pustit do řešení. Lidem s OCD pomáhá nenechat úzkost, nutkání a kompulze převzít kontrolu a místo toho řešit problémy s **jasnou hlavou a cíleně.**"
             },
             {
               "type": "markdown",
@@ -326,7 +326,7 @@
                       "step": 1, 
                       "defaultValue": 0, 
                       "labelStart": "Žádný problém",
-                      "labelEnd": "Šlo mi to výborně",
+                      "labelEnd": "Vážné obtíže",
                       "variant": "gradient",
                       "required": false
                     },
@@ -396,7 +396,7 @@
                       "step": 1, 
                       "defaultValue": 0, 
                       "labelStart": "Žádný problém",
-                      "labelEnd": "Šlo mi to výborně",
+                      "labelEnd": "Vážné obtíže",
                       "variant": "gradient",
                       "required": false
                     },
@@ -466,7 +466,7 @@
                       "step": 1, 
                       "defaultValue": 0, 
                       "labelStart": "Žádný problém",
-                      "labelEnd": "Šlo mi to výborně",
+                      "labelEnd": "Vážné obtíže",
                       "variant": "gradient",
                       "required": false
                     },
@@ -536,7 +536,7 @@
                       "step": 1, 
                       "defaultValue": 0, 
                       "labelStart": "Žádný problém",
-                      "labelEnd": "Šlo mi to výborně",
+                      "labelEnd": "Vážné obtíže",
                       "variant": "gradient",
                       "required": false
                     },
@@ -606,7 +606,7 @@
                       "step": 1, 
                       "defaultValue": 0, 
                       "labelStart": "Žádný problém",
-                      "labelEnd": "Šlo mi to výborně",
+                      "labelEnd": "Vážné obtíže",
                       "variant": "gradient",
                       "required": false
                     },
@@ -921,7 +921,7 @@
               "toolSection": "myProblems",
               "required": true,
               "toolSectionData": {
-                "markdownContent": "**Zkuste co nejkonkrétněji popsat problémy, které byste chtěli začít řešit. Popište, jak často se objevují, jak se v takových situacích chováte, jak dlouho trvají a jaké mají důsledky.**",
+                "markdownContent": "**Zkuste co nejkonkrétněji popsat problémy, které byste chtěli začít řešit. Popište, jak často se objevují, jak se v takových situacích chováte, jak dlouho trvají a k čemu vedou.**",
                 "noteBoxContent": "**Popis problému by měl:** \n \n - Být krátký, stručný a jasný \n - Měl by odrážet pozorovatelné chování, ať už jeho nedostatek nebo přebytek. \n - Popisovat intenzitu a jak často k problému dochází. \n - Zachytit i hlavní myšlenky o problému nebo jeho nejdůležitější důsledky.",
                 "card": {
                   "title": "**Popis problému**",
@@ -3111,9 +3111,14 @@
               "title": "**V tomto modulu jste se dozvěděli:**",
               "color": "#27637C",
               "items": [
-                "Šestý krok systematického řešení problémů je provedení plánu v realitě. ",
-                "Sedmý krok je vyhodnocení, jak se nám dařilo a co jsme se naučili.",
-                "Je důležité se za svou snahu odměnit, i když jsme plán nesplnili na 100 %. To totiž většinou ani nejde."
+                "**První krok** systematického řešení problémů je **popsat problém**, abychom rozuměli, co nám vadí, jak to vypadá a jak nás to ovlivňuje.",
+                "**Druhý krok** je stanovení konkrétního, dosažitelného a měřitelného **cíle.**",
+                "**Třetí krok** je sesbírat **co nejvíce nápadů**, jak dosáhnout zvoleného cíle.",
+                "**Čtvrtý krok** je každý nápad **vyhodnotit** a vybrat ta řešení, která jsou proveditelná a užitečná.",
+                "**Pátý krok** je z vybraných nápadů sestavit **akční plán**, ve kterém se připravíme na možné překážky, stanovíme si priority a zajistíme si potřebné podmínky.",
+                "**Šestý krok** je **provedení plánu** v realitě.",
+                "**Sedmý krok** je vyhodnocení, jak se nám **dařilo** a co jsme se **naučili.**",
+                "Je důležité se za svou snahu **odměnit**, i když jsme plán nesplnili na 100 %. To totiž většinou ani nejde."
               ]
             },
             {

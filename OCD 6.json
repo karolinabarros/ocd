@@ -530,7 +530,7 @@
             },
             {
               "type": "collapse",
-              "content": "Někdy stačí jediná **myšlenka** a naše mysl spustí **poplach**. „Co když jsem nebezpečný?“, „Co když něco provedu?“ Ale takové myšlenky nejsou varování, příkazy ani důkazy. \n \n Jsou jako **mýdlové bubliny**. Objeví se, chvíli poletují, a pak zmizí. V tomto modulu si ukážeme, jak si takových myšlenek všímat, a zároveň je nechávat být. Nebudeme s nimi bojovat. Jen jim přestaneme slepě věřit. A tím **ztratí svou sílu.** \n \n Problém je totiž v tom, že myšlenkám často přikládáme **přehnaný význam**. Náš mozek pak reaguje, jako by šlo o **skutečné nebezpečí**. Myšlenka ale není čin, ani skutečnost. Nemusíme ji proto za každou cenu analyzovat, potlačovat nebo brát vážně. \n \n Pro lidi s OCD je těžké rozlišovat mezi neškodnou myšlenkou a **skutečným varováním**. Když uvěříme, že se obsese rovná realitě, dojde ke splynutí myšlenky a činu. S tímto filtrem myšlení jsme se seznámili v druhém modulu. \n \n A jak to může vypadat? Třeba když vás napadne něco nevhodného, a vy uvěříte, že to skutečně chcete udělat. Nebo když vám proběhla hlavou rouhavá myšlenka, a vy věříte, že jste kvůli tomu špatný člověk. \n \n Myšlenky mohou být automatické, krátké **impulzy**, které se objevují bez vědomého rozhodování. Často jim přikládáme význam, i když ve skutečnosti **neodrážejí** naše přesvědčení ani hodnoty.",
+              "content": "Někdy stačí jediná **myšlenka** a naše mysl spustí **poplach**. *„Co když jsem nebezpečný?“*, *„Co když něco provedu?“* Ale takové myšlenky nejsou varování, příkazy ani důkazy. \n \n Jsou jako **mýdlové bubliny**. Objeví se, chvíli poletují, a pak zmizí. V tomto modulu si ukážeme, jak si takových myšlenek všímat, a zároveň je nechávat být. Nebudeme s nimi bojovat. Jen jim přestaneme slepě věřit. A tím **ztratí svou sílu.** \n \n Problém je totiž v tom, že myšlenkám často přikládáme **přehnaný význam**. Náš mozek pak reaguje, jako by šlo o **skutečné nebezpečí**. Myšlenka ale není čin, ani skutečnost. Nemusíme ji proto za každou cenu analyzovat, potlačovat nebo brát vážně. \n \n Pro lidi s OCD je těžké rozlišovat mezi neškodnou myšlenkou a **skutečným varováním**. Když uvěříme, že se obsese rovná realitě, dojde ke splynutí myšlenky a činu. S tímto filtrem myšlení jsme se seznámili v druhém modulu. \n \n A jak to může vypadat? Třeba když vás napadne něco nevhodného, a vy uvěříte, že to skutečně chcete udělat. Nebo když vám proběhla hlavou rouhavá myšlenka, a vy věříte, že jste kvůli tomu špatný člověk. \n \n Myšlenky mohou být automatické, krátké **impulzy**, které se objevují bez vědomého rozhodování. Často jim přikládáme význam, i když ve skutečnosti **neodrážejí** naše přesvědčení ani hodnoty.",
               "title": "Radši si přečtu"
             }
           ]
@@ -552,7 +552,7 @@
             },
             {
               "type": "markdown",
-              "content": "**Myšlenky nejsou fakta** \n \n Na obrázku vidíte dvě různé reakce na tu samou myšlenku. První člověk se s ní ztotožnil. Věří, že o něm říká pravdu. Druhý člověk si uvědomil: „Tohle je jen hlas v mojí hlavě. Může mě znepokojit, ale nemusím mu věřit.“ V terapii se učíme zaujmout právě ten druhý postoj - s odstupem a laskavostí k sobě."
+              "content": "**Myšlenky nejsou fakta** \n \n Na obrázku vidíte dvě různé reakce na tu samou myšlenku. První člověk se s ní ztotožnil. Věří, že o něm říká pravdu. Druhý člověk si uvědomil: *„Tohle je jen hlas v mojí hlavě. Může mě znepokojit, ale nemusím mu věřit.“* V terapii se učíme zaujmout právě ten druhý postoj - s odstupem a laskavostí k sobě."
             },
             {
               "type": "gap",
@@ -1085,7 +1085,7 @@
                       "type": "note",
                       "placeholder": "Moje vtíravá myšlenka",
                       "title": "**Jaká nepříjemná nebo rušivá myšlenka se vám často vrací?**",
-                      "instruction": "Zapište myšlenku nebo představu přesně tak, jak se vám objevila v mysli.",
+                      "instruction": "Zapište myšlenku nebo představu přesně tak, jak se vám objevuje v mysli.",
                       "rows": 1,
                       "maxLength": 200,
                       "lengthValidationMessage": "Maximální délka odpovědi je 200 znaků.",
@@ -1236,11 +1236,11 @@
                     {
                       "type": "note",
                       "placeholder": "Vyváženější pohled",
-                      "title": "**Jaká klidnější nebo věcnější věta by na tuto myšlenku mohla reagovat?**",
-                      "instruction": "Co jste se o takových myšlenkách dozvěděl/a v programu?",
-                      "rows": 2,
-                      "maxLength": 500,
-                      "lengthValidationMessage": "Maximální délka odpovědi je 500 znaků.",
+                      "title": "**Jakou klidnější nebo věcnější větu byste si mohli říct, když vás napadne tato myšlenka?**",
+                      "instruction": "Co by vám na to řekl někdo, komu na vás záleží?",
+                      "rows": 1,
+                      "maxLength": 200,
+                      "lengthValidationMessage": "Maximální délka odpovědi je 200 znaků.",
                       "required": true
                     }
                   ]
@@ -1261,7 +1261,7 @@
                   ]
                 },
                 {
-                  "title": "Krok 6: Opakujte si to",
+                  "title": "Krok 6: Připomeňte si to",
                   "contentSections": [
                     {
                       "type": "note",
@@ -1320,7 +1320,7 @@
             },
             {
               "type": "collapse",
-              "content": "V předchozí části modulu jsme vám ukázali, jak si od vtíravých myšlenek najít **odstup**. Třeba pomocí připomínek nebo mindfulness cvičení. Teď se na myšlenky podíváme z jiného úhlu. Zkusíme je rozpracovat až do konce. \n \n Říká se tomu **práce s katastrofickým scénářem**. V tomto cvičení se učíte zůstat s představou a nic proti ní nepodnikat. Mozek si postupně zvykne, že nepříjemná myšlenka není hrozba ani varování. Funguje to podobně jako expozice v představě. \n \n Jak na to? Nejprve si sepište ten **nejhorší možný scénář**, který vás napadá. Popište ho **konkrétně** a můžete jít i do **detailu**. Pak si ho čtěte nahlas, klidně každý den. Nebojujte s ním, nesnažte se uklidnit, ani hledat jistotu. Jen zůstaňte u příběhu a všímejte si, jak se při tom cítíte. \n \n Možná si všimnete **strachu**, **tlaku** na hrudi nebo **napětí**. A přesto vytrvejte. To je klíč. Vydržíte ten moment a zjistíte, že i silné obavy se dají unést. A svět se nezbořil. \n \n Podívejme se na příklad Veroniky. Často ji trápila myšlenka, že má vážnou nemoc, kterou přehlédne. Sepsala si scénář: „Nevšimla jsem si příznaků. A teď už je pozdě. Je to moje vina.“ Každý den si ho nahlas četla. Nevolala doktorům, nehledala si příznaky na internetu. Postupně si všimla, že nic z jejího scénáře se nestalo. A i kdyby ano, věděla by, jak to zvládnout. \n \n Když **vydržíte s obavou**, získáte novou zkušenost. Nepřijde panika ani katastrofa. **Otužíte se** a objevíte v sobě *áodvahu** a **klid**. Ne proto, že jste si dokázali, že se nic nestane, ale protože jste si ověřili, že to unesete. \n \n To je pravý cíl tohoto cvičení: schopnost unést nejistotu.",
+              "content": "V předchozí části modulu jsme vám ukázali, jak si od vtíravých myšlenek najít **odstup**. Třeba pomocí připomínek nebo mindfulness cvičení. Teď se na myšlenky podíváme z jiného úhlu. Zkusíme je rozpracovat až do konce. \n \n Říká se tomu **práce s katastrofickým scénářem**. V tomto cvičení se učíte zůstat s představou a nic proti ní nepodnikat. Mozek si postupně zvykne, že nepříjemná myšlenka není hrozba ani varování. Funguje to podobně jako expozice v představě. \n \n Jak na to? Nejprve si sepište ten **nejhorší možný scénář**, který vás napadá. Popište ho **konkrétně** a můžete jít i do **detailu**. Pak si ho čtěte nahlas, klidně každý den. Nebojujte s ním, nesnažte se uklidnit, ani hledat jistotu. Jen zůstaňte u příběhu a všímejte si, jak se při tom cítíte. \n \n Možná si všimnete **strachu**, **tlaku** na hrudi nebo **napětí**. A přesto vytrvejte. To je klíč. Vydržíte ten moment a zjistíte, že i silné obavy se dají unést. A svět se nezbořil. \n \n Podívejme se na příklad Veroniky. Často ji trápila myšlenka, že má vážnou nemoc, kterou přehlédne. Sepsala si scénář: „Nevšimla jsem si příznaků. A teď už je pozdě. Je to moje vina.“ Každý den si ho nahlas četla. Nevolala doktorům, nehledala si příznaky na internetu. Postupně si všimla, že nic z jejího scénáře se nestalo. A i kdyby ano, věděla by, jak to zvládnout. \n \n Když **vydržíte s obavou**, získáte novou zkušenost. Nepřijde panika ani katastrofa. **Otužíte se** a objevíte v sobě **odvahu** a **klid**. Ne proto, že jste si dokázali, že se nic nestane, ale protože jste si ověřili, že to unesete. \n \n To je pravý cíl tohoto cvičení: schopnost unést nejistotu.",
               "title": "Radši si přečtu"
             }
           ]
@@ -1424,7 +1424,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Petr** \n \n **Katastrofický scénář:** \n \n Nezavřel jsem okno, a zároveň jsem nechal zapnutý sporák. Vítr převrhl záclonu na hořák, začal požár. Vyhořelo celé patro a sousedům uhořel pes. Hasiči řekli, že to byla moje nedbalost. Sousedi mě nenávidí, někdo na dveře nastříkal slovo „vrah“. Musel jsem si najít jiné bydlení. \n \n Rodiče se mnou odmítli mluvit. V televizi běžela reportáž o požáru, a pod mým jménem se objevilo slovo „viník“. Našel jsem si práci ve skladu, kde jsem sám. S nikým se nestýkám. Každý den si opakuju, že všechno začalo tím, že jsem neposlechl myšlenku a nevrátil jsem se. \n \n **Co jsem si uvědomil po opakovaném čtení:** \n \n Nadměrně se straším. To proto, že nemám v ničem 100% jistotu. Úzkost mě tlačí k hledání jistoty, ale to v životě prostě nejde. Jsem jen člověk, a i když udělám chybu, můj život tím nekončí."
+                      "content": "**Petr** \n \n **Katastrofický scénář:** \n \n Nezavřel jsem okno, a zároveň jsem nechal zapnutý sporák. Vítr převrhl záclonu na hořák, začal požár. Vyhořelo celé patro a sousedům uhořel pes. Hasiči řekli, že to byla moje nedbalost. Sousedi mě nenávidí, někdo na dveře nastříkal slovo „vrah“. Musel jsem si najít jiné bydlení. \n \n Rodiče se mnou odmítli mluvit. V televizi běžela reportáž o požáru, a pod mým jménem se objevilo slovo „viník“. Našel jsem si práci ve skladu, kde jsem sám. S nikým se nestýkám. Každý den si opakuju, že všechno začalo tím, že jsem neposlechl myšlenku a nevrátil jsem se. \n \n **Co jsem si uvědomil po opakovaném čtení:** \n \n Moc se straším. To proto, že nemám v ničem 100% jistotu. Úzkost mě tlačí k hledání jistoty, ale to v životě prostě nejde. Jsem jen člověk, a i když udělám chybu, můj život tím nekončí."
                     }
                   ]
                 },
@@ -1617,7 +1617,7 @@
               "questions": [
                 {
                   "name": "Question1",
-                  "question": ":::text--center \n Lukáš se obává, že rouhavé věty, které ho napadnou, mohou způsobit trest nebo prokletí. Napsal si katastrofický scénář a čte ho pravidelně. Co je hlavním účelem této metody? \n :::",
+                  "question": ":::text--center \n Lukáš se bojí, že rouhavé věty, které ho napadnou, mohou vést k trestu nebo k zavržení Bohem. Napsal si katastrofický scénář a čte ho pravidelně. Co je hlavním účelem této metody? \n :::",
                   "options": [
                     {
                       "label": "A) Unést úzkost z myšlenky a přestat na ni reagovat kompulzí.",
@@ -1727,7 +1727,7 @@
             {
               "type": "note",
               "placeholder": "Moje obsese",
-              "title": "**Vypište jednu konkrétní obsedantní myšlenku.**",
+              "title": "**Zapište si jednu ze svých obsedantních myšlenek.**",
               "instruction": "můžete se inspirovat příběhy postav",
               "rows": 1,
               "tooltipInfo": "**Příklady:** <br> - „Co když někomu ublížím?“ <br> - „Co když kvůli mně někdo zemře?“",
@@ -1736,7 +1736,7 @@
             {
               "type": "note",
               "placeholder": "Můj katastrofický scénář",
-              "title": "**Popište detailně katastrofický scénář.**",
+              "title": "**Popište podrobně katastrofický scénář.**",
               "instruction": "Představte si, že se rozhodnete neřídit se nutkáním. Co nejhoršího by se podle vás mohlo stát?",
               "rows": 6,
               "required": false
@@ -1981,7 +1981,7 @@
               "color": "#27637C",
               "items": [
                 "Jak rozpoznat hlas svého vnitřního Kritika.",
-                "Jak nás Vnitřní Kritik ovlivňuje a proč posiluje nutkání dělat kompulze.",
+                "Jak nás vnitřní Kritik ovlivňuje a proč posiluje nutkání dělat kompulze.",
                 "Jak posilovat zdravější a laskavější pohled na situace."
               ]
             }

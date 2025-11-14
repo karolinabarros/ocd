@@ -20,8 +20,8 @@
               "color": "#27637C",
               "items": [
                 "Jaké jsou další kroky po dokončení programu.",
-                "Jaké jsou vaše cíle do budoucna.",
-                "Jak předejít návratu potíží."
+                "Jak předejít návratu potíží.",
+                "Jak si připomínat užitečné metody v těžších chvílích."
               ]
             }
           ]
@@ -103,7 +103,7 @@
               },
               {
                 "type": "markdown",
-                "content": "#### Pro vašeho terapeuta je důležité porozumět tomu, jak vás psychické potíže ovlivňují."
+                "content": "#### Pro vašeho terapeuta je důležité porozumět tomu, jak se vám daří."
               }
             ]
           },
@@ -340,7 +340,7 @@
                     ]
                   },
                   {
-                    "name": "difficulty",
+                    "name": "obsessionsIntensity",
                     "question": "Jak náročné pro vás bylo nevšímat si obsesí?",
                     "options": [
                       {
@@ -366,8 +366,8 @@
                     ]
                   },
                   {
-                    "name": "excessiveConcernsAboutVariousThings",
-                    "question": "Nadměrné obavy týkající se různých věcí",
+                    "name": "compulsionsIntensity",
+                    "question": "Jak náročné pro vás bylo odolávat kompulzím?",
                     "options": [
                       {
                         "label": "Snadné",
@@ -562,7 +562,7 @@
               "items": [
                 "Vyplnili jste dotazníky, které mapují vývoj vašich příznaků v průběhu programu.",
                 "Sestavili jste si inventář obsesí a kompulzí podle vaší aktuální situace.",
-                "Ohlédli jste se za poslední týdenní výzvou a zanechali zprávu pro svého terapeuta."
+                "Ohlédli jste se za poslední týdenní výzvou a zanechali zprávu svému terapeutovi."
               ]
             }
           ]
@@ -605,7 +605,7 @@
           "contentSections": [
             {
               "type": "markdown",
-              "content": "Příběhy našich hrdinů ukazují, jak jim OCD bránilo v **naplňování svých hodnot** a co se stalo, když se rozhodli podniknout kroky k tomu to změnit."
+              "content": "Naši hrdinové si nejdříve naplánovali, jak chtějí v budoucnosti pokračovat v expozicích. Zamysleli se taky nad známkami opětovného návratu potíží a nad tím, co mohou udělat, když si jich všimnou."
             },
             {
               "type": "noteBox",
@@ -896,7 +896,7 @@
                     }
                   ],
                   "correctAnswer": 0,
-                  "correctAnswerReason": "Správná odpověď je A). Veronika má naplánované tři kroky: kontaktuje blízkou osobu, zapíše si své pocity místo hledání na internetu a půjde se odreagovat, třeba na procházce."
+                  "correctAnswerReason": "Správná odpověď je A). Veronika má naplánované tři kroky: kontaktuje blízkou osobu, zapíše si své pocity místo hledání na internetu a půjde se odreagovat, třeba procházkou."
                 },
                 {
                   "name": "Question3",
@@ -1094,7 +1094,7 @@
                       },
                       "note": {
                         "title": "**Kdo by vám s tím mohl případně pomoci?**",
-                        "instruction": "osoby a skupiny, které vás podrží v náročném období.",
+                        "instruction": "lidé, kteří vás mohou podržet v náročném období.",
                         "placeholder": "O koho se můžu opřít",
                         "rows": 2,
                         "required": false
@@ -1126,7 +1126,7 @@
               "title": "**Co jste se dozvěděli:**",
               "color": "#27637C",
               "items": [
-                "Nové dovednosti je potřeba dál procvičovat, abychom je dál posílili.",
+                "Nové dovednosti je potřeba procvičovat, abychom je dál posílili.",
                 "Jedním z nejdůležitějších způsobů, jak předejít návratu potíží, je pokračovat v expozicích.",
                 "Plán do budoucna je užitečná strategie, díky které budete vědět, co dělat, i když se znovu ozve hlas OCD."
               ]
@@ -1145,7 +1145,7 @@
               "type": "pictureAndMarkdown",
               "items": [
                 {
-                  "content": "**Připomenutí zvládacích strategií** \n \n Vyjmenujte metody, které vám pomohly. Popište, kdy a jak je použít, pokud se příznaky vrátí. \n \n - Když se objeví nutkání, zastav se, zhluboka dýchej a pak si zapiš, jak se cítíš.",
+                  "content": "**Připomenutí zvládacích strategií** \n \n Vyjmenujte metody, které vám pomohly. Popište, kdy a jak je použít, pokud se příznaky vrátí. \n \n **Příklad:** Když se objeví nutkání, zastav se, zhluboka dýchej a pak si zapiš, jak se cítíš.",
                   "isReversed": false,
                   "direction": "row",
                   "gutter": 24,
@@ -1162,7 +1162,7 @@
               "type": "pictureAndMarkdown",
               "items": [
                 {
-                  "content": "**Základní potřeby a péče o sebe** \n \n Sepište, co vám pomáhá udržet se v rovnováze (spánek, odpočinek, fyzická aktivita, čas s blízkými, koníčky). Přidejte konkrétní plán. \n \n - Dopřej si každý den alespoň hodinu jen pro sebe.",
+                  "content": "**Základní potřeby a péče o sebe** \n \n Sepište, co vám pomáhá cítit se dobře (spánek, odpočinek, pohyb, čas s blízkými, koníčky). Přidejte konkrétní plán. \n \n **Příklad:** Dopřej si každý den alespoň hodinu jen pro sebe.",
                   "isReversed": false,
                   "direction": "row",
                   "gutter": 24,
@@ -1179,7 +1179,7 @@
               "type": "pictureAndMarkdown",
               "items": [
                 {
-                  "content": "**Povzbuzení pro horší dny** \n \n Napište si, co byste potřebovali slyšet, až bude těžko. Může to být rada, povzbuzení nebo připomenutí toho, co jste už dokázali. \n \n - Pamatuj, už jsi to zvládla jednou. Důvěřuj si. Dokážeš to znovu.",
+                  "content": "**Povzbuzení pro horší dny** \n \n Napište si, co byste potřebovali slyšet, až bude těžko. Může to být rada, povzbuzení nebo připomenutí toho, co jste už dokázali. \n \n **Příklad:** Pamatuj, už jsi to zvládla jednou. Důvěřuj si. Dokážeš to znovu.",
                   "isReversed": false,
                   "direction": "row",
                   "gutter": 24,
@@ -1196,24 +1196,7 @@
               "type": "pictureAndMarkdown",
               "items": [
                 {
-                  "content": "**Autonomie** \n \n Zapište si situace, kdy jste jednali samostatně, nepodlehli nátlaku Kritika nebo druhých a respektovali potřeby sebe i ostatních. \n \n „Bylo odvážné, že jsem na poradě řekla, co potřebuji, a zároveň jsem naslouchala týmu.“",
-                  "isReversed": false,
-                  "direction": "row",
-                  "gutter": 24,
-                  "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_1_Vsimejte_si_jak_se_citite_535266e9a7.svg",
-                  "width": "180px",
-                  "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_1_Vsimejte_si_jak_se_citite_mobile_6936474b78.svg",
-                  "widthMobile": "100%",
-                  "alt": "Postava držící balónky s otazníky",
-                  "isExpandable": false
-                }
-              ]
-            },  
-            {
-              "type": "pictureAndMarkdown",
-              "items": [
-                {
-                  "content": "**Život v souladu s hodnotami** \n \n Popište si, jak jste se přiblížili tomu, kým chcete být, a jaké hodnoty vás k tomu vedly. Podpořily nějak vaši motivaci? \n \n „Vytrval jsem v expozici, protože mi záleží na rodině a společném čase.“",
+                  "content": "**Život v souladu s hodnotami** \n \n Připomeňte si, co je pro vás v životě důležité a kvůli čemu vám stojí za to podstoupit i náročné chvíle plné nejistoty. \n \n **Příklad:** „Chci být dobrým vzorem pro své děti a aby nám spolu bylo dobře. Je to pro mě důležitější než chvilkové ujištění pomocí kompulze.“",
                   "isReversed": false,
                   "direction": "row",
                   "gutter": 24,
@@ -1611,14 +1594,14 @@
               "copyContent": [
                 {
                   "type": "note",
-                  "title": "**Kdy se vám to bude hodit?**",
+                  "title": "**Kdy se mi to bude hodit?**",
                   "placeholder": "Popis situace",
                   "required": false,
                   "rows": 1
                 },
                 {
                   "type": "note",
-                  "title": "**Jaký vzkaz vám pomůže?**",
+                  "title": "**Jaký vzkaz mi pomůže?**",
                   "placeholder": "Vzkaz pro mě",
                   "required": false,
                   "rows": 2
@@ -1637,7 +1620,7 @@
           "contentSections": [
             {
               "type": "markdown",
-              "content": "V imaginaci si představíte, jaké to bude v budoucnu, poté co dokončíte program."
+              "content": " imaginaci si představíte, jak může vypadat vaše budoucnost po dokončení programu."
             },
             {
               "type": "video",
@@ -1673,14 +1656,15 @@
               "title": "**V tomto modulu jste se dozvěděli:**",
               "color": "#27637C",
               "items": [
-                "Terapeutická kartička vám pomůže zůstat silní, motivovaní a věrní svým hodnotám i v náročných chvílích.",
-                "Kartička může obsahovat připomenutí zvládacích strategií a vašich hodnot."
+                "Po dokončení programu je důležité pokračovat v expozicích, abyste si udrželi svůj pokrok.",
+                "Plán do budoucna vám pomůže připravit se na těžší období, kdy může zesílit hlas OCD.",
+                "Terapeutické kartičky vás podpoří ve chvílích, kdy to budete potřebovat."
               ]
             },
             {
               "type": "note",
-              "placeholder": "Co vás zaujalo?",
               "title": "**Co pro vás bylo nejpřínosnější nebo nejzajímavější?**",
+              "placeholder": "Co vás zaujalo?",
               "rows": 2,
               "maxLength": 500,
               "lengthValidationMessage": "Maximální délka odpovědi je 500 znaků.",

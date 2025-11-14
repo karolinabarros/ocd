@@ -200,7 +200,7 @@
           "contentSections": [
             {
               "type": "markdown",
-              "content": "V tomto modulu se budeme věnovat vnitřnímu hlasu, který je přísný, trestající a perfekcionistický. Ten nám často škodí a nutí nás dělat kompulze. Říkáme mu **vnitřní Kritik.**"
+              "content": "V tomto modulu se budeme věnovat vnitřnímu hlasu, který je přísný, trestající a tak trochu puntičkář. Ten nám často škodí a nutí nás dělat kompulze. Říkáme mu **vnitřní Kritik.**"
             },
             {
               "type": "video",
@@ -215,7 +215,7 @@
           ]
         },
         {
-          "title": "Typy Vnitřního Kritika",
+          "title": "Typy vnitřního Kritika",
           "icon": "text",
           "contentSections": [
             {
@@ -343,7 +343,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "Věří, že to, co nás napadne, říká něco o tom, jací jsme. Připisuje myšlenkám význam pro identitu. Tento hlas výrazně zesiluje pocit odlišnosti nebo selhání."
+                      "content": "Věří, že to, co nás napadne, říká něco o tom, jací jsme. Přísně soudí naše myšlenky a obviňuje nás za ně. Tento hlas výrazně zesiluje pocit odlišnosti nebo selhání."
                     },
                     {
                       "type": "list",
@@ -359,7 +359,7 @@
                 },
                 {
                   "id": "Fakehelper",
-                  "title": "Falešný rádce",
+                  "title": "Falešný ochránce",
                   "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Falesny_radce_icon_011f01b9ef.svg",
                   "contentCard": [
                     {
@@ -1035,7 +1035,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "Někdy si všimneme, že se kvůli kritickým myšlenkám cítíme **mizerně**, a je nám jasné, že nám vůbec **nepomáhá**. Ale jindy to tak jednoznačné není. Zní to **užitečně**, a můžeme mít dojem, že bychom to měli **poslechnout**. Jenže zároveň taková „pomoc“ často víc bolí, než pomáhá. \n \n Je úplně normální, pokud máte smíšené pocity. Uvědomit si **dvojí tvář Kritika** je důležitý krok. Teď se na to zkusíme podívat konkrétně."
+                      "content": "Někdy si všimneme, že se kvůli kritickým myšlenkám cítíme **mizerně**, a je nám jasné, že nám vůbec **nepomáhá**. Ale jindy to tak jednoznačné není. Zní to **užitečně**, a můžeme mít dojem, že bychom to měli **poslechnout**. Jenže zároveň taková „pomoc“ často víc bolí, než pomáhá. \n \n Je úplně normální, pokud máte smíšené pocity. Uvědomit si **dvojí tvář Kritika** je důležitý krok. Teď se na to zkusíme podívat blíže."
                     },
                     {
                       "type": "checkBoxList",
@@ -1089,7 +1089,7 @@
                     },
                     {
                       "type": "checkBoxList",
-                      "title": "**„Ale zároveň mi ubližoval tím, že...“**",
+                      "title": "**„A zároveň mi ubližoval tím, že...“**",
                       "instruction": "můžete vybrat více možností",
                       "required": true,
                       "isSingleColumn": true,
@@ -1208,7 +1208,7 @@
                     },
                     {
                       "type": "note",
-                      "title": "**Co vám to říká o tom, jak mluvíte sami se sebou?**",
+                      "title": "**Co vám to říká o tom, jak jednáte sami se sebou?**",
                       "placeholder": "Co to o vás říká?",
                       "rows": 2,
                       "maxLength": 200,
@@ -1620,14 +1620,14 @@
                     }
                   ],
                   "correctAnswer": 1,
-                  "correctAnswerReason": "Správná odpověď je B). Jana rozpoznala hlas Kritika, který přehání a varuje. Když nezačne kontrolovat, ani se vyhýbat, ale postaví se k tomu klidně a věcně, může strávit hezké setkání s kamarádkou."
+                  "correctAnswerReason": "Správná odpověď je B). Jana rozpoznala hlas Kritika, který přehání a straší. Když nezačne kontrolovat, ani se vyhýbat, ale postaví se k tomu klidně a věcně, může strávit hezké setkání s kamarádkou."
                 },
                 {
                   "name": "Question3",
                   "question": ":::text--center \n Petr vychází z bytu. Přepadne vtíravá myšlenka: „Co když jsme nechali otevřené okno a naprší dovnitř?“ Je nervózní a řekne manželce: „Neotočíme se? Jen to rychle zkontrolovat?“ Ona nesouhlasí. Petr ale cítí silné nutkání. \n \n Co mu v tu chvíli nejvíc pomůže?  \n :::",
                   "options": [
                     {
-                      "label": "A) Trvat na tom, aby se vrátili, protože tak přece vypadá zodpovědnost.",
+                      "label": "A) Trvat na tom, aby se vrátili, protože to je přece zodpovědné.",
                       "value": 0
                     },
                     {
@@ -1737,7 +1737,7 @@
                       },
                       "note": {
                         "title": "**Jak byste mohli odpovědět hlasem Zdravého dospělého a Laskavého rodiče?**",
-                        "instruction": "Představte si, že tak radíte svému blízkému.",
+                        "instruction": "Představte si, že to říkáte svému blízkému.",
                         "rows": 2,
                         "placeholder": "Moje nová odpověď",
                         "required": false
@@ -1760,8 +1760,8 @@
                         "align": "center"
                       },
                       "note": {
-                        "title": "**Jak se teď cítíte, když si nahlas přečtete tuto odpověď?**",
-                        "instruction": "čeho jste si všimli ve svém těle, emocích a tónu hlasu? ",
+                        "title": "**Jak se cítíte, když si nahlas přečtete tuto odpověď?**",
+                        "instruction": "Čeho jste si všimli na svém prožívání?",
                         "rows": 2,
                         "placeholder": "Moje reakce",
                         "required": false

@@ -217,10 +217,10 @@
             {
               "type": "image",
               "isExpandable": true,
-              "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Zprava_pro_terapeuta_22d2000e96.svg",
+              "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jak_se_muze_OCD_projevovat_v_komunikaci_9b2afa4b0b.svg",
               "width": "100%",
-              "alt": "Ruka držící dopis v obálce",
-              "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Zprava_pro_terapeuta_mobile_e785e38a53.svg",
+              "alt": "Ilustrace Michala a Mirky, kde Michal uvažuje o tom, že se začne Mirky doptávat",
+              "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jak_se_muze_OCD_projevovat_v_komunikaci_mobile_b9eff37573.svg",
               "widthMobile": "100%",
               "align": "center"
             },
@@ -244,7 +244,7 @@
               "items": [
                 "„Myslíš, že je to v pořádku?“",
                 "„Opravdu jsem nic neudělal/a špatně?“",
-                "„Zkontroluj to prosím ještě jednou.“",
+                "„Prosím, zkontroluj to ještě jednou.“",
                 "„Nezlobíš se?“"
               ]
             }
@@ -380,10 +380,10 @@
                     {
                       "type": "image",
                       "isExpandable": false,
-                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Veronika_a_vtirave_myslenky_f267f57f34.svg",
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Michalova_komunikace_ve_vztahu_53b6c522d0.svg",
                       "width": "100%",
                       "alt": "Komiks o tom, jak Michal změnil komunikaci s Mirkou a už se tolik neujjišťoval",
-                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Veronika_a_vtirave_myslenky_mobile_7d7b4b8293.svg",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Michalova_komunikace_ve_vztahu_mobile_ea7e3e568a.svg",
                       "widthMobile": "100%",
                       "align": "center"
                     }
@@ -536,7 +536,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Klára** \n \n **Situace dříve** \n \n Klára už několik týdnů přemýšlí, že by partnerovi Honzovi řekla o svých vtíravých myšlenkách, konkrétně o představách, že by mohla ublížit dítěti. Ví, že jde o projev OCD, ale i tak ji myšlenky děsí a hluboce znejišťují. Bojí se, že se jí Honza začne štítit nebo ji odsoudí. \n \n Zkouší to otevřít lehce: „Hele… Občas se mi honí hlavou dost divné věci. Ale to je jen stres, neřeš to. Každému občas přeskočí, že jo?“ \n \n Honza reaguje nejistě: „Hm. No tak hlavně že víš, že to není normální. Zkus se rozptýlit, ať se tím nezabýváš.“ \n \n Klára cítí, jak se v ní cosi uzavírá. Její lehce ironický tón nedal Honzovi najevo, jak vážně to myslí. Je zklamaná, ale zároveň chápe, že si neuvědomil hloubku jejího trápení. Cítí se ještě víc sama. \n \n **Co si Klára uvědomila** \n \n Klára o konverzaci večer přemýšlela. Došlo jí, že se v jejím tónu často odráží její vnitřní konflikt. Chce, aby ji Honza pochopil, ale zároveň se bojí, že ji odsoudí. Proto to zlehčuje a dělá si legraci. Nebo se tomu raději úplně vyhýbá. \n \n Uvědomila si, že skutečnou blízkost by cítila více, kdyby se nechránila ironií a kdyby ukázala, co opravdu cítí. Uvědomila si také, že to nebude lehké a potřebuje k tomu najít odvahu. \n \n **Změna v komunikaci** \n \n Během klidného večera Klára říká: „Honzí… Chtěla bych ti něco říct. Dlouho jsem to držela v sobě. Když se cítím hodně přetížená, občas mě napadnou děsivé věci. Třeba že bych mohla ublížit nějakému dítěti. \n \n Nikdy bych to neudělala, ale je mi hrozně už z toho, že mě to napadne. Bojím se, že jsem úchylná. Vím, že je to projev OCD, ale i tak je to těžké. Důvěřuju ti, a proto ti to říkám.“ \n \n Honza se zarazí, ale pak odpoví: „Díky, že jsi mi to řekla. To musí být těžké. Jsem rád, že jsi se mi svěřila.“ \n \n Kláře spadl kámen ze srdce. Ulevilo se nejen díky Honzově reakci, ale hlavně proto, že už to nenese sama. Její odvaha otevřít se bez zlehčování umožnila Honzovi reagovat empaticky. Klára cítí novou úroveň intimity. \n \n **Shrnutí** \n \n Klára se přestává skrývat a mluví o svém vnitřním boji místo výmluv a viny. Díky tomu může dojít ke skutečnému porozumění mezi ní a partnerem."
+                      "content": "**Klára** \n \n **Situace dříve** \n \n Klára už několik týdnů přemýšlí, že by partnerovi Honzovi řekla o svých vtíravých myšlenkách, konkrétně o představách, že by mohla ublížit dítěti. Ví, že jde o projev OCD, ale i tak ji myšlenky děsí a hluboce znejišťují. Bojí se, že se jí Honza začne štítit nebo ji odsoudí. \n \n Zkouší to otevřít lehce: „Hele… Občas se mi honí hlavou dost divné věci. Ale to je jen stres, neřeš to. Každému občas přeskočí, že jo?“ \n \n Honza reaguje nejistě: „Hm. No tak hlavně že víš, že to není normální. Zkus se rozptýlit, ať se tím nezabýváš.“ \n \n Klára cítí, jak se v ní cosi uzavírá. Její lehce ironický tón nedal Honzovi najevo, jak vážně to myslí. Je zklamaná, ale zároveň chápe, že si neuvědomil hloubku jejího trápení. Cítí se ještě víc sama. \n \n **Co si Klára uvědomila** \n \n Klára o konverzaci večer přemýšlela. Došlo jí, že se v jejím tónu často odráží její vnitřní konflikt. Chce, aby ji Honza pochopil, ale zároveň se bojí, že ji odsoudí. Proto to zlehčuje a dělá si legraci. Nebo se tomu raději úplně vyhýbá. \n \n Uvědomila si, že skutečnou blízkost by cítila více, kdyby se nechránila ironií a kdyby ukázala, co opravdu cítí. Uvědomila si také, že to nebude lehké a potřebuje k tomu najít odvahu. \n \n **Změna v komunikaci** \n \n Během klidného večera Klára říká: „Honzo… Chtěla bych ti něco říct. Když se cítím hodně přetížená, občas mě napadnou nepříjemné věci. Třeba že bych mohla ublížit nějakému dítěti. Nikdy bych to neudělala, ale je mi hrozně už z toho, že mě to napadne. Vím, že to patří k OCD, ale i tak je to těžké. Důvěřuju ti, a proto ti to říkám.“ \n \n Honza se zarazí, ale pak odpoví: „Díky, že jsi mi to řekla. To musí být těžké. Jsem rád, že jsi se mi svěřila.“ \n \n Kláře spadl kámen ze srdce. Ulevilo se nejen díky Honzově reakci, ale hlavně proto, že už to nenese sama. Její odvaha otevřít se bez zlehčování umožnila Honzovi reagovat empaticky. Klára cítí novou úroveň intimity. \n \n **Shrnutí** \n \n Klára se přestává skrývat a mluví o svém vnitřním boji místo výmluv a viny. Díky tomu může dojít ke skutečnému porozumění mezi ní a partnerem."
                     }
                   ]
                 },
@@ -561,7 +561,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Lukáš** \n \n **Situace dříve** \n \n Lukáš trpí náboženskými obsesemi. Při modlitbě ho přepadávají vtíravé rouhavé myšlenky, třeba že Bůh neexistuje. Už ví, že tyto myšlenky nejsou to, co si doopravdy přeje. I tak v něm vyvolávají stud, úzkost a pocit, že je špatný člověk. Rozhodne se svěřit mámě, i když ví, že sama věřící není. \n \n Při návštěvě doma se snaží začít: „Já asi nejsem normální. Při modlitbě mi naskakují šílené myšlenky. Třeba že Bůh není nebo že si přeju, aby se mu něco stalo… Říkám si, co jsem to za člověka. Co si o tom myslíš?“ \n \n Lukášova matka odpovídá nejistě: „Lukáši, to je opravdu divné. Myslím, že ti ta víra víc škodí, než pomáhá. Dřív ses takhle netrápil.“ \n \n Lukáše to zklamalo. Má pocit, že mu máma nerozumí. Ví, že s jeho vírou nesouzní, ale doufal, že ho vyslechne. Místo toho se rozhovor stočil k názoru na náboženství. Když máma kritizuje jeho víru, je to jako by kritizovala jeho. To ho hodně zraňuje. \n \n **Co si Lukáš uvědomil** \n \n Lukáš si uvědomuje, že máma podobně reaguje při většině rozhovorů, které se týkají víry. Jindy se to nestává. Ví, že ho má ráda. \n \n Také mu postupně došlo, že nehledal názor, ale útěchu. Jenže způsob, jakým to řekl, zněl jako sebekritika a skrytá prosba o ujištění. Tím mámu znejistil. Ona se nechce hádat o víře, jen se o něj bojí. Uvědomil si, že potřebuje mluvit otevřeně, být konkrétní, a přitom zůstat citlivý. \n \n **Změna v komunikaci** \n \n Při dalším rozhovoru řekl Lukáš mámě klidněji: „Mami… Chtěl bych si s tebou ještě promluvit o svém problému. Při modlitbě se mi občas vnucují myšlenky, které mě děsí. Jako bych popíral Boha, nebo si přál něco špatného. Vím, že to souvisí s OCD, ale stejně se bojím, co by si o mně někdo pomyslel. Neříkám to kvůli víře. Říkám to, protože mi je těžko, a protože k tobě chci být otevřený.“ \n \n Máma chvíli mlčela. Pak přistoupila blíž a řekla: „Díky, že jsi se svěřil. Vím, že s tím musíš hodně bojovat. Nejsem věřící, ale jsem tvoje máma. A chci, abys věděl, že jsem tu pro tebe.“ \n \n Lukáš se cítí lépe. Jeho bolest byla vyslyšena. Máma ho nesoudila a podpořila ho. A právě to potřeboval nejvíc. \n \n **Shrnutí** \n \n Lukáš se odhodlává svěřit se s rouhavými myšlenkami. Ne proto, aby slyšel, že je „normální“, ale proto, že touží být pochopený a nepřijít o vztah s mámou."
+                      "content": "**Lukáš** \n \n **Situace dříve** \n \n Lukáš trpí náboženskými obsesemi. Při modlitbě ho přepadávají vtíravé rouhavé myšlenky, třeba že Bůh neexistuje. Už ví, že tyto myšlenky nejsou to, co si doopravdy přeje. I tak v něm vyvolávají stud, úzkost a pocit, že je špatný člověk. Rozhodne se svěřit mámě, i když ví, že sama věřící není. \n \n Při návštěvě doma se snaží začít: „Já asi nejsem normální. Při modlitbě mi naskakují šílené myšlenky. Třeba že Bůh není nebo že si přeju, aby se mu něco stalo… Říkám si, co jsem to za člověka. Co si o tom myslíš?“ \n \n Lukášova matka odpovídá nejistě: „Lukáši, to je opravdu divné. Myslím, že ti ta víra víc škodí, než pomáhá. Dřív ses takhle netrápil.“ \n \n Lukáše to zklamalo. Má pocit, že mu máma nerozumí. Ví, že s jeho vírou nesouzní, ale doufal, že ho vyslechne. Místo toho se rozhovor stočil k názoru na náboženství. Když máma kritizuje jeho víru, je to jako by kritizovala jeho. To ho hodně zraňuje. \n \n **Co si Lukáš uvědomil** \n \n Lukáš si uvědomuje, že máma podobně reaguje při většině rozhovorů, které se týkají víry. Jindy se to nestává. Ví, že ho má ráda. \n \n Také mu postupně došlo, že nehledal názor, ale útěchu. Jenže způsob, jakým to řekl, zněl jako sebekritika a skrytá prosba o ujištění. Tím mámu znejistil. Ona se nechce hádat o víře, jen se o něj bojí. Uvědomil si, že potřebuje mluvit otevřeně, být konkrétní, a přitom zůstat citlivý. \n \n **Změna v komunikaci** \n \n Při dalším rozhovoru řekl Lukáš mámě klidněji: „Mami… Chtěl bych si s tebou ještě promluvit o svém problému. Při modlitbě se mi občas vnucují myšlenky, které mě děsí. Jako bych popíral Boha, nebo si přál něco špatného. Vím, že to souvisí s OCD, ale stejně se bojím, co by si o mně někdo pomyslel. Neříkám to kvůli víře. Říkám to, protože mi je těžko, a protože k tobě chci být otevřený.“ \n \n Máma chvíli mlčela. Pak přistoupila blíž a řekla: „Díky, že ses mi svěřil. Vím, že s tím musíš hodně bojovat. Nejsem věřící, ale jsem tvoje máma. A chci, abys věděl, že jsem tu pro tebe.“ \n \n Lukáš se cítí lépe. Jeho bolest byla vyslyšena. Máma ho nesoudila a podpořila ho. A právě to potřeboval nejvíc. \n \n **Shrnutí** \n \n Lukáš se odhodlává svěřit se s rouhavými myšlenkami. Ne proto, aby slyšel, že je „normální“, ale proto, že touží být pochopený a nepřijít o vztah s mámou."
                     }
                   ]
                 },
@@ -611,7 +611,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Michal** \n \n **Situace dříve** \n \n Michal si v posledních dnech všímá, že se přítelkyně Mirka chová odtažitě. Je unavená, večer si víc čte, občas se zapomene v mobilu. Michal cítí úzkost. Vynořují se pochybnosti o vztahu. \n \n Už potřetí za poslední dva dny se ptá: „Miluješ mě ještě? Je mezi námi všechno v pořádku?“ \n \n Mirka si povzdechne: „To už se mě ptáš poněkolikáté… Říkám ti to pořád dokola.“ \n \n Michal zmlknul. Cítí se trapně a osaměle. Nechce jí lézt na nervy. Jen se potřeboval ujistit, že je vše v pořádku. Mirka se ale cítí zatížená opakováním týchž odpovědí. Přijde si jako pod mikroskopem. \n \n **Co si Michal uvědomil** \n \n Michal pochopil, že jeho sklony se ujišťovat pochází ze strachu z odmítnutí. Když má dojem, že se Mirka vzdaluje, spustí se v něm nejistota z předešlých vztahů a z dětství, kdy byl často sám. \n \n Uvědomil si, že opakovaným dotazováním vytváří tlak. Někdy ho Mirka ujistí, ale čím dál častěji ji to naštve. Michal ujištění stejně věří jen napůl. A když se Mirka naštve, tak to v něm o to víc zvýší nejistotu. Ujišťovat se nemá cenu. Uvažuje o tom, co udělat pro vztah, aby ho posílil, aniž by se ujišťoval. \n \n **Změna v komunikaci** \n \n Při dalším rozhovoru Michal místo obvyklého ujišťování říká: „Dneska jsem dost napjatý z práce. Když jsem ve stresu, tak mě přepadají obavy. Chtěl jsem se zase ujistit, že o mně stojíš. Ale už to nechci dělat. Vím, že to pro tebe není příjemné.“ \n \n Mirka se na něj podívá a odpoví tiše: „Chápu, že můžeš mít obavy, když jsem unavená a nemám chuť si povídat. Já to tak mívám. Večer si chci zalézt a být sama. Je fajn, že si to můžeme říct takhle narovinu.“ \n \n Michalovi je lépe. Mirka mu naslouchala a rozumí si teď vzájemně o něco více. Jako by se mezi nimi vyčistil vzduch a koukali na sebe v novém světle. \n \n **Shrnutí** \n \n Michal opouští nekonečné otázky a ujišťování. Místo toho Mirce ukazuje, co v něm vřelo: strach z opuštění. Dává jim oběma šanci mít hezký vztah."
+                      "content": "**Michal** \n \n **Situace dříve** \n \n Michal si v posledních dnech všímá, že se přítelkyně Mirka chová odtažitě. Je unavená, večer si víc čte, občas se zapomene v mobilu. Michal cítí úzkost. Vynořují se pochybnosti o vztahu. \n \n Už potřetí za poslední dva dny se ptá: „Miluješ mě ještě? Je mezi námi všechno v pořádku?“ \n \n Mirka si povzdechne: „To už se mě ptáš poněkolikáté… Říkám ti to pořád dokola.“ \n \n Michal zmlknul. Cítí se trapně a osaměle. Nechce jí lézt na nervy. Jen se potřeboval ujistit, že je vše v pořádku. Mirka se ale cítí zatížená opakováním týchž odpovědí. Přijde si jako pod mikroskopem. \n \n **Co si Michal uvědomil** \n \n Michal pochopil, že jeho sklony se ujišťovat pochází ze strachu z odmítnutí. Když má dojem, že se Mirka vzdaluje, spustí se v něm nejistota z předešlých vztahů a z dětství, kdy byl často sám. \n \n Uvědomil si, že opakovaným dotazováním vytváří tlak. Někdy ho Mirka ujistí, ale čím dál častěji ji to naštve. Michal ujištění stejně věří jen napůl. A když se Mirka naštve, tak to v něm o to víc zvýší nejistotu. Ujišťovat se nemá cenu. Uvažuje o tom, co udělat pro vztah, aby ho posílil, aniž by se ujišťoval. \n \n **Změna v komunikaci** \n \n Při dalším rozhovoru Michal místo obvyklého ujišťování říká: „Dneska jsem dost napjatý z práce. Když jsem ve stresu, tak mě přepadají obavy. Chtěl jsem se zase ujistit, že o mně stojíš. Ale už to nechci dělat. Vím, že ti to není příjemné.“ \n \n Mirka se na něj podívá a odpoví tiše: „Chápu, že můžeš mít obavy, když jsem unavená a nemám chuť si povídat. Já to tak mívám. Večer si chci zalézt a být sama. Je fajn, že si to můžeme říct takhle narovinu.“ \n \n Michalovi je lépe. Mirka mu naslouchala a rozumí si teď vzájemně o něco více. Jako by se mezi nimi vyčistil vzduch a koukali na sebe v novém světle. \n \n **Shrnutí** \n \n Michal opouští nekonečné otázky a ujišťování. Místo toho Mirce ukazuje, co v něm vřelo: strach z opuštění. Dává jim oběma šanci mít hezký vztah."
                     }
                   ]
                 },
@@ -636,7 +636,7 @@
                     },
                     {
                       "type": "markdown",      
-                      "content": "**Jirka** \n \n **Situace dříve** \n \n Jirka má při řízení nutkání počítat značky aut, čísla ve spisech nebo počet předmětů okolo. Ve stresu se počítání zintenzivňuje. Řízení po městě je pro něj téměř nemožné. \n \n Snaží se to držet v sobě, ale nakonec požádá manželku: „Lucko, budeš řídit, jo? Mně to v tom novém autě prostě nějak nejde. A ve městě je to na mě moc.“ \n \n Lucie reaguje podrážděně: „Zase? Jirko, vždyť jsi dřív řídil pořád. Tak na co jsme to auto kupovali? Je s tebou něco?“ \n \n Jirka cítí vinu i vztek. Neumí své chování vysvětlit bez studu. Jeho žádost zní jako výmluva. A Lucie nemá šanci pochopit, co se v něm vlastně odehrává. \n \n **Co si Jirka uvědomil** \n \n Jirka se po několika podobných rozhovorech pokusil pojmenovat své nutkání. Pochopil, že čím víc se jim vyhýbá nebo je skrývá, tím víc ho ovládají. Bojí se, co se může stát, když si nedá pozor, a je to čím dál horší. Nesnesl by pomyšlení, že by došlo k něčemu zlému a on by za to nesl odpovědnost. Zároveň se stydí za to, že nechává řízení na druhých lidech. Chtěl by to zvládat sám jako dřív. \n \n Stydí se za své problémy, ale ví, že mu stud nepomáhá. Jen se pak cítí ještě hůře. Rozhodl se Lucii popsat, co se v něm děje. Bez výmluv, ale taky bez přehánění. \n \n **Změna v komunikaci** \n \n Když si spolu večer sedli doma, řekl Lucii klidně: „Vím, že tě štve, když nechci řídit. Dlouho jsem nic neříkal, protože jsem se styděl. Mám vtíravé myšlenky. Třeba, že se holkám něco stane, když nespočítám čísla na značkách aut. Když mi vyjde prvočíslo, mám nutkání hledat čísla dělitelná čtyřmi. \n \n Vím, že je to blbost. Ale co kdyby? Nechci to riskovat. Ale je to vyčerpávající. A v provozu to moc nejde zvládat. Na dálnici to ještě jakž takž jde. Ale ve městě se to nedá.“ \n \n Lucie se nejdřív zarazí. Po chvilce ticha položí svou ruku na jeho. „To musí být hrozně únavné. A děsivé. Chápu to teď líp. Ráda ti pomůžu. Jen… až to budeš zvládat líp, můžeš se k řízení zase postupně vrátit?“ \n \n Jiří ucítí úlevu. Ne protože by hned vše vyřešil, ale protože se nemusí dál schovávat. \n \n **Shrnutí** \n \n Jirka překonává stud a sdílí s Lucií své nutkání počítat. Místo skrývání a vyhýbání tak buduje most porozumění a otevírá prostor ke změně."
+                      "content": "**Jirka** \n \n **Situace dříve** \n \n Jirka má při řízení nutkání počítat značky aut, čísla ve spisech nebo počet předmětů okolo. Ve stresu se nutkání k počítání zesiluje. Řízení po městě je pro něj téměř nemožné. \n \n Snaží se to držet v sobě, ale nakonec požádá manželku: „Lucko, budeš řídit, jo? Mně to v tom novém autě prostě nějak nejde. A ve městě je to na mě moc.“ \n \n Lucie reaguje podrážděně: „Zase? Jirko, vždyť jsi dřív řídil pořád. Tak na co jsme to auto kupovali? Je s tebou něco?“ \n \n Jirka cítí vinu i vztek. Neumí své chování vysvětlit bez studu. Jeho žádost zní jako výmluva. A Lucie nemá šanci pochopit, co se v něm vlastně odehrává. \n \n **Co si Jirka uvědomil** \n \n Jirka se po několika podobných rozhovorech pokusil pojmenovat své nutkání. Pochopil, že čím víc se jim vyhýbá nebo je skrývá, tím víc ho ovládají. Bojí se, co se může stát, když si nedá pozor, a je to čím dál horší. Nesnesl by pomyšlení, že by došlo k něčemu zlému a on by za to nesl odpovědnost. Zároveň se stydí za to, že nechává řízení na druhých lidech. Chtěl by to zvládat sám jako dřív. \n \n Stydí se za své problémy, ale ví, že mu stud nepomáhá. Jen se pak cítí ještě hůře. Rozhodl se Lucii popsat, co se v něm děje. Bez výmluv, ale taky bez přehánění. \n \n **Změna v komunikaci** \n \n Když si spolu večer sedli, řekl Lucii klidně: „Vím, že tě štve, když nechci řídit. Dlouho jsem nic neříkal, protože jsem se styděl. Mám vtíravé myšlenky. Třeba, že se holkám něco stane, když nespočítám čísla na značkách aut. Když mi vyjde prvočíslo, mám nutkání hledat čísla dělitelná čtyřmi. \n \n Vím, že je to blbost. Ale co kdyby? Nechci to riskovat. Ale je to vyčerpávající. A v provozu to moc nejde zvládat. Na dálnici to ještě jakž takž jde. Ale ve městě se to nedá.“ \n \n Lucie se nejdřív zarazí. Po chvilce ticha položí svou ruku na jeho. „To musí být hrozně únavné. A děsivé. Chápu to teď líp. Ráda ti pomůžu. Jen… až to budeš zvládat líp, můžeš se k řízení zase postupně vrátit?“ \n \n Jiří ucítí úlevu. Ne protože by hned vše vyřešil, ale protože se nemusí dál schovávat. \n \n **Shrnutí** \n \n Jirka překonává stud a sdílí s Lucií své nutkání počítat. Místo skrývání a vyhýbání tak buduje most porozumění a otevírá prostor ke změně."
                     }
                   ]
                 }
@@ -677,11 +677,11 @@
                   "question": ":::text--center \n Když Šimon přijde z práce a neumyje si ruce, Jana se bojí, že doma roznese viry a bakterie. Co mu může říct, aby popsala svůj vnitřní stav bez snahy ho donutit vydrhnout si ruce? \n :::",
                   "options": [
                     {
-                      "label": "A) „Umyj si prosím ruce, nebo to tady celé musím znovu vydezinfikovat.“",
+                      "label": "A) „Umyj si prosím ruce, nebo to tady budu muset celé zase vydezinfikovat.“",
                       "value": 0
                     },
                     {
-                      "label": "B) „Když si umyješ ruce, cítím se ohrožená. Potřebuju, abys to dělal.“",
+                      "label": "B) „Když si neumyješ ruce, cítím se ohrožená. Potřebuju, abys to dělal.“",
                       "value": 1
                     },
                     {
@@ -701,7 +701,7 @@
                       "value": 0
                     },
                     {
-                      "label": "B) „Když jsou věci rozházené, cítím silné napětí, Není to tvoje vina. Jen ti chci říct, co se se mnou děje.“",
+                      "label": "B) „Když jsou věci rozházené, jsem z toho napjatý. Není to tvoje vina. Jen ti chci říct, co se se mnou děje.“",
                       "value": 1
                     },
                     {
@@ -755,8 +755,8 @@
                       "type": "pictureAndNote",
                       "image": {
                         "isExpandable": true,
-                        "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Scenar_expozice_af5f82448b.svg",
-                        "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Scenar_expozice_mobile_9d736d9bed.svg",
+                        "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Vzorce_v_komunikaci_krok_1_a837ec35d8.svg",
+                        "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Vzorce_v_komunikaci_krok_1_mobile_4fc1de4e1b.svg",
                         "alt": "Zápisník se zakroužkovaným textem",
                         "width": "128px",
                         "widthMobile": "100%",
@@ -779,9 +779,9 @@
                       "type": "pictureAndNote",
                       "image": {
                         "isExpandable": true,
-                        "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Scenar_expozice_af5f82448b.svg",
-                        "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Scenar_expozice_mobile_9d736d9bed.svg",
-                        "alt": "Zápisník se zakroužkovaným textem",
+                        "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Vzorce_v_komunikaci_krok_2a_bb375ea2f6.svg",
+                        "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Vzorce_v_komunikaci_krok_2a_mobile_4384cf579e.svg",
+                        "alt": "Dvě žárovky, jedna je rozsvícená",
                         "width": "128px",
                         "widthMobile": "100%",
                         "align": "center"
@@ -798,9 +798,9 @@
                       "type": "pictureAndNote",
                       "image": {
                         "isExpandable": true,
-                        "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Scenar_expozice_af5f82448b.svg",
-                        "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Scenar_expozice_mobile_9d736d9bed.svg",
-                        "alt": "Zápisník se zakroužkovaným textem",
+                        "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Vzorce_v_komunikaci_krok_2b_6504fc84bd.svg",
+                        "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Vzorce_v_komunikaci_krok_2b_mobile_257946782c.svg",
+                        "alt": "Jedná tvář s úsměvem a jedna zamračená",
                         "width": "128px",
                         "widthMobile": "100%",
                         "align": "center"
@@ -817,9 +817,9 @@
                       "type": "pictureAndNote",
                       "image": {
                         "isExpandable": true,
-                        "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Scenar_expozice_af5f82448b.svg",
-                        "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Scenar_expozice_mobile_9d736d9bed.svg",
-                        "alt": "Zápisník se zakroužkovaným textem",
+                        "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Vzorce_v_komunikaci_krok_2c_fa1bfa6f9a.svg",
+                        "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Vzorce_v_komunikaci_krok_2c_mobile_c4a547a0a9.svg",
+                        "alt": "Dvě ruce, jedna s palcem nahoru a jedna s palcem dolů",
                         "width": "128px",
                         "widthMobile": "100%",
                         "align": "center"
@@ -841,9 +841,9 @@
                       "type": "pictureAndNote",
                       "image": {
                         "isExpandable": true,
-                        "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Scenar_expozice_af5f82448b.svg",
-                        "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Scenar_expozice_mobile_9d736d9bed.svg",
-                        "alt": "Zápisník se zakroužkovaným textem",
+                        "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Vzorce_v_komunikaci_krok_3a_9a8476e326.svg",
+                        "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Vzorce_v_komunikaci_krok_3a_mobile_05bd3bd48f.svg",
+                        "alt": "Dvě žárovky, jedna je rozsvícená",
                         "width": "128px",
                         "widthMobile": "100%",
                         "align": "center"
@@ -860,9 +860,9 @@
                       "type": "pictureAndNote",
                       "image": {
                         "isExpandable": true,
-                        "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Scenar_expozice_af5f82448b.svg",
-                        "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Scenar_expozice_mobile_9d736d9bed.svg",
-                        "alt": "Zápisník se zakroužkovaným textem",
+                        "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Vzorce_v_komunikaci_krok_3b_09c7a4c315.svg",
+                        "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Vzorce_v_komunikaci_krok_3b_mobile_61a7e9e6ac.svg",
+                        "alt": "Jedná tvář s úsměvem a jedna zamračená",
                         "width": "128px",
                         "widthMobile": "100%",
                         "align": "center"
@@ -879,9 +879,9 @@
                       "type": "pictureAndNote",
                       "image": {
                         "isExpandable": true,
-                        "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Scenar_expozice_af5f82448b.svg",
-                        "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Scenar_expozice_mobile_9d736d9bed.svg",
-                        "alt": "Zápisník se zakroužkovaným textem",
+                        "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Vzorce_v_komunikaci_krok_3c_aa2c422a19.svg",
+                        "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Vzorce_v_komunikaci_krok_3c_mobile_037ba109ff.svg",
+                        "alt": "Dvě ruce, jedna s palcem nahoru a jedna s palcem dolů",
                         "width": "128px",
                         "widthMobile": "100%",
                         "align": "center"
@@ -932,20 +932,34 @@
                           ]
                         }
                       ]
-                    },
+                    }
+                  ]
+                },
+                {
+                  "title": "Krok 5: Co můžete změnit",
+                  "contentSections": [
                     {
                       "type": "markdown",
                       "content": "Zkuste se zamyslet, co byste chtěli změnit u sebe. Bylo by hezké, kdyby první krok udělal ten druhý, ale nemůžeme na to spoléhat. Je větší šance, že naše okolí upraví své chování, když změnu nejdřív uvidí u nás."
                     },
                     {
-                      "type": "note",
-                      "title": "**Co byste chtěli na komunikaci změnit?**",
-                      "instruction": "zaměřte se na své chování.",
-                      "placeholder": "Možné změny...",
-                      "rows": 2,
-                      "maxLength": 250,
-                      "lengthValidationMessage": "Maximální délka odpovědi je 250 znaků.",
-                      "required": false
+                      "type": "pictureAndNote",
+                      "image": {
+                        "isExpandable": true,
+                        "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_5_59a72343db.svg",
+                        "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_5_mobile_389e254ddf.svg",
+                        "alt": "Komiksové bubliny s třemi tečkami a křížkem",
+                        "width": "128px",
+                        "widthMobile": "100%",
+                        "align": "center"
+                      },
+                      "note": {
+                        "title": "**Co byste chtěli na komunikaci změnit?**",
+                        "instruction": "zaměřte se na své chování.",
+                        "placeholder": "Možné změny...",
+                        "rows": 2,
+                        "required": false
+                      }
                     }
                   ]
                 }
@@ -974,8 +988,7 @@
               "color": "#27637C",
               "items": [
                 "Pokud chceme změnit, jak komunikujeme, je užitečné si začít všímat vzorců, které se opakují.",
-                "Pomůže, když si uvědomíme, co v daný moment cítíme a co potřebujeme. A to samé uděláme u druhého.",
-                "Své pocity a potřeby můžeme vyjádřit větou se strukturou: **Cítím**... (emoce) - **protože**... (co se stalo) - **potřebuji**... (co by mi pomohlo) - **a bylo by pro mě fajn, kdybys**... (nabídka, ne příkaz)"
+                "Pomůže, když si uvědomíme, co v daný moment cítíme a co potřebujeme. A to samé uděláme u druhého."
               ]
             }
           ]
@@ -992,7 +1005,7 @@
               "type": "audio",
               "audioSrc": "xx",
               "title": "Nepřímá komunikace",
-              "imageSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jak_na_Kritika_jinak_6ca5e186f0.svg"
+              "imageSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Neprima_komunikace_bda74afd53.svg"
             },
             {
               "type": "collapse",
@@ -1019,10 +1032,10 @@
                     {
                       "type": "image",
                       "isExpandable": false,
-                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Veronika_a_vtirave_myslenky_f267f57f34.svg",
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Prima_komunikace_5ecaaa18b7.svg",
                       "width": "100%",
                       "alt": "Komiks o tom, jak Petr začal s Alenou mluvit otevřeně a s respektem",
-                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Veronika_a_vtirave_myslenky_mobile_7d7b4b8293.svg",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Prima_komunikace_mobile_fd996a89d4.svg",
                       "widthMobile": "100%",
                       "align": "center"
                     }
@@ -1333,7 +1346,7 @@
                 },
                 {
                   "name": "Question3",
-                  "question": ":::text--center \n David sdílí s partnerem, že ho rozrušilo, když v ledničce nebyly srovnané jogurty. Partner jen mávnul rukou a řekl: „Řeším blbosti.“ Co by mohl David říct, aby dal najevo, co prožívá? \n :::",
+                  "question": ":::text--center \n David sdílí s partnerem, že ho rozrušilo, když v ledničce nebyly srovnané jogurty. Partner jen mávnul rukou a řekl: „Řešíš blbosti.“ Co by mohl David říct, aby dal najevo, co prožívá? \n :::",
                   "options": [
                     {
                       "label": "A) „Ty to nikdy nepochopíš. Dělej si tu nepořádek sám. Já už toho mám plné zuby.“",
@@ -1344,7 +1357,7 @@
                       "value": 1
                     },
                     {
-                      "label": "C) „Vím, že ti to může připadat jako maličkost, ale mě to hodně stresuje. Pomáhá mi, když uznáš, že to není jen tak.“",
+                      "label": "C) „Vím, že ti to může připadat jako maličkost, ale mě to hodně stresuje. Pomáhá mi, když uznáš, že to pro mě není snadné.“",
                       "value": 2
                     }
                   ],
@@ -1398,9 +1411,9 @@
                       "type": "pictureAndNote",
                       "image": {
                         "isExpandable": true,
-                        "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Myslenka_69a2e836af.svg",
-                        "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Myslenka_mobile_601d4f21ea.svg",
-                        "alt": "Zápisník se zakroužkovaným textem",
+                        "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jak_komunikujeme_1c1d55d003.svg",
+                        "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jak_komunikujeme_mobile_33ce0228f1.svg",
+                        "alt": "Mapa s označeným bodem",
                         "width": "98px",
                         "widthMobile": "100%",
                         "align": "center"
@@ -1430,9 +1443,9 @@
                       "type": "pictureAndNote",
                       "image": {
                         "isExpandable": true,
-                        "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Odoved_e4202c6e43.svg",
-                        "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Odoved_mobile_5fa49b81ec.svg",
-                        "alt": "Zápisník se zakroužkovaným textem",
+                        "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Popiste_svou_stranu_404d61c46d.svg",
+                        "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Popiste_svou_stranu_mobile_73961137ef.svg",
+                        "alt": "Postavičky, s textovými bublinami, levá je zvýrazněná růžově",
                         "width": "185px",
                         "widthMobile": "100%",
                         "align": "center"
@@ -1447,7 +1460,7 @@
                     },
                     {
                       "type": "checkBoxList",
-                      "title": "**Co jste v daný okamžik potřebovali?**",
+                      "title": "**Co jste v tu chvíli potřebovali?**",
                       "instruction": "vyberte ze seznamu níže:",
                       "required": true,
                       "isSingleColumn": false,
@@ -1490,9 +1503,9 @@
                       "type": "pictureAndNote",
                       "image": {
                         "isExpandable": true,
-                        "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Odoved_e4202c6e43.svg",
-                        "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Odoved_mobile_5fa49b81ec.svg",
-                        "alt": "Zápisník se zakroužkovaným textem",
+                        "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Popiste_stranu_druheho_cloveka_9d4695f095.svg",
+                        "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Popiste_stranu_druheho_cloveka_mobile_298863e2c2.svg",
+                        "alt": "Postavičky, s textovými bublinami, pravá je zvýrazněná růžově",
                         "width": "185px",
                         "widthMobile": "100%",
                         "align": "center",
@@ -1545,17 +1558,6 @@
                       "content": "Nyní si zkuste sestavit svou novou větu. Takovou, která jasně a věcně vyjadřuje, co cítíte a co by vám pomohlo. Bez výčitek, nátlaku nebo manipulace."
                     },
                     {
-                      "type": "noteBox",
-                      "desktopImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lightbulb_Icon_5bba92e832.svg",
-                      "mobileImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lightbulb_Icon_5bba92e832.svg",
-                      "backgroundColor": "#EDF4F6",
-                      "textColor": "#27637C",
-                      "text": "**Můžete použít tuto formu:** \n \n **Cítím**... (emoce) - **protože**... (co se stalo) - **potřebuji**... (co by mi pomohlo) - **bylo by pro mě fajn, kdybys**... (nabídka, ne příkaz)",
-                      "desktopImageWidth": "55px",
-                      "mobileImageWidth": "55px",
-                      "isWrapping": true
-                    },
-                    {
                       "type": "note",
                       "title": "**Vypište si nové vyjádření, které bere ohled na vás i na druhého.**",
                       "instruction": "cítím... protože... potřebuji... a bylo by pro mě fajn, kdybys...",
@@ -1601,7 +1603,7 @@
               "type": "audio",
               "audioSrc": "xx",
               "title": "Bonusový příběh",
-              "imageSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Bonusovy_pribeh_ec60cb6d82.svg"
+              "imageSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Bonusovy_pribeh_dbf8bc185c.svg"
             },
             {
               "type": "collapse",
@@ -1635,6 +1637,7 @@
                 "I když se vám vaše pocity mohou zdát zvláštní nebo trapné, máte právo je sdílet.",
                 "Změna začíná u vás. Pokud druhým dáte vědět, co se ve vás odehrává, zvyšujete šanci, že vám budou lépe rozumět.",
                 "Nepotřebujete dokonalou reakci. Někdy stačí, když druhý člověk jen naslouchá a vy sami si uvědomíte, že nejste sami.",
+                "Své pocity a potřeby můžete vyjádřit větou se strukturou: **Cítím**... (emoce) - **protože**... (co se stalo) - **potřebuji**... (co by mi pomohlo) - **a bylo by pro mě fajn, kdybys**... (nabídka, ne příkaz)",
                 "Každý krok se počítá. Změna komunikace je náročná, ale i malý pokus může otevřít cestu k lepšímu porozumění."
               ]
             },
@@ -1697,7 +1700,7 @@
                 "Jak poznat, kdy je situace řešitelná a kdy ji můžeme přijmout bez hledání odpovědi.",
                 "Jak si rozložit zdánlivě neřešitelné problémy na menší části, které můžeme postupně řešit.",
                 "Jak si popsat problém a stanovit si konkrétní cíl.",
-                "Jak si vytvořit akční plán a jak si po jeho porvedení zhodnotit výsledek."
+                "Jak si vytvořit akční plán a jak si po jeho provedení zhodnotit výsledek."
               ]
             }
           ]

@@ -45,7 +45,7 @@
               },
               {
                 "type": "markdown",
-                "content": ":::text--center \n #### Je to důležité! \n \n Pro terapeuta je podstatné sledovat, jak jste na tom právě teď. \n :::"
+                "content": ":::text--center \n #### Váš terapeut to ocení! \n \n Pro vašeho terapeuta je důležité vědět, jak na tom aktuálně jste. \n :::"
               }
             ]
           },
@@ -1343,7 +1343,7 @@
           "contentSections": [
             {
               "type": "markdown",
-              "content": "Osvobodit se od potřeby absolutní jistoty a přijmout určitou míru nejistoty jako přirozenou součást života není jednoduché. Může vám pomoci metoda pěti kroků, kterou vám ukážeme níže."
+              "content": "ení jednoduché osvobodit se od potřeby absolutní jistoty a přijmout určitou míru nejistoty jako přirozenou součást života. Může vám pomoci metoda pěti kroků, kterou vám ukážeme níže."
             },
             {
               "type": "pictureAndMarkdown",
@@ -1512,7 +1512,7 @@
             {
               "type": "download",
               "title": "stáhnout záznamový list",
-              "downloadLink": "xx"
+              "downloadLink": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Zaznamovy_list_M5_516803eacd.pdf"
             }
           ]
         },

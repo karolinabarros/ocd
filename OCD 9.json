@@ -202,10 +202,10 @@
             {
               "type": "image",
               "isExpandable": true,
-              "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Zprava_pro_terapeuta_22d2000e96.svg",
+              "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Metoda_sedmi_kroku_9e0ea6dba3.svg",
               "width": "100%",
-              "alt": "Ruka držící dopis v obálce",
-              "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Zprava_pro_terapeuta_mobile_e785e38a53.svg",
+              "alt": "Postavička s mapou plánující svou cestu",
+              "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Metoda_sedmi_kroku_mobile_deb0402b8b.svg",
               "widthMobile": "100%",
               "align": "center"
             },
@@ -269,9 +269,9 @@
           "contentSections": [
             {
               "type": "audio",
-              "audioSrc": "xx",
+              "audioSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Urceni_problemu_ac5a05107a.wav",
               "title": "Krok 1: Určení problému",
-              "imageSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jak_na_Kritika_jinak_6ca5e186f0.svg"
+              "imageSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_1_Urceni_problemu_719c8fc5fc.svg"
             },
             {
               "type": "collapse",
@@ -301,15 +301,15 @@
                 {
                   "id": "Relationships",
                   "title": "Vztahy",
-                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Pozitivni_metakognice_icon_92e5c16251.svg",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Vztahy_icon_3839047214.svg",
                   "contentCard": [
                     {
                       "type": "image",
                       "isExpandable": false,
-                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Pozitivni_metakognice_342e14d5bf.svg",
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Vztahy_28b5baa317.svg",
                       "width": "100%",
-                      "alt": "Postava čistící nábytek s myšlenkami o bakteriích a virech",
-                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Pozitivni_metakognice_mobile_eeefd76411.svg",
+                      "alt": "Dvě postavičky, jedná druhé dává balónek ve tvaru srdce",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Vztahy_mobile_2e6364f20f.svg",
                       "widthMobile": "100%",
                       "align": "center",
                       "unoptimized": true
@@ -371,15 +371,15 @@
                 {
                   "id": "MentalHealth",
                   "title": "Psychické zdraví",
-                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Pozitivni_metakognice_icon_92e5c16251.svg",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Psychicke_zdravi_icon_03556ad789.svg",
                   "contentCard": [
                     {
                       "type": "image",
                       "isExpandable": false,
-                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Pozitivni_metakognice_342e14d5bf.svg",
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Psychicke_zdravi_73f99e0c1e.svg",
                       "width": "100%",
-                      "alt": "Postava čistící nábytek s myšlenkami o bakteriích a virech",
-                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Pozitivni_metakognice_mobile_eeefd76411.svg",
+                      "alt": "Hlava ze které rozkvétají květiny",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Psychicke_zdravi_mobile_a54e990b09.svg",
                       "widthMobile": "100%",
                       "align": "center",
                       "unoptimized": true
@@ -441,15 +441,15 @@
                 {
                   "id": "Work",
                   "title": "Práce a výkon",
-                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Pozitivni_metakognice_icon_92e5c16251.svg",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Prace_a_vykon_icon_f76008505b.svg",
                   "contentCard": [
                     {
                       "type": "image",
                       "isExpandable": false,
-                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Pozitivni_metakognice_342e14d5bf.svg",
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Prace_a_vykon_05fe507857.svg",
                       "width": "100%",
-                      "alt": "Postava čistící nábytek s myšlenkami o bakteriích a virech",
-                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Pozitivni_metakognice_mobile_eeefd76411.svg",
+                      "alt": "Ilustrace pracovního stolu s počítačem",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Prace_a_vykon_mobile_b5a02c56ac.svg",
                       "widthMobile": "100%",
                       "align": "center",
                       "unoptimized": true
@@ -511,15 +511,15 @@
                 {
                   "id": "Confidence",
                   "title": "Sebedůvěra a vnitřní svět",
-                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Pozitivni_metakognice_icon_92e5c16251.svg",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Sebeduvera_a_vnitrni_svet_icon_e3be347671.svg",
                   "contentCard": [
                     {
                       "type": "image",
                       "isExpandable": false,
-                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Pozitivni_metakognice_342e14d5bf.svg",
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Sebeduvera_a_vnitrni_svet_126df07220.svg",
                       "width": "100%",
-                      "alt": "Postava čistící nábytek s myšlenkami o bakteriích a virech",
-                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Pozitivni_metakognice_mobile_eeefd76411.svg",
+                      "alt": "Postavička plácající si se svým odrazem v zrcadle",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Sebeduvera_a_vnitrni_svet_mobile_e8431f2813.svg",
                       "widthMobile": "100%",
                       "align": "center",
                       "unoptimized": true
@@ -581,15 +581,15 @@
                 {
                   "id": "Leisure",
                   "title": "Volný čas a odpočinek",
-                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Pozitivni_metakognice_icon_92e5c16251.svg",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Volny_cas_a_odpocinek_icon_f83951b8a8.svg",
                   "contentCard": [
                     {
                       "type": "image",
                       "isExpandable": false,
-                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Pozitivni_metakognice_342e14d5bf.svg",
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Volny_cas_a_odpocinek_b4a1702fd2.svg",
                       "width": "100%",
-                      "alt": "Postava čistící nábytek s myšlenkami o bakteriích a virech",
-                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Pozitivni_metakognice_mobile_eeefd76411.svg",
+                      "alt": "Postavička hrající na housle",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Volny_cas_a_odpocinek_mobile_a4e82b5539.svg",
                       "widthMobile": "100%",
                       "align": "center",
                       "unoptimized": true
@@ -980,9 +980,9 @@
           "contentSections": [
             {
               "type": "audio",
-              "audioSrc": "xx",
+              "audioSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Stanoveni_cile_978039baae.wav",
               "title": "Krok 2: Stanovení cíle",
-              "imageSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jak_na_Kritika_jinak_6ca5e186f0.svg"
+              "imageSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_2_Stanoveni_cile_2685133f1e.svg"
             },
             {
               "type": "collapse",
@@ -1251,11 +1251,11 @@
               {
                 "type": "image",
                 "isExpandable": true,
-                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Mountain_dc166aa05f.svg",
-                "width": "195px",
-                "alt": "Obrázek hory s vlajkou na vrcholu",
-                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Mountain_dc166aa05f.svg",
-                "widthMobile": "195px",
+                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Journey_d3385bc787.svg",
+                "width": "280px",
+                "alt": "Obrázek začátku cesty do hor",
+                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Journey_d3385bc787.svg",
+                "widthMobile": "280px",
                 "align": "center"
               },
               {
@@ -1361,9 +1361,9 @@
           "contentSections": [
             {
               "type": "audio",
-              "audioSrc": "xx",
+              "audioSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Hledani_ruznych_reseni_cf3ae2fffb.wav",
               "title": "Krok 3: Hledání různých řešení",
-              "imageSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Bonusovy_pribeh_8a0da6b068.svg"
+              "imageSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_3_Hledani_ruznych_reseni_0d3a1d5a76.svg"
             },
             {
               "type": "collapse",
@@ -1633,11 +1633,11 @@
               {
                 "type": "image",
                 "isExpandable": true,
-                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Relax_e24051df56.svg",
-                "width": "280px",
-                "alt": "Relaxující postava sedící se skříženýma nohama",
-                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Relax_e24051df56.svg",
-                "widthMobile": "280px",
+                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Headphones_99764f4bf6.svg",
+                "width": "246px",
+                "alt": "Postavička se zavřenýma očima se sluchátky na hlavě",
+                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Headphones_99764f4bf6.svg",
+                "widthMobile": "246px",
                 "align": "center"
               },
               {
@@ -1714,9 +1714,9 @@
           "contentSections": [
             {
               "type": "audio",
-              "audioSrc": "xx",
+              "audioSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Hodnoceni_napadu_dfeaf004fe.wav",
               "title": "Krok 4: Hodnocení nápadů",
-              "imageSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jak_na_Kritika_jinak_6ca5e186f0.svg"
+              "imageSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_4_Hodnoceni_napadu_c35cd23c58.svg"
             },
             {
               "type": "collapse",
@@ -2057,9 +2057,9 @@
           "contentSections": [
             {
               "type": "audio",
-              "audioSrc": "xx",
+              "audioSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Sestaveni_akcniho_planu_00bd800c0d.wav",
               "title": "Krok 5: Sestavení akčního plánu",
-              "imageSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jak_na_Kritika_jinak_6ca5e186f0.svg"
+              "imageSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_5_Sestaveni_akcniho_planu_6424ab64d1.svg"
             },
             {
               "type": "collapse",
@@ -2431,9 +2431,9 @@
             },
             {
               "type": "audio",
-              "audioSrc": "xx",
+              "audioSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Uskutecneni_planu_521312e6bb.wav",
               "title": "Krok 6: Uskutečnění plánu",
-              "imageSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jak_na_Kritika_jinak_6ca5e186f0.svg"
+              "imageSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_6_Uskutecneni_planu_bb20da2a87.svg"
             },
             {
               "type": "collapse",
@@ -2739,9 +2739,9 @@
           "contentSections": [
             {
               "type": "audio",
-              "audioSrc": "xx",
+              "audioSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Vyhodnoceni_2e166da787.wav",
               "title": "Krok 7: Vyhodnocení",
-              "imageSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Bonusovy_pribeh_ec60cb6d82.svg"
+              "imageSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_7_Vyhodnoceni_c1df082ab4.svg"
             },
             {
               "type": "collapse",
@@ -2756,9 +2756,9 @@
           "contentSections": [
             {
               "type": "audio",
-              "audioSrc": "xx",
+              "audioSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Odmenovani_84b665d9d1.wav",
               "title": "Krok 7: Odměňování",
-              "imageSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Bonusovy_pribeh_ec60cb6d82.svg"
+              "imageSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_7_Odmenovani_1ddb826fec.svg"
             },
             {
               "type": "collapse",
@@ -3027,10 +3027,10 @@
               {
                 "type": "image",
                 "isExpandable": true,
-                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Mountain_dc166aa05f.svg",
-                "width": "195px",
-                "alt": "Obrázek hory s vlajkou na vrcholu",
-                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Mountain_dc166aa05f.svg",
+                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Food_f765cbb439.svg",
+                "width": "220px",
+                "alt": "Obrázek croissantu, čaje a brýlí",
+                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Food_f765cbb439.svg",
                 "widthMobile": "195px",
                 "align": "center"
               },
@@ -3044,7 +3044,7 @@
             {
               "type": "tool",
               "tool": "rewardList",
-              "required": true
+              "required": false
             }
           ]
         },
@@ -3080,7 +3080,7 @@
               "type": "audio",
               "audioSrc": "xx",
               "title": "Bonusový příběh",
-              "imageSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Bonusovy_pribeh_ec60cb6d82.svg"
+              "imageSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Bonusovy_pribeh_8e0e45053d.svg"
             },
             {
               "type": "collapse",

@@ -1886,14 +1886,14 @@
             },
             {
               "type": "audio",
-              "audioSrc": "xx",
+              "audioSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M6_Bonusovy_pribeh_950b6d5db2.wav",
               "title": "Bonusový příběh",
               "imageSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Bonusovy_pribeh_84c905724f.svg"
             },
             {
               "type": "collapse",
-              "content": "xx",
-              "title": "Radši si přečtu"
+              "title": "Radši si přečtu",
+              "content": "**VYPRAVĚČ:** „David byl odmala tichý. Rád si četl nebo stavěl věže ze stavebnic. Doma se dbalo na pořádek a přísná pravidla. Máma měla věci pod kontrolou. \n \n **MATKA:** „Už zase je tu bordel! To to neumíš uklidit? Jak chceš v životě fungovat, když si ani nedokážeš udržet pořádek v pokojíčku! Věci mají svoje místo. Doma musí být pořádek. To si pamatuj.“ \n \n **VYPRAVĚČ:** Davidovi je dnes 36 a pracuje jako knihovník. V práci jeho pečlivost oceňují. Nikdo ale netuší, že uvnitř trpí. Každý den bojuje s nutkáním. \n \n **DAVID:** „Ta kniha trčí. Není rovně. Co když se kvůli tomu něco stane? Co když máma doma uklouzne? Co když Tomáše srazí tramvaj?“ \n \n **VYPRAVĚČ:** David se o tom poprvé svěřil na terapii. V bezpečí. Terapeut mu poradil, aby si vypsal, co nejhoršího se může stát. \n \n **DAVID:** „Nechal jsem knihy rozházené. Máma uklouzla ve vaně. Nepřežila to. Na pohřbu mi brácha řekl:“ \n \n **BRATR:** „Můžeš za to ty. Proč si tu knížku nesrovnal? Byla by to chvilka. A máma by tu byla s náma. Taková nezodpovědnost...“ \n \n **DAVID:** „V práci si kolegové šeptají, že jsem podivín. Dívám se do zrcadla a říkám si: „Mají pravdu. Jsem špatný člověk. Mohl jsem tomu zabránit. Ale já to neudělal.“ \n \n **VYPRAVĚČ:** David si scénář četl několikrát. Nejprve to bylo skoro nesnesitelné, ale postupně si začal všímat, že to vidí jinak. \n \n **DAVID:** „Myšlenky nejsou skutečnost. Nemám moc nad tím, co se stane druhým. Nikdy jsem ji neměl. Neřídím svět. Ale můžu řídit to, co udělám, nebo neudělám.“ \n \n **VYPRAVĚČ:** David si scénář přečetl znovu. A tentokrát neuspořádal regál. Odešel domů. Byl plný napětí, ale zvládl to. Cítil úlevu. Druhý den se to ale stalo znovu. Někdo v knihovně přerovnal sekci. A David to nevydržel. \n \n **DAVID:** „Nezvládl jsem to. Musel jsem to srovnat. Jsem k ničemu…“ \n \n **DAVID:** „Ne. To nebylo selhání. To byl pokus. Každý další pokus je blíž změně. Dnes je nový den.“ \n \n **VYPRAVĚČ:** David to zkusil znovu. Nevydržel. Ale napotřetí to zvládl. Nevrátil se. Zhluboka dýchal a knih se nedotkl. Od té doby čelil nutkání v desítkách situací. Ale něco se změnilo. Úzkost sice nezmizela, ale už ho neřídila."
             }
           ]
         },
@@ -1956,7 +1956,7 @@
             {
               "type": "download",
               "title": "stáhnout záznamový list",
-              "downloadLink": "xx"
+              "downloadLink": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Zaznamovy_list_M6_8cada253ce.pdf"
             }
           ]
         },

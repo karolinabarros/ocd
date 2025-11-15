@@ -1248,6 +1248,38 @@
           ]
         },
         {
+          "title": "Jak na Kritika jinak ",
+          "icon": "audio",
+          "contentSections": [
+            {
+              "type": "markdown",
+              "content": "I když by bylo hezké **umlčet** Kritika jednou pro vždy, není to možné. Patří k nám a čas od času se ozve u každého. My ale můžeme záměrně dávat prostor **Zdravému dospělému** a **Laskavému rodiči.**"
+            },
+            {
+              "type": "audio",
+              "audioSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jak_na_Kritika_jinak_f316cb4622.wav",
+              "title": "Jak na Kritika jinak",
+              "imageSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jak_na_Kritika_jinak_6ca5e186f0.svg"
+            },
+            {
+              "type": "collapse",
+              "content": "**Moderátorka:** V předchozí části modulu jsme si ukázali, jak rozpoznat hlas vnitřního Kritika. Už víte, že jeho našeptávání nemusíte věřit. Náš kritický hlas ale jen tak nezmizí. Co se stane, když mu neřekneme dost a posloucháme ho dál? \n \n **Terapeut:** Kritik bude dál rozšiřovat svůj vliv. Začne se ozývat častěji a to i v situacích, kdy by dříve mlčel. Třeba nám už nebude přikazovat jen v práci, ale i doma při úklidu nebo s partnerem. Může nepříjemně ovlivnit vztahy k druhým i k sobě samému.  Kritik neustále zvyšuje nároky a nikdy není spokojený. A pokud mu ustupujeme, poroste nutkání dosáhnout úlevy kompulzemi nebo vyhýbáním. \n \n **Moderátorka:** Jak k tomu můžeme hledat protiváhu? \n \n **Terapeut:** Když změníme svůj vnitřní dialog, tak na věci začneme koukat jinak. Jenže s vnitřním Kritikem se jde jen těžko hádat nebo se ho snažit umlčet. Jeho hlas nepřehlušíme ani tím, že ho ignorujeme. Můžeme mu ale odpovědět. Klidnou a chápavou částí sebe. Říkáme tomu pohled Zdravého dospělého a Laskavého rodiče. \n \n **Moderátorka:** A   jak to vypadá? \n \n **Terapeut:** Důležité je nenechat se ovládnout panikou. Uděláme krok zpět a na situaci se podíváme s nadhledem. Hlas Laskavého rodiče nám říká, že nemusíme být dokonalí. Stačí, že vynaložíme přiměřenou snahu. Ukazuje nám, že je důležité mít respekt ke druhým, ale i k sobě. Zdravý rodič hledá řešení a dívá se na věci s klidem. Neříká: „Tohle se nesmí stát,“ ale spíš: „Co když to přesto zvládnu?“ \n \n **Moderátorka:** A jak můžeme tyto postoje posilovat? \n \n **Terapeut:** Budují se cvičením. Když si všimnete Kritika, rozhodněte, že tentokrát odpoví Zdravý dospělý nebo Laskavý rodič. Hledejte věty, které vychází z rozumného nadhledu a vlídného zájmu. Dovolte si reagovat přiměřeně a nesnažte se o dokonalost. Nový hlas si připomínejte třeba větami: „Tohle není katastrofa,“ „Zvládnu to,“ nebo „Zkouším to a to pro teď stačí.“ \n \n **Moderátorka:** Děkuji, Ondřeji. Nyní už víte, jak na své kritické myšlenky reagovat jinak. Čekají na vás příběhy našich hrdinů, kteří se poprvé postavili hlasu svého vnitřního Kritika.",
+              "title": "Radši si přečtu"
+            },
+            {
+              "type": "noteBox",
+              "desktopImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lightbulb_Icon_5bba92e832.svg",
+              "mobileImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lightbulb_Icon_5bba92e832.svg",
+              "backgroundColor": "#EDF4F6",
+              "textColor": "#27637C",
+              "text": "**Hlavní myšlenka:** Vnitřního Kritika není třeba potlačovat. Je důležité reagovat na něj hlasem Zdravého dospělého a Laskavého rodiče. Ty přináší nadhled, klid a laskavost k sobě. Pravidelným opakováním se snižuje vliv Kritika, ubývá nutkání ke kompulzím a posiluje se sebedůvěra i zdravé myšlení.",
+              "desktopImageWidth": "80px",
+              "mobileImageWidth": "80px",
+              "isWrapping": true
+            }
+          ]
+        },
+        {
           "title": "Laskavý rodič a Zdravý dospělý",
           "icon": "text",
           "contentSections": [
@@ -1288,38 +1320,6 @@
                   "gutter": 24
                 }
               ]
-            }
-          ]
-        },
-        {
-          "title": "Jak na Kritika jinak ",
-          "icon": "audio",
-          "contentSections": [
-            {
-              "type": "markdown",
-              "content": "I když by bylo hezké **umlčet** Kritika jednou pro vždy, není to možné. Patří k nám a čas od času se ozve u každého. My ale můžeme záměrně dávat prostor **Zdravému dospělému** a **Laskavému rodiči.**"
-            },
-            {
-              "type": "audio",
-              "audioSrc": "xx",
-              "title": "Jak na Kritika jinak",
-              "imageSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jak_na_Kritika_jinak_6ca5e186f0.svg"
-            },
-            {
-              "type": "collapse",
-              "content": "xx",
-              "title": "Radši si přečtu"
-            },
-            {
-              "type": "noteBox",
-              "desktopImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lightbulb_Icon_5bba92e832.svg",
-              "mobileImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lightbulb_Icon_5bba92e832.svg",
-              "backgroundColor": "#EDF4F6",
-              "textColor": "#27637C",
-              "text": "**Hlavní myšlenka:** Vnitřního Kritika není třeba potlačovat. Je důležité reagovat na něj hlasem Zdravého dospělého a Laskavého rodiče. Ty přináší nadhled, klid a laskavost k sobě. Pravidelným opakováním se snižuje vliv Kritika, ubývá nutkání ke kompulzím a posiluje se sebedůvěra i zdravé myšlení.",
-              "desktopImageWidth": "80px",
-              "mobileImageWidth": "80px",
-              "isWrapping": true
             }
           ]
         },
@@ -1829,13 +1829,13 @@
             },
             {
               "type": "audio",
-              "audioSrc": "xx",
+              "audioSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M7_Bonusovy_pribeh_42ed4e412e.wav",
               "title": "Bonusový příběh",
               "imageSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Bonusovy_pribeh_ec60cb6d82.svg"
             },
             {
               "type": "collapse",
-              "content": "xx",
+              "content": "**VYPRAVĚČ:** Lukáš vyrůstal jako jedináček. Jeho rodiče nebyli věřící, ale v otázkách morálky byli velmi přísní. Nevhodné myšlenky byly známkou špatného člověka. Lukáš se naučil dávat si dobrý pozor na to, co říká, co si myslí… a co cítí. \n \n Jeho nejlepší kamarád byl z pobožné rodiny a Lukáš s nimi někdy chodil do kostela. Časem našel ve víře útočiště. V modlitbách hledal klid a přijetí. Ale brzy při nich začal vnímat znepokojení, nátlak, kontrolu a strach. Jako by se jeho vnitřní přísnost promítla i do víry. A Bůh, ve kterého on věřil, se zdál být mnohem přísnější, než ostatní popisovali. \n \n **KRITIK:** „Teď to zopakuj. Znovu. Správně. Neodcházej, dokud nebudeš mít jistotu. Modlitbu musíš říct přesně. Jinak se stane něco hrozného. “ \n \n **LUKÁŠ:** „Ale já už ji říkal šestkrát… jsem unavený… chci už jít spát.“ \n \n **KRITIK:** „Co když jsi něco vynechal? Co když tím ohrozíš mámu a tátu? Jen dokonalost tě ochrání!“ \n \n **VYPRAVĚČ:** Tak to šlo roky. Modlitby, kontroly, opakování. Každý večer znovu. A znovu. A znovu. Lukáš tomu říkal „vnitřní příkazy“. \n \n **KRITIK:** „Tohle jsi nezvládl. Zklamal jsi. Co jsi za člověka, že máš takové myšlenky? Radši mlč.“ \n \n **VYPRAVĚČ:** Lukáš se začal ještě víc stahovat do sebe. Už nechodil ven s kamarády. Bál se, že řeknou něco rouhavého. On by se potom muset opakovaně modlit, aby se očistil. Máma se ho doptávala, kdy už si někoho najde. Ale Lukáše představa intimity děsila. \n \n **LUKÁŠ:** „Kdybych se jí dotkl, zkazil bych ji. Co kdybych měl při tom špatné myšlenky? Co kdybych tím hřešil? Bůh by to věděl. Všechno by věděl. Radši se tomu vyhnu. Radši zůstanu čistý.“ \n \n **VYPRAVĚČ:** A pak, jednoho večera, když si četl o vnitřním Kritikovi, jako by mu něco docvaklo. Začal v tom poznávat svůj vnitřní hlas. Najednou to nevnímal jako pravdu, ale jako obavy, které ho celý život ovládaly. Zavřel oči. A zkusil tomu čelit. \n \n **LUKÁŠ:** „Slyším tě. Dlouho jsi mě chránil. Ale už nejsem malé dítě. Nejsem hříšný jen proto, že mě napadne něco neobvyklého. Není to něco, co skutečně chci.“ \n \n **VYPRAVĚČ:** Ten večer modlitbu řekl jen jednou. Neopakoval ji. Tiše si sedl k oknu a poprvé po letech měl pocit, že se může volně nadechnout. Lukášův příběh ukazuje, jak mohou vnitřní příkazy a strach z chyb ovládat náš život. Ale také ukazuje, že i tyto hlasy můžeme postupně rozpoznat, oddělit a rozhodnout se, že už je nebudeme slepě následovat.",
               "title": "Radši si přečtu"
             }
           ]
@@ -1900,7 +1900,7 @@
             {
               "type": "download",
               "title": "stáhnout záznamový list",
-              "downloadLink": "xx"
+              "downloadLink": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Zaznamovy_list_M7_5dbe75e195.pdf"
             }
           ]
         },

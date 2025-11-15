@@ -578,7 +578,7 @@
             {
               "type": "audio",
               "title": "Jak si udržet pokrok",
-              "audioSrc": "xx",
+              "audioSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jak_si_udrzet_pokrok_b71988ae29.wav",
               "imageSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jak_na_Kritika_jinak_6ca5e186f0.svg"
             },
             {

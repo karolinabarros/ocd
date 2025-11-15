@@ -2196,13 +2196,13 @@
             {
               "type": "audio",
               "title": "Životní role",
-              "audioSrc": "xx",
+              "audioSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Zivotni_role_f6d03413d1.wav",
               "imageSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jak_na_Kritika_jinak_6ca5e186f0.svg"
             },
             {
               "type": "collapse",
               "title": "Radši si přečtu",
-              "content": "xx"
+              "content": "**Moderátorka:** Dnes si povíme o tom, jak naše hodnoty souvisí s tím, jaké máme v životě role. Co si můžeme pod pojmem životní role vlastně představit? \n \n **Terapeut:** Naše životní role jsou různé podoby, které během života zastáváme. Některé si sami vybíráme, třeba role partnera, kamaráda nebo kolegy. Jiné máme už od narození. Jsme sourozenci nebo vnoučata. Během života některé role přichází a jiné zase odchází, třeba role zaměstnance, rodiče nebo studenta. \n \n **Moderátorka:** A jak s rolemi souvisí hodnoty? \n \n **Terapeut:** Životní role a hodnoty jdou ruku v ruce. Hodnoty nám říkají, co je pro nás důležité, a role ukazují, jak to konkrétně prožíváme. Pokud je pro nás důležité pečovat o vztahy, můžeme to naplňovat v roli partnera, rodiče nebo přítele. Každá z těchto rolí nám dává jiné příležitosti. \n \n **Moderátorka:** Takže když se podíváme na své role, můžeme vidět, jestli opravdu naplňujeme to, na čem nám záleží? \n \n **Terapeut:** Přesně tak. Role jsou takovým zrcadlem. To, jak se v nich chováme, ukazuje, zda naplňujeme své hodnoty, nebo se od nich spíše odkláníme. A to je první krok ke změně. \n \n **Moderátorka:** A jak to vypadá v kontextu OCD? \n \n **Terapeut:** U OCD se často stává, že úzkost a kompulze berou prostor hodnotám. Třeba místo času s rodinou trávíme hodiny kontrolami nebo se místo sdílení s partnerem uzavíráme do sebe. Když si to uvědomíme, můžeme se začít vracet k tomu, co je pro nás skutečně důležité. Postupně uvolňujeme prostor, který zabírá OCD, pro vztahy a činnosti, které nám dávají smysl. \n \n **Moderátorka:** Děkuji za shrnutí. Nyní si můžete sestavit seznam svých rolí v životě."
             }
           ]
         },
@@ -3096,7 +3096,7 @@
             {
               "type": "download",
               "title": "stáhnout záznamový list",
-              "downloadLink": "xx"
+              "downloadLink": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Zaznamovy_list_M10_47e9f53a9a.pdf"
             }
           ]
         },

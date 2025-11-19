@@ -305,8 +305,8 @@
             },
             {
               "type": "video",
-              "url": "xx",
-              "captionsUrl": "xx"
+              "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Janina_Expozice_Bez_Kompulze_c_103f254873.mp4",
+              "captionsUrl": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Janina_Expozice_Bez_Kompulze_c_1_ces_b12c9711aa.vtt"
             },
             {
               "type": "collapse",

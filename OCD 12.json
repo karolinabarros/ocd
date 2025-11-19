@@ -86,7 +86,7 @@
         },
         {
           "title": "Jak na tom aktuálně jsem",
-          "icon": "exercise",
+          "icon": "Question",
           "isEvaluable": true,
           "finalScreen": {
             "buttonLabel": "Upravit odpovědi",

@@ -1829,7 +1829,7 @@
             },
             {
               "type": "audio",
-              "audioSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M7_Bonusovy_pribeh_42ed4e412e.wav",
+              "audioSrc": "xx",
               "title": "Bonusový příběh",
               "imageSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Bonusovy_pribeh_ec60cb6d82.svg"
             },

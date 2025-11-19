@@ -1226,7 +1226,7 @@
                   "contentSections": [
                     {
                       "type": "note",
-                      "title": "**apište si, jak byste tyto překážky mohl/a zvládnout.**",
+                      "title": "**Zapište si, jak byste tyto překážky mohl/a zvládnout.**",
                       "instruction": "Co si můžete říct nebo udělat, abyste překážky překonali?",
                       "placeholder": "Jak překonám překážky",
                       "required": true,

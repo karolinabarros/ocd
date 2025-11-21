@@ -222,7 +222,7 @@
           "contentSections": [
             {
               "type": "markdown",
-              "content": "Myšlenky, které zachytíme v bludném kruhu, často vedou k nepříjemnému prožívání. Je to kvůli tomu, že obsahují filtry, které zkreslují náš pohled na situaci. Častými myšlenkovými filtry jsou tzv. **kognitivní omyly.**"
+              "content": "Myšlenky, které zachytíme v bludném kruhu, často vedou k nepříjemnému prožívání. Je to kvůli tomu, že obsahují myšlenkové pasti, které zkreslují náš pohled na situaci. Časté pasti jsou tzv. **kognitivní omyly.**"
             },
             {
               "type": "audio",
@@ -555,7 +555,7 @@
           "contentSections": [
             {
               "type": "markdown",
-              "content": "Někdy v nás mohou úzkost vyvolávat nejen myšlenky jako takové, ale také to, jak své myšlení hodnotíme. Je to druhý typ myšlenkových filtrů. Říkáme tomu **metakognice**. Ve videu si blíže vysvětlíme, co to znamená."
+              "content": "Někdy v nás mohou úzkost vyvolávat nejen myšlenky jako takové, ale také to, jak své myšlení hodnotíme. Je to druhý typ myšlenkových pastí. Říkáme tomu **metakognice**. Ve videu si blíže vysvětlíme, co to znamená."
             },
             {
               "type": "video",
@@ -698,12 +698,12 @@
           ]
         },
         {
-          "title": "Petr a jeho filtry myšlení",
+          "title": "Petr a jeho myšlenkové pasti",
           "icon": "video",
           "contentSections": [
             {
               "type": "markdown",
-              "content": "Ve videu se podívejte, jak filtry myšlení ovlivňují Petra z příběhů."
+              "content": "Ve videu se podívejte, jak Petra ovlivňují myšlenkové pasti."
             },
             {
               "type": "video",
@@ -1041,7 +1041,7 @@
           ]
         },
         {
-          "title": "Cvičení: Poznejte své filtry myšlení",
+          "title": "Cvičení: Poznejte své myšlenkové pasti",
           "icon": "exercise",
           "isEvaluable": true,
           "finalScreen": {
@@ -1066,7 +1066,7 @@
           "contentSections": [
             {
               "type": "markdown",
-              "content": "Každý z nás vnímá svět skrze **„filtry“** - způsoby, jak přemýšlíme o sobě, o světě a o tom, co se může stát. V tomto cvičení se pokusíme své filtry zachytit, pojmenovat a pochopit."
+              "content": "Každý z nás vnímá svět skrze **„myšlenkové pasti“** - způsoby, jak přemýšlíme o sobě, o světě a o tom, co se může stát. V tomto cvičení se to pokusíme zachytit, pojmenovat a pochopit."
             },
             {
               "type": "stepByStep",
@@ -1101,7 +1101,7 @@
                   "contentSections": [
                     {
                       "type": "checkBoxList",
-                      "title": "**Poznáváte v myšlence některý filtr myšlení?**",
+                      "title": "**Poznáváte v myšlence některou myšlenkovou past?**",
                       "required": true,
                       "isSingleColumn": true,
                       "options": [
@@ -1150,6 +1150,18 @@
                       "required": true,
                       "rows": 1,
                       "placeholder": "Moje reakce"
+                    }
+                  ]
+                },
+                {
+                  "title": "",
+                  "contentSections": [
+                    {
+                      "type": "note",
+                      "title": "**Jaké to má bezprostřední a jaké dlouhodobé důsledky?**",
+                      "required": true,
+                      "rows": 2,
+                      "placeholder": "Důsledky"
                     }
                   ]
                 }
@@ -1705,7 +1717,7 @@
           "contentSections": [
             {
               "type": "markdown",
-              "content": "Než modul odešlete, **připravte si svou hierarchii expozic** v sekci Expozice. Terapeut vám ve zpětné vazbě dá vědět, zda by nebylo vhodné něco upravit."
+              "content": "Než modul odešlete, **připravte si svou hierarchii expozic** v sekci Expozice. Tu najdete, vedle sekce Moje nástroje, když se vrátíte k přehledu modulů."
             },
             {
               "type": "decider",

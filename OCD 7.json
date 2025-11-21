@@ -1809,8 +1809,8 @@
             },
             {
               "type": "video",
-              "url": "xx",
-              "captionsUrl": "xx"
+              "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/OCD_M7_af926d0f8f.mp4",
+              "captionsUrl": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/OCD_M7_ces_087a9eba5b.vtt"
             },
             {
               "type": "collapse",
@@ -1829,7 +1829,7 @@
             },
             {
               "type": "audio",
-              "audioSrc": "xx",
+              "audioSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M7_Bonusovy_pribeh_42ed4e412e.wav",
               "title": "Bonusový příběh",
               "imageSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Bonusovy_pribeh_ec60cb6d82.svg"
             },

@@ -20,7 +20,7 @@
               "color": "#27637C",
               "items": [
                 "Jak se projevuje obsedantně-kompulzivní porucha.",
-                "Jaké jsou příčiny vzniku OCD a co OCD udržuje.",
+                "Jaké jsou příčiny vzniku OCD a co poruchu udržuje.",
                 "Jaká jsou nejčastější témata obsesí a jaké jsou s nimi spojené kompulze.",
                 "Co je to bludný kruh OCD."
               ]
@@ -1407,7 +1407,7 @@
                     },
                     {
                       "type": "collapse",
-                      "content": "**Strach z nákazy** \n \n - dotknutí se kliky, jízda hromadnou dopravou, na ulici kolem projde špinavý pes \n \n **Strach z vážné nemoci** \n \n - přečtení článku o onemocnění, zjištění, že někdo blízký či známý zemřel \n \n **Obsese o možném nebezpečí** \n \n - vaření na plynovém sporáku, průjezd autem pod dráty vysokého napětí \n \n **Obsese o vážných důsledcích běžných pochybení** \n \n - odchod z domu, odjezd na dovolenou \n \n **Obsese o nedostatku symetrie a chaosu** \n \n - nepořádek v pokoji, špatně roztříděné prádlo \n \n **Hledání znamení o vážném nebezpečí** \n \n - černá kočka jdoucí přes ulici, šlápnutí na kanál nebo na spáru mezi dlaždicemi \n \n **Obsese o vlastní nebezpečnosti** \n \n - pohled na trám, přes který by se dalo přehodit lano, číšník položil na stůl steakový nůž \n \n **Obsese s náboženskými tématy** \n \n - pohled na kostel, sledování filmu, ve kterém vystupují démoni \n \n **Obsese se sexuálními tématy** \n \n - lechtivá scéna ve filmu, situace, kdy někdo vyhledá vaši blízkost \n \n **Obsese o partnerském vztahu** \n \n - pohled na šťastný pár, sledování filmu, v němž se řeší problémy v partnerském vztahu",
+                      "content": "**Strach z nákazy** \n \n - dotknutí se kliky, jízda hromadnou dopravou, na ulici kolem projde špinavý pes \n \n **Strach z vážné nemoci** \n \n - přečtení článku o onemocnění, zjištění, že někdo blízký či známý zemřel \n \n **Obsese o možném nebezpečí** \n \n - vaření na plynovém sporáku, průjezd autem pod dráty vysokého napětí \n \n **Obsese o vážných důsledcích běžných pochybení** \n \n - odchod z domu, odjezd na dovolenou \n \n **Obsese o nedostatku symetrie a chaosu** \n \n - nepořádek v pokoji, špatně roztříděné prádlo \n \n **Hledání znamení o vážném nebezpečí** \n \n - černá kočka jdoucí přes ulici, šlápnutí na kanál nebo na spáru mezi dlaždicemi \n \n **Obsese o vlastní nebezpečnosti** \n \n - pohled na trám, přes který by se dalo přehodit lano, číšník položil na stůl steakový nůž, pohled na ostré předměty \n \n **Obsese s náboženskými tématy** \n \n - pohled na kostel, sledování filmu, ve kterém vystupují démoni \n \n **Obsese se sexuálními tématy** \n \n - lechtivá scéna ve filmu, situace, kdy někdo vyhledá vaši blízkost, pohled na přitažlivého člověka nebo na dítě \n \n **Obsese o partnerském vztahu** \n \n - pohled na šťastný pár, sledování filmu, v němž se řeší problémy v partnerském vztahu, nuda, nedostatečné vzrušení nebo pocity touhy",
                       "title": "Příklady vnějších spouštěčů"
                     },
                     {
@@ -1582,7 +1582,7 @@
           ]
         },
         {
-          "title": "Příklady bludných kruhů našich hrdinů",
+          "title": "Příklady bludných kruhů",
           "icon": "Story",
           "contentSections": [
             {
@@ -1604,7 +1604,7 @@
                       "type": "image",
                       "isExpandable": false,
                       "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Janin_bludny_kruh_1_724de0f098.svg",
-                      "width": "80%",
+                      "width": "100%",
                       "alt": "Bludný kruh v situaci, kdy se Jana dotkla tyče v autobuse",
                       "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Janin_bludny_kruh_1_724de0f098.svg",
                       "widthMobile": "100%",
@@ -1656,11 +1656,16 @@
                       "type": "image",
                       "isExpandable": false,
                       "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Janin_bludny_kruh_2_0680539310.svg",
-                      "width": "80%",
+                      "width": "100%",
                       "alt": "Bludný kruh v situaci, kdy Jana otevřela dveře holou rukou.",
                       "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Janin_bludny_kruh_2_0680539310.svg",
                       "widthMobile": "100%",
                       "align": "center"
+                    },
+                    {
+                      "type": "gap",
+                      "desktopGap": "48px",
+                      "mobileGap": "24px"
                     },
                     {
                       "type": "markdown",
@@ -1670,7 +1675,7 @@
                       "type": "image",
                       "isExpandable": false,
                       "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Janin_bludny_kruh_3_8386c16837.svg",
-                      "width": "80%",
+                      "width": "100%",
                       "alt": "Bludný kruh v situaci, kdy si Jana hrála s Toníkem po příchodu z práce.",
                       "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Janin_bludny_kruh_3_8386c16837.svg",
                       "widthMobile": "100%",
@@ -1695,11 +1700,16 @@
                       "type": "image",
                       "isExpandable": false,
                       "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lukasuv_bludny_kruh_1_3df30e53df.svg",
-                      "width": "80%",
+                      "width": "100%",
                       "alt": "Bludný kruh v situaci, kdy Lukáš uviděl v televizi kříž.",
                       "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lukasuv_bludny_kruh_1_3df30e53df.svg",
                       "widthMobile": "100%",
                       "align": "center"
+                    },
+                    {
+                      "type": "gap",
+                      "desktopGap": "48px",
+                      "mobileGap": "24px"
                     },
                     {
                       "type": "markdown",
@@ -1709,7 +1719,7 @@
                       "type": "image",
                       "isExpandable": false,
                       "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lukasuv_bludny_kruh_2_94eb2106e9.svg",
-                      "width": "80%",
+                      "width": "100%",
                       "alt": "Bludný kruh v situaci, kdy kolem Lukáše začali vtipkovat kamarádi.",
                       "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lukasuv_bludny_kruh_2_94eb2106e9.svg",
                       "widthMobile": "100%",
@@ -1734,11 +1744,16 @@
                       "type": "image",
                       "isExpandable": false,
                       "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Petruv_bludny_kruh_1_16aae98f5a.svg",
-                      "width": "80%",
+                      "width": "100%",
                       "alt": "Bludný kruh v situaci, kdy Petr jel ráno autem do práce.",
                       "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Petruv_bludny_kruh_1_16aae98f5a.svg",
                       "widthMobile": "100%",
                       "align": "center"
+                    },
+                    {
+                      "type": "gap",
+                      "desktopGap": "48px",
+                      "mobileGap": "24px"
                     },
                     {
                       "type": "markdown",
@@ -1748,7 +1763,7 @@
                       "type": "image",
                       "isExpandable": false,
                       "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Petruv_bludny_kruh_2_80d82ece4e.svg",
-                      "width": "80%",
+                      "width": "100%",
                       "alt": "Bludný kruh v situaci, kdy Petr odcházel ráno z bytu.",
                       "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Petruv_bludny_kruh_2_80d82ece4e.svg",
                       "widthMobile": "100%",
@@ -1773,11 +1788,16 @@
                       "type": "image",
                       "isExpandable": false,
                       "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Veronicin_bludny_kruh_1_223a7bb621.svg",
-                      "width": "80%",
+                      "width": "100%",
                       "alt": "Bludný kruh v situaci, kdy Veroniku začalo bolet v krku.",
                       "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Veronicin_bludny_kruh_1_223a7bb621.svg",
                       "widthMobile": "100%",
                       "align": "center"
+                    },
+                    {
+                      "type": "gap",
+                      "desktopGap": "48px",
+                      "mobileGap": "24px"
                     },
                     {
                       "type": "markdown",
@@ -1787,7 +1807,7 @@
                       "type": "image",
                       "isExpandable": false,
                       "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Veronicin_bludny_kruh_2_2adbe5b83f.svg",
-                      "width": "80%",
+                      "width": "100%",
                       "alt": "Bludný kruh v situaci, kdy Veronice lékař řekl, že jí nic není.",
                       "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Veronicin_bludny_kruh_2_2adbe5b83f.svg",
                       "widthMobile": "100%",
@@ -1812,11 +1832,16 @@
                       "type": "image",
                       "isExpandable": false,
                       "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Evin_bludny_kruh_1_6761ea2b8c.svg",
-                      "width": "80%",
+                      "width": "100%",
                       "alt": "Bludný kruh v situaci, kdy Eva při vaření krájela cibuli.",
                       "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Evin_bludny_kruh_1_6761ea2b8c.svg",
                       "widthMobile": "100%",
                       "align": "center"
+                    },
+                    {
+                      "type": "gap",
+                      "desktopGap": "48px",
+                      "mobileGap": "24px"
                     },
                     {
                       "type": "markdown",
@@ -1826,7 +1851,7 @@
                       "type": "image",
                       "isExpandable": false,
                       "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Evin_bludny_kruh_2_9730294ed0.svg",
-                      "width": "80%",
+                      "width": "100%",
                       "alt": "Bludný kruh v situaci, kdy Eva šla s Vaškem na večeři.",
                       "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Evin_bludny_kruh_2_9730294ed0.svg",
                       "widthMobile": "100%",
@@ -1851,11 +1876,16 @@
                       "type": "image",
                       "isExpandable": false,
                       "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Michaluv_bludny_kruh_1_66ef787376.svg",
-                      "width": "80%",
+                      "width": "100%",
                       "alt": "Bludný kruh v situaci, kdy si Michal všimnul, že je Lenka déle na mobilu a projíždí sociální sítě.",
                       "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Michaluv_bludny_kruh_1_66ef787376.svg",
                       "widthMobile": "100%",
                       "align": "center"
+                    },
+                    {
+                      "type": "gap",
+                      "desktopGap": "48px",
+                      "mobileGap": "24px"
                     },
                     {
                       "type": "markdown",
@@ -1865,7 +1895,7 @@
                       "type": "image",
                       "isExpandable": false,
                       "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Michaluv_bludny_kruh_2_aec495723b.svg",
-                      "width": "80%",
+                      "width": "100%",
                       "alt": "Bludný kruh v situaci, kdy se Lukáš s Lenkou pohádali.",
                       "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Michaluv_bludny_kruh_2_aec495723b.svg",
                       "widthMobile": "100%",
@@ -1890,11 +1920,16 @@
                       "type": "image",
                       "isExpandable": false,
                       "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Daviduv_bludny_kruh_1_264dc52b3e.svg",
-                      "width": "80%",
+                      "width": "100%",
                       "alt": "Bludný kruh v situaci, kdy si David na stole všimnul neurovnaných knih.",
                       "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Daviduv_bludny_kruh_1_264dc52b3e.svg",
                       "widthMobile": "100%",
                       "align": "center"
+                    },
+                    {
+                      "type": "gap",
+                      "desktopGap": "48px",
+                      "mobileGap": "24px"
                     },
                     {
                       "type": "markdown",
@@ -1904,7 +1939,7 @@
                       "type": "image",
                       "isExpandable": false,
                       "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Daviduv_bludny_kruh_3_623be10ec3.svg",
-                      "width": "80%",
+                      "width": "100%",
                       "alt": "Bludný kruh v situaci, kdy si David doma všimnul, že věci nejsou tam, kde mají být.",
                       "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Daviduv_bludny_kruh_3_623be10ec3.svg",
                       "widthMobile": "100%",
@@ -1929,11 +1964,16 @@
                       "type": "image",
                       "isExpandable": false,
                       "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jirkuv_bludny_kruh_1_798141f999.svg",
-                      "width": "80%",
+                      "width": "100%",
                       "alt": "Bludný kruh v situaci, kdy si Jirka vzpomněl si na dceru Magdu.",
                       "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jirkuv_bludny_kruh_1_798141f999.svg",
                       "widthMobile": "100%",
                       "align": "center"
+                    },
+                    {
+                      "type": "gap",
+                      "desktopGap": "48px",
+                      "mobileGap": "24px"
                     },
                     {
                       "type": "markdown",
@@ -1943,7 +1983,7 @@
                       "type": "image",
                       "isExpandable": false,
                       "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jirkuv_bludny_kruh_2_f83e7d8565.svg",
-                      "width": "80%",
+                      "width": "100%",
                       "alt": "Bludný kruh v situaci, kdy Jirkovi manželka řekla, že má zmeškaný hovor od vnučky.",
                       "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jirkuv_bludny_kruh_2_f83e7d8565.svg",
                       "widthMobile": "100%",
@@ -1968,11 +2008,16 @@
                       "type": "image",
                       "isExpandable": false,
                       "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Klarin_bludny_kruh_1_aac26e521a.svg",
-                      "width": "80%",
+                      "width": "100%",
                       "alt": "Bludný kruh v situaci, kdy si Klára v kavárně všimnula maminky s malým dítětem.",
                       "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Klarin_bludny_kruh_1_aac26e521a.svg",
                       "widthMobile": "100%",
                       "align": "center"
+                    },
+                    {
+                      "type": "gap",
+                      "desktopGap": "48px",
+                      "mobileGap": "24px"
                     },
                     {
                       "type": "markdown",
@@ -1982,7 +2027,7 @@
                       "type": "image",
                       "isExpandable": false,
                       "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Klarin_bludny_kruh_2_6945da8474.svg",
-                      "width": "80%",
+                      "width": "100%",
                       "alt": "Bludný kruh v situaci, kdy měla Klára intimní chvíli s Honzou.",
                       "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Klarin_bludny_kruh_2_6945da8474.svg",
                       "widthMobile": "100%",
@@ -2000,7 +2045,7 @@
           "contentSections": [
             {
               "type": "markdown",
-              "content": "Ve videu vám blíže vysvětlíme, v čem je užitečné zachycovat vlastní bludné kruhy."
+              "content": "Ve videu vám blíže vysvětlíme, v čem je užitečné zachycovat bludné kruhy OCD."
             },
             {
               "type": "video",

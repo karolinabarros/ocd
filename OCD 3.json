@@ -74,7 +74,7 @@
               },
               {
                 "type": "markdown",
-                "content": ":::text--center \n #### Děkujeme za vyplnění! \n \n Příznaky deprese mají vliv na to, jak nás obsese ovlivňují. \n :::"
+                "content": ":::text--center \n #### Děkujeme za vyplnění! \n :::"
               }
             ]
           },
@@ -103,7 +103,7 @@
               },
               {
                 "type": "markdown",
-                "content": ":::text--center \n #### Jděte na to postupně. \n \n I malý krok je úspěch, pokud se na něj díváme očima odvahy. \n :::"
+                "content": ":::text--center \n #### Jděte na to postupně. \n :::"
               }
             ]
           },
@@ -167,7 +167,7 @@
             },
             { 
               "type": "slider", 
-              "title": "**Jak vám šlo všímat si filtrů myšlení?**",
+              "title": "**Jak vám šlo všímat si myšlenkových pastí?**",
               "description": "Zamyslete se, jak se vám dařilo v týdenní výzvě. Zapisovali jste si myšlenky, které posilují OCD?",
               "min": 0, 
               "max": 10,
@@ -542,7 +542,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Jirka** \n \n Jirka si řekl, že se zkusí postavit svému nutkání sčítat čísla na poznávacích značkách. Věděl, že to nebude lehké a nepodaří se to hned, ale že pokusí se tomu postavit, jakmile to pro něj bude možné. Doufal, že to v představě bude lehčí, ale zpočátku nebylo. \n \n **Scénář expozice v představě** \n \n Jedu sám autem do práce. Ráno jsme se s manželkou pohádali, takže mě dnes nevezla. Sedám do auta, ale už když ho startuju, vidím, že čas na palubní desce je 7:13. To je prvočíslo. Špatné znamení. \n \n Vjíždím do města. Přede mnou jede auto. Poznávací značka končí na 17. Další prvočíslo. Zatínám zuby. Snažím se dýchat, ale hned za rohem další auto – koncovka 113. Cítím, jak mi buší srdce. V hlavě křičí hlas: *„Tohle je varování. Dnes se něco stane. Jsi nezodpovědný, když nezastavíš.“* \n \n Zastavuji na semaforu a začnu rychle počítat sloupky podél silnice. Jeden, dva, tři, čtyři... osm. Uleví se mi. Ale jen na chvíli. Pak se znovu podívám před sebe. Auto s SPZ 211. Další varování. Je to jasné. Když pojedu dál, způsobím autonehodu. Nebo se něco stane Lucce. Nebo pacientovi. Budu za to moct já. Protože jsem neposlechl znamení. \n \n Celý se třesu. Otáčím auto a jedu zpět domů. Když parkuji, sotva se soustředím. Jsem neschopný. Doktor, který nedokáže ani dojet do práce. Musím poprosit Lucku, aby mě odvezla. Zase jsem selhal. \n \n Ale pak si řeknu, že to nevzdám. Couvám s autem na silnici a jedu. Jsem stále napjatý, ale čísel si už nevšímám. Dojíždím do práce. Zvládl jsem to. \n \n **Jaké to pro Jirku bylo** \n \n Nejdřív to bylo skoro nesnesitelné. Ale když jsem vydržel, postupně jsem to začal zvládat snáze. Jako by to už nemělo takovou moc. A ta úleva, když jsem vytrval až do konce, byla úžasná. \n \n **Uvědomění si myšlenkového filtru** \n \n Jirka si uvědomil, že to, že má magickou představu. Neznamená, že se to musí stát. Vždy věděl, že jeho „magie“ je přehnaná, ale měl strach se ji postavit. Teď to zvládl a odvaha mu udělala radost. Také si uvědomil, že jeho počítání je ovlivněno pozitivní metakognicí, že když bude počítat, tak zabrání katastrofě."
+                      "content": "**Jirka** \n \n Jirka si řekl, že se zkusí postavit svému nutkání sčítat čísla na poznávacích značkách. Věděl, že to nebude lehké a nepodaří se to hned, ale že pokusí se tomu postavit, jakmile to pro něj bude možné. Doufal, že to v představě bude lehčí, ale zpočátku nebylo. \n \n **Scénář expozice v představě** \n \n Jedu sám autem do práce. Ráno jsme se s manželkou pohádali, takže mě dnes nevezla. Sedám do auta, ale už když ho startuju, vidím, že čas na palubní desce je 7:13. To je prvočíslo. Špatné znamení. \n \n Vjíždím do města. Přede mnou jede auto. Poznávací značka končí na 17. Další prvočíslo. Zatínám zuby. Snažím se dýchat, ale hned za rohem další auto – koncovka 113. Cítím, jak mi buší srdce. V hlavě křičí hlas: *„Tohle je varování. Dnes se něco stane. Jsi nezodpovědný, když nezastavíš.“* \n \n Zastavuji na semaforu a začnu rychle počítat sloupky podél silnice. Jeden, dva, tři, čtyři... osm. Uleví se mi. Ale jen na chvíli. Pak se znovu podívám před sebe. Auto s SPZ 211. Další varování. Je to jasné. Když pojedu dál, způsobím autonehodu. Nebo se něco stane Lucce. Nebo pacientovi. Budu za to moct já. Protože jsem neposlechl znamení. \n \n Celý se třesu. Otáčím auto a jedu zpět domů. Když parkuji, sotva se soustředím. Jsem neschopný. Doktor, který nedokáže ani dojet do práce. Musím poprosit Lucku, aby mě odvezla. Zase jsem selhal. \n \n Ale pak si řeknu, že to nevzdám. Couvám s autem na silnici a jedu. Jsem stále napjatý, ale čísel si už nevšímám. Dojíždím do práce. Zvládl jsem to. \n \n **Jaké to pro Jirku bylo** \n \n Nejdřív to bylo skoro nesnesitelné. Ale když jsem vydržel, postupně jsem to začal zvládat snáze. Jako by to už nemělo takovou moc. A ta úleva, když jsem vytrval až do konce, byla úžasná. \n \n **Uvědomění si myšlenkového filtru** \n \n Jirka si uvědomil, že to, že má magickou představu neznamená, že se to musí stát. Vždy věděl, že jeho „magie“ je přehnaná, ale měl strach se ji postavit. Teď to zvládl a odvaha mu udělala radost. Také si uvědomil, že jeho počítání je ovlivněno pozitivní metakognicí, že když bude počítat, tak zabrání katastrofě."
                     }
                   ]
                 }
@@ -567,78 +567,6 @@
               "type": "collapse",
               "content": "**Expozice v představě** pomáhají zvládat nepříjemné myšlenky a pocity, aniž byste se jim skutečně vystavovali. Učíte se zůstat v nepohodě bez kompulzí, ujišťování nebo útěku. \n \n Když si to budete **opakovat**, váš mozek začne vnímat původně hrozivé představy jako **méně nebezpečné**. A co je důležité: nepříjemné negativní emoce se postupně zmírní. Uvidíte, že je dokážete vydržet. \n \n Tyto představy navíc mohou být ideální **přípravou na expozice** ve skutečném životě. Jsou **bezpečné**. Odehrávají se jen ve vaší mysli. Přesto mají velkou **terapeutickou sílu.** \n \n Jak na to? První krok je výběr expozice z vaší hierarchie. Zvolte takovou, která ve vás vyvolává **nízkou až střední míru úzkosti**. Je důležité začít zlehka. Situace by měla být **konkrétní**. Něco, co se vám stává opakovaně a dobře to znáte. \n \n Můžete si třeba představit, že obědváte a neumyjete si při tom ruce nebo že odejdete z bytu, i když není zavřené okno. A nebo třeba že máte myšlenku, že byste mohli někomu ublížit, a vy se neujistíte u blízkého člověka. \n \n Poté si sepište **podrobný popis představy**. Scénář pište v první osobě, například „Jdu z obchodu a cítím na dlaních špínu...“ Zahrňte své pocity, myšlenky i tělesné vjemy. \n \n Scénář si čtěte **jednou až dvakrát denně**. Vyhraďte si na to dostatek času, kdy budete mít klid. Třeba po snídani nebo odpoledne. Nechte představu doběhnout až do konce, ale bez kompulze. Sledujte svou míru úzkosti před a po. Zaznamenejte si to na škále od nuly do deseti. \n \n Je důležité, že při čtení nebudete používat **uklidňovací strategie**. Nepřerušujte čtení, i když cítíte silnou nepohodu. Nevykonávejte žádné kompulze, jako ujišťování nebo myšlenkové kontroly. Právě v tom je terapeutická hodnota expozice. \n \n Po dokončení představy si **zapište své výsledky**. Expozici doporučujeme opakovat do té doby, než během ní dosáhnete maximální úzkosti na 4/10. Pak si můžete vytvořit nový, o něco těžší scénář. \n \n Tato metoda vyžaduje trpělivost, ale její **účinnost je vědecky prokázána**. Na následující stránce si můžete sepsat vlastní scénář expozice v představě.",
               "title": "Radši si přečtu"
-            }
-          ]
-        },
-        {
-          "title": "Kvíz o expozicích v představě",
-          "icon": "Star",
-          "contentSections": [
-            {
-              "type": "survey",
-              "variant": "quiz",
-              "questions": [
-                {
-                  "name": "Question1",
-                  "question": ":::text--center \n K čemu jsou expozice v představě? \n :::",
-                  "options": [
-                    {
-                      "label": "A) K tomu, abychom si představili něco příjemného a uklidnili jsme se.",
-                      "value": 0
-                    },
-                    {
-                      "label": "B) K tomu, abychom se naučili zvládat myšlenky a emoce bez snahy je potlačit.",
-                      "value": 1
-                    },
-                    {
-                      "label": "C) K tomu, abychom myšlenku rozebírali tak dlouho, až zmizí.",
-                      "value": 2
-                    }
-                  ],
-                  "correctAnswer": 1,
-                  "correctAnswerReason": "Správná odpověď je B). Expozice v představě nám pomáhá zvládat nepříjemné myšlenky tím, že s nimi vydržíme. Když jim čelíme, postupně ztrácí svou intenzitu a už nás tolik neobtěžují."
-                },
-                {
-                  "name": "Question2",
-                  "question": ":::text--center \n Jaký je nejlepší způsob, jak číst svůj scénář v představách? \n :::",
-                  "options": [
-                    {
-                      "label": "A) Číst si scénář, a zároveň se uklidňovat pozitivními větami.",
-                      "value": 0
-                    },
-                    {
-                      "label": "B) Přestat číst scénář, pokud je úzkost příliš silná.",
-                      "value": 1
-                    },
-                    {
-                      "label": "C) Číst si scénář pravidelně, vědomě a bez snahy zmírňovat úzkost.",
-                      "value": 2
-                    }
-                  ],
-                  "correctAnswer": 2,
-                  "correctAnswerReason": "Správná odpověď je C). Opakovaně a vědomě čteme scénář bez snahy potlačit svou úzkost. Pomáhá to mozku, aby přestal spojovat myšlenku se strachem. Postupně si tak na nepříjemné pocity zvykneme a už nám nebudou tolik vadit."
-                },
-                {
-                  "name": "Question3",
-                  "question": ":::text--center \n Kdy je nejlepší čas na expozici v představě? \n :::",
-                  "options": [
-                    {
-                      "label": "A) Kdykoliv během dne, bez ohledu na okolnosti.",
-                      "value": 0
-                    },
-                    {
-                      "label": "B) Ve chvílích, kdy máme klid a čas se plně soustředit.",
-                      "value": 1
-                    },
-                    {
-                      "label": "C) Když se cítíme dobře a jsme pozitivně naladění.",
-                      "value": 2
-                    }
-                  ],
-                  "correctAnswer": 1,
-                  "correctAnswerReason": "Správná odpověď je B). Expozice v představě je nejúčinnější, když si na ni vyhradíme čas v klidném prostředí bez rušivých vlivů. Pokud jsme ve spěchu nebo máme příliš starostí, může být obtížné se dostatečně soustředit a vydržet nepříjemné pocity."
-                }
-              ]
             }
           ]
         },
@@ -781,6 +709,78 @@
                       "required": false
                     }
                   ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Kvíz o expozicích v představě",
+          "icon": "Star",
+          "contentSections": [
+            {
+              "type": "survey",
+              "variant": "quiz",
+              "questions": [
+                {
+                  "name": "Question1",
+                  "question": ":::text--center \n K čemu jsou expozice v představě? \n :::",
+                  "options": [
+                    {
+                      "label": "A) K tomu, abychom si představili něco příjemného a uklidnili jsme se.",
+                      "value": 0
+                    },
+                    {
+                      "label": "B) K tomu, abychom se naučili zvládat myšlenky a emoce bez snahy je potlačit.",
+                      "value": 1
+                    },
+                    {
+                      "label": "C) K tomu, abychom myšlenku rozebírali tak dlouho, až zmizí.",
+                      "value": 2
+                    }
+                  ],
+                  "correctAnswer": 1,
+                  "correctAnswerReason": "Správná odpověď je B). Expozice v představě nám pomáhá zvládat nepříjemné myšlenky tím, že s nimi vydržíme. Když jim čelíme, postupně ztrácí svou intenzitu a už nás tolik neobtěžují."
+                },
+                {
+                  "name": "Question2",
+                  "question": ":::text--center \n Jaký je nejlepší způsob, jak číst svůj scénář v představách? \n :::",
+                  "options": [
+                    {
+                      "label": "A) Číst si scénář, a zároveň se uklidňovat pozitivními větami.",
+                      "value": 0
+                    },
+                    {
+                      "label": "B) Přestat číst scénář, pokud je úzkost příliš silná.",
+                      "value": 1
+                    },
+                    {
+                      "label": "C) Číst si scénář pravidelně, vědomě a bez snahy zmírňovat úzkost.",
+                      "value": 2
+                    }
+                  ],
+                  "correctAnswer": 2,
+                  "correctAnswerReason": "Správná odpověď je C). Opakovaně a vědomě čteme scénář bez snahy potlačit svou úzkost. Pomáhá to mozku, aby přestal spojovat myšlenku se strachem. Postupně si tak na nepříjemné pocity zvykneme a už nám nebudou tolik vadit."
+                },
+                {
+                  "name": "Question3",
+                  "question": ":::text--center \n Kdy je nejlepší čas na expozici v představě? \n :::",
+                  "options": [
+                    {
+                      "label": "A) Kdykoliv během dne, bez ohledu na okolnosti.",
+                      "value": 0
+                    },
+                    {
+                      "label": "B) Ve chvílích, kdy máme klid a čas se plně soustředit.",
+                      "value": 1
+                    },
+                    {
+                      "label": "C) Když se cítíme dobře a jsme pozitivně naladění.",
+                      "value": 2
+                    }
+                  ],
+                  "correctAnswer": 1,
+                  "correctAnswerReason": "Správná odpověď je B). Expozice v představě je nejúčinnější, když si na ni vyhradíme čas v klidném prostředí bez rušivých vlivů. Pokud jsme ve spěchu nebo máme příliš starostí, může být obtížné se dostatečně soustředit a vydržet nepříjemné pocity."
                 }
               ]
             }
@@ -1031,7 +1031,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Lukáš** \n \n **Zápis z deníku expozic** \n \n Jsem věřící a na víře mi záleží. Právě proto mě bolí, co se mi v hlavě někdy objeví. Rouhavé, nevhodné, děsivé myšlenky. Objevují se hlavně v kostele, při modlitbě, někdy i u svatého přijímání. Vždycky jsem se jich snažil zbavit třeba modlitbou navíc nebo omluvou Bohu. \n \n **Scénář** \n \n Sedím doma, zavřu oči. Představuji si, že jsem v kostele. Dřevo lavice mě studí do dlaní, všude je ticho. Kněz zvedá ruce k modlitbě. V tu chvíli mi hlavou proběhne: *„Bůh neexistuje.“* Cítím, jak se mi zrychlil dech. Nejraději bych otevřel oči, ale vydržím to. \n \n Představuji si, že dál sedím. Modlitbu neopakuji. Najednou se objevuje další myšlenka: *„Jsi podvodník. Bůh tě vidí. Zatratí tě.“* Zůstávám. Nepřidávám modlitbu. Jen dýchám. \n \n Nebylo to snadné. Když jsem se poprvé pokusil o tuto expozici, hned po první vteřině mě přepadl stud. Přistihl jsem se, že znovu opakuju modlitbu, i když jsem si řekl, že to tentokrát neudělám. Potřeboval jsem si to přiznat. \n \n I v představě jsem hledal způsob, jak to odčinit. To byla moje první překážka. Když jsem si toho však všiml, zastavil jsem se a vydržel jsem u svého scénáře bez kompulze. \n \n Další dny jsem si představu opakoval, někdy i dvakrát denně. Představa byla čím dál živější. Tělo reagovalo. Cítil jsem napětí v hrudi a měl jsem sucho v ústech. Ale taky jsem si všímal, že po chvíli ty myšlenky samy odcházejí. A víra zůstávala. Byla silnější než výkřiky v hlavě. \n \n **Co jsem si uvědomil*á \n \n Nejtěžší pro mě bylo neudělat nic. Nesnažit se „vylepšit“ svou hlavu. Ale když jsem v tom vydržel, došlo mi, že jsem sice slyšel rušivou myšlenku, ale zároveň jsem v sobě cítil klid. Bůh mě neopustil. Možná naopak. To, že jsem to vydržel, bylo moje vyznání víry. \n \n **Odměna** \n \n Dělal jsem expozice týden. V úterý večer jsem si sedl do křesla, uvařil jsem si čaj a pustil jsem si duchovní hudbu. Dřív jsem ji nemohl poslouchat, protože mi spouštěla úzkosti. Tentokrát ne. Tentokrát jsem si ji užil, s klidem a bez výčitek. A připomněl jsem si jeden ze svých oblíbených citátů z Bible: \n \n „Zchudne, kdo pracuje zahálčivou dlaní, kdežto pilné jejich ruka obohatí.“ (Přísloví 10:4)"
+                      "content": "**Lukáš** \n \n **Zápis z deníku expozic** \n \n Jsem věřící a na víře mi záleží. Právě proto mě bolí, co se mi v hlavě někdy objeví. Rouhavé, nevhodné, děsivé myšlenky. Objevují se hlavně v kostele, při modlitbě, někdy i u svatého přijímání. Vždycky jsem se jich snažil zbavit třeba modlitbou navíc nebo omluvou Bohu. \n \n **Scénář** \n \n Sedím doma, zavřu oči. Představuji si, že jsem v kostele. Dřevo lavice mě studí do dlaní, všude je ticho. Kněz zvedá ruce k modlitbě. V tu chvíli mi hlavou proběhne: *„Bůh neexistuje.“* Cítím, jak se mi zrychlil dech. Nejraději bych otevřel oči, ale vydržím to. \n \n Představuji si, že dál sedím. Modlitbu neopakuji. Najednou se objevuje další myšlenka: *„Jsi podvodník. Bůh tě vidí. Zatratí tě.“* Zůstávám. Nepřidávám modlitbu. Jen dýchám. \n \n Nebylo to snadné. Když jsem se poprvé pokusil o tuto expozici, hned po první vteřině mě přepadl stud. Přistihl jsem se, že znovu opakuju modlitbu, i když jsem si řekl, že to tentokrát neudělám. Potřeboval jsem si to přiznat. \n \n I v představě jsem hledal způsob, jak to odčinit. To byla moje první překážka. Když jsem si toho však všiml, zastavil jsem se a vydržel jsem u svého scénáře bez kompulze. \n \n Další dny jsem si představu opakoval, někdy i dvakrát denně. Představa byla čím dál živější. Tělo reagovalo. Cítil jsem napětí v hrudi a měl jsem sucho v ústech. Ale taky jsem si všímal, že po chvíli ty myšlenky samy odcházejí. A víra zůstávala. Byla silnější než výkřiky v hlavě. \n \n **Co jsem si uvědomil** \n \n Nejtěžší pro mě bylo neudělat nic. Nesnažit se „vylepšit“ svou hlavu. Ale když jsem v tom vydržel, došlo mi, že jsem sice slyšel rušivou myšlenku, ale zároveň jsem v sobě cítil klid. Bůh mě neopustil. Možná naopak. To, že jsem to vydržel, bylo moje vyznání víry. \n \n **Odměna** \n \n Dělal jsem expozice týden. V úterý večer jsem si sedl do křesla, uvařil jsem si čaj a pustil jsem si duchovní hudbu. Dřív jsem ji nemohl poslouchat, protože mi spouštěla úzkosti. Tentokrát ne. Tentokrát jsem si ji užil, s klidem a bez výčitek. A připomněl jsem si jeden ze svých oblíbených citátů z Bible: \n \n „Zchudne, kdo pracuje zahálčivou dlaní, kdežto pilné jejich ruka obohatí.“ (Přísloví 10:4)"
                     }
                   ]
                 },

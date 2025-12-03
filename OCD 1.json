@@ -37,11 +37,11 @@
               {
                 "type": "image",
                 "isExpandable": true,
-                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Mountain_dc166aa05f.svg",
-                "width": "195px",
+                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/cesta_493a0292d9.gif",
+                "width": "275px",
                 "alt": "Obrázek hory s vlajkou na vrcholu",
-                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Mountain_dc166aa05f.svg",
-                "widthMobile": "195px",
+                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/cesta_493a0292d9.gif",
+                "widthMobile": "275px",
                 "align": "center"
               },
               {
@@ -701,11 +701,11 @@
               {
                 "type": "image",
                 "isExpandable": true,
-                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Flowers_0e031c2a29.svg",
-                "width": "138px",
+                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/dekujeme_4ea923b702.gif",
+                "width": "275px",
                 "alt": "Kopretina v růžovém květináči",
-                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Flowers_0e031c2a29.svg",
-                "widthMobile": "138px",
+                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/dekujeme_4ea923b702.gif",
+                "widthMobile": "275px",
                 "align": "center"
               },
               {
@@ -2153,11 +2153,11 @@
               {
                 "type": "image",
                 "isExpandable": true,
-                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Journey_d3385bc787.svg",
-                "width": "280px",
+                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/start_17d4ceed91.gif",
+                "width": "275px",
                 "alt": "Obrázek začátku cesty do hor",
-                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Journey_d3385bc787.svg",
-                "widthMobile": "280px",
+                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/start_17d4ceed91.gif",
+                "widthMobile": "275px",
                 "align": "center"
               },
               {

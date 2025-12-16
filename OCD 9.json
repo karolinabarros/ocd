@@ -37,11 +37,11 @@
               {
                 "type": "image",
                 "isExpandable": true,
-                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Hands_1de1a67dae.svg",
-                "width": "220px",
+                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/pomoc_6d484ddb97.gif",
+                "width": "275px",
                 "alt": "Dvě ruce natažené k sobě, symbolizující podporu, propojení a lidský kontakt",
-                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Hands_1de1a67dae.svg",
-                "widthMobile": "220px",
+                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/pomoc_6d484ddb97.gif",
+                "widthMobile": "275px",
                 "align": "center"
               },
               {
@@ -66,11 +66,11 @@
               {
                 "type": "image",
                 "isExpandable": true,
-                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Flowers_0e031c2a29.svg",
-                "width": "138px",
+                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/dekujeme_4ea923b702.gif",
+                "width": "275px",
                 "alt": "Kopretina v růžovém květináči",
-                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Flowers_0e031c2a29.svg",
-                "widthMobile": "138px",
+                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/dekujeme_4ea923b702.gif",
+                "widthMobile": "275px",
                 "align": "center"
               },
               {
@@ -160,11 +160,11 @@
               {
                 "type": "image",
                 "isExpandable": true,
-                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Hands_1de1a67dae.svg",
-                "width": "220px",
-                "alt": "Dvě ruce natažené k sobě, symbolizující podporu, propojení a lidský kontakt",
-                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Hands_1de1a67dae.svg",
-                "widthMobile": "220px",
+                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/terapeut_8f89b0135d.gif",
+                "width": "275px",
+                "alt": "Terapeutka sedící u počítače, vyhodnocující modul",
+                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/terapeut_8f89b0135d.gif",
+                "widthMobile": "275px",
                 "align": "center"
               },
               {
@@ -901,11 +901,11 @@
               {
                 "type": "image",
                 "isExpandable": true,
-                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Flowers_0e031c2a29.svg",
-                "width": "138px",
+                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/dekujeme_4ea923b702.gif",
+                "width": "275px",
                 "alt": "Kopretina v růžovém květináči",
-                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Flowers_0e031c2a29.svg",
-                "widthMobile": "138px",
+                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/dekujeme_4ea923b702.gif",
+                "widthMobile": "275px",
                 "align": "center"
               },
               {
@@ -1251,11 +1251,11 @@
               {
                 "type": "image",
                 "isExpandable": true,
-                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Journey_d3385bc787.svg",
-                "width": "280px",
+                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/start_17d4ceed91.gif",
+                "width": "275px",
                 "alt": "Obrázek začátku cesty do hor",
-                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Journey_d3385bc787.svg",
-                "widthMobile": "280px",
+                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/start_17d4ceed91.gif",
+                "widthMobile": "275px",
                 "align": "center"
               },
               {
@@ -1633,11 +1633,11 @@
               {
                 "type": "image",
                 "isExpandable": true,
-                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Headphones_99764f4bf6.svg",
-                "width": "246px",
+                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/prijmuti_7ef9124385.gif",
+                "width": "275px",
                 "alt": "Postavička se zavřenýma očima se sluchátky na hlavě",
-                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Headphones_99764f4bf6.svg",
-                "widthMobile": "246px",
+                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/prijmuti_7ef9124385.gif",
+                "widthMobile": "275px",
                 "align": "center"
               },
               {
@@ -1985,11 +1985,11 @@
               {
                 "type": "image",
                 "isExpandable": true,
-                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Watering_Can_488f075007.svg",
-                "width": "280px",
+                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/rust_2_a6c233498e.gif",
+                "width": "275px",
                 "alt": "Obrázek postavičky, která s úsměvem zalévá pokojové rostliny",
-                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Watering_Can_488f075007.svg",
-                "widthMobile": "280px",
+                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/rust_2_a6c233498e.gif",
+                "widthMobile": "275px",
                 "align": "center"
               },
               {
@@ -2328,11 +2328,11 @@
               {
                 "type": "image",
                 "isExpandable": true,
-                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Mountain_dc166aa05f.svg",
-                "width": "195px",
+                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/cesta_493a0292d9.gif",
+                "width": "275px",
                 "alt": "Obrázek hory s vlajkou na vrcholu",
-                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Mountain_dc166aa05f.svg",
-                "widthMobile": "195px",
+                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/cesta_493a0292d9.gif",
+                "widthMobile": "275px",
                 "align": "center"
               },
               {
@@ -3027,11 +3027,11 @@
               {
                 "type": "image",
                 "isExpandable": true,
-                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Food_f765cbb439.svg",
-                "width": "220px",
+                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/odmenovani_af501c343a.gif",
+                "width": "275px",
                 "alt": "Obrázek croissantu, čaje a brýlí",
-                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Food_f765cbb439.svg",
-                "widthMobile": "195px",
+                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/odmenovani_af501c343a.gif",
+                "widthMobile": "275px",
                 "align": "center"
               },
               {

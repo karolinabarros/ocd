@@ -27,7 +27,7 @@
         },
         {
           "title": "Dotazník o příznacích OCD",
-          "icon": "check",
+          "icon": "Question",
           "isEvaluable": true,
           "finalScreen": {
             "buttonLabel": "Upravit odpovědi",
@@ -35,11 +35,11 @@
               {
                 "type": "image",
                 "isExpandable": true,
-                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Therapist_84844fe845.svg",
-                "width": "318px",
+                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/terapeut_8f89b0135d.gif",
+                "width": "275px",
                 "alt": "Terapeutka sedící u počítače, vyhodnocující modul",
-                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Therapist_84844fe845.svg",
-                "widthMobile": "250px",
+                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/terapeut_8f89b0135d.gif",
+                "widthMobile": "275px",
                 "align": "center"
               },
               {
@@ -56,7 +56,7 @@
         },
         {
           "title": "Dotazník o příznacích deprese",
-          "icon": "check",
+          "icon": "Question",
           "isEvaluable": true,
           "finalScreen": {
             "buttonLabel": "Upravit odpovědi",
@@ -64,11 +64,11 @@
               {
                 "type": "image",
                 "isExpandable": true,
-                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Flowers_0e031c2a29.svg",
-                "width": "138px",
+                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/dekujeme_4ea923b702.gif",
+                "width": "275px",
                 "alt": "Kopretina v růžovém květináči",
-                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Flowers_0e031c2a29.svg",
-                "widthMobile": "138px",
+                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/dekujeme_4ea923b702.gif",
+                "widthMobile": "275px",
                 "align": "center"
               },
               {
@@ -158,11 +158,11 @@
               {
                 "type": "image",
                 "isExpandable": true,
-                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Hands_1de1a67dae.svg",
-                "width": "220px",
+                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/pomoc_6d484ddb97.gif",
+                "width": "275px",
                 "alt": "Dvě ruce natažené k sobě, symbolizující podporu, propojení a lidský kontakt",
-                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Hands_1de1a67dae.svg",
-                "widthMobile": "220px",
+                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/pomoc_6d484ddb97.gif",
+                "widthMobile": "275px",
                 "align": "center"
               },
               {
@@ -666,11 +666,11 @@
               {
                 "type": "image",
                 "isExpandable": true,
-                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Journey_d3385bc787.svg",
-                "width": "280px",
-                "alt": "Obrázek začátku cesty do hor",
-                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Journey_d3385bc787.svg",
-                "widthMobile": "280px",
+                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/rust_1_e3ff057d17.gif",
+                "width": "275px",
+                "alt": "Postava, která si zalévá rostliny vyrůstající z hlavy",
+                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/rust_1_e3ff057d17.gif",
+                "widthMobile": "275px",
                 "align": "center"
               },
               {
@@ -1125,11 +1125,11 @@
               {
                 "type": "image",
                 "isExpandable": true,
-                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Flowers_0e031c2a29.svg",
-                "width": "138px",
+                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/dekujeme_4ea923b702.gif",
+                "width": "275px",
                 "alt": "Kopretina v růžovém květináči",
-                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Flowers_0e031c2a29.svg",
-                "widthMobile": "138px",
+                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/dekujeme_4ea923b702.gif",
+                "widthMobile": "275px",
                 "align": "center"
               },
               {
@@ -1616,11 +1616,11 @@
               {
                 "type": "image",
                 "isExpandable": true,
-                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Journey_d3385bc787.svg",
-                "width": "280px",
+                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/start_17d4ceed91.gif",
+                "width": "275px",
                 "alt": "Obrázek začátku cesty do hor",
-                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Journey_d3385bc787.svg",
-                "widthMobile": "280px",
+                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/start_17d4ceed91.gif",
+                "widthMobile": "275px",
                 "align": "center"
               },
               {

@@ -36,11 +36,11 @@
               {
                 "type": "image",
                 "isExpandable": true,
-                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Therapist_84844fe845.svg",
-                "width": "318px",
+                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/terapeut_8f89b0135d.gif",
+                "width": "275px",
                 "alt": "Terapeutka sedící u počítače, vyhodnocující modul",
-                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Therapist_84844fe845.svg",
-                "widthMobile": "250px",
+                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/terapeut_8f89b0135d.gif",
+                "widthMobile": "275px",
                 "align": "center"
               },
               {
@@ -65,11 +65,11 @@
               {
                 "type": "image",
                 "isExpandable": true,
-                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Flowers_0e031c2a29.svg",
-                "width": "138px",
+                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/dekujeme_4ea923b702.gif",
+                "width": "275px",
                 "alt": "Kopretina v růžovém květináči",
-                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Flowers_0e031c2a29.svg",
-                "widthMobile": "138px",
+                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/dekujeme_4ea923b702.gif",
+                "widthMobile": "275px",
                 "align": "center"
               },
               {
@@ -94,11 +94,11 @@
               {
                 "type": "image",
                 "isExpandable": true,
-                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Relax_e24051df56.svg",
-                "width": "280px",
+                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/jdete_na_to_postupne_d9bbe7e853.gif",
+                "width": "275px",
                 "alt": "Relaxující postava sedící se skříženýma nohama",
-                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Relax_e24051df56.svg",
-                "widthMobile": "280px",
+                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/jdete_na_to_postupne_d9bbe7e853.gif",
+                "widthMobile": "275px",
                 "align": "center"
               },
               {
@@ -622,11 +622,11 @@
               {
                 "type": "image",
                 "isExpandable": true,
-                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Watering_Can_488f075007.svg",
-                "width": "280px",
+                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/rust_2_a6c233498e.gif",
+                "width": "275px",
                 "alt": "Obrázek postavičky, která s úsměvem zalévá pokojové rostliny",
-                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Watering_Can_488f075007.svg",
-                "widthMobile": "280px",
+                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/rust_2_a6c233498e.gif",
+                "widthMobile": "275px",
                 "align": "center"
               },
               {
@@ -1196,11 +1196,11 @@
               {
                 "type": "image",
                 "isExpandable": true,
-                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Relax_e24051df56.svg",
-                "width": "280px",
+                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/odpocinek_f1bd5185f5.gif",
+                "width": "275px",
                 "alt": "Obrázek svíčky, lotusového květu a věže z oblázků",
-                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Relax_e24051df56.svg",
-                "widthMobile": "280px",
+                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/odpocinek_f1bd5185f5.gif",
+                "widthMobile": "275px",
                 "align": "center"
               },
               {

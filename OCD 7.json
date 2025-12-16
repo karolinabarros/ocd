@@ -36,11 +36,11 @@
               {
                 "type": "image",
                 "isExpandable": true,
-                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Hands_1de1a67dae.svg",
-                "width": "220px",
+                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/pomoc_6d484ddb97.gif",
+                "width": "275px",
                 "alt": "Dvě ruce natažené k sobě, symbolizující podporu, propojení a lidský kontakt",
-                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Hands_1de1a67dae.svg",
-                "widthMobile": "220px",
+                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/pomoc_6d484ddb97.gif",
+                "widthMobile": "275px",
                 "align": "center"
               },
               {
@@ -65,11 +65,11 @@
               {
                 "type": "image",
                 "isExpandable": true,
-                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Flowers_0e031c2a29.svg",
-                "width": "138px",
+                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/dekujeme_4ea923b702.gif",
+                "width": "275px",
                 "alt": "Kopretina v růžovém květináči",
-                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Flowers_0e031c2a29.svg",
-                "widthMobile": "138px",
+                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/dekujeme_4ea923b702.gif",
+                "widthMobile": "275px",
                 "align": "center"
               },
               {
@@ -159,11 +159,11 @@
               {
                 "type": "image",
                 "isExpandable": true,
-                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Mountain_dc166aa05f.svg",
-                "width": "195px",
+                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/cesta_493a0292d9.gif",
+                "width": "275px",
                 "alt": "Obrázek hory s vlajkou na vrcholu",
-                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Final_Screen_Mountain_dc166aa05f.svg",
-                "widthMobile": "195px",
+                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/cesta_493a0292d9.gif",
+                "widthMobile": "275px",
                 "align": "center"
               },
               {
@@ -328,7 +328,7 @@
                 },
                 {
                   "id": "ShamingCritic",
-                  "title": "Zahanbující Kritik",
+                  "title": "Sebeobviňující Kritik",
                   "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Zahanbujici_Kritik_icon_c7c53ea8a0.svg",
                   "contentCard": [
                     {
@@ -1466,7 +1466,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Klára** \n \n Minulý týden jsem šla kolem školy a zahlédla holčičku, jak běží za mámou. Bleskla mi hlavou nevhodná myšlenka. Kritik spustil: *„Tohle je odporné! Takhle myslí jen zlí lidi. Jsem nebezpečná!“* \n \n Zrudla jsem a chtěla změnit trasu. Ale vzpomněla jsem si na větu z modulu: *„Myšlenka není čin.“* Můj Zdravý dospělý mi tiše připomněl: *„Myšlenky nejsou nebezpečné. Nejsi to ty. To OCD vytváří ten obraz, ne tvoje skutečné já.“* \n \n Zpomalila jsem, zhluboka jsem dýchala a prošla kolem školy. Srdce mi bušilo, ale nezhroutila jsem se. Neutíkala jsem. Zamyslela jsem se nad tím, co by mi řekl můj Zdravý dospělý, a napadlo mě: *„Tohle je OCD. Nejsem nebezpečná. Jsem člověk, co se učí žít s nejistotou.“*"
+                      "content": "**Klára** \n \n Minulý týden jsem šla kolem školy a zahlédla holčičku, jak běží za mámou. Bleskla mi hlavou nevhodná myšlenka: *„Co když mě vzrušuje?“* Kritik spustil: *„Tohle je odporné! Takhle myslí jen zlí lidi. Jsem nebezpečná!“* \n \n Zrudla jsem a chtěla změnit trasu. Ale vzpomněla jsem si na větu z modulu: *„Myšlenka není čin.“* Můj Zdravý dospělý mi tiše připomněl: *„Myšlenky nejsou nebezpečné. Nejsi to ty. To OCD vytváří ten obraz, ne tvoje skutečné já.“* \n \n Zpomalila jsem, zhluboka jsem dýchala a prošla kolem školy. Srdce mi bušilo, ale nezhroutila jsem se. Neutíkala jsem. Zamyslela jsem se nad tím, co by mi řekl můj Zdravý dospělý, a napadlo mě: *„Tohle je OCD. Nejsem nebezpečná. Jsem člověk, co se učí žít s nejistotou.“*"
                     }
                   ]
                 },
@@ -1566,7 +1566,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Jirka** \n \n Šel jsem po ulici a oči mi hned automaticky padly na poznávací značku auta. Čísla: 3, 7, 1. Sečetl jsem je. Jedenáct. Prvočíslo. Hned mi naskočilo: *„Musím najít další čísla a přepočítat je, dokud nedostanu číslo dělitelné dvěma, jinak se něco stane mé rodině.“* \n \n V hlavě mi zazněl hlas Kritika: *„Tohle nesmíš nechat být! Důsledky budou hrozné!“* \n \n Už jsem měl nutkání začít hledat další SPZky, ale vzpomněl jsem si na poznatek z programu: „Magické myšlení je past. Vypadá logicky, ale je to OCD, které tě nutí k falešnému pocitu kontroly.“ \n \n Představil jsem si, co by mi dál řekl můj Zdravý dospělý. Možná něco jako: *„Tohle je jen číslo. Neexistuje žádná souvislost mezi SPZ a bezpečím tvé rodiny. Můžeš ten strach jen pozorovat a nic neudělat.“* \n \n Zastavil jsem se. Nepřepočítával jsem. Úzkost stoupala, ale já zůstal stát. Dýchal jsem a řekl si: *„Tohle je OCD. Ne já.“* \n \n Po pár minutách napětí povolilo. A svět se nezbořil. I moje rodina byla v pořádku. Ten pocit, že se můžu rozhodnout sám, byl pro mě nový a silný."
+                      "content": "**Jirka** \n \n Šel jsem po ulici a oči mi hned automaticky padly na poznávací značku auta. Čísla: 3, 7, 1. Sečetl jsem je. Jedenáct. Prvočíslo. Hned mi naskočilo: *„Musím najít další čísla a přepočítat je, dokud nedostanu číslo dělitelné čtyřma, jinak se něco stane mé rodině.“* \n \n V hlavě mi zazněl hlas Kritika: *„Tohle nesmíš nechat být! Důsledky budou hrozné!“* \n \n Už jsem měl nutkání začít hledat další SPZky, ale vzpomněl jsem si na poznatek z programu: „Magické myšlení je past. Vypadá logicky, ale je to OCD, které tě nutí k falešnému pocitu kontroly.“ \n \n Představil jsem si, co by mi dál řekl můj Zdravý dospělý. Možná něco jako: *„Tohle je jen číslo. Neexistuje žádná souvislost mezi SPZ a bezpečím tvé rodiny. Můžeš ten strach jen pozorovat a nic neudělat.“* \n \n Zastavil jsem se. Nepřepočítával jsem. Úzkost stoupala, ale já zůstal stát. Dýchal jsem a řekl si: *„Tohle je OCD. Ne já.“* \n \n Po pár minutách napětí povolilo. A svět se nezbořil. I moje rodina byla v pořádku. Ten pocit, že se můžu rozhodnout sám, byl pro mě nový a silný."
                     }
                   ]
                 }

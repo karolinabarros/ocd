@@ -1003,13 +1003,13 @@
             },
             {
               "type": "audio",
-              "audioSrc": "xx",
+              "audioSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Neprima_komunikace_622f3273ed.wav",
               "title": "Nepřímá komunikace",
               "imageSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Neprima_komunikace_bda74afd53.svg"
             },
             {
               "type": "collapse",
-              "content": "xx",
+              "content": "**Moderátorka:** Při obsedantně kompulzivní poruše často cítíme intenzivní úzkost a nejistotu. Můžeme se toho snažit zbavit u svých blízkých. Jak to obvykle vypadá? \n \n **Terapeut:** Je to opravdu běžné. Přímá prosba o podporu vyžaduje, abychom se otevřeli a odhalili, jak se cítíme. A pokud se bojíme odmítnutí, někdy raději volíme nepřímou cestu, třeba výčitky nebo nátlak. \n \n **Moderátorka:** Můžete uvést příklad? \n \n **Terapeut:** Samozřejmě. Pokud potřebujeme ujištění, můžeme místo přímé prosby říct něco jako: „Tobě je to jedno…“. Ale pod tím je skrytá skutečná potřeba: „Potřebuju vědět, že ti na mě záleží.“ \n \n **Moderátorka:** To zní, jako by se původní potřeba úplně ztratila v té výčitce. \n \n **Terapeut:** Přesně tak. Proto je dobré se v takových chvílích na chvíli zastavit. Neobviňovat druhého, ale podívat se dovnitř sebe: Co vlastně potřebuju? Možná je to blízkost, nebo pocit, že mi někdo rozumí. A pak se to dá říct přímo, bez tlaku a bez výčitek. \n \n **Moderátorka:** Kdybych to tedy měla shrnout, úzkost spojená s OCD může vést k výčitkám, kontrole a nedorozuměním. A místo kontaktu pak vzniká napětí. \n \n **Terapeut:** Ano. Naučit se mluvit o svých pocitech přímo, laskavě a jasně je dovednost, která pomáhá oběma stranám. I když to zpočátku může být nepříjemné. Opravdová blízkost vzniká tehdy, když máme odvahu být otevření. Ne dokonalí, ale opravdoví.",
               "title": "Radši si přečtu"
             }
           ]
@@ -1581,12 +1581,12 @@
             },
             {
               "type": "video",
-              "url": "xx",
-              "captionsUrl": "xx"
+              "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/OCD_M8_51a5a4fd8b.mp4",
+              "captionsUrl": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/OCD_M8_ces_1d54caea7a.vtt"
             },
             {
               "type": "collapse",
-              "content": "Najděte si pohodlnou pozici. Můžete sedět nebo ležet - tak, jak vám to vyhovuje. Zavřete oči. Zhluboka se nadechněte… a s výdechem nechte napětí trochu povolit. Dovolte si na chvíli jen být. Tady a teď. \n \n Představte si, že jsi s někým blízkým. Možná je to váš partner, kamarád, rodič… Chcete být v kontaktu. Jste spolu. V klidu mlčíte… Jste spolu a zároveň svobodní, je to příjemné… \n \n Vnímáte jeden druhého a je to příjemné… \n \n Všimněte si, co se vám teď děje v těle. Možná lehký tlak, chvění nebo napětí. Nechte to být tak, jak to je. \n \n Všechno je v pořádku. Tělo žije a ozývá se tělesnými pocity.. Jen dýchejte… Není třeba nic měnit. Stačí vnímat. \n \n Zůstaňte ještě chvíli. Jste tu - sami se sebou, se svým pocitem, i s tím druhým. Bez odpovědi, spokojení v klidném tichu… Ticho je příjemné, úplně svobodné… přátelské…. Ticho je někdy jen ticho. \n \n Zhluboka se nadechněte… a pomalu se vraťte zpět. Pohněte prsty, protáhněte se. A v duchu si poděkujte - za odvahu být přítomný, nechat všechno plynout svobodně, bez kontroly. Jste v tom dobří. Sami i s ostatními, svobodní i blízcí.",
+              "content": "Najděte si pohodlnou pozici. Můžete sedět nebo ležet, tak, jak vám to vyhovuje. Zavřete oči. Zhluboka se nadechněte a s výdechem nechte napětí trochu povolit. Dovolte si na chvíli jen být. Tady a teď. \n \n Představte si, že jsi s někým blízkým. Možná je to váš partner, kamarád nebo rodič. Cítíte blízkost. Jste spolu. Nic neříkáte a to ticho je příjemné. Jste spolu a zároveň svobodní, je to příjemné. \n \n Vnímáte jeden druhého a je vám hezky. \n \n Všimněte si, co se vám teď děje v těle. Možná cítíte lehký tlak, chvění nebo napětí. Nechte to tak, jak to je. \n \n Všechno je v pořádku. Tělo žije a ozývá se tělesnými pocity. Jen zhluboka dýchejte. Není třeba nic měnit. Stačí vnímat. \n \n Zůstaňte ještě chvíli. Jste tady. Sami se sebou, se svými pocity, i s tím druhým. Bez odpovědi, spokojení v klidném tichu. Ticho je příjemné, úplně svobodné, přátelské. Ticho je někdy jen ticho. \n \n Zhluboka se nadechněte a pomalu se vraťte zpět. Pohněte prsty, protáhněte se. A v duchu si poděkujte za odvahu být přítomný, nechat všechno plynout svobodně, bez kontroly. Jste v tom dobří. Sami i s ostatními, svobodní i blízcí.",
               "title": "Radši si přečtu"
             }
           ]
@@ -1601,13 +1601,13 @@
             },
             {
               "type": "audio",
-              "audioSrc": "xx",
+              "audioSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Bonusovy_pribeh_M8_c2a668d9a8.wav",
               "title": "Bonusový příběh",
               "imageSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Bonusovy_pribeh_dbf8bc185c.svg"
             },
             {
               "type": "collapse",
-              "content": "xx",
+              "content": "**VYPRAVĚČ:** Michal má vztah, který si vždycky přál. Mirka je laskavá, citlivá a rozumí mu. Plánují dovolenou, baví se o budoucnosti. A přesto se každé ráno probouzí s prázdnem. Hlavou mu běží jediná otázka: „Co když ji vlastně nemiluju?“ \n \n **MICHAL:** Dneska se na mě usmála… a nic. Jen prázdno. Co když si něco nalhávám? Co když ji jen tahám za nos? \n \n **MIRKA:** Michale… Poslední dobou jsi tak nějak jinde. Děje se něco? \n \n **MICHAL:** Nevím. Někdy mám strach, že tě nemiluju tak, jak bych měl. A pak se bojím, že ti lžu. Nechci ti ublížit, ale nevím, jak se toho pocitu zbavit. \n \n **MIRKA:** Aha, to jsem nevěděla... Ale jsem ráda, že o tom mluvíš. Jen tě prosím, neptej se mě každý den, jestli s tebou chci být. Připadám si pak jak pod mikroskopem. \n \n **VYPRAVĚČ:** Michal ten pocit zná. Ticho, nejistotu. Když byl malý, často zůstával doma sám. Čekal, až někdo přijde. Tehdy se naučil, že láska znamená být neustále ve střehu. A ten pocit zůstal. O pár dní později sedí na pivu s kamarádem. \n \n **MICHAL:** Mirka je fakt skvělá. Ale každý den přemýšlím, jestli ji miluju dost. Jestli jsme spolu fakt z lásky, nebo jen ze zvyku. Když to necítím na jistotu, tak panikařím. Co když si to celý jen nalhávám? \n \n **FRANTA:** No, vztah není jen o jiskře. Někdy je to rozhodnutí zůstat, i když to není jako ve filmu. Ty chceš mít absolutní jistotu. Ale to nejde. To, že tě to trápí, asi znamená, že ti na ní fakt záleží. Zkus to míň zkoumat. \n \n **VYPRAVĚČ:** Ten večer to Michal zkusil jinak. Přestal zkoumat, co přesně cítí. A místo testování pocitů prostě řekl pravdu. \n \n **MICHAL:** Dneska přišla ta pochybnost zas. Ale neptal jsem se. Hlava si jede svoje, ale srdce ví, že s tebou chci být. \n \n **MIRKA:** To je asi ta nejhezčí věta, kterou jsi mi kdy řekl. \n \n **VYPRAVĚČ:** Michal občas pořád pochybuje. Ale učí se vztahu důvěřovat. Už nehledá jistotu. Místo analýz a testování zkouší být prostě spolu.",
               "title": "Radši si přečtu"
             }
           ]

@@ -221,10 +221,10 @@
             {
               "type": "image",
               "isExpandable": true,
-              "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Zprava_pro_terapeuta_22d2000e96.svg",
+              "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Kdyz_nas_vede_strach_3c30b23fb1.svg",
               "width": "100%",
-              "alt": "Ruka držící dopis v obálce",
-              "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Zprava_pro_terapeuta_mobile_e785e38a53.svg",
+              "alt": "Postava utíkající od osamělosti, nákazy a odmítnutí",
+              "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Kdyz_nas_vede_strach_mobile_f7a89c4436.svg",
               "widthMobile": "100%",
               "align": "center"
             },
@@ -235,10 +235,10 @@
             {
               "type": "image",
               "isExpandable": true,
-              "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Zprava_pro_terapeuta_22d2000e96.svg",
+              "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Kdyz_nas_vedou_hodnoty_a9789bd1ef.svg",
               "width": "100%",
-              "alt": "Ruka držící dopis v obálce",
-              "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Zprava_pro_terapeuta_mobile_e785e38a53.svg",
+              "alt": "Postava běžící k hezkým vztahům s rodinou, péči o sebe a učení se novým věcem",
+              "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Kdyz_nas_vedou_hodnoty_mobile_614dce1655.svg",
               "widthMobile": "100%",
               "align": "center"
             },
@@ -297,15 +297,15 @@
                 {
                   "id": "Family",
                   "title": "Partnerství a rodina",
-                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Pozitivni_metakognice_icon_92e5c16251.svg",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Partnerstvi_a_rodina_ikona_afd47d6377.svg",
                   "contentCard": [
                     {
                       "type": "image",
                       "isExpandable": false,
-                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Pozitivni_metakognice_342e14d5bf.svg",
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Partnerstvi_a_rodina_3d5b906aab.svg",
                       "width": "100%",
-                      "alt": "Postava čistící nábytek s myšlenkami o bakteriích a virech",
-                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Pozitivni_metakognice_mobile_eeefd76411.svg",
+                      "alt": "Dvě ruce obmotané jemným provázkem",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Partnerstvi_a_rodina_mobile_7258678c57.svg",
                       "widthMobile": "100%",
                       "align": "center",
                       "unoptimized": true
@@ -685,15 +685,15 @@
                 {
                   "id": "Friendship",
                   "title": "Přátelství a vztahy s okolím",
-                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Pozitivni_metakognice_icon_92e5c16251.svg",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Pratelstvi_a_vztahy_s_okolim_ikona_aca190dc46.svg",
                   "contentCard": [
                     {
                       "type": "image",
                       "isExpandable": false,
-                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Pozitivni_metakognice_342e14d5bf.svg",
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Pratelstvi_a_vztahy_s_okolim_d298f7540b.svg",
                       "width": "100%",
-                      "alt": "Postava čistící nábytek s myšlenkami o bakteriích a virech",
-                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Pozitivni_metakognice_mobile_eeefd76411.svg",
+                      "alt": "Dvě postavičky mávající na sebe z okna",
+                      "srcMobile": "hhttps://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Pratelstvi_a_vztahy_s_okolim_mobile_4e0d7d6902.svg",
                       "widthMobile": "100%",
                       "align": "center",
                       "unoptimized": true
@@ -971,15 +971,15 @@
                 {
                   "id": "PersonalGrowth",
                   "title": "Osobní růst",
-                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Pozitivni_metakognice_icon_92e5c16251.svg",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Osobni_rust_ikona_dca57c55a6.svg",
                   "contentCard": [
                     {
                       "type": "image",
                       "isExpandable": false,
-                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Pozitivni_metakognice_342e14d5bf.svg",
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Osobni_rust_f626cfc0a9.svg",
                       "width": "100%",
-                      "alt": "Postava čistící nábytek s myšlenkami o bakteriích a virech",
-                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Pozitivni_metakognice_mobile_eeefd76411.svg",
+                      "alt": "Konvice zalívající květiny",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Osobni_rust_mobile_cce3a51935.svg",
                       "widthMobile": "100%",
                       "align": "center",
                       "unoptimized": true
@@ -1206,15 +1206,15 @@
                 {
                   "id": "Work",
                   "title": "Práce a odpovědnost",
-                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Pozitivni_metakognice_icon_92e5c16251.svg",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Prace_a_odpovednost_ikona_487fef6e90.svg",
                   "contentCard": [
                     {
                       "type": "image",
                       "isExpandable": false,
-                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Pozitivni_metakognice_342e14d5bf.svg",
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Prace_a_odpovednost_b1d555baa2.svg",
                       "width": "100%",
-                      "alt": "Postava čistící nábytek s myšlenkami o bakteriích a virech",
-                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Pozitivni_metakognice_mobile_eeefd76411.svg",
+                      "alt": "Počítač, hrnek kávy, brýle a zápisník",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Prace_a_odpovednost_mobile_ef10d75142.svg",
                       "widthMobile": "100%",
                       "align": "center",
                       "unoptimized": true
@@ -1441,15 +1441,15 @@
                 {
                   "id": "Health",
                   "title": "Zdraví",
-                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Pozitivni_metakognice_icon_92e5c16251.svg",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Zdravi_ikona_e093f00a7a.svg",
                   "contentCard": [
                     {
                       "type": "image",
                       "isExpandable": false,
-                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Pozitivni_metakognice_342e14d5bf.svg",
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Zdravi_189109bf09.svg",
                       "width": "100%",
-                      "alt": "Postava čistící nábytek s myšlenkami o bakteriích a virech",
-                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Pozitivni_metakognice_mobile_eeefd76411.svg",
+                      "alt": "Zápisník se stetoskopem",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Zdravi_mobile_8588c18007.svg",
                       "widthMobile": "100%",
                       "align": "center",
                       "unoptimized": true
@@ -1676,15 +1676,15 @@
                 {
                   "id": "Spirituality",
                   "title": "Spiritualita a duchovní přesah",
-                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Pozitivni_metakognice_icon_92e5c16251.svg",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Spiritualita_a_duchovni_presah_ikona_c0bf85a9b0.svg",
                   "contentCard": [
                     {
                       "type": "image",
                       "isExpandable": false,
-                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Pozitivni_metakognice_342e14d5bf.svg",
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Spiritualita_a_duchovni_presah_6755029376.svg",
                       "width": "100%",
-                      "alt": "Postava čistící nábytek s myšlenkami o bakteriích a virech",
-                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Pozitivni_metakognice_mobile_eeefd76411.svg",
+                      "alt": "Jiskry mezi dvěmy dlaněmi",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Spiritualita_a_duchovni_presah_mobile_607d7b6e70.svg",
                       "widthMobile": "100%",
                       "align": "center",
                       "unoptimized": true
@@ -1994,10 +1994,10 @@
             {
               "type": "image",
               "isExpandable": false,
-              "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Prvni_cast_mate_za_hotovou_c7a701be63.svg",
+              "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Cviceni_Hodnoty_a_OCD_f4d211c579.svg",
               "width": "100%",
-              "alt": "Postava na začátku cesty s vlajkou s nápisem start",
-              "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Prvni_cast_mate_za_hotovou_mobile_c4eb2b9c28.svg",
+              "alt": "Ruka držící kompas",
+              "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Cviceni_Hodnoty_a_OCD_mobile_491545cd16.svg",
               "widthMobile": "100%",
               "align": "center",
               "unoptimized": true
@@ -2131,10 +2131,10 @@
               "type": "pictureAndNote",
               "image": {
                 "isExpandable": true,
-                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Scenar_expozice_af5f82448b.svg",
-                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Scenar_expozice_mobile_9d736d9bed.svg",
-                "alt": "Zápisník se zakroužkovaným textem",
-                "width": "164px",
+                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Cviceni_Hodnoty_a_OCD_6_b52f42a453.svg",
+                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Cviceni_Hodnoty_a_OCD_1_mobile_9b8650d2a5.svg",
+                "alt": "Čtverce, ve kterých je jeden označený jako úspěšný",
+                "width": "104px",
                 "widthMobile": "100%",
                 "align": "center"
               },
@@ -2149,18 +2149,18 @@
               "type": "pictureAndNote",
               "image": {
                 "isExpandable": true,
-                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Moje_uspechy_c0a40b6efb.svg",
-                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Moje_uspechy_mobile_760e0e3cee.svg",
-                "alt": "Hora s praporkem na vrcholu",
-                "width": "164px",
+                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Cviceni_Hodnoty_a_OCD_4_2e5d1bfcca.svg",
+                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Cviceni_Hodnoty_a_OCD_2_mobile_8482c39584.svg",
+                "alt": "Varovné označení k zastavení",
+                "width": "104px",
                 "widthMobile": "100%",
                 "align": "center"
               },
               "note": {
                 "title": "**V jakých chvílích vám OCD bránilo dělat to, co je pro vás smysluplné?**",
                 "rows": 2,
-                "tooltipInfo": "Jakým situacím se kvůli obavám nebo kompulzím snažíte vyhnout, i když by pro vás mohly být důležité? <br> Věnovali jste čas a energii něčemu, co nenaplňuje vaše hodnoty?",
-                "placeholder": "Ovd mi bránilo...",
+                "tooltipInfo": "Jakým situacím se kvůli obavám nebo kompulzím snažíte vyhnout, i když by pro vás mohly být důležité? <br> <br> Věnovali jste čas a energii něčemu, co nenaplňuje vaše hodnoty?",
+                "placeholder": "OCD mi bránilo...",
                 "required": false
               }
             },
@@ -2168,17 +2168,17 @@
               "type": "pictureAndNote",
               "image": {
                 "isExpandable": true,
-                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Novy_pohled_2ee4153b6b.svg",
-                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Novy_pohled_mobile_367cf25a29.svg",
-                "alt": "Srdce rozděléné do čtyř puzzle dílků",
-                "width": "164px",
+                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Cviceni_Hodnoty_a_OCD_5_d4c1405595.svg",
+                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Cviceni_Hodnoty_a_OCD_3_mobile_9babdaa2bb.svg",
+                "alt": "Srdce rozdělené na 4 puzzle dílky, jeden je stranou",
+                "width": "104px",
                 "widthMobile": "100%",
                 "align": "center"
               },
               "note": {
                 "title": "**Co byste dělali jinak, kdyby vás OCD tolik neomezovalo?**",
                 "rows": 2,
-                "tooltipInfo": "Kdybyste se mohli posunout o malý krok blíž ke svým hodnotám, co by to bylo? <br> Jak by vypadal váš den, kdybyste žili víc podle toho, co je pro vás důležité, a ne podle pokynů OCD? <br> Jak byste poznali, že máte nad svým chováním větší kontrolu vy, a ne OCD?",
+                "tooltipInfo": "Kdybyste se mohli posunout o malý krok blíž ke svým hodnotám, co by to bylo? <br> <br> Jak by vypadal váš den, kdybyste žili víc podle toho, co je pro vás důležité, a ne podle pokynů OCD? <br> <br> Jak byste poznali, že máte nad svým chováním větší kontrolu vy, a ne OCD?",
                 "placeholder": "Chtěl/a bych...",
                 "required": false
               }
@@ -2197,7 +2197,7 @@
               "type": "audio",
               "title": "Životní role",
               "audioSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Zivotni_role_f6d03413d1.wav",
-              "imageSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jak_na_Kritika_jinak_6ca5e186f0.svg"
+              "imageSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Zivotni_role_ccf6ddccd0.svg"
             },
             {
               "type": "collapse",
@@ -2495,7 +2495,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Jak Petrovi bránilo OCD naplňovat jeho hodnoty** \n \n Petr si přál, aby se s manželkou Alenou méně hádali a prožívali spolu víc radostných chvil. Bylo pro něj zásadní mít ve vztahu důvěru a rovnováhu. Jenže s OCD to šlo těžko.\n \n Petr se po odchodu z bytu často vracel kontrolovat sporák nebo zamčené dveře, někdy i třikrát. Kontroloval i Aleninu tašku, aby měl jistotu, že nic nezapomněla. Důvěra mezi nimi postupně slábla. Petr přebíral kontrolu nad většinou praktických záležitostí a Alena se začala cítit pod dohledem.\n \n Dříve spolu často jezdili na túry. Ale v posledních měsících Petr pokaždé trval na tom, že se musí vracet a něco kontrolovat. Alena pak neměla chuť ani energii trávit s ním čas. A Petra mrzelo, že jeho kompulze stály v cestě hezkým dnům, které si mohli užít.\n \n **Jak se Petr rozhodl pro změnu** \n \n Po dlouhé době si s Alenou naplánovali výlet. Petr si při odchodu všiml, jak se na něj Alena podívala s unaveným výrazem. „Zase se budeme na schodech otáčet?“ zeptala se tiše.\n \n V tu chvíli Petr pocítil, jak moc jim jeho kontrolování zasahuje do vztahu. Uvědomil si, že jeho hodnota posilovat důvěru s Alenou se kvůli OCD nenaplňuje.\n \n Už několik dnů nedělal expozice. Přišlo mu, že to nemá smysl. Obsese nezmizely. Ale v tu chvíli si uvědomil, že mu na jeho vztahu záleží natolik, aby to nevzdal. Přeje si vztah, ve kterém budou oba rovnocenní a budou si užívat společný čas bez zbytečných hádek.\n \n Petr se usmál a klidným hlasem odpověděl: „Dneska ne.“\n \n Když zamkl dveře, zkontroloval zámek jen jednou a nevracel se. Úzkost byla ze začátku silná. Všiml si, jak se Alena usmívá a pocítil, že to stojí za to. Když nasedli do auta, všiml si nutkání překontrolovat její batoh, jestli v něm má klíče. Ale tentokrát se zastavil.\n \n Ten den se pro něj stal zdrojem motivace. Strávili spolu po dlouhé době hezký čas a užili si výlet. Alena mu večer dala pusu se slovy: „Vím, že jsi se dneska musel hodně hlídat. Moc si toho vážím.“\n \n Petr si na to vzpomene pokaždé, když má chuť se na expozice vykašlat. Připomene mu to, že to má smysl. Vede ho to k životu, kde takových dnů bude víc a víc."
+                      "content": "**Jak Petrovi bránilo OCD naplňovat jeho hodnoty** \n \n Petr si přál, aby se s manželkou Alenou méně hádali a prožívali spolu víc radostných chvil. Bylo pro něj zásadní mít ve vztahu důvěru a rovnováhu. Jenže s OCD to šlo těžko.\n \n Petr se po odchodu z bytu často vracel kontrolovat sporák nebo zamčené dveře, někdy i třikrát. Kontroloval i Alenu pomocí otázek a ujištění, aby měl jistotu, že nic nezapomněla. Důvěra mezi nimi postupně slábla. Petr přebíral kontrolu nad většinou praktických záležitostí a Alena se začala cítit pod dohledem.\n \n Dříve spolu často jezdili na túry. Ale v posledních měsících Petr pokaždé trval na tom, že se musí vracet a něco kontrolovat. Alena pak neměla chuť ani energii trávit s ním čas. A Petra mrzelo, že jeho kompulze stály v cestě hezkým dnům, které si mohli užít.\n \n **Jak se Petr rozhodl pro změnu** \n \n Po dlouhé době si s Alenou naplánovali výlet. Petr si při odchodu všiml, jak se na něj Alena podívala s unaveným výrazem. „Zase se budeme na schodech otáčet?“ zeptala se tiše.\n \n V tu chvíli Petr pocítil, jak moc jim jeho kontrolování zasahuje do vztahu. Uvědomil si, že jeho hodnota posilovat důvěru s Alenou se kvůli OCD nenaplňuje.\n \n Už několik dnů nedělal expozice. Přišlo mu, že to nemá smysl. Obsese nezmizely. Ale v tu chvíli si uvědomil, že mu na jeho vztahu záleží natolik, aby to nevzdal. Přeje si vztah, ve kterém budou oba rovnocenní a budou si užívat společný čas bez zbytečných hádek.\n \n Petr se usmál a klidným hlasem odpověděl: „Dneska ne.“\n \n Když zamkl dveře, zkontroloval zámek jen jednou a nevracel se. Úzkost byla ze začátku silná. Všiml si, jak se Alena usmívá a pocítil, že to stojí za to. Když nasedli do auta, všiml si nutkání překontrolovat její batoh, jestli v něm má klíče. Ale tentokrát se zastavil.\n \n Ten den se pro něj stal zdrojem motivace. Strávili spolu po dlouhé době hezký čas a užili si výlet. Alena mu večer dala pusu se slovy: „Vím, že jsi se dneska musel hodně hlídat. Moc si toho vážím.“\n \n Petr si na to vzpomene pokaždé, když má chuť se na expozice vykašlat. Připomene mu to, že to má smysl. Vede ho to k životu, kde takových dnů bude víc a víc."
                     }
                   ]
                 },
@@ -2545,7 +2545,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Jak Davidovi bránilo OCD naplňovat jeho hodnoty** \n \n David měl odmalička rád klid. V knihovně, kde pracoval, mu bylo vždy příjemně: ticho a pořádek. Doma toužil po obyčejných hezkých chvílích s partnerem Tomášem: sedět spolu u filmu, vařit večeři, povídat si. Jenže tyto hodnoty mu jeho vlastní mysl často upírala. \n \n Potřeba mít vše urovnané a symetrické ho často pohltila. Když Tomáš přišel domů a začal na linku vykládat nákup, David ztuhl. Místo aby si s ním povídal, začal suroviny srovnávat podle velikosti. V práci se nepřipojil ke kolegům, kteří si povídali o novém románu. Trávil přestávku pečlivým zarovnáváním papírů v kartotéce. \n \n Jeho hodnoty ustupovaly do pozadí. Místo budování vztahů s lidmi trávil čas kompulzemi. A pak přišla únava, kterou nikdo kromě něj neviděl. \n \n **Jak se David rozhodl pro změnu** \n \n David seděl s Tomášem v obýváku. Na stole ležel hrnek s uchem nakřivo. Davidovi se v břiše zvedla známá vlna napětí. Už už chtěl vstát a hrnek srovnat. Pak ale zahlédl Tomášův pohled. Nebyl vyčítavý, spíš smutný. \n \n V tu chvíli si David uvědomil, jak moc mu na Tomášovi záleží. A že pokud chce žít podle svých hodnot, chce to začít dělat věci jinak. \n \n Rozhodl se, že nechá hrnek nakřivo. A zůstane se dívat na film i přesto, že kniha v poličce mírně vyčnívá. Bylo to nepříjemné, napětí chvílemi skoro nesnesitelné. Ale zároveň přišel nový pocit, že se posouvá blíž k tomu, co je pro něj skutečně důležité. \n \n Tomáš si jeho snahy všiml. A David, i když stále zápasil s nutkáním, cítil, že tentokrát ho vede jiná síla než strach: potřeba být blízko a k někomu patřit."
+                      "content": "**Jak Davidovi bránilo OCD naplňovat jeho hodnoty** \n \n David měl odmalička rád klid. V knihovně, kde pracoval, mu bylo vždy příjemně: ticho a pořádek. Doma toužil po obyčejných hezkých chvílích s partnerem Tomášem: sedět spolu u filmu, vařit večeři, povídat si. Své hodnoty jako blízkost, sdílení s partnerem a láskyplnost nemohl pro obsese a kompulze dostatečně naplňovat. \n \n Potřeba mít vše urovnané a symetrické ho často pohltila. Když Tomáš přišel domů a začal na linku vykládat nákup, David ztuhl. Místo aby si s ním povídal, začal suroviny srovnávat podle velikosti. V práci se nepřipojil ke kolegům, kteří si povídali o novém románu. Trávil přestávku pečlivým zarovnáváním papírů v kartotéce. \n \n Jeho hodnoty ustupovaly do pozadí. Místo budování vztahů s lidmi trávil čas kompulzemi. A pak přišla únava, kterou nikdo kromě něj neviděl. \n \n **Jak se David rozhodl pro změnu** \n \n David seděl s Tomášem v obýváku. Na stole ležel hrnek s uchem nakřivo. Davidovi se v břiše zvedla známá vlna napětí. Už už chtěl vstát a hrnek srovnat. Pak ale zahlédl Tomášův pohled. Nebyl vyčítavý, spíš smutný. \n \n V tu chvíli si David uvědomil, jak moc mu na Tomášovi záleží. A že pokud chce žít podle svých hodnot, chce to začít dělat věci jinak. \n \n Rozhodl se, že nechá hrnek nakřivo. A zůstane se dívat na film i přesto, že kniha v poličce mírně vyčnívá. Bylo to nepříjemné, napětí chvílemi skoro nesnesitelné. Ale zároveň přišel nový pocit, že se posouvá blíž k tomu, co je pro něj skutečně důležité. \n \n Tomáš si jeho snahy všiml. A David, i když stále zápasil s nutkáním, cítil, že tentokrát ho vede jiná síla než strach: potřeba být blízko a k někomu patřit."
                     }
                   ]
                 },
@@ -2570,7 +2570,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Jak Kláře bránilo OCD naplňovat její hodnoty** \n \n Klára si práci zdravotní sestry vybrala proto, že ji těší pečovat o ostatní. To byla hodnota, která ji naplňovala. Jenže postupně se do jejího života vkradly vtíravé myšlenky, které všechno převrátily.  \n \n Když uviděla malé dítě, problesklo jí hlavou: „Co když jsem úchylná? Co když mu ublížím?“ Tyto myšlenky jí naháněly hrůzu, a přesto se vracely znovu a znovu. \n \n Začala se vyhýbat rodinným oslavám, kde byly děti. Nedokázala si užívat vztah s Honzou, protože se bála, že by se mohl dozvědět, co ji napadá. Toužila po upřímné lásce a důvěře, ale namísto toho mezi ně stavěla zeď mlčení a úhybů. \n \n OCD ji tlačilo do kouta. Klára se začala izolovat a často ji trápil stud a nejistota, jestli je vůbec dobrý člověk. \n \n **Jak se Klára rozhodla pro změnu**  \n \n Klára večer ležela v posteli vedle Honzy a cítila na hrudi tíhu. Nebyly to jen vtíravé myšlenky. Byl to i pocit, že ztrácí samu sebe. A právě v tu chvíli si uvědomila, že hodnoty, které ji dřív vedly, nezmizely. Jen se schovaly pod vrstvami strachu. \n \n Rozhodla se, že už nechce utíkat. Expozice si zkusila jen párkrát, a vůbec se jí do toho nechtělo. Ale najedou to viděla jinak. Už to nebylo jen o tom zbavit se obsesí. Uvědomila si, že když dostane OCD pod kontrolu, bude moct žít život podle toho, co je pro ni důležité. \n \n Prvním krokem bylo přiznat si nahlas: „Mám nepříjemné myšlenky. Ale to neznamená, že jsem špatný člověk.“ \n \n Začala se také postupně otevírat Honzovi, i když jen po malých krocích. Honza ji za myšlenky neodsuzoval. To jí dodávalo sílu nevzdávat se kontaktu s lidmi, přestože to znamenalo čelit nepříjemnému napětí. \n \n Klára věděla, že cesta nebude lehká. Ale cítila, že má na výběr."
+                      "content": "**Jak Kláře bránilo OCD naplňovat její hodnoty** \n \n Klára si práci zdravotní sestry vybrala proto, že ji těší pečovat o ostatní. To byla hodnota, která ji naplňovala. Jenže postupně se do jejího života vkradly vtíravé myšlenky, které všechno převrátily.  \n \n Když uviděla malé dítě, problesklo jí hlavou: „Co když jsem úchylná? Co když mu ublížím?“ Tyto myšlenky jí naháněly hrůzu, a přesto se vracely znovu a znovu. \n \n Začala se vyhýbat rodinným oslavám, kde byly děti. Nedokázala si užívat vztah s Honzou, protože se bála, že by se mohl dozvědět, co ji napadá. Toužila po upřímné lásce a důvěře, ale namísto toho mezi ně stavěla zeď mlčení a úhybů. \n \n OCD ji tlačilo do kouta. Klára se začala izolovat a často ji trápil stud a nejistota, jestli je vůbec dobrý člověk. \n \n **Jak se Klára rozhodla pro změnu**  \n \n Klára večer ležela v posteli vedle Honzy a cítila na hrudi tíhu. Nebyly to jen vtíravé myšlenky. Byl to i pocit, že ztrácí samu sebe. A právě v tu chvíli si uvědomila, že hodnoty, které ji dřív vedly, nezmizely. Jen se schovaly pod vrstvami strachu. Důležité hodnoty pro ni byly otevřenost a upřímnost ve vztahu, péče o druhé a pracovitost. Její obsese a vyhýbání bránily naplňování těchto hodnot.“ \n \n Rozhodla se, že už nechce utíkat. Expozice si zkusila jen párkrát, a vůbec se jí do toho nechtělo. Ale najedou to viděla jinak. Už to nebylo jen o tom zbavit se obsesí. Uvědomila si, že když dostane OCD pod kontrolu, bude moct žít život podle toho, co je pro ni důležité. \n \n Prvním krokem bylo přiznat si nahlas: „Mám nepříjemné myšlenky. Ale to neznamená, že jsem špatný člověk.“ \n \n Začala se také postupně otevírat Honzovi, i když jen po malých krocích. Honza ji za myšlenky neodsuzoval. To jí dodávalo sílu nevzdávat se kontaktu s lidmi, přestože to znamenalo čelit nepříjemnému napětí. \n \n Klára věděla, že cesta nebude lehká. Ale cítila, že má na výběr."
                     }
                   ]
                 },
@@ -2645,7 +2645,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Jak Michalovi bránilo OCD naplňovat jeho hodnoty** \n \n Michalovi záleželo na tom, aby v jeho vztahu byla důvěra, intimita a otevřenost. Jenže místo toho, aby se po boku Mirky cítil dobře, ho sužovaly vtíravé otázky. Neustále se jí ptal, jestli ho miluje, a i když ho ujišťovala, v hlavě mu stejně naskočilo: *„A co když jen říká to, co chci slyšet?“* \n \n Pochybnosti se neomezovaly jen na Mirku. Objevovaly se i opačné. *„Co když ji vlastně nemiluje? Co když je tu někdo lepší?“* Co když si vybral špatně? Myšlenky se vracely pořád dokola. Michal měl pocit, že je musí řešit, jinak se jeho vztah rozpadne. \n \n Mirka ho měla ráda, ale čím dál častěji se cítila vyslýchaná a pod tlakem. Blízkost, po které Michal toužil, se začala vytrácet. A s ní i důvěra, kterou chtěl budovat. \n \n **Jak se Michal rozhodl pro změnu** \n \n Po dlouhé době spolu šli na romantickou večeři. Michala ale znovu přepadla pochybnost, jestli ho má upřímně ráda. Nevydržel to a tiše se jí na to doptal. Mirka se jen zhluboka nadechla a odvrátila pohled. \n \n  V tu chvíli ho bodlo u srdce. Uvědomil si, že místo aby vztah chránil, ho neustálými otázkami a ujišťováním oslabuje. \n \n Napadlo ho, že jeho největší hodnota, opravdová blízkost, se nenaplňuje právě proto, že hledá jistotu tam, kde žádná úplná nikdy nebude. Rozhodl se zkusit něco jiného. Když příště přišla vtíravá myšlenka, vědomě odolal nutkání ujistit se. Úzkost byla silná, ale Michala posilovala myšlenka, že to dělá proto, aby se cítil lépe. \n \n Začal si všímat malých okamžiků: společného smíchu, Mirčina doteku, chvíle ticha u filmu. Ty mu připomínaly, že láska se žije, ne vyslýchá. A i když ho myšlenky dál pronásledovaly, postupně cítil, že to jde zvládnout. A že buduje důvěru tím, že se na otázky přestává spoléhat."
+                      "content": "**Jak Michalovi bránilo OCD naplňovat jeho hodnoty** \n \n Michalovi záleželo na tom, aby v jeho vztahu byla důvěra, intimita a otevřenost. Jenže místo toho, aby se po boku Mirky cítil dobře, ho sužovaly vtíravé otázky. Neustále se jí ptal, jestli ho miluje, a i když ho ujišťovala, v hlavě mu stejně naskočilo: *„A co když jen říká to, co chci slyšet?“* \n \n Pochybnosti se neomezovaly jen na Mirku. Objevovaly se i opačné. *„Co když ji vlastně nemiluje? Co když je tu někdo lepší?“* Co když si vybral špatně? Myšlenky se vracely pořád dokola. Michal měl pocit, že je musí řešit, jinak se jeho vztah rozpadne. \n \n Mirka ho měla ráda, ale čím dál častěji se cítila vyslýchaná a pod tlakem. Blízkost, po které Michal toužil, se začala vytrácet. A s ní i důvěra, kterou chtěl budovat. \n \n **Jak se Michal rozhodl pro změnu** \n \n Po dlouhé době spolu šli na romantickou večeři. Michala ale znovu přepadla pochybnost, jestli ho má upřímně ráda. Nevydržel to a tiše se jí na to doptal. Mirka se jen zhluboka nadechla a odvrátila pohled. \n \n  V tu chvíli ho bodlo u srdce. Uvědomil si, že místo aby vztah chránil, ho neustálými otázkami a ujišťováním oslabuje. \n \n Napadlo ho, že jeho největší hodnota, opravdová blízkost, se nenaplňuje tím, že se stále ptá Mirky nebo sám sebe, zda je jejich láska to pravé, ale tím, že pro vztah něco dělá. Rozhodl se zkusit něco jiného. Když příště přišla vtíravá myšlenka, vědomě odolal nutkání ujistit se. Místo toho udělal něco pro Mirku. Například se zeptal, zda jí může udělat čaj nebo přinést něco dobrého. Úzkost byla silná, ale Michala posilovala myšlenka, že to dělá proto, aby se cítil lépe. \n \n Začal si všímat malých okamžiků: společného smíchu, Mirčina doteku, chvíle ticha u filmu. Ty mu připomínaly, že láska se žije, ne vyslýchá. A i když ho myšlenky dál pronásledovaly, postupně cítil, že to jde zvládnout. A že buduje důvěru tím, že se na otázky přestává spoléhat."
                     }
                   ]
                 },
@@ -2788,10 +2788,10 @@
                     {
                       "type": "image",
                       "isExpandable": true,
-                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Zprava_pro_terapeuta_22d2000e96.svg",
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_1_Vyberte_si_roli_128fcb4020.svg",
                       "width": "100%",
-                      "alt": "Ruka držící dopis v obálce",
-                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Zprava_pro_terapeuta_mobile_e785e38a53.svg",
+                      "alt": "Postava dívají se do zrcadla, v odrazu drží miminko",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_1_Vyberte_si_roli_mobile_c799146a82.svg",
                       "widthMobile": "100%",
                       "align": "center"
                     },
@@ -2864,10 +2864,10 @@
                     {
                       "type": "image",
                       "isExpandable": true,
-                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Zprava_pro_terapeuta_22d2000e96.svg",
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_2_Popiste_jak_je_to_v_soucasnosti_116b71c5fb.svg",
                       "width": "100%",
-                      "alt": "Ruka držící dopis v obálce",
-                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Zprava_pro_terapeuta_mobile_e785e38a53.svg",
+                      "alt": "Postava čistící v rukavicích komodu",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_2_Popiste_jak_je_to_v_soucasnosti_mobile_78c3ae22be.svg",
                       "widthMobile": "100%",
                       "align": "center"
                     },
@@ -2903,10 +2903,10 @@
                     {
                       "type": "image",
                       "isExpandable": true,
-                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Zprava_pro_terapeuta_22d2000e96.svg",
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_3_Naplanujte_si_zmeny_41e5ea9829.svg",
                       "width": "100%",
-                      "alt": "Ruka držící dopis v obálce",
-                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Zprava_pro_terapeuta_mobile_e785e38a53.svg",
+                      "alt": "Postavička sedící na lavičce s kelímkem čaje",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_3_Naplanujte_si_zmeny_mobile_fdd6eb7ec9.svg",
                       "widthMobile": "100%",
                       "align": "center"
                     },
@@ -3006,12 +3006,12 @@
             },
             {
               "type": "video",
-              "url": "xx",
-              "captionsUrl": "xx"
+              "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/OCD_M10_19e47db1b5.mp4",
+              "captionsUrl": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/OCD_M10_ces_86e7aa2339.vtt"
             },
             {
               "type": "collapse",
-              "content": "Zaujměte pohodlnou pozici. Můžete sedět nebo ležet… Nechte své tělo uvolnit… Dovolte si na chvíli nic nedělat… jen být. \n \n Zaměřte pozornost na svůj dech. Nechte jej plynout volně… bez úsilí. Vnímejte, jak se s nádechem tělo lehce zvedá… a s výdechem klesá. Není třeba nic měnit… jen pozorujte. \n \n Dech je kotva… která vás drží tady a teď. V bezpečí… v prostoru, kde můžete spočinout.  \n \n Představte si, že stojíte na vrcholu kopce. Pod vámi se rozprostírá krajina vašeho života. Cesty, kterými jste šli… i ty, které vás teprve čekají. \n \n Zeptejte se sami sebe jemně a bez hodnocení: Na čem mi v životě opravdu záleží? Kým chci být, nejen pro druhé, ale i sám pro sebe? \n \n Možná se vám vybaví slovo… obraz… situace… člověk… Nechte to přijít. A klidně jen vnímejte, aniž byste to analyzovali. Co vám dává smysl? \n \n Zaměřte se na jednu hodnotu, která se vám vybavila. Například: péče, svoboda, laskavost, poznání, přijetí… \n \n Vnímejte, kde v těle se tato hodnota ozývá. Je to teplo v hrudi? Jemný tlak v břiše? Klid v hlavě? Nechte tělo reagovat tak, jak potřebuje. Jen vnímejte. \n \n Představte si, jaké by bylo jednat podle této hodnoty dnes… v jedné konkrétní situaci. Jak byste mluvili? Jak byste se zachovali? Jak byste se cítili, kdybyste jednali v souladu s tím, co je pro vás důležité? \n \n Pomalu se vraťte zpět… Váš dech vás vede do přítomnosti. Do okamžiku, který máte k dispozici právě teď. Nechte si tuto hodnotu jako světlo… které vám pomůže i v těžších chvílích. Nemusíte být dokonalí. Stačí se znovu a znovu vracet k tomu, co má pro vás smysl. \n \n Až budete připraveni, otevřete oči… a vraťte se zpět – jemně, s vědomím, že hodnoty nejsou cílem, ale směrem, kterým kráčíte.",
+              "content": "Zaujměte pohodlnou pozici. Můžete sedět nebo ležet. Nechte své tělo uvolnit. Dovolte si na chvíli nic nedělat. Jen být. \n \n Zaměřte pozornost na svůj dech. Nechte jej plynout volně. Bez úsilí. Vnímejte, jak se s nádechem tělo lehce zvedá a s výdechem klesá. Není třeba nic měnit. Jen pozorujte. \n \n Dech je kotva, která vás drží tady a teď. V bezpečí, v prostoru, kde můžete spočinout.  \n \n Představte si, že stojíte na vrcholu kopce. Pod vámi se rozprostírá krajina vašeho života. Cesty, kterými jste šli, i ty, které vás teprve čekají. \n \n Zeptejte se sami sebe jemně a bez hodnocení: na čem mi v životě opravdu záleží? Kým chci být, nejen pro druhé, ale i sám pro sebe? \n \n Možná se vám vybaví slovo, obraz, situace, člověk. Nechte to přijít. A klidně jen vnímejte, aniž byste to analyzovali. \n \n Zaměřte se na jednu hodnotu, která se vám vybavila. Například: péče, svoboda, laskavost, poznání, přijetí. \n \n Vnímejte, kde v těle se tato hodnota ozývá. Je to teplo v hrudi? Jemný tlak v břiše? Klid v hlavě? Nechte tělo reagovat tak, jak potřebuje. Jen vnímejte. \n \n Představte si, jaké by bylo jednat podle této hodnoty dnes, v jedné konkrétní situaci. Jak byste mluvili? Jak byste se zachovali? Jak byste se cítili, kdybyste jednali v souladu s tím, co je pro vás důležité? \n \n Pomalu se vraťte zpět. Váš dech vás vede do přítomnosti. Do okamžiku, který máte k dispozici právě teď. Nechte si tuto hodnotu jako světlo, které vám pomůže i v těžších chvílích. Nemusíte být dokonalí. Stačí se znovu a znovu vracet k tomu, co má pro vás smysl. \n \n Až budete připraveni, otevřete oči a vraťte se zpět, s vědomím, že hodnoty nejsou cílem, ale směrem, kterým jdete.",
               "title": "Radši si přečtu"
             }
           ]
@@ -3026,14 +3026,14 @@
             },
             {
               "type": "audio",
-              "audioSrc": "xx",
+              "audioSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Bonusovy_pribeh_M10_bbf35ced69.wav",
               "title": "Bonusový příběh",
-              "imageSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Bonusovy_pribeh_ec60cb6d82.svg"
+              "imageSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Bonusovy_pribeh_c527932051.svg"
             },
             {
               "type": "collapse",
-              "content": "xx",
-              "title": "Radši si přečtu"
+              "title": "Radši si přečtu",
+              "content": "**VYPRAVĚČ:** Eva sedí u kuchyňského stolu. V hrnku před sebou má čaj, který už dávno vystydl. Venku je šero a kapky deště bubnují na okenní parapet. Na displeji telefonu svítí jméno: Vašek. Eva se na obrazovku chvíli dívá, prsty nad klávesnicí. Chce napsat zprávu, jen pár slov. Ale v hlavě se jí ozývá známý hlas: „Neobtěžuj ho. Stejně to nepochopí. Bude si myslet, že jsi přecitlivělá.“ \n \n Eva vzpomíná na dětství: \n \n **MATKA:** Když budeš zlobit, nebude tě mít nikdo rád. Nikdo nestojí o holku, co fňuká. \n \n **VYPRAVĚČ:** Eva se od dětství učila potlačovat, co cítí. Neříkat, že jí něco vadí. Nepřiznat, že má strach. Vždycky být ta silná a nenáročná. A tak mlčela… i když se jí v hlavě honily temné myšlenky a v těle se hromadilo napětí. Ten večer zazvonil telefon. Volala kamarádka Kája. \n \n **KÁJA:** Evi, dneska jsi nějak potichu. Co se děje? \n \n **EVA:** Nevím… mám pocit, že bych měla všechno zvládnout sama. A že když řeknu Vaškovi o pomoc, tak ho tím akorát budu otravovat. \n \n **KÁJA:** Evi, to je jen strach. To není pravda. Ty máš právo říct, co potřebuješ. A jestli tě má rád, tak to vezme. \n \n **VYPRAVĚČ:** Eva chvíli mlčela. V břiše cítila těžký kámen, ale v srdci i malou jiskru. Co kdyby… tentokrát ten hlas v hlavě neposlechla? \n \n **KÁJA:** Zkus mu to říct úplně jednoduše. Nepotřebuješ vysvětlovat všechno. Stačí jedna věta. Řekni třeba: Potřebuju, abys mě teď jen držel za ruku. \n \n **VYPRAVĚČ:** Eva si v duchu zopakovala slova, která zněla cize, ale pravdivě. Otevřela zprávy a napsala: \n \n **EVA:** Vašku, dneska mám těžký den. Potřebovala bych, abys mi byl večer nablízku. Nemusíme o tom mluvit. \n \n **VYPRAVĚČ:** Stiskla „odeslat“. Srdce jí bušilo. O pár minut později přišla odpověď: „Rozumím. Budu doma v sedm. Uděláme si čaj a pustíme si film.“ Večer Evina úzkost úplně nezmizela. Ale necítila se sama. Seděli s Vaškem na gauči, pili čaj a drželi se za ruce. Nebylo to dokonalé. Ale bylo to hezké. Když šla spát, otevřela si deník a napsala: \n \n **EVA:** Říct si o pomoc a sdílet těžké věci není známka slabosti. Ukazuje to, že si dovolím být ve vztahu taková, jaká jsem. A v takovém vztahu se dýchá líp."
             }
           ]
         },

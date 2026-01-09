@@ -211,7 +211,7 @@
             },
             {
               "type": "markdown",
-              "content": "Někdy se můžeme cítit zahlceně, když **čelíme problémům**. Některé se mohou zdát neřešitelné. V tomto modulu se proto zaměříme na **systematický přístup** k řešení problémů. Ukážeme si užitečnou metodu sedmi kroků. \n \n **Metoda sedmi kroků** je praktický a ověřený nástroj, který pomáhá řešit běžné životní situace i složitější problémy. Získáváme lepší **přehled**, vnitřní **klid** a chuť se pustit do řešení. Lidem s OCD pomáhá nenechat úzkost, nutkání a kompulze převzít kontrolu a místo toho řešit problémy s **jasnou hlavou a cíleně.**"
+              "content": "Někdy se můžeme cítit zahlceně, když **čelíme problémům**. Některé se mohou zdát neřešitelné. V tomto modulu se proto zaměříme na **systematický přístup** k řešení problémů. Ukážeme si užitečnou metodu sedmi kroků. \n \n **Metoda sedmi kroků** je praktický a ověřený nástroj, který pomáhá řešit běžné životní situace i složitější problémy. Získáváme lepší **přehled**, vnitřní **klid** a chuť se pustit do řešení. Lidem s OCD pomáhá, když se nenechají řídit obsesemi a úzkostí, ale řeší problémy **cíleně a s jasnou hlavou.**"
             },
             {
               "type": "markdown",
@@ -1084,7 +1084,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Eva** \n \n V následujících dvou týdnech chci alespoň ve třech situacích odmítnout nový úkol nebo žádost o pomoc, pokud už mám plný rozvrh. Chci to udělat s respektem, ale jasně a bez pocitu viny. Po každém takovém rozhovoru si zapíšu, jak jsem se cítila, co mi pomohlo to zvládnout a jaký to mělo dopad na můj čas a energii."
+                      "content": "**Eva** \n \n V následujících dvou týdnech chci alespoň ve třech situacích odmítnout nový úkol nebo žádost o pomoc, pokud už mám plný rozvrh. Chci to udělat s respektem, jasně a bez projevů agrese. Po každém takovém rozhovoru si zapíšu, jak jsem se cítila, co mi pomohlo to zvládnout a jaký to mělo dopad na můj čas a energii."
                     }
                   ]
                 },
@@ -1659,7 +1659,7 @@
                   "title": "Nápad",
                   "content": "Můj nápad"
                 },
-                "cardsLimit": 5,
+                "cardsLimit": 10,
                 "buttonLabel": "Přidat další",
                 "required": false,
                 "markdownContent": "**Nyní sepište všechny nápady na řešení, včetně těch neobvyklých. Zatím je nehodnoťte podle realističnosti, jde o to nechat volný průchod fantazii.**"
@@ -1893,7 +1893,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Lukáš** \n \n **1. Napsat si dopředu větu, kterou použiju, když budu říkat cenu, třeba: „Tohle je moje standardní sazba, která odpovídá rozsahu práce.“** \n \n Pro: Pomůže mi být připravený a nevyjednávat automaticky pod cenu. \n \n Proti: Může to působit strojeně, když to zopakuju přesně takhle. \n \n **2. Zhluboka se nadechnout, než odpovím, a neříkat hned „můžeme se domluvit“ jen ze zvyku.** \n \n Pro: Dá mi to čas zpracovat emoce a mluvit klidně a sebejistě. \n \n Proti: Obávám se, že zákazník bude netrpělivý a já se zakuckám. \n \n **3. Mít v hlavě, kolik peněz potřebuji měsíčně, abych se neuvolnil pod hranici.** \n \n Pro: Pomáhá mi stanovit hranici a hlídat si finance. \n \n Proti: Může to zvýšit vnitřní tlak a pocit viny, když někdy budu muset udělat kompromis. \n \n **4. Zavolat kamarádovi, co podniká, a probrat s ním, jak zvládá upomínky.** \n \n Pro: Může mi poradit a povzbudit. Budu se cítit jistější. \n \n Proti: Jeho zkušenosti nemusí přesně sedět na můj styl práce. \n \n **5. Napsat upomínky ve stylu „Pokud nezaplatíte, přijdete o elektřinu.“** \n \n Pro: Může zákazníky motivovat k platbě. \n \n Proti: Může působit agresivně a ohrozit vztahy s klienty. \n \n **6. Modlit se před každým telefonátem, ať mě Bůh podrží v klidu.** \n \n Pro: Pomůže mi uklidnit nervy a dodat pocit opory. \n \n Proti: Může se z toho stát další rituál. Modlitby nechci snímat jako kompulze. \n \n **7. Pustit si tvrdou hudbu před telefonátem, ať se „nakopnu“.** \n \n Pro: Dodá mi to odvahu a energii do rozhovoru. \n \n Proti: Může mě to rozptýlit a spíš nabudit na nervozitu. Nebo to nemusí mít žádný efekt."
+                      "content": "**Lukáš** \n \n **1. Napsat si dopředu větu, kterou použiju, když budu říkat cenu, třeba: „Tohle je moje standardní sazba, která odpovídá rozsahu práce.“** \n \n Pro: Pomůže mi být připravený a nevyjednávat automaticky pod cenu. \n \n Proti: Může to působit strojeně, když to zopakuju přesně takhle. \n \n **2. Zhluboka se nadechnout, než odpovím, a neříkat hned „můžeme se domluvit“ jen ze zvyku.** \n \n Pro: Dá mi to čas zpracovat emoce a mluvit klidně a sebejistě. \n \n Proti: Obávám se, že zákazník bude netrpělivý a já se zakuckám. \n \n **3. Mít na mysli, kolik peněz potřebuji měsíčně vydělat, abych neustoupil pod potřebnou hranici.** \n \n Pro: Pomáhá mi stanovit hranici a hlídat si finance. \n \n Proti: Může to zvýšit vnitřní tlak a pocit viny, když někdy budu muset udělat kompromis. \n \n **4. Zavolat kamarádovi, co podniká, a probrat s ním, jak zvládá upomínky.** \n \n Pro: Může mi poradit a povzbudit. Budu se cítit jistější. \n \n Proti: Jeho zkušenosti nemusí přesně sedět na můj styl práce. \n \n **5. Napsat upomínky ve stylu „Pokud nezaplatíte, přijdete o elektřinu.“** \n \n Pro: Může zákazníky motivovat k platbě. \n \n Proti: Může působit agresivně a ohrozit vztahy s klienty. \n \n **6. Modlit se před každým telefonátem, ať mě Bůh podrží v klidu.** \n \n Pro: Pomůže mi uklidnit nervy a dodat pocit opory. \n \n Proti: Může se z toho stát další rituál. Modlitby nechci používat jako kompulze. \n \n **7. Pustit si před telefonátem rockovou hudbu, ať se „nakopnu“.** \n \n Pro: Dodá mi to odvahu a energii do rozhovoru. \n \n Proti: Může mě to rozptýlit a spíš nabudit na nervozitu. Nebo to nemusí mít žádný efekt."
                     }
                   ]
                 },
@@ -3058,12 +3058,12 @@
             },
             {
               "type": "video",
-              "url": "xx",
-              "captionsUrl": "xx"
+              "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/OCD_M9_e599e34de4.mp4",
+              "captionsUrl": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/OCD_M9_ces_0c23c11401.vtt"
             },
             {
               "type": "collapse",
-              "content": "Zavřete oči a na chvíli se zastavte. Zhluboka se nadechněte… A pomalu vydechněte. Nechte vše kolem ustoupit do pozadí. Teď jste tu jen vy. A před vámi je vaše cesta ke změně. \n \n Představte si, že stojíte na jejím začátku. Možná cítíte trochu nejistoty, možná i naději. To je v pořádku. Každá změna začíná malým rozhodnutím zkusit to jinak. \n \n Podívejte se před sebe. Vidíte svůj plán. Je to mapa, kterou jste si připravili. Na mapě jsou kroky, které vás povedou k cíli. Ke klidu, svobodě a důvěře v sebe. \n \n Připravujete se na první krok. Je malý, ale důležitý. A vy víte, že ho zvládnete. \n \n Teď si představte, že ho opravdu děláte. Možná cítíte trochu napětí. To je přirozené. Ale pod napětím je i něco jiného: odhodlání. Máte ho v sobě. Je to síla, kterou jste už využili, i když jste o ní pochybovali. \n \n Nechte ten pocit síly rozlít do celého těla. Dýchejte klidně. Vnímejte, že se můžete o sebe opřít. \n \n Až otevřete oči, můžete si říct: „Jsem připravený udělat první krok. Nemusí být dokonalý. Důležité je, že ho udělám.“",
+              "content": "Zavřete oči a na chvíli se zastavte. Zhluboka se nadechněte… A pomalu vydechněte. Nechte vše kolem ustoupit do pozadí. Teď jste tu jen vy. A před vámi je vaše cesta ke změně. \n \n Představte si, že stojíte na jejím začátku. Možná cítíte trochu nejistoty, možná i naději. Každá změna začíná malým rozhodnutím zkusit to jinak. \n \n Podívejte se před sebe. Vidíte svůj plán. Je to mapa, kterou jste si připravili. Na mapě jsou kroky, které vás povedou k cíli. Ke klidu, svobodě a důvěře v sebe.  \n \n Připravujete se na první krok. Je malý, ale důležitý. A vy víte, že ho zvládnete. \n \n Teď si představte, že ho opravdu děláte. Možná cítíte trochu napětí. To je přirozené. Ale pod napětím je i něco jiného: odhodlání. Máte ho v sobě. Je to síla, kterou jste už využili, i když jste o ní pochybovali. \n \n Nechte ten pocit síly rozlít do celého těla. Dýchejte klidně. Vnímejte, že se můžete o sebe opřít. \n \n Až otevřete oči, můžete si říct: „Jsem připravený udělat první krok. Nemusí být dokonalý. Důležité je, že ho udělám.“",
               "title": "Radši si přečtu"
             }
           ]
@@ -3078,13 +3078,13 @@
             },
             {
               "type": "audio",
-              "audioSrc": "xx",
+              "audioSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/M9_Bonusovy_pribeh_acd5d6787f.wav",
               "title": "Bonusový příběh",
               "imageSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Bonusovy_pribeh_8e0e45053d.svg"
             },
             {
               "type": "collapse",
-              "content": "xx",
+              "content": "**VYPRAVĚČ:** Klára stála u dřezu a dívala se na hromadu nádobí. Honza hrál v obýváku videohru. V hlavě se jí začala pomalu rozjíždět známá smyčka. \n \n **KLÁRA:** Zase to zůstalo na mně. To snad není možný. Proč musím pořád všechno dělat sama? \n \n **VYPRAVĚČ:** Cítila, jak se jí napínají ramena. Jak se slova tlačí ven. Ostrá, rychlá. Ale tentokrát si vzpomněla na svůj plán. Na větu, kterou si napsala na malou kartičku. \n \n **KLÁRA:** Potřebuju chvíli, abych se zklidnila. \n \n **VYPRAVĚČ:** Nadechla se. A ještě jednou. Z hluboka. Položila houbičku a šla do ložnice. Chvíli jen seděla a poslouchala svůj dech. Napila se vody. Srdce jí ještě bušilo, ale už pomaleji. V hlavě zůstalo ticho. Pak přišla do obýváku. Honza zvedl oči od konzole. \n \n **HONZA:** Jsi v pohodě? \n \n **KLÁRA:** Jsem. Jen bych s tebou chtěla něco probrat. Ale nechci se hádat. Chtěla bych to tentokrát vyřešit jinak. Naštvalo mě, že jsi neumyl nádobí. Mám pocit, že všechno visí na mně.  \n \n **VYPRAVĚČ:** Řekla to jednoduše. Ale jinak, než obvykle. Bez výčitek. Bez křiku. \n \n **HONZA:** Aha… promiň, neuvědomil jsem si to. Jdu na to. Díky, žes mi to řekla v klidu. \n \n **VYPRAVĚČ:** Klára přikývla. Nebylo to dokonalé, ale bylo to jiné. Poprvé měla pocit, že se nenechala unést silnými emocemi. A že se nenechala strhnout zvykem. Večer si do deníku napsala pár vět: \n \n **KLÁRA:** Zvládla jsem to. Nenechala jsem se ovládnout vztekem. A Honza to vzal v pohodě. \n \n **VYPRAVĚČ:** Byl to první pokus z Klářina plánu. Večer, když zhasla světlo, měla pocit, že už udělala víc než jen zapsat cíl do aplikace. Udělala první krok ke klidu, který si umí vytvořit sama.",
               "title": "Radši si přečtu"
             }
           ]

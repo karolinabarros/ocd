@@ -781,7 +781,7 @@
               "type": "pictureAndMarkdown",
               "items": [
                 {
-                  "content": "**Bezpečí** \n \n Připomeňte si momenty, kdy jste se cítili v bezpečí, třeba když jste zvládli úzkost bez kompulze, nebo jste si dovolili odpočinout. \n \n „Děkuji si, že jsem to vydržel/a, i když bylo těžké to vydržet.“",
+                  "content": "**Bezpečí** \n \n Připomeňte si momenty, kdy jste se cítili v bezpečí, třeba když jste zvládli napětí nebo úzkost bez kompulze, nebo jste si dovolili odpočinout. Například: \n \n „Děkuji si, že jsem to vydržel/a, i když bylo těžké to vydržet.“",
                   "isReversed": false,
                   "direction": "row",
                   "gutter": 24,
@@ -798,7 +798,7 @@
               "type": "pictureAndMarkdown",
               "items": [
                 {
-                  "content": "**Přijetí** \n \n Připomeňte si okamžiky, kdy jste se přijali takoví, jací jste. Třeba když jste zvládli těžkou situaci bez tvrdé sebekritiky, nebo když jste si dovolili být sami sebou, i když to nebylo perfektní. \n \n „Jsem rád, že jsem mámě vysvětlil, že mám OCD. Nebylo to perfektní, ale netrestal jsem se za to.“",
+                  "content": "**Přijetí** \n \n Připomeňte si okamžiky, kdy jste se přijali takoví, jací jste. Třeba když jste zvládli těžkou situaci bez tvrdé sebekritiky. Například: \n \n „Jsem rád, že jsem mámě vysvětlil, že mám OCD. Nebylo to perfektní, ale netrestal jsem se za to.“",
                   "isReversed": false,
                   "direction": "row",
                   "gutter": 24,
@@ -815,7 +815,7 @@
               "type": "pictureAndMarkdown",
               "items": [
                 {
-                  "content": "**Ocenění** \n \n Pojmenujte konkrétní úspěchy, i ty malé. OCD často zneviditelňuje pokrok, proto si ho napište černé na bílé. \n \n „Jsem ráda, že jsem šla na návštěvu ke Karlovi a Zuzce, i když jsem se toho bála.“",
+                  "content": "**Ocenění** \n \n Pojmenujte konkrétní úspěchy, i ty malé. OCD často zneviditelňuje pokrok, proto si ho napište černé na bílé. Například: \n \n „Jsem ráda, že jsem šla na návštěvu ke Karlovi a Zuzce, i když jsem se toho bála.“",
                   "isReversed": false,
                   "direction": "row",
                   "gutter": 24,
@@ -832,7 +832,7 @@
               "type": "pictureAndMarkdown",
               "items": [
                 {
-                  "content": "**Autonomie** \n \n Zapište si situace, kdy jste jednali samostatně, nepodlehli nátlaku Kritika nebo druhých a respektovali potřeby sebe i ostatních. \n \n „Bylo odvážné, že jsem na poradě řekla, co potřebuji, a zároveň jsem naslouchala týmu.“",
+                  "content": "**Autonomie** \n \n Zapište si situace, kdy jste jednali samostatně, nepodlehli nátlaku Kritika nebo druhých a respektovali potřeby sebe i ostatních. Například: \n \n „Bylo odvážné, že jsem na poradě řekla, co potřebuji, a zároveň jsem naslouchala týmu.“",
                   "isReversed": false,
                   "direction": "row",
                   "gutter": 24,
@@ -865,7 +865,7 @@
           ]
         },
         {
-          "title": "Příběhy",
+          "title": "Dopisy našich hrdinů",
           "icon": "Story",
           "contentSections": [
             {

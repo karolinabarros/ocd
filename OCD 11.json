@@ -215,15 +215,15 @@
                 {
                   "id": "ViciusCircle",
                   "title": "Bludný kruh OCD",
-                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Pozitivni_metakognice_icon_92e5c16251.svg",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Bludny_kruh_OCD_ikona_9fbd17ecad.svg",
                   "contentCard": [
                     {
                       "type": "image",
                       "isExpandable": false,
-                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Pozitivni_metakognice_342e14d5bf.svg",
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Bludny_kruh_OCD_7deb7da463.svg",
                       "width": "100%",
-                      "alt": "Postava čistící nábytek s myšlenkami o bakteriích a virech",
-                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Pozitivni_metakognice_mobile_eeefd76411.svg",
+                      "alt": "Smyčka myšlenek, nutkání a kompulzí",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Bludny_kruh_OCD_mobile_67a7acfca4.svg",
                       "widthMobile": "100%",
                       "align": "center",
                       "unoptimized": true
@@ -261,15 +261,15 @@
                 {
                   "id": "Detachment",
                   "title": "Odstup od myšlenek",
-                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Pozitivni_metakognice_icon_92e5c16251.svg",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Odstup_od_myslenek_ikona_4d6ec1a384.svg",
                   "contentCard": [
                     {
                       "type": "image",
                       "isExpandable": false,
-                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Pozitivni_metakognice_342e14d5bf.svg",
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Odstup_od_myslenek_344756e52f.svg",
                       "width": "100%",
-                      "alt": "Postava čistící nábytek s myšlenkami o bakteriích a virech",
-                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Pozitivni_metakognice_mobile_eeefd76411.svg",
+                      "alt": "Postava na pohovce s hrnkem čaje, která přemýšlí o možné automobilové nehodě",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Odstup_od_myslenek_mobile_323707cd98.svg",
                       "widthMobile": "100%",
                       "align": "center",
                       "unoptimized": true
@@ -319,15 +319,15 @@
                 {
                   "id": "Exposures",
                   "title": "Expozice se zábranou odpovědi",
-                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Pozitivni_metakognice_icon_92e5c16251.svg",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Expozice_se_zabranou_odpovedi_ikona_2c5ae04cef.svg",
                   "contentCard": [
                     {
                       "type": "image",
                       "isExpandable": false,
-                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Pozitivni_metakognice_342e14d5bf.svg",
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Expozice_se_zabranou_odpovedi_2e1e8b0a68.svg",
                       "width": "100%",
-                      "alt": "Postava čistící nábytek s myšlenkami o bakteriích a virech",
-                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Pozitivni_metakognice_mobile_eeefd76411.svg",
+                      "alt": "Nůžky přestřihávající papír s nápisem kompulze",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Expozice_se_zabranou_odpovedi_mobile_67b3a9149f.svg",
                       "widthMobile": "100%",
                       "align": "center",
                       "unoptimized": true
@@ -377,15 +377,15 @@
                 {
                   "id": "NiceActivities",
                   "title": "Příjemné aktivity",
-                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Pozitivni_metakognice_icon_92e5c16251.svg",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Prijemne_aktivity_ikona_687847dea8.svg",
                   "contentCard": [
                     {
                       "type": "image",
                       "isExpandable": false,
-                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Pozitivni_metakognice_342e14d5bf.svg",
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Prijemne_aktivity_32656e0aec.svg",
                       "width": "100%",
-                      "alt": "Postava čistící nábytek s myšlenkami o bakteriích a virech",
-                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Pozitivni_metakognice_mobile_eeefd76411.svg",
+                      "alt": "Postava sedící na baru v kavárně",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Prijemne_aktivity_mobile_a006d07c5d.svg",
                       "widthMobile": "100%",
                       "align": "center",
                       "unoptimized": true
@@ -435,15 +435,15 @@
                 {
                   "id": "InnerCritic",
                   "title": "Práce s vnitřním Kritikem",
-                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Pozitivni_metakognice_icon_92e5c16251.svg",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Prace_s_vnitrnim_Kritikem_ikona_ebb2b9bc58.svg",
                   "contentCard": [
                     {
                       "type": "image",
                       "isExpandable": false,
-                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Pozitivni_metakognice_342e14d5bf.svg",
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Prace_s_vnitrnim_Kritikem_22d42e2fd9.svg",
                       "width": "100%",
-                      "alt": "Postava čistící nábytek s myšlenkami o bakteriích a virech",
-                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Pozitivni_metakognice_mobile_eeefd76411.svg",
+                      "alt": "Postava, kterou kárá její vnitřní Kritik",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Prace_s_vnitrnim_Kritikem_mobile_35c60510f0.svg",
                       "widthMobile": "100%",
                       "align": "center",
                       "unoptimized": true
@@ -493,15 +493,15 @@
                 {
                   "id": "Communication",
                   "title": "Komunikace",
-                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Pozitivni_metakognice_icon_92e5c16251.svg",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Komunikace_ikona_78ffe54b47.svg",
                   "contentCard": [
                     {
                       "type": "image",
                       "isExpandable": false,
-                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Pozitivni_metakognice_342e14d5bf.svg",
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Komunikace_168a64c6b0.svg",
                       "width": "100%",
-                      "alt": "Postava čistící nábytek s myšlenkami o bakteriích a virech",
-                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Pozitivni_metakognice_mobile_eeefd76411.svg",
+                      "alt": "Dvě postavy, jedna se dívá do mobilu a druhá se dívá na ní s nervozním výrazem tváře",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Komunikace_mobile_9b7e0067a2.svg",
                       "widthMobile": "100%",
                       "align": "center",
                       "unoptimized": true
@@ -551,15 +551,15 @@
                 {
                   "id": "SystematicProblemSolving",
                   "title": "Systematické řešení problémů",
-                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Pozitivni_metakognice_icon_92e5c16251.svg",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Systematicke_reseni_problemu_ikona_3dd70a7d9d.svg",
                   "contentCard": [
                     {
                       "type": "image",
                       "isExpandable": false,
-                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Pozitivni_metakognice_342e14d5bf.svg",
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Systematicke_reseni_problemu_89b0448ca4.svg",
                       "width": "100%",
-                      "alt": "Postava čistící nábytek s myšlenkami o bakteriích a virech",
-                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Pozitivni_metakognice_mobile_eeefd76411.svg",
+                      "alt": "Postava běžící k cíli",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Systematicke_reseni_problemu_89b0448ca4.svg",
                       "widthMobile": "100%",
                       "align": "center",
                       "unoptimized": true
@@ -609,15 +609,15 @@
                 {
                   "id": "ValuesAndRoles",
                   "title": "Hodnoty a životní role",
-                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Pozitivni_metakognice_icon_92e5c16251.svg",
+                  "picture": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Hodnoty_a_zivotni_role_ikona_32a8af01a4.svg",
                   "contentCard": [
                     {
                       "type": "image",
                       "isExpandable": false,
-                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Pozitivni_metakognice_342e14d5bf.svg",
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Hodnoty_a_zivotni_role_60302418b9.svg",
                       "width": "100%",
-                      "alt": "Postava čistící nábytek s myšlenkami o bakteriích a virech",
-                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Pozitivni_metakognice_mobile_eeefd76411.svg",
+                      "alt": "Kartičky s hodnotami jako vztahy, práce a volný čas",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Hodnoty_a_zivotni_role_mobile_fe7e861fc7.svg",
                       "widthMobile": "100%",
                       "align": "center",
                       "unoptimized": true
@@ -683,10 +683,10 @@
             {
               "type": "image",
               "isExpandable": true,
-              "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Zprava_pro_terapeuta_22d2000e96.svg",
+              "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/v_4a7684807d.svg",
               "width": "100%",
               "alt": "Ruka držící dopis v obálce",
-              "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Zprava_pro_terapeuta_mobile_e785e38a53.svg",
+              "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Oblasti_programu_mobile_ffc7df8a79.svg",
               "widthMobile": "100%",
               "align": "center"
             },
@@ -760,7 +760,7 @@
               "type": "audio",
               "title": "Sebeocenění",
               "audioSrc": "xx",
-              "imageSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jak_na_Kritika_jinak_6ca5e186f0.svg"
+              "imageSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Group_27281_8e6e88087a.svg"
             },
             {
               "type": "collapse",
@@ -785,11 +785,11 @@
                   "isReversed": false,
                   "direction": "row",
                   "gutter": 24,
-                  "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_1_Vsimejte_si_jak_se_citite_535266e9a7.svg",
-                  "width": "180px",
-                  "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_1_Vsimejte_si_jak_se_citite_mobile_6936474b78.svg",
+                  "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Bezpeci_598db0c501.svg",
+                  "width": "130px",
+                  "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Bezpeci_mobile_a70217d360.svg",
                   "widthMobile": "100%",
-                  "alt": "Postava držící balónky s otazníky",
+                  "alt": "Zámek s klíčem",
                   "isExpandable": false
                 }
               ]
@@ -802,11 +802,11 @@
                   "isReversed": false,
                   "direction": "row",
                   "gutter": 24,
-                  "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_1_Vsimejte_si_jak_se_citite_535266e9a7.svg",
-                  "width": "180px",
-                  "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_1_Vsimejte_si_jak_se_citite_mobile_6936474b78.svg",
+                  "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Prijeti_32aef379d5.svg",
+                  "width": "130px",
+                  "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Prijeti_mobile_d26f0b50d4.svg",
                   "widthMobile": "100%",
-                  "alt": "Postava držící balónky s otazníky",
+                  "alt": "Ruční zrcátko",
                   "isExpandable": false
                 }
               ]
@@ -819,11 +819,11 @@
                   "isReversed": false,
                   "direction": "row",
                   "gutter": 24,
-                  "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_1_Vsimejte_si_jak_se_citite_535266e9a7.svg",
-                  "width": "180px",
-                  "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_1_Vsimejte_si_jak_se_citite_mobile_6936474b78.svg",
+                  "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Oceneni_68c24957f3.svg",
+                  "width": "130px",
+                  "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Oceneni_mobile_e27480ad53.svg",
                   "widthMobile": "100%",
-                  "alt": "Postava držící balónky s otazníky",
+                  "alt": "Zápisník s tužkou",
                   "isExpandable": false
                 }
               ]
@@ -836,11 +836,11 @@
                   "isReversed": false,
                   "direction": "row",
                   "gutter": 24,
-                  "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_1_Vsimejte_si_jak_se_citite_535266e9a7.svg",
-                  "width": "180px",
-                  "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_1_Vsimejte_si_jak_se_citite_mobile_6936474b78.svg",
+                  "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Autonomie_7939c26719.svg",
+                  "width": "130px",
+                  "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Autonomie_mobile_c1e3a357ac.svg",
                   "widthMobile": "100%",
-                  "alt": "Postava držící balónky s otazníky",
+                  "alt": "Komiksové bublinky s vykřičníky",
                   "isExpandable": false
                 }
               ]
@@ -853,11 +853,11 @@
                   "isReversed": false,
                   "direction": "row",
                   "gutter": 24,
-                  "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_1_Vsimejte_si_jak_se_citite_535266e9a7.svg",
-                  "width": "180px",
-                  "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_1_Vsimejte_si_jak_se_citite_mobile_6936474b78.svg",
+                  "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Zivot_v_souladu_s_hodnotami_ceb7a85cb1.svg",
+                  "width": "130px",
+                  "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Zivot_v_souladu_s_hodnotami_mobile_aa60a1d742.svg",
                   "widthMobile": "100%",
-                  "alt": "Postava držící balónky s otazníky",
+                  "alt": "Zvýrazněná postavička mezi jinými postavami",
                   "isExpandable": false
                 }
               ]
@@ -1142,10 +1142,10 @@
             {
               "type": "image",
               "isExpandable": false,
-              "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Prvni_cast_mate_za_hotovou_c7a701be63.svg",
+              "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Dopis_sobe_13a322dff6.svg",
               "width": "100%",
-              "alt": "Postava na začátku cesty s vlajkou s nápisem start",
-              "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Prvni_cast_mate_za_hotovou_mobile_c4eb2b9c28.svg",
+              "alt": "Ruce zapisující poznámky do sešitu",
+              "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Dopis_sobe_mobile_a9bb4cb716.svg",
               "widthMobile": "100%",
               "align": "center",
               "unoptimized": true
@@ -1281,74 +1281,94 @@
           ]
         },
         {
-          "title": "Moje cesta",
+          "title": "Moje CESTA",
           "icon": "text",
           "contentSections": [
             {
               "type": "markdown",
-              "content": "V průběhu programu jste se naučili mnoho různých **dovedností**. Teď je čas všechno spojit do jednoho **srozumitelného plánu**, který bude praktický, udržitelný a váš vlastní. \n \n Cílem je, aby se dovednosti z programu staly **přirozenou součástí vašeho života**. Nejen úkoly, které děláte během programu, ale běžnými kroky, které vám pomáhají žít svobodněji, spokojeněji a blíže vašim hodnotám. \n \n **Proč je tahle „CESTA“ důležitá?** \n \n - Bez plánu se nové dovednosti mohou postupně vytratit z každodenního života. \n \n - Pokud víte co, proč a jak chcete dělat, roste šance, že u toho zůstanete i v náročnějších obdobích. \n \n - Plán vám pomůže vytrvat, a i nadále sledovat, jak se posouváte. \n \n **A co C-E-S-T-A znamená?**"
+              "content": "**V průběhu programu** jste se naučili mnoho **dovedností**, které vám pomáhají rozumět svým myšlenkám, zvládat napětí nebo úzkost a žít podle toho, na čem opravdu záleží. \n \n Teď je čas vytvořit si vlastní **CESTU**: jednoduchý, jasný a osobní plán, který vám pomůže tyto dovednosti přirozeně a dlouhodobě přenášet do každodenního života. Cílem není dělat všechno perfektně. Cílem je **udržitelnost**, **smysl** a **malá, pravidelná rozhodnutí**, díky kterým budete žít svobodněji a blíže svým hodnotám. \n \n **Proč je vaše CESTA důležitá** \n \n Pomáhá, aby se **nové dovednosti** nevytratily. Pokud víte **co, proč a jak** chcete dělat, je snazší pokračovat i tehdy, když přijde únava nebo stres. Roste šance, že u toho zůstanete i v náročnějších obdobích. \n \n #### A co C-E-S-T-A znamená? \n"
             },
             {
               "type": "pictureAndMarkdown",
               "items": [
                 {
-                  "content": "**C - Cílená** \n \n Vyberte si oblast, ve které chcete dál růst. \n \n 💡 Příklad: „Chci dál jezdit tramvají bez kompulzí.“",
+                  "content": "**C - Cílený plán** \n \n Vyberte si oblast, ve které chcete dlouhodobě růst. Cílenost znamená, že se **nesnažíte měnit „všechno najednou“**, ale zaměřujete se na jednu konkrétní věc. \n \n Co chcete v nejbližší době udržovat nebo rozvíjet? Která situace, dovednost nebo oblast života si zaslouží vaši pozornost? \n \n 💡 Příklad: „Chci se postupně naučit chodit do práce bez vyhledávání ujištění.“",
                   "isReversed": false,
                   "direction": "row",
                   "gutter": 24,
-                  "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_1_Vsimejte_si_jak_se_citite_535266e9a7.svg",
-                  "width": "180px",
-                  "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_1_Vsimejte_si_jak_se_citite_mobile_6936474b78.svg",
+                  "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/C_Cileny_plan_006876b07d.svg",
+                  "width": "160px",
+                  "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/C_Cileny_plan_mobile_7af199b499.svg",
                   "widthMobile": "100%",
-                  "alt": "Postava držící balónky s otazníky",
+                  "alt": "Upomínky připíchnuté špendlíkem",
                   "isExpandable": false
-                },
+                }
+              ]
+            },
+            {
+              "type": "pictureAndMarkdown",
+              "items": [
                 {
-                  "content": "**E - Efektivní** \n \n Použijte postupy, které se vám osvědčily. \n \n 💡 Příklad: „Naplánuju si nějakou fajn odměnu, abych dál vydržel/a u expozic.“",
+                  "content": "**E - Efektivní plán** \n \n Využijte to, co vám v programu opravdu fungovalo. Nemusíte se snažit vymýšlet nic nového, jednodušší je **stavět na tom, co se vám už osvědčilo.** Ať jde o expozice, plánování, zaměření se na své hodnoty nebo malé odměny. \n \n 💡 Příklad: „Před náročnou situací si udělám krátkou pauzu a udělám dechové cvičení, protože mi to pomáhala zklidnit a ukotvit tělo.“",
                   "isReversed": false,
                   "direction": "row",
                   "gutter": 24,
-                  "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_1_Vsimejte_si_jak_se_citite_535266e9a7.svg",
-                  "width": "180px",
-                  "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_1_Vsimejte_si_jak_se_citite_mobile_6936474b78.svg",
+                  "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/E_Efektivni_plan_10998d5e97.svg",
+                  "width": "160px",
+                  "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/E_Efektivni_plan_mobile_f58c53e7fa.svg",
                   "widthMobile": "100%",
-                  "alt": "Postava držící balónky s otazníky",
+                  "alt": "Otisky bot",
                   "isExpandable": false
-                },
+                }
+              ]
+            },
+            {
+              "type": "pictureAndMarkdown",
+              "items": [
                 {
-                  "content": "**S - Srozumitelná** \n \n Napište si svůj plán jednoduše a konkrétně – abyste věděli i později, o co jde. \n \n 💡 Příklad: „Tramvaj č. 2, vždy v úterý a pátek.“",
+                  "content": "**S - Srozumitelný plán** \n \n Srozumitelný plán je takový, ke kterému se můžete kdykoli **vrátit, aniž byste přemýšleli, co jste tím vlastně mysleli.** Napište ho jednoduše, přehledně a konkrétně. To pomáhá překonat váhavost. \n \n Když víte přesně „kdy, kde a co“, mozek má méně prostoru pro odkládání a pochybnosti. \n \n 💡 Příklad: „Každé ráno věnuji 10 minut plánování dne, abych věděl, kdy můžu dělat expozici.“",
                   "isReversed": false,
                   "direction": "row",
                   "gutter": 24,
-                  "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_1_Vsimejte_si_jak_se_citite_535266e9a7.svg",
-                  "width": "180px",
-                  "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_1_Vsimejte_si_jak_se_citite_mobile_6936474b78.svg",
+                  "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/S_Srozumitelny_plan_61cffe4eaf.svg",
+                  "width": "160px",
+                  "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/S_Srozumitelny_plan_mobile_7688907539.svg",
                   "widthMobile": "100%",
-                  "alt": "Postava držící balónky s otazníky",
+                  "alt": "Kalendář",
                   "isExpandable": false
-                },
+                }
+              ]
+            },
+            {
+              "type": "pictureAndMarkdown",
+              "items": [
                 {
-                  "content": "**T - Trvalá** \n \n Vyberte si kroky, které se dají udržet dlouhodobě, nejen když se vám chce. \n \n 💡 Příklad: „Tři expozice týdně zůstanou součástí mého režimu.“",
+                  "content": "**T - Trvalý plán** \n \n Vyberte kroky, které se dají udržet dlouhodobě, a to nejen ve dnech, kdy máte energii. Váš **plán není sprint, ale pohodlné tempo.** Důležitější než intenzita je pravidelnost. Plán se pak stane součástí vašeho dne téměř automaticky. \n \n 💡 Příklad: „Tři expozice týdně zůstanou součástí mého režimu, i kdyby byly malé.“",
                   "isReversed": false,
                   "direction": "row",
                   "gutter": 24,
-                  "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_1_Vsimejte_si_jak_se_citite_535266e9a7.svg",
-                  "width": "180px",
-                  "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_1_Vsimejte_si_jak_se_citite_mobile_6936474b78.svg",
+                  "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/T_Trvaly_plan_892ee7c3fe.svg",
+                  "width": "160px",
+                  "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/T_Trvaly_plan_mobile_092d615675.svg",
                   "widthMobile": "100%",
-                  "alt": "Postava držící balónky s otazníky",
+                  "alt": "Hodiny",
                   "isExpandable": false
-                },
+                }
+              ]
+            },
+            {
+              "type": "pictureAndMarkdown",
+              "items": [
                 {
-                  "content": "**A - Autentická** \n \n Plán by měl odrážet vaše hodnoty a to, kým chcete být. \n \n 💡 Příklad: „Chci trávit více času s rodinou, proto volím expozice, které mi umožní být s nimi a společně si to užít.“",
+                  "content": "**A - Autentický plán** \n \n Plán má být váš. Odráží to, kým jste a kým chcete být. Vaše CESTA není postavená na tlaku nebo očekáváních druhých, ale **vychází z vašich hodnot a osobních přání.** \n \n Když je plán zakořeněný ve vašich hodnotách, je snazší u něj zůstat a zároveň se při něm cítit víc sami sebou. \n \n 💡 Příklad: „Chci mít víc prostoru na vztahy, proto trénuji překonávání situací, které mi brání chodit mezi lidi.“",
                   "isReversed": false,
                   "direction": "row",
                   "gutter": 24,
-                  "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_1_Vsimejte_si_jak_se_citite_535266e9a7.svg",
-                  "width": "180px",
-                  "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_1_Vsimejte_si_jak_se_citite_mobile_6936474b78.svg",
+                  "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/A_Autenticky_plan_78ae415ef0.svg",
+                  "width": "160px",
+                  "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/A_Autenticky_plan_mobile_61310ccfd1.svg",
                   "widthMobile": "100%",
-                  "alt": "Postava držící balónky s otazníky",
+                  "alt": "Ruce držící srdce",
                   "isExpandable": false
                 }
               ]
@@ -1635,50 +1655,32 @@
               "content": "Níže si můžete vyplnit plán své vlastní **CESTY**. Vyberte si oblast, kde chcete udržet nebo posílit svůj pokrok. Vypište si **konkrétní kroky**, co uděláte, kdy se do toho pustíte a jak často to budete opakovat. Poté si zapište, podle čeho poznáte, že se to **daří** (např. „dokončím expozici bez kompulze“ nebo „budu trávit více času s rodinou“)."
             },
             {
-              "type": "note",
-              "title": "**Oblast, kde si chci udržet nebo posílit svůj pokrok**",
-              "placeholder": "Např. komunikace s partnerem",
-              "rows": 1,
-              "maxLength": 150,
-              "lengthValidationMessage": "Maximální délka odpovědi je 150 znaků.",
-              "required": true
-            },
-            {
               "type": "stepByStep",
               "required": true,
               "steps": [
                 {
-                  "title": "Krok 1: C - Cílená",
+                  "title": "Krok 1: C - Cílený plán",
                   "contentSections": [
                     {
                       "type": "image",
                       "isExpandable": false,
-                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Modul_dokoncen_1785f55c82.svg",
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Moje_cesta_krok_1_916b0403f5.svg",
                       "width": "100%",
-                      "alt": "Postava pouštějící papírovou vlaštovku",
-                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Modul_dokoncen_mobile_00b1a7904d.svg",
+                      "alt": "Cesta k hoře s praporkem na vrcholu",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Moje_cesta_krok_1_mobile_1384ac078d.svg",
                       "widthMobile": "100%",
                       "align": "center",
                       "unoptimized": false
                     },
                     {
                       "type": "markdown",
-                      "content": "Vyberte si jasný směr (oblast nebo situaci), ve které chcete dál růst."
+                      "content": "Vyberte si jasnou oblast nebo situaci, ve které chcete dál růst."
                     },
                     {
                       "type": "note",
-                      "title": "**Konkrétní kroky:**",
-                      "placeholder": "Moje konkrétní kroky...",
-                      "rows": 2,
-                      "maxLength": 250,
-                      "lengthValidationMessage": "Maximální délka odpovědi je 250 znaků.",
-                      "required": false
-                    },
-                    {
-                      "type": "note",
-                      "title": "**Jak poznám, že se to daří:**",
-                      "placeholder": "Znaky úspěchu...",
-                      "rows": 2,
+                      "title": "**Oblast, kde si chci udržet nebo posílit svůj pokrok:**",
+                      "placeholder": "Životní oblast...",
+                      "rows": 1,
                       "maxLength": 250,
                       "lengthValidationMessage": "Maximální délka odpovědi je 250 znaků.",
                       "required": false
@@ -1686,15 +1688,15 @@
                   ]
                 },
                 {
-                  "title": "Krok 2: E - Efektivní",
+                  "title": "Krok 2: E - Efektivní plán",
                   "contentSections": [
                     {
                       "type": "image",
                       "isExpandable": false,
-                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Modul_dokoncen_1785f55c82.svg",
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Moje_cesta_krok_2_5602aa60cd.svg",
                       "width": "100%",
-                      "alt": "Postava pouštějící papírovou vlaštovku",
-                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Modul_dokoncen_mobile_00b1a7904d.svg",
+                      "alt": "Postava plánující postupné kroky k úspěchu",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Moje_cesta_krok_2_mobile_6819127dcb.svg",
                       "widthMobile": "100%",
                       "align": "center",
                       "unoptimized": false
@@ -1705,17 +1707,8 @@
                     },
                     {
                       "type": "note",
-                      "title": "**Konkrétní kroky:**",
+                      "title": "**Konkrétní kroky a metody:**",
                       "placeholder": "Moje konkrétní kroky...",
-                      "rows": 2,
-                      "maxLength": 250,
-                      "lengthValidationMessage": "Maximální délka odpovědi je 250 znaků.",
-                      "required": false
-                    },
-                    {
-                      "type": "note",
-                      "title": "**Jak poznám, že se to daří:**",
-                      "placeholder": "Znaky úspěchu...",
                       "rows": 2,
                       "maxLength": 250,
                       "lengthValidationMessage": "Maximální délka odpovědi je 250 znaků.",
@@ -1724,36 +1717,27 @@
                   ]
                 },
                 {
-                  "title": "Krok 3: S - Srozumitelná",
+                  "title": "Krok 3: S - Srozumitelný plán",
                   "contentSections": [
                     {
                       "type": "image",
                       "isExpandable": false,
-                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Modul_dokoncen_1785f55c82.svg",
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Moje_cesta_krok_3_5735005d57.svg",
                       "width": "100%",
-                      "alt": "Postava pouštějící papírovou vlaštovku",
-                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Modul_dokoncen_mobile_00b1a7904d.svg",
+                      "alt": "Postava s lupou vedle plánu s konkrétními kroky",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Moje_cesta_krok_3_mobile_0b76ed6d9b.svg",
                       "widthMobile": "100%",
                       "align": "center",
                       "unoptimized": false
                     },
                     {
                       "type": "markdown",
-                      "content": "Napište si svůj jednoduše a konkrétně – abyste věděli i později, o co jde."
+                      "content": "Napište si svůj plán jednoduše a konkrétně, abyste i později věděli, o co jde."
                     },
                     {
                       "type": "note",
-                      "title": "**Konkrétní kroky:**",
-                      "placeholder": "Moje konkrétní kroky...",
-                      "rows": 2,
-                      "maxLength": 250,
-                      "lengthValidationMessage": "Maximální délka odpovědi je 250 znaků.",
-                      "required": false
-                    },
-                    {
-                      "type": "note",
-                      "title": "**Jak poznám, že se to daří:**",
-                      "placeholder": "Znaky úspěchu...",
+                      "title": "**Jasné a srozumitelné pokyny:**",
+                      "placeholder": "Moje srozumitelné pokyny...",
                       "rows": 2,
                       "maxLength": 250,
                       "lengthValidationMessage": "Maximální délka odpovědi je 250 znaků.",
@@ -1762,36 +1746,27 @@
                   ]
                 },
                 {
-                  "title": "Krok 4: T - Trvalá",
+                  "title": "Krok 4: T - Trvalý plán",
                   "contentSections": [
                     {
                       "type": "image",
                       "isExpandable": false,
-                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Modul_dokoncen_1785f55c82.svg",
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Moje_cesta_krok_4_cc90f6a194.svg",
                       "width": "100%",
-                      "alt": "Postava pouštějící papírovou vlaštovku",
-                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Modul_dokoncen_mobile_00b1a7904d.svg",
+                      "alt": "Postava s počítačem opírající se o velké hodiny",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Moje_cesta_krok_4_mobile_b1f40b72c8.svg",
                       "widthMobile": "100%",
                       "align": "center",
                       "unoptimized": false
                     },
                     {
                       "type": "markdown",
-                      "content": "Vyberte si kroky, které se dají udržet dlouhodobě, nejen když se vám chce."
+                      "content": "Vyberte kroky, které se dají udržet dlouhodobě, nejen když máte motivaci."
                     },
                     {
                       "type": "note",
-                      "title": "**Konkrétní kroky:**",
-                      "placeholder": "Moje konkrétní kroky...",
-                      "rows": 2,
-                      "maxLength": 250,
-                      "lengthValidationMessage": "Maximální délka odpovědi je 250 znaků.",
-                      "required": false
-                    },
-                    {
-                      "type": "note",
-                      "title": "**Jak poznám, že se to daří:**",
-                      "placeholder": "Znaky úspěchu...",
+                      "title": "**Udržitelný plán:**",
+                      "placeholder": "Můj udržitelný plán...",
                       "rows": 2,
                       "maxLength": 250,
                       "lengthValidationMessage": "Maximální délka odpovědi je 250 znaků.",
@@ -1800,15 +1775,15 @@
                   ]
                 },
                 {
-                  "title": "Krok 5: A - Autentická",
+                  "title": "Krok 5: A - Autentický plán",
                   "contentSections": [
                     {
                       "type": "image",
                       "isExpandable": false,
-                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Modul_dokoncen_1785f55c82.svg",
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Moje_cesta_krok_5_73faa7bd2f.svg",
                       "width": "100%",
-                      "alt": "Postava pouštějící papírovou vlaštovku",
-                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Modul_dokoncen_mobile_00b1a7904d.svg",
+                      "alt": "Postava s různými hodnotami nad sebou",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Moje_cesta_krok_5_mobile_1e0e273017.svg",
                       "widthMobile": "100%",
                       "align": "center",
                       "unoptimized": false
@@ -1819,17 +1794,37 @@
                     },
                     {
                       "type": "note",
-                      "title": "**Konkrétní kroky:**",
+                      "title": "**Konkrétní kroky, jak posilovat své hodnoty:**",
                       "placeholder": "Moje konkrétní kroky...",
                       "rows": 2,
                       "maxLength": 250,
                       "lengthValidationMessage": "Maximální délka odpovědi je 250 znaků.",
                       "required": false
+                    }
+                  ]
+                },
+                {
+                  "title": "Krok 6: Jak poznám, že se mi to daří",
+                  "contentSections": [
+                    {
+                      "type": "image",
+                      "isExpandable": false,
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jak_poznam_ze_se_mi_dari_26b5364085.svg",
+                      "width": "100%",
+                      "alt": "Postava zapisující si do deníku",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jak_poznam_ze_se_mi_dari_mobile_84eda6024f.svg",
+                      "widthMobile": "100%",
+                      "align": "center",
+                      "unoptimized": false
+                    },
+                    {
+                      "type": "markdown",
+                      "content": "Projděte si plán, které jste si sepsali výše a zamyslete se, jak můžete poznat, že jste na správné cestě."
                     },
                     {
                       "type": "note",
-                      "title": "**Jak poznám, že se to daří:**",
-                      "placeholder": "Znaky úspěchu...",
+                      "title": "**Jak poznám, že se mi to daří:**",
+                      "placeholder": "Důkazy, že jdu správným směrem...",
                       "rows": 2,
                       "maxLength": 250,
                       "lengthValidationMessage": "Maximální délka odpovědi je 250 znaků.",
@@ -1965,7 +1960,7 @@
               "type": "audio",
               "audioSrc": "xx",
               "title": "Bonusový příběh",
-              "imageSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Bonusovy_pribeh_ec60cb6d82.svg"
+              "imageSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Bonusovy_pribeh_0c01c06b01.svg"
             },
             {
               "type": "collapse",

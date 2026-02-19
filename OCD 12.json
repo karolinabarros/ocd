@@ -36,10 +36,10 @@
               {
                 "type": "image",
                 "isExpandable": true,
-                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/terapeut_8f89b0135d.gif",
+                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/pomoc_6d484ddb97.gif",
                 "width": "275px",
-                "alt": "Terapeutka sedící u počítače, vyhodnocující modul",
-                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/terapeut_8f89b0135d.gif",
+                "alt": "Dvě ruce natažené k sobě, symbolizující podporu, propojení a lidský kontakt",
+                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/pomoc_6d484ddb97.gif",
                 "widthMobile": "275px",
                 "align": "center"
               },
@@ -111,10 +111,10 @@
             {
               "type": "image",
               "isExpandable": true,
-              "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jak_na_tom_aktualne_jste_aebd15b4f7.svg",
+              "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jak_na_tom_aktualne_jste_5720e77b0f.svg",
               "width": "100%",
-              "alt": "Dvě postavičky, které si mávají přes počítač",
-              "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jak_na_tom_aktualne_jste_mobile_c0cd9eb4ba.svg",
+              "alt": "Postavička na pohovce s mobilem",
+              "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jak_na_tom_aktualne_jste_mobile_bd39df15b3.svg",
               "widthMobile": "100%",
               "align": "center"
             },
@@ -135,10 +135,10 @@
             {
               "type": "image",
               "isExpandable": true,
-              "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Uvod_k_inventari_obsesi_a_kompulzi_a59b6e502d.svg",
+              "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Uvod_k_inventari_obsesi_a_kompulzi_a77fc5e628.svg",
               "width": "100%",
-              "alt": "Pbrázky znázorňující různá témata obsesí - bakterie, nezarovnané tužky, hromada věcí",
-              "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Uvod_k_inventari_obsesi_a_kompulzi_mobile_91994e52ab.svg",
+              "alt": "Obrázky znázorňující různá témata obsesí - bakterie, nezarovnané tužky, hromada věcí",
+              "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Uvod_k_inventari_obsesi_a_kompulzi_mobile_011178895f.svg",
               "widthMobile": "100%",
               "align": "center"
             },
@@ -492,6 +492,24 @@
                 "placeholder": "Můj nový pohled",
                 "required": false
               }
+            },
+            {
+              "type": "pictureAndNote",
+              "image": {
+                "isExpandable": true,
+                "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Reseni_prekazky_aac80e3d00.svg",
+                "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Reseni_prekazky_mobile_52ae432259.svg",
+                "alt": "Dveře s klíčem",
+                "width": "164px",
+                "widthMobile": "100%",
+                "align": "center"
+              },
+              "note": {
+                "title": "**Zvládli jste během týdne nějaké expozice? Jaké to bylo?**",
+                "rows": 2,
+                "placeholder": "Moje expozice",
+                "required": false
+              }
             }
           ]
         },
@@ -579,7 +597,7 @@
               "type": "audio",
               "title": "Jak si udržet pokrok",
               "audioSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jak_si_udrzet_pokrok_b71988ae29.wav",
-              "imageSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jak_na_Kritika_jinak_6ca5e186f0.svg"
+              "imageSrc": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jak_si_udrzet_pokrok_3522fb1c1e.svg"
             },
             {
               "type": "collapse",
@@ -588,8 +606,8 @@
             },
             {
               "type": "noteBox",
-              "desktopImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lightbulb_Icon_5bba92e832.svg",
-              "mobileImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Lightbulb_Icon_5bba92e832.svg",
+              "desktopImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Flower_Icon_f90bf2faeb.svg",
+              "mobileImage": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Flower_Icon_f90bf2faeb.svg",
               "backgroundColor": "#E5EBE3",
               "textColor": "#24615A",
               "text": "**Hlavní myšlenka:** Po dokončení programu je důležité pokračovat v expozicích, včas rozpoznávat varovné signály a mít připravený plán podpory, aby se předešlo návratu obtíží. I když se OCD může občas znovu ozvat, nyní už máte dovednosti a nástroje, jak s tím bezpečně pracovat.",
@@ -642,7 +660,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Jana** \n \n **Jak budu dále dělat expozice** \n \n Budu pokračovat v jízdě MHD alespoň jednou týdně, i když nebudu cítit silné nutkání. V práci si nechám krátké pauzy bez mytí rukou po kontaktu s běžnými předměty. Jednou za měsíc v přeplněné tramvaji vydržím bez očišťování rukou ubrouskem až do návratu domů. \n \n **Varovné příznaky zhoršení** \n \n Začnu si častěji mýt ruce, používat desinfekční ubrousky a zkracovat čas mezi čištěním. Budu se vyhýbat dětským koutkům, hřištím a akcím. Často se budu ptát kolegyň, jestli je něco čisté nebo bezpečné. Budu si všímat zvýšeného strachu z onemocnění během na podzim nebo v zimě. \n \n **Co udělám, když se příznaky objeví** \n \n 1) Zastavím se a třikrát se zhluboka nadechnu. \n \n 2) Řeknu si: „Úzkost není výzva ke kompulzi, je signál k tomu, že bych o sebe měla pečovat.“ \n \n 3) Naplánuji si a začnu dělat jednu velkou expozici denně alespoň 4 dny v týdnu. \n \n **Koho požádám o pomoc** \n \n Zavolám nebo napíšu kamarádce z mateřské. Řeknu Šimonovi, co se děje, aby mě mohl podpořit. Pokud by se to horšilo déle než dva týdny a nezastavím to, napíšu terapeutovi. \n \n **Jaké změny nebo zátěž čekám v dalším roce** \n \n Návrat do práce po rodičovské. Toníkův nástup do školky. Možné pracovní cesty a školení. Mívám obtíže zvlášť v obdobích virových epidemií a při návštěvách dětských hřišť. \n \n **Jak budu řešit stresující situace v budoucnosti** \n \n Před nepříjemnou situací udělám krátké dechové cvičení. Domluvím se se Šimonem na rozdělení domácích povinností v náročném období. Pokud budu přetížená, dám si jeden den oddych a odložím méně důležité úkoly. Pokud Toníček onemocní, budu se řídit pokyny pediatričky. Zkusím nevyšilovat. Budu s ním chodit na dětské hřiště i v chladnějším počasí, bez nadměrného mytí rukou. \n \n **Kdo mi v tom pomůže** \n \n Šimon, kamarádka Bětka, terapeut. Také podpůrná skupina rodičů, kde můžu sdílet svoje zkušenosti."
+                      "content": "**Jana** \n \n **Jak budu dále dělat expozice** \n \n Budu pokračovat v jízdě MHD alespoň jednou týdně, i když nebudu cítit silné nutkání. V práci si nechám krátké pauzy bez mytí rukou po kontaktu s běžnými předměty. Jednou za měsíc v přeplněné tramvaji vydržím bez očišťování rukou ubrouskem až do návratu domů. \n \n **Varovné příznaky zhoršení** \n \n Začnu si častěji mýt ruce, používat desinfekční ubrousky a zkracovat čas mezi čištěním. Budu se vyhýbat dětským koutkům, hřištím a akcím. Často se budu ptát kolegyň, jestli je něco čisté nebo bezpečné. Budu si všímat zvýšeného strachu z onemocnění během na podzim nebo v zimě. \n \n **Co udělám, když se příznaky objeví** \n \n 1) Zastavím se a třikrát se zhluboka nadechnu. \n \n 2) Na zvládací kartičku si napíšu: „Úzkost není výzva ke kompulzi, je signál k tomu, že bych o sebe měla pečovat. \n \n 3) Naplánuji si a začnu dělat jednu velkou expozici denně alespoň 4 dny v týdnu. \n \n **Koho požádám o pomoc** \n \n Zavolám nebo napíšu kamarádce z mateřské. Řeknu Šimonovi, co se děje, aby mě mohl podpořit. Pokud by se to horšilo déle než dva týdny a nezastavím to, napíšu terapeutovi. \n \n **Jaké změny nebo zátěž čekám v dalším roce** \n \n Návrat do práce po rodičovské. Toníkův nástup do školky. Možné pracovní cesty a školení. Mívám obtíže zvlášť v obdobích virových epidemií a při návštěvách dětských hřišť. \n \n **Jak budu řešit stresující situace v budoucnosti** \n \n Před nepříjemnou situací udělám krátké dechové cvičení. Domluvím se se Šimonem na rozdělení domácích povinností v náročném období. Pokud budu přetížená, dám si jeden den oddych a odložím méně důležité úkoly. Pokud Toníček onemocní, budu se řídit pokyny pediatričky. Zkusím nevyšilovat. Budu s ním chodit na dětské hřiště i v chladnějším počasí, bez nadměrného mytí rukou. \n \n **Kdo mi v tom pomůže** \n \n Šimon, kamarádka Bětka, terapeut. Také podpůrná skupina rodičů, kde můžu sdílet svoje zkušenosti."
                     }
                   ]
                 },
@@ -667,7 +685,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Petr** \n \n **Jak budu dále dělat expozice** \n \n Budu třikrát týdně odcházet z práce bez opakovaných kontrol kanceláře. Aspoň jednou týdně záměrně odjedu z domova bez kontroly spotřebičů. Každý měsíc udělám velkou expozici, třeba odjedu na víkend pryč a nechám byt bez kontrol déle než 24 hodin. \n \n **Varovné příznaky zhoršení** \n \n Začnu mít problém usnout kvůli přemýšlení, jestli jsem něco zapomněl zkontrolovat. Budu se několikrát vracet ke dveřím nebo k autu, abych se ujistil, že je zamčeno. Budu si dělat seznam úkolů ke kontrole vícekrát denně. \n \n **Co udělám, když se příznaky objeví** \n \n Použiju svůj večerní restart: \n \n 1) Zapíšu si situaci a míru úzkosti. \n \n 2) Odložím kontrolu alespoň o 20 minut. \n \n 3) Využiju dýchací cvičení. Současně si naplánuji a začnu dělat jednu velkou expozici každý den, alespoň čtyřikrát týdně. \n \n **Koho požádám o pomoc** \n \n Zavolám kolegovi Martinovi, aby mě podpořil v nedělání kontrol. Řeknu Aleně, co se děje, aby mi připomněla používat strategie z programu. Pokud by se to horšilo déle než dva týdny, objednám se na terapii. \n \n **Jaké změny nebo zátěž čekám v dalším roce** \n \n Přesun do nové pracovní pozice s větší odpovědností. Stěhování do nového bytu. Více služebních cest. \n \n **Jak budu řešit stresující situace v budoucnosti** \n \n Před důležitým úkolem nebo cestou si naplánuji 10 minut klidu bez telefonu. Pokud ucítím přetížení, omezím počet kontrol na minimum a řeknu o tom Aleně. \n \n **Kdo mi v tom pomůže** \n \n Alena, kolega Martin, soused Pepa. Taky brácha, se kterým můžu sdílet plány na udržení pokroku."
+                      "content": "**Petr** \n \n **Jak budu dále dělat expozice** \n \n Budu třikrát týdně odcházet z práce bez opakovaných kontrol kanceláře. Aspoň jednou týdně záměrně odjedu z domova bez kontroly spotřebičů. Každý měsíc udělám velkou expozici, třeba odjedu na víkend pryč a nechám byt bez kontrol déle než 24 hodin. \n \n **Varovné příznaky zhoršení** \n \n Začnu mít problém usnout kvůli přemýšlení, jestli jsem něco zapomněl zkontrolovat. Budu se několikrát vracet ke dveřím nebo k autu, abych se ujistil, že je zamčeno. Budu si dělat seznam úkolů ke kontrole vícekrát denně. \n \n **Co udělám, když se příznaky objeví** \n \n Použiju svůj večerní restart: \n \n 1) Zapíšu si situaci a míru úzkosti. \n \n 2) Odložím kontrolu alespoň o 20 minut. \n \n 3) Využiju dýchací cvičení. Současně si naplánuji a začnu dělat jednu velkou expozici každý den, alespoň čtyřikrát týdně. \n \n **Koho požádám o pomoc**  \n \n Zavolám kolegovi Martinovi, aby mě podpořil v nedělání kontrol. Řeknu Aleně, co se děje, aby mi připomněla používat strategie z programu. Pokud by se to horšilo déle než dva týdny, objednám se na terapii. \n \n **Jaké změny nebo zátěž čekám v dalším roce** \n \n Přesun do nové pracovní pozice s větší odpovědností. Stěhování do nového bytu. Více služebních cest. \n \n **Jak budu řešit stresující situace v budoucnosti** \n \n Před důležitým úkolem nebo cestou si naplánuji 10 minut klidu bez telefonu. Pokud ucítím přetížení, omezím počet kontrol na minimum a řeknu o tom Aleně. \n \n **Kdo mi v tom pomůže** \n \n Alena, kolega Martin, soused Pepa. Taky brácha, se kterým můžu sdílet plány na udržení pokroku."
                     }
                   ]
                 },
@@ -692,7 +710,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Eva** \n \n **Jak budu dále dělat expozice** \n \n Budu dvakrát týdně při vaření krájet nožem a vědomě si připomínat, že myšlenka není hrozba. Jednou týdně nechám nůž volně ležet na kuchyňské lince během vaření, aniž bych se mu vyhýbala. Každý měsíc si naplánuju těžší expozici, třeba při učení nechám na stole nůž, ale budu se dál věnovat škole. \n \n **Varovné příznaky zhoršení** \n \n Při vaření se budu vyhýbat používání ostrých nožů. Budu cítit napětí v těle, když budu sama s dětmi. Začnu se vyhýbat kuchyni nebo odkládat vaření. \n \n **Co udělám, když se příznaky objeví** \n \n 1) Začnu v kuchyni používat nůž a pustím si audio s řízenou expozicí. \n \n 2) Zaznamenám si míru úzkosti a zůstanu u činnosti, dokud neklesne alespoň o 30 %. \n \n 3) Začnu dělat větší expozici každý den, alespoň čtyřikrát týdně. Pokud úzkost neustoupí, použiju dechové cvičení. \n \n **Koho požádám o pomoc** \n \n Zavolám kamarádce Kája, aby mě podpořila. Svěřím se Vaškovi, že se mi zhoršují příznaky, aby mi pomohl naplánovat expozice. Zavolám mámě, ona mě většinou dokáže laskavě vyslyšet. Ale nebudu se u nich ujišťovat, že nic neudělám, to bych jen hodila zodpovědnost na ně. Chci ji nechat na sobě. \n \n **Jaké změny nebo zátěž čekám v dalším roce** \n \n Zkouškové období, praxe, celkově balancování práce se školou. Vašek plánuje dát výpověď. \n \n **Jak budu řešit stresující situace v budoucnosti** \n \n Před náročným dnem si udělám krátké ranní dechové cvičení. Domluvím se s Vaškem, aby častěji uvařil a uklidil. Pokud budu přetížená, vyhradím si večer čas pro sebe, třeba koupel, knížku nebo delší procházku. \n \n **Kdo mi v tom pomůže** \n \n Vašek, kamarádka Kája. Také mamka, alespoň přes telefon."
+                      "content": "**Eva** \n \n **Jak budu dále dělat expozice** \n \n Budu dvakrát týdně při vaření krájet nožem a vědomě si připomínat, že myšlenka není hrozba. Jednou týdně nechám nůž volně ležet na kuchyňské lince během vaření, aniž bych se mu vyhýbala. Každý měsíc si naplánuju těžší expozici, třeba při učení nechám na stole nůž, ale budu se dál věnovat škole. \n \n **Varovné příznaky zhoršení** \n \n Při vaření se budu vyhýbat používání ostrých nožů. Budu cítit napětí v těle, když budu sama s dětmi. Začnu se vyhýbat kuchyni nebo odkládat vaření. \n \n **Co udělám, když se příznaky objeví** \n \n 1) Začnu v kuchyni používat nůž a pustím si audio s řízenou expozicí. \n \n 2) Zaznamenám si míru úzkosti a zůstanu u činnosti, dokud neklesne alespoň o 30 %. \n \n 3) Začnu dělat větší expozici každý den, alespoň čtyřikrát týdně. Pokud úzkost neustoupí, použiju dechové cvičení. \n \n **Koho požádám o pomoc** \n \n Zavolám kamarádce Káje, aby mě podpořila. Svěřím se Vaškovi, že se mi zhoršují příznaky, aby mi pomohl naplánovat expozice. Zavolám mámě, ona mě většinou dokáže laskavě vyslyšet. Ale nebudu se u nich ujišťovat, že nic neudělám, to bych jen hodila zodpovědnost na ně. Chci ji nechat na sobě. \n \n **Jaké změny nebo zátěž čekám v dalším roce** \n \n Zkouškové období, praxe, celkově balancování práce se školou. Vašek plánuje dát výpověď. \n \n **Jak budu řešit stresující situace v budoucnosti** \n \n Před náročným dnem si udělám krátké ranní dechové cvičení. Domluvím se s Vaškem, aby častěji uvařil a uklidil. Pokud budu přetížená, vyhradím si večer čas pro sebe, třeba koupel, knížku nebo delší procházku. \n \n **Kdo mi v tom pomůže** \n \n Vašek, kamarádka Kája. Také mamka, alespoň přes telefon."
                     }
                   ]
                 },
@@ -717,7 +735,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**David** \n \n **Jak budu dále dělat expozice** \n \n Dvakrát týdně nechám v bytě záměrně drobný nepořádek a neuklidím ho. Každý měsíc v práci nechám knihy na polici s vědomím, že možná nejsou seřazené přesně podle abecedy. Každý čtvrtek budu mít „neperfektní den“, kdy záměrně nechám drobné věci nedokončené. \n \n **Varovné příznaky zhoršení** \n \n Budu ztrácet čas opakovaným přerovnáváním věcí. Po práci budu vyčerpaný, ale nebudu moct přestat „dokončovat“ úkoly. Znovu se bude objevovat napětí, pokud věci nebudou symetrické nebo perfektně srovnané. \n \n **Co udělám, když se příznaky objeví** \n \n Udělám kroky k neperfektnosti: \n \n 1) Zastavím činnost a vědomě nechám jednu věc „nedokončenou“. \n \n 2) Řeknu si: „Svoboda nezačíná pořádkem, ale přijetím nedokonalosti.“ \n \n 3) Začnu dělat každý den velkou expozici, alespoň čtyřikrát týdně. \n \n **Koho požádám o pomoc** \n \n Zavolám kolegyni Martině, která mě podporovala během programu. Řeknu Tomášovi, že se obtíže vrací, a požádám ho, aby mi připomínal odkládání poklízení. Pokud se to horší déle než dva týdny, obrátím se na terapeuta. \n \n **Jaké změny nebo zátěž čekám v dalším roce** \n \n Nový projekt v práci s vyšší odpovědností. Stěhování se do nového bytu. \n \n **Jak budu řešit stresující situace v budoucnosti** \n \n Před důležitými schůzkami si udělám 5 minut dechového cvičení. Pokud ucítím přetížení, domluvím si s Tomášem společný večer bez práce. Budu si plánovat víkendové „neperfektní dny“, kdy nebudu řešit úklid ani kontrolu. \n \n **Kdo mi v tom pomůže** \n \n Tomáš, kolegyně Martina, terapeut. Taky ségra, která mě zná a dokáže mě rozptýlit, když začnu přehnaně kontrolovat."
+                      "content": "**David** \n \n **Jak budu dále dělat expozice** \n \n Dvakrát týdně nechám v bytě záměrně drobný nepořádek a neuklidím ho. Každý měsíc v práci nechám knihy na polici s vědomím, že možná nejsou seřazené přesně podle abecedy. Každý čtvrtek budu mít „neperfektní den“, kdy záměrně nechám drobné věci nedokončené. \n \n **Varovné příznaky zhoršení** \n \n Budu ztrácet čas opakovaným přerovnáváním věcí. Po práci budu vyčerpaný, ale nebudu moct přestat „dokončovat“ úkoly. Znovu se bude objevovat napětí, pokud věci nebudou symetrické nebo perfektně srovnané. \n \n **Co udělám, když se příznaky objeví** \n \n Udělám kroky k neperfektnosti: \n \n 1) Zastavím činnost a vědomě nechám jednu věc „nedokončenou“. \n \n 2) Na počítač si nalepím heslo: „Svoboda nezačíná pořádkem, ale přijetím nedokonalosti.“ \n \n 3) Začnu dělat každý den velkou expozici, alespoň čtyřikrát týdně. \n \n **Koho požádám o pomoc** \n \n Zavolám kolegyni Martině, která mě podporovala během programu. Řeknu Tomášovi, že se obtíže vrací, a požádám ho, aby mi připomínal odkládání poklízení. Pokud se to horší déle než dva týdny, obrátím se na terapeuta. \n \n **Jaké změny nebo zátěž čekám v dalším roce** \n \n Nový projekt v práci s vyšší odpovědností. Stěhování se do nového bytu. \n \n **Jak budu řešit stresující situace v budoucnosti** \n \n Před důležitými schůzkami si udělám 5 minut dechového cvičení. Pokud ucítím přetížení, domluvím si s Tomášem společný večer bez práce. Budu si plánovat víkendové „neperfektní dny“, kdy nebudu řešit úklid ani kontrolu. \n \n **Kdo mi v tom pomůže** \n \n Tomáš, kolegyně Martina, terapeut. Taky ségra, která mě zná a dokáže mě rozptýlit, když začnu přehnaně kontrolovat."
                     }
                   ]
                 },
@@ -767,7 +785,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Lukáš** \n \n **Jak budu dále dělat expozice** \n \n Jednou týdně se záměrně vystavím situaci, kdy mě napadne modlit se z obav, a vědomě modlitbu neprovedu, ale zůstanu s úzkostí. Dvakrát měsíčně si udělám „duchovní večer“ bez kompulzí – jen klidné rozjímání a vděčnost. Jednou za měsíc záměrně přeruším obřadnou kompulzi v polovině a nechám ji nedokončenou. \n \n **Varovné příznaky zhoršení** \n \n Začnu se častěji modlit ze strachu, že se něco stane. Bude se objevovat silná potřeba opakovat modlitbu, dokud „není správná“. Budu cítit napětí v těle při vynechání kompulze. \n \n **Co udělám, když se příznaky objeví** \n \n 1) Zastavím se a třikrát se nadechnu. \n \n 2) Řeknu si: „Mluvím s Bohem, ne se strachem.“ \n \n 3) Odložím kompulzi alespoň o 15 minut. \n \n **Koho požádám o pomoc** \n \n Obrátím se na mámu a řeknu jí, co se děje. Taky se svěřím Magdě, která mě už dříve podržela. Nechci však, aby to řešili za mně, nebo to nějak hodnotili. To jim také řeknu. \n \n **Jaké změny nebo zátěž čekám v dalším roce** \n \n Možná budu hledat větší byt.  \n \n **Jak budu řešit stresující situace v budoucnosti** \n \n Před náročným obdobím si naplánuji odpočinkové dny bez zbytečných povinností. Použiji dechová cvičení a připomenu si své hodnoty. \n \n **Kdo mi v tom pomůže** \n \n Máma, kamarádka Magda, kněz"
+                      "content": "**Lukáš** \n \n **Jak budu dále dělat expozice** \n \n Jednou týdně se záměrně vystavím situaci, kdy mě napadne modlit se z obav, a vědomě modlitbu neprovedu, ale zůstanu s úzkostí. Dvakrát měsíčně si udělám „duchovní večer“ bez kompulzí – jen klidné rozjímání a vděčnost. Jednou za měsíc záměrně přeruším obřadnou kompulzi v polovině a nechám ji nedokončenou. \n \n **Varovné příznaky zhoršení** \n \n Začnu se častěji modlit ze strachu, že se něco stane. Bude se objevovat silná potřeba opakovat modlitbu, dokud „není správná“. Budu cítit napětí v těle při vynechání kompulze. \n \n **Co udělám, když se příznaky objeví** \n \n 1) Zastavím se a třikrát se nadechnu. \n \n 2) V koupelně, na ledničku i nad postel si nalepím lístek: „Modlím se upřímně k Bohu, nemluvím se strachem.“ \n \n 3) Všimnu si svého nutkání a nechám myšlenky proběhnout v hlavě, ale nebudu se modlit. \n \n **Koho požádám o pomoc** \n \n Obrátím se na mámu a řeknu jí, co se děje. Taky se svěřím Magdě, která mě už dříve podržela. Nechci však, aby to řešili za mně, nebo to nějak hodnotili. To jim také řeknu. \n \n **Jaké změny nebo zátěž čekám v dalším roce** \n \n Možná budu hledat větší byt.  \n \n **Jak budu řešit stresující situace v budoucnosti** \n \n Před náročným obdobím si naplánuji odpočinkové dny bez zbytečných povinností. Použiji dechová cvičení a připomenu si své hodnoty. \n \n **Kdo mi v tom pomůže** \n \n Máma, kamarádka Magda, kněz"
                     }
                   ]
                 },
@@ -817,7 +835,7 @@
                     },
                     {
                       "type": "markdown",
-                      "content": "**Michal** \n \n **Jak budu dále dělat expozice** \n \n Budu pokračovat v rozhovorech s Mirkou bez opakovaných otázek o jejích citech. Dvakrát týdně záměrně vydržím delší dobu (min. dva dny) bez ujišťovacích otázek. Budu s Mirkou sdílet svůj pocit nejistoty bez očekávání, že mě uklidní. Při každé expozici si zapíšu do deníku, co jsem cítil a jak jsem to zvládl bez ujištění. \n \n **Varovné příznaky zhoršení** \n \n Budu se Mirky častěji doptávat na její pocity, začnu častěji cítit nejistotu a nutkání se ujišťovat, častěji budu podrážděný, budu si opakovaně pročítat zprávy od Mirky. \n \n **Co udělám, když se příznaky objeví** \n \n Použiju větu: „Dnes se necítím jistě, ale chci být s tebou.“ Nechám otázky nevyřčené a zapíšu si do deníku, co právě cítím. Poté udělám dechové cvičení nebo se na chvíli půjdu projít. \n \n **Koho požádám o pomoc** \n \n Partnerku Mirku a kamaráda Frantu, kolegyni Gabču, se kterou mám dobrý vztah. \n \n **Jaké změny nebo zátěž čekám v dalším roce** \n \n Přechod Mirky na noční směny. Plánování společné dovolené. Plánovaná rodinná oslava, kde se mě budou příbuzní doptávat na vztah. \n \n **Jak budu řešit stresující situace v budoucnosti** \n \n Před náročnými týdny si domluvím odpočinkové večery bez tlaku na řešení vztahových témat. Budu si psát deník. Budu udržovat pravidelný režim spánku a pohybu. \n \n **Kdo mi v tom pomůže** \n \n Partnerka Mirka, kamarád Franta."
+                      "content": "**Michal** \n \n **Jak budu dále dělat expozice** \n \n Budu pokračovat v rozhovorech s Mirkou bez opakovaných otázek o jejích citech. Dvakrát týdně záměrně vydržím delší dobu (min. dva dny) bez ujišťovacích otázek. Při každé expozici si zapíšu do deníku, co jsem cítil a jak jsem to zvládl bez ujištění. \n \n **Varovné příznaky zhoršení** \n \n Budu se Mirky častěji doptávat na její pocity, začnu častěji cítit nejistotu a nutkání se ujišťovat, častěji budu podrážděný, budu si opakovaně pročítat zprávy od Mirky. \n \n **Co udělám, když se příznaky objeví** \n \n Použiju větu: „Dnes se necítím jistě, ale chci být s tebou.“ Nechám otázky nevyřčené a zapíšu si do deníku, co právě cítím. Poté udělám dechové cvičení nebo se na chvíli půjdu projít. \n \n **Koho požádám o pomoc** \n \n Partnerku Mirku a kamaráda Frantu, kolegyni Gabču, se kterou mám dobrý vztah. \n \n **Jaké změny nebo zátěž čekám v dalším roce** \n \n Přechod Mirky na noční směny. Plánování společné dovolené. Plánovaná rodinná oslava, kde se mě budou příbuzní doptávat na náš vztah s Mirkou a zda plánujeme svatbu a děti. \n \n **Jak budu řešit stresující situace v budoucnosti** \n \n Před náročnými týdny si domluvím odpočinkové večery bez tlaku na řešení vztahových témat. Budu si psát deník. Budu udržovat pravidelný režim spánku a pohybu. \n \n **Kdo mi v tom pomůže** \n \n Partnerka Mirka, kamarád Franta."
                     }
                   ]
                 },
@@ -842,7 +860,7 @@
                     },
                     {
                       "type": "markdown",      
-                      "content": "**Jirka** \n \n **Jak budu dále dělat expozice** \n \n Budu pokračovat v práci s nejistotami týkajícími se prvočísel v ordinaci. Pokud zahlédnu čísla na poznávacích značkách aut, nebudu je sčítat a pokud náhodou uvidím rovnou prvočíslo, nebudu počítat předměty do násobku čtyř. \n \n **Varovné příznaky zhoršení** \n \n Začnu si více všímat prvočísel, sčítat čísla a sledovat poznávací značky. Začnu se vyhýbat řízení a budu po ostatních chtít, aby za mě dělali věci, při kterých bych byl v kontaktu s čísly. \n \n **Co udělám, když se příznaky objeví** \n \n Zastavím se a udělám 5 hlubokých nádechů a výdechů. Připomenu si větu: „Nechci už nic sčítat, čísla jsou mi jedno.“ Současně si naplánuji a začnu dělat jednu velkou expozici každý den alespoň 4 dny v týdnu. \n \n **Koho požádám o pomoc** \n \n Manželka Lucka, kolega Radek, supervizor z nemocnice. Pokud se potíže nezlepší do dvou týdnů, domluvím si konzultaci s terapeutem. \n \n **Jaké změny nebo zátěž čekám v dalším roce** \n \n Přesun části praxe do nové ordinace, možné personální změny v týmu, vyšší počet pacientů v zimních měsících. \n \n **Jak budu řešit stresující situace v budoucnosti** \n \n V náročném období si v kalendáři naplánuji 2 krátké pauzy denně, kdy si udělám dechové cvičení nebo krátkou procházku. Když se budu cítit zahlcený, rozdělím si úkoly podle priority a odložím méně důležité na později. \n \n **Kdo mi v tom pomůže** \n \n Manželka, dcery, kolegové v ordinaci"
+                      "content": "**Jirka** \n \n **Jak budu dále dělat expozice** \n \n Budu pokračovat v práci s nejistotami týkajícími se prvočísel v ordinaci. Pokud zahlédnu čísla na poznávacích značkách aut, nebudu je sčítat a pokud náhodou uvidím rovnou prvočíslo, nebudu počítat předměty do násobku čtyř. \n \n **Varovné příznaky zhoršení** \n \n Začnu si více všímat prvočísel, sčítat čísla a sledovat poznávací značky. Začnu se vyhýbat řízení a budu po ostatních chtít, aby za mě dělali věci, při kterých bych byl v kontaktu s čísly. \n \n **Co udělám, když se příznaky objeví** \n \n Zastavím se a udělám 5 hlubokých nádechů a výdechů. Na palubní desku a na monitor počítače si nalepím lístek: „Nechci už nic sčítat, čísla jsou mi jedno.“ Současně si naplánuji a začnu dělat jednu velkou expozici každý den alespoň 4 dny v týdnu. \n \n **Koho požádám o pomoc** \n \n Manželka Lucka, kolega Radek, supervizor z nemocnice. Pokud se potíže nezlepší do dvou týdnů, domluvím si konzultaci s terapeutem. \n \n **Jaké změny nebo zátěž čekám v dalším roce** \n \n Přesun části praxe do nové ordinace, možné personální změny v týmu, vyšší počet pacientů v zimních měsících. \n \n **Jak budu řešit stresující situace v budoucnosti** \n \n V náročném období si v kalendáři naplánuji 2 krátké pauzy denně, kdy si udělám dechové cvičení nebo krátkou procházku. Když se budu cítit zahlcený, rozdělím si úkoly podle priority a odložím méně důležité na později. \n \n **Kdo mi v tom pomůže** \n \n Manželka, dcery, kolegové v ordinaci"
                     }
                   ]
                 }
@@ -961,10 +979,10 @@
                       "type": "pictureAndNote",
                       "image": {
                         "isExpandable": true,
-                        "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Scenar_expozice_af5f82448b.svg",
-                        "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Scenar_expozice_mobile_9d736d9bed.svg",
-                        "alt": "Zápisník se zakroužkovaným textem",
-                        "width": "164px",
+                        "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_1_Expozice_v_nasem_zivote_c74b31bfc7.svg",
+                        "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_1_Expozice_v_nasem_zivote_mobile_301326bd2e.svg",
+                        "alt": "Označený výběr z několika možností",
+                        "width": "128px",
                         "widthMobile": "100%",
                         "align": "center"
                       },
@@ -985,10 +1003,10 @@
                       "type": "pictureAndNote",
                       "image": {
                         "isExpandable": true,
-                        "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Scenar_expozice_af5f82448b.svg",
-                        "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Scenar_expozice_mobile_9d736d9bed.svg",
-                        "alt": "Zápisník se zakroužkovaným textem",
-                        "width": "164px",
+                        "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jak_poznate_ze_se_OCD_znovu_vice_ozyva_81fde68d2f.svg",
+                        "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jak_poznate_ze_se_OCD_znovu_vice_ozyva_mobile_1c5a90c887.svg",
+                        "alt": "Textová bublina od OCD",
+                        "width": "128px",
                         "widthMobile": "100%",
                         "align": "center"
                       },
@@ -1004,16 +1022,16 @@
                       "type": "pictureAndNote",
                       "image": {
                         "isExpandable": true,
-                        "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Scenar_expozice_af5f82448b.svg",
-                        "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Scenar_expozice_mobile_9d736d9bed.svg",
-                        "alt": "Zápisník se zakroužkovaným textem",
-                        "width": "164px",
+                        "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Co_udelate_kdyz_se_priznaky_objevi_f4e19d780e.svg",
+                        "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Co_udelate_kdyz_se_priznaky_objevi_mobile_72618ff5e1.svg",
+                        "alt": "Mýdlo s tekoucí vodou z kohoutku",
+                        "width": "128px",
                         "widthMobile": "100%",
                         "align": "center"
                       },
                       "note": {
                         "title": "**Co uděláte, když se příznaky objeví?**",
-                        "instruction": "popište stručné kroky, které uděláte, aby se příznaky nezesilovaly.",
+                        "instruction": "Popište stručné kroky, které uděláte, aby se příznaky nezesilovaly.",
                         "placeholder": "Můj plán",
                         "rows": 2,
                         "required": false
@@ -1023,10 +1041,10 @@
                       "type": "pictureAndNote",
                       "image": {
                         "isExpandable": true,
-                        "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Scenar_expozice_af5f82448b.svg",
-                        "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Scenar_expozice_mobile_9d736d9bed.svg",
-                        "alt": "Zápisník se zakroužkovaným textem",
-                        "width": "164px",
+                        "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Koho_muzete_pozadat_o_pomoc_0da7733095.svg",
+                        "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Koho_muzete_pozadat_o_pomoc_mobile_4fa7b8fd40.svg",
+                        "alt": "Postavičky znázoruňující komunitu",
+                        "width": "128px",
                         "widthMobile": "100%",
                         "align": "center"
                       },
@@ -1047,10 +1065,10 @@
                       "type": "pictureAndNote",
                       "image": {
                         "isExpandable": true,
-                        "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Scenar_expozice_af5f82448b.svg",
-                        "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Scenar_expozice_mobile_9d736d9bed.svg",
-                        "alt": "Zápisník se zakroužkovaným textem",
-                        "width": "164px",
+                        "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jake_zmeny_nebo_zatez_vas_cekaji_v_dalsim_roce_e7bdd6e550.svg",
+                        "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jake_zmeny_nebo_zatez_vas_cekaji_v_dalsim_roce_mobile_e8f677a186.svg",
+                        "alt": "Zásnubní prsten",
+                        "width": "128px",
                         "widthMobile": "100%",
                         "align": "center"
                       },
@@ -1066,10 +1084,10 @@
                       "type": "pictureAndNote",
                       "image": {
                         "isExpandable": true,
-                        "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Scenar_expozice_af5f82448b.svg",
-                        "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Scenar_expozice_mobile_9d736d9bed.svg",
-                        "alt": "Zápisník se zakroužkovaným textem",
-                        "width": "164px",
+                        "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jak_muzete_v_budoucnosti_tyto_stresujici_situace_resit_7aaa92bc4c.svg",
+                        "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jak_muzete_v_budoucnosti_tyto_stresujici_situace_resit_mobile_2bfde853ac.svg",
+                        "alt": "Kroky k řešení situace",
+                        "width": "128px",
                         "widthMobile": "100%",
                         "align": "center"
                       },
@@ -1085,10 +1103,10 @@
                       "type": "pictureAndNote",
                       "image": {
                         "isExpandable": true,
-                        "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Scenar_expozice_af5f82448b.svg",
-                        "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Scenar_expozice_mobile_9d736d9bed.svg",
-                        "alt": "Zápisník se zakroužkovaným textem",
-                        "width": "164px",
+                        "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Kdo_by_vam_s_tim_mohl_pripadne_pomoci_6f40df42e8.svg",
+                        "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Kdo_by_vam_s_tim_mohl_pripadne_pomoci_mobile_bf7e003034.svg",
+                        "alt": "Bílé peříčko",
+                        "width": "128px",
                         "widthMobile": "100%",
                         "align": "center"
                       },
@@ -1145,15 +1163,15 @@
               "type": "pictureAndMarkdown",
               "items": [
                 {
-                  "content": "**Připomenutí zvládacích strategií** \n \n Vyjmenujte metody, které vám pomohly. Popište, kdy a jak je použít, pokud se příznaky vrátí. \n \n **Příklad:** Když se objeví nutkání, zastav se, zhluboka dýchej a pak si zapiš, jak se cítíš.",
+                  "content": "**Co už umíte** \n \n Vyjmenujte metody a přístupy, které vám už dříve pomohly. Popište, kdy a jak je můžete použít, pokud se příznaky vrátí. \n \n **Příklad:** Když se objeví nutkání, zastav se, zhluboka dýchej a pak si zapiš, jak se cítíš.",
                   "isReversed": false,
                   "direction": "row",
                   "gutter": 24,
-                  "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_1_Vsimejte_si_jak_se_citite_535266e9a7.svg",
-                  "width": "180px",
-                  "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_1_Vsimejte_si_jak_se_citite_mobile_6936474b78.svg",
+                  "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Hodnoty_a_priority_c8840a3c32.svg",
+                  "width": "130px",
+                  "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Hodnoty_a_priority_mobile_340cd03692.svg",
                   "widthMobile": "100%",
-                  "alt": "Postava držící balónky s otazníky",
+                  "alt": "Obláček s tužkou a pravítkem",
                   "isExpandable": false
                 }
               ]
@@ -1162,15 +1180,15 @@
               "type": "pictureAndMarkdown",
               "items": [
                 {
-                  "content": "**Základní potřeby a péče o sebe** \n \n Sepište, co vám pomáhá cítit se dobře (spánek, odpočinek, pohyb, čas s blízkými, koníčky). Přidejte konkrétní plán. \n \n **Příklad:** Dopřej si každý den alespoň hodinu jen pro sebe.",
+                  "content": "**Hodnoty a priority** \n \n Napište, co je pro vás opravdu důležité (rodina, přátelství, svoboda, zdraví, tvořivost, víra). Připomeňte si, jak vás tyto hodnoty vedou. \n \n **Příklad:** Chceš mít OCD pod kontrolou, abys mohla být vnímavá a aktivní máma.",
                   "isReversed": false,
                   "direction": "row",
                   "gutter": 24,
-                  "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_1_Vsimejte_si_jak_se_citite_535266e9a7.svg",
-                  "width": "180px",
-                  "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_1_Vsimejte_si_jak_se_citite_mobile_6936474b78.svg",
+                  "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Co_uz_umite_854c92af8e.svg",
+                  "width": "130px",
+                  "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Co_uz_umite_mobile_37d7235094.svg",
                   "widthMobile": "100%",
-                  "alt": "Postava držící balónky s otazníky",
+                  "alt": "Sluchátka s povzbudivými slovy",
                   "isExpandable": false
                 }
               ]
@@ -1179,15 +1197,15 @@
               "type": "pictureAndMarkdown",
               "items": [
                 {
-                  "content": "**Povzbuzení pro horší dny** \n \n Napište si, co byste potřebovali slyšet, až bude těžko. Může to být rada, povzbuzení nebo připomenutí toho, co jste už dokázali. \n \n **Příklad:** Pamatuj, už jsi to zvládla jednou. Důvěřuj si. Dokážeš to znovu.",
+                  "content": "**Co potřebujete a jak se o sebe můžete starat** \n \n Sepište, co vám pomáhá cítit se dobře (spánek, odpočinek, pohyb, čas s blízkými, koníčky). Přidejte konkrétní plán. \n \n **Příklad:** Dopřej si každý den alespoň hodinu jen pro sebe.",
                   "isReversed": false,
                   "direction": "row",
                   "gutter": 24,
-                  "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_1_Vsimejte_si_jak_se_citite_535266e9a7.svg",
-                  "width": "180px",
-                  "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_1_Vsimejte_si_jak_se_citite_mobile_6936474b78.svg",
+                  "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Co_potrebujete_a_jak_se_o_sebe_muzete_starat_691e3c3e6f.svg",
+                  "width": "130px",
+                  "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Co_potrebujete_a_jak_se_o_sebe_muzete_starat_mobile_fa6dfa92e9.svg",
                   "widthMobile": "100%",
-                  "alt": "Postava držící balónky s otazníky",
+                  "alt": "Klubíčko vlny s pletacími jehlicemi",
                   "isExpandable": false
                 }
               ]
@@ -1196,15 +1214,15 @@
               "type": "pictureAndMarkdown",
               "items": [
                 {
-                  "content": "**Život v souladu s hodnotami** \n \n Připomeňte si, co je pro vás v životě důležité a kvůli čemu vám stojí za to podstoupit i náročné chvíle plné nejistoty. \n \n **Příklad:** „Chci být dobrým vzorem pro své děti a aby nám spolu bylo dobře. Je to pro mě důležitější než chvilkové ujištění pomocí kompulze.“",
+                  "content": "**Co vás povzbudí v horších dnech** \n \n Napište si, co byste potřebovali slyšet, až bude těžko. Může to být rada, povzbuzení nebo připomenutí toho, co jste už dokázali. \n \n **Příklad:** Pamatuj, už jsi to zvládla jednou. Důvěřuj si. Dokážeš to znovu.",
                   "isReversed": false,
                   "direction": "row",
                   "gutter": 24,
-                  "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_1_Vsimejte_si_jak_se_citite_535266e9a7.svg",
-                  "width": "180px",
-                  "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Krok_1_Vsimejte_si_jak_se_citite_mobile_6936474b78.svg",
+                  "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Co_vas_povzbudi_v_horsich_dnech_fd2643be86.svg",
+                  "width": "130px",
+                  "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Co_vas_povzbudi_v_horsich_dnech_mobile_11a7bf4e06.svg",
                   "widthMobile": "100%",
-                  "alt": "Postava držící balónky s otazníky",
+                  "alt": "Zápisník s tužkou",
                   "isExpandable": false
                 }
               ]
@@ -1259,10 +1277,10 @@
                     {
                       "type": "image",
                       "isExpandable": false,
-                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jana_modal_21111b8b39.svg",
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Terapeuticke_karticky_Jana_ec325eb666.svg",
                       "width": "100%",
-                      "alt": "Obrázek Jany: Žena s dlouhými světle hnědými vlasy v culíku, v bílém triku a modrém svetru",
-                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jana_modal_21111b8b39.svg",
+                      "alt": "Terapeutické kartičky Jany",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Terapeuticke_karticky_Jana_mobile_cb559a84e2.svg",
                       "widthMobile": "100%",
                       "align": "center",
                       "unoptimized": true
@@ -1295,10 +1313,10 @@
                     {
                       "type": "image",
                       "isExpandable": false,
-                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jana_modal_21111b8b39.svg",
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Terapeuticke_karticky_Petr_cc403f38a1.svg",
                       "width": "100%",
-                      "alt": "Obrázek Jany: Žena s dlouhými světle hnědými vlasy v culíku, v bílém triku a modrém svetru",
-                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jana_modal_21111b8b39.svg",
+                      "alt": "Terapeutické kartičky Petra",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Terapeuticke_karticky_Petr_mobile_029be892cd.svg",
                       "widthMobile": "100%",
                       "align": "center",
                       "unoptimized": true
@@ -1331,10 +1349,10 @@
                     {
                       "type": "image",
                       "isExpandable": false,
-                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jana_modal_21111b8b39.svg",
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Terapeuticke_karticky_Eva_082a519d93.svg",
                       "width": "100%",
-                      "alt": "Obrázek Jany: Žena s dlouhými světle hnědými vlasy v culíku, v bílém triku a modrém svetru",
-                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jana_modal_21111b8b39.svg",
+                      "alt": "Terapeutické kartičky Evy",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Terapeuticke_karticky_Eva_mobile_b727f79e9a.svg",
                       "widthMobile": "100%",
                       "align": "center",
                       "unoptimized": true
@@ -1367,10 +1385,10 @@
                     {
                       "type": "image",
                       "isExpandable": false,
-                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jana_modal_21111b8b39.svg",
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Terapeuticke_karticky_David_5a7a4a7ebd.svg",
                       "width": "100%",
-                      "alt": "Obrázek Jany: Žena s dlouhými světle hnědými vlasy v culíku, v bílém triku a modrém svetru",
-                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jana_modal_21111b8b39.svg",
+                      "alt": "Terapeutické kartičky Davida",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Terapeuticke_karticky_David_mobile_4cea891d7a.svg",
                       "widthMobile": "100%",
                       "align": "center",
                       "unoptimized": true
@@ -1403,10 +1421,10 @@
                     {
                       "type": "image",
                       "isExpandable": false,
-                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jana_modal_21111b8b39.svg",
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Terapeuticke_karticky_Klara_3f2e247fde.svg",
                       "width": "100%",
-                      "alt": "Obrázek Jany: Žena s dlouhými světle hnědými vlasy v culíku, v bílém triku a modrém svetru",
-                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jana_modal_21111b8b39.svg",
+                      "alt": "Terapeutické kartičky Kláry",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Terapeuticke_karticky_Klara_mobile_cea4d221fd.svg",
                       "widthMobile": "100%",
                       "align": "center",
                       "unoptimized": true
@@ -1439,10 +1457,10 @@
                     {
                       "type": "image",
                       "isExpandable": false,
-                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jana_modal_21111b8b39.svg",
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Terapeuticke_karticky_Lukas_6b09991a03.svg",
                       "width": "100%",
-                      "alt": "Obrázek Jany: Žena s dlouhými světle hnědými vlasy v culíku, v bílém triku a modrém svetru",
-                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jana_modal_21111b8b39.svg",
+                      "alt": "Terapeutické kartičky Lukáše",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Terapeuticke_karticky_Lukas_mobile_a44e88292e.svg",
                       "widthMobile": "100%",
                       "align": "center",
                       "unoptimized": true
@@ -1475,10 +1493,10 @@
                     {
                       "type": "image",
                       "isExpandable": false,
-                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jana_modal_21111b8b39.svg",
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Terapeuticke_karticky_Veronika_8a606e6bf2.svg",
                       "width": "100%",
-                      "alt": "Obrázek Jany: Žena s dlouhými světle hnědými vlasy v culíku, v bílém triku a modrém svetru",
-                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jana_modal_21111b8b39.svg",
+                      "alt": "Terapeutické kartičky Veroniky",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Terapeuticke_karticky_Veronika_mobile_94e2cee4aa.svg",
                       "widthMobile": "100%",
                       "align": "center",
                       "unoptimized": true
@@ -1511,10 +1529,10 @@
                     {
                       "type": "image",
                       "isExpandable": false,
-                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jana_modal_21111b8b39.svg",
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Terapeuticke_karticky_Michal_bc903528e3.svg",
                       "width": "100%",
-                      "alt": "Obrázek Jany: Žena s dlouhými světle hnědými vlasy v culíku, v bílém triku a modrém svetru",
-                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jana_modal_21111b8b39.svg",
+                      "alt": "Terapeutické kartičky Michala",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Terapeuticke_karticky_Michal_mobile_fdaab964e1.svg",
                       "widthMobile": "100%",
                       "align": "center",
                       "unoptimized": true
@@ -1547,10 +1565,10 @@
                     {
                       "type": "image",
                       "isExpandable": false,
-                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jana_modal_21111b8b39.svg",
+                      "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Terapeuticke_karticky_Jirka_3c6da4ce90.svg",
                       "width": "100%",
-                      "alt": "Obrázek Jany: Žena s dlouhými světle hnědými vlasy v culíku, v bílém triku a modrém svetru",
-                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Jana_modal_21111b8b39.svg",
+                      "alt": "Terapeutické kartičky Jirky",
+                      "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Terapeuticke_karticky_Jirka_1_cebb6c7edf.svg",
                       "widthMobile": "100%",
                       "align": "center",
                       "unoptimized": true
@@ -1588,10 +1606,10 @@
             {
               "type": "image",
               "isExpandable": false,
-              "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Modul_dokoncen_1785f55c82.svg",
+              "src": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Cviceni_Terapeuticke_karticky_734d4d1bbf.svg",
               "width": "100%",
-              "alt": "Postava pouštějící papírovou vlaštovku",
-              "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Modul_dokoncen_mobile_00b1a7904d.svg",
+              "alt": "Upomínkové kartičky",
+              "srcMobile": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Cviceni_Terapeuticke_karticky_mobile_70b6d24749.svg",
               "widthMobile": "100%",
               "align": "center",
               "unoptimized": true
@@ -1602,8 +1620,8 @@
             },
             {
               "type": "download",
-              "title": "stáhnout kartičky",
-              "downloadLink": "xx"
+              "title": "Stáhnout kartičky",
+              "downloadLink": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/Upominkove_karty_25bc37148e.pdf"
             },
             {
               "type": "repeater",
@@ -1642,13 +1660,12 @@
             },
             {
               "type": "video",
-              "url": "xx",
-              "captionsUrl": "xx"
+              "url": "https://mindwalk-strapi-prod.s3.eu-central-1.amazonaws.com/OCD_M12_0f5d04a263.mp4"
             },
             {
               "type": "collapse",
               "title": "Radši si přečtu",
-              "content": "Zavřete oči. Najděte si pohodlnou pozici. Nadechněte se… A pomalu vydechněte. Dovolte si na chvíli jen být. Tady. Sami se sebou. \n \n Představte si, že stojíte na palubě plachetnice. Pod nohama cítíte teplé dřevo prohřáté ranním sluncem. Plachetnice je široká a bezpečná. Moře je klidné, hladina se jemně pohupuje. Kolem vás je prostor, svoboda a vůně slaného vzduchu. \n \n Plachty jsou napnuté větrem. A vy držíte kormidlo. Víte, co je pro vás důležité. Kormidlo drží směr, a tím směrem jsou vaše hodnoty. A vy víte, kudy plout.  \n \n Nevidíte přesně, co čeká na obzoru, ale znáte směr a kormidlo máte pevně v rukách. Laskavost. Odvaha. Hranice. Důstojnost. Naděje. A vzpomínky na chvíle, kdy jste neuhnuli, ale zůstali a vydrželi. \n \n Možná si vybavíte konkrétní den… nebo výzvu, něco, co vás dřív zneklidnilo. Teď máte jiné nástroje. Více důvěry. Více zkušeností. Můžete si říct: „To zvládnu jinak.“ \n \n Představte si, jak kráčíte vstříc tomu, co je pro vás důležité. Ne se strachem, ale se zvědavostí a laskavostí v srdci. Možná pomáháte někomu jinému. Možná se usmíváte na sebe v zrcadle. Možná jen sedíte s hrnkem čaje a cítíte klid. \n \n Vaše budoucnost přinese nové výzvy… Ale bude to jiné. Protože už nejste tím člověkem, kterým jste byli na začátku. \n \n Máte odvahu, znalosti, zkušenost. A v sobě bezpečné místo, kam se můžete kdykoli vrátit. Vnímejte ten klid. Ten vnitřní směr. Jste na cestě. A tahle plavba je jen vaše. \n \n Až budete připraveni, pomalu otevřete oči… A odneste si ten pocit s sebou."
+              "content": "Zavřete oči. Najděte si pohodlnou pozici. Nadechněte se, a pomalu vydechněte. Dovolte si na chvíli jen být. \n \n Představte si, že stojíte na palubě plachetnice. Pod nohama cítíte dřevo prohřáté ranním sluncem. Plachetnice je široká a bezpečná. Moře je klidné, hladina se jemně pohupuje. Kolem vás je prostor, svoboda a vůně slaného vzduchu. \n \n Plachty jsou napnuté větrem. A vy držíte kormidlo. Víte, co je pro vás důležité. Kormidlo drží směr, a tím směrem jsou vaše hodnoty. A vy víte, kudy plout. \n \n Nevidíte přesně, co čeká na obzoru, ale znáte směr a kormidlo máte pevně v rukách. Laskavost. Odvaha. Hranice. Důstojnost. Naděje. A vzpomínky na chvíle, kdy jste neuhnuli, ale zůstali a vydrželi. \n \n Možná si vybavíte konkrétní den, nebo výzvu. Něco, co vás dříve zneklidnilo. Teď víte, co v takových chvílích udělat. Máte více důvěry. Více zkušeností. Můžete si říct: „To zvládnu jinak.“ \n \n Představte si, jak jdete vstříc tomu, co je pro vás důležité. Ne se strachem, ale se zvědavostí. Možná pomáháte někomu jinému. Možná se na sebe usmíváte v zrcadle. Možná sedíte v klidu s hrnkem čaje a cítíte klid. \n \n Vaše budoucnost přinese nové výzvy. Ale bude to jiné. Protože už nejste tím člověkem, kterým jste byli na začátku. Máte odvahu, znalosti a zkušenost. Máte v sobě bezpečné místo, kam se můžete kdykoli vrátit. Vnímejte ten klid. Svůj vnitřní směr. Jste na cestě. A tahle plavba je vaše. \n \n Až budete připraveni, pomalu otevřete oči a odneste si ten pocit s sebou."
             }
           ]
         },
